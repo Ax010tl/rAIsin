@@ -6,8 +6,8 @@ from n_grams_analysis import n_grams_analyze
 
 def analyze_file(file_path):
     with open(file_path, "r") as f:
-        corpus = f.read()
-        blob = TextBlob(corpus)
+        document = f.read()
+        blob = TextBlob(document)
         ## Literal n-grams
         n_grams_literal = n_grams_analyze(blob)
         ## PoS n-grams
