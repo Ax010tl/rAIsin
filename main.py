@@ -1,4 +1,6 @@
 import sys
+import statistics
+import pprint
 from textblob import TextBlob
 from n_grams_analysis import n_grams_analyze
 
@@ -6,17 +8,20 @@ def analyze_file(file_path):
     with open(file_path, "r") as f:
         corpus = f.read()
         blob = TextBlob(corpus)
-        # N-GRAMS ANALYSIS
-        ## Literal
+        ## Literal n-grams
         n_grams_literal = n_grams_analyze(blob)
-        ## PoS
-        # Get the PoS tags without the original word
+        ## PoS n-grams
         blob_pos = " ".join([t[1] for t in blob.tags])
         n_grams_pos = n_grams_analyze(TextBlob(blob_pos))
+        # TODO: Get standard deviation of sentence length
+        sentence_lengths_arr = [len(s.words) for s in blob.sentences]
+        sentence_length = statistics.stdev(sentence_lengths_arr) if len(sentence_lengths_arr) > 1 else 0
+
         # Return the results as a dictionary
         return {
-            "n_grams_literal": n_grams_literal,
-            "n_grams_pos": n_grams_pos
+            "n_grams_literal_integrity": n_grams_literal,
+            "n_grams_pos_integrity": n_grams_pos,
+            "sentence_length": sentence_length
         }
 
 def main():
@@ -30,7 +35,7 @@ def main():
         # Analyze the file
         results = analyze_file(file_path)
         # Print the results
-        print(results)
+        pprint.pprint(results)
     except Exception as e:
         print("Error: " + str(e))
 
