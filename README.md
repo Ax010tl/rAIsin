@@ -18,3 +18,9 @@ Word vectors are a numerical representation of a word's meaning. We are using wo
 See also:
 1. https://nlp.stanford.edu/pubs/glove.pdf
 2. https://github.com/RaRe-Technologies/gensim-data
+
+## Feed files
+To store the vector representation of files in a directory run
+```
+python3 vector_analysis.py name_of_directory
+```
