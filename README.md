@@ -19,6 +19,11 @@ See also:
 1. https://nlp.stanford.edu/pubs/glove.pdf
 2. https://github.com/RaRe-Technologies/gensim-data
 
+In order to make comparisons easier and more efficient, vectors generated for each document and its sentences are stored in a `raisin_vectors.json` file. To generate this file, place all the target documents in a directory. Then call
+```
+python3 vector_analysis.py name_of_directory
+```
+
 ## Feed files
 To store the vector representation of files in a directory run
 ```

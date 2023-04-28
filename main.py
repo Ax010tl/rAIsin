@@ -19,6 +19,7 @@ def analyze_file(file_path):
         sentence_length = statistics.stdev(sentence_lengths_arr) if len(sentence_lengths_arr) > 1 else 0
         # Vector
         vector = vector_analyze(blob)
+        # TODO: Compare with rest of documents
         # Return the results as a dictionary
         return {
             "n_grams_literal_integrity": n_grams_literal,
