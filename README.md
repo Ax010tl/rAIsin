@@ -3,7 +3,7 @@ Plagiarism detection using n-grams and word2vec
 
 # Usage
 ```
-python3 main.py name_of_file
+python3 main.py name_of_file raisin_vectors_file
 ```
 
 # N-Grams
@@ -24,8 +24,3 @@ In order to make comparisons easier and more efficient, vectors generated for ea
 python3 vector_analysis.py name_of_directory
 ```
 
-## Feed files
-To store the vector representation of files in a directory run
-```
-python3 vector_analysis.py name_of_directory
-```
