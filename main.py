@@ -3,6 +3,7 @@ import statistics
 import pprint
 import json
 import os
+import pandas as pd
 from datetime import datetime
 from textblob import TextBlob
 from n_grams_analysis import n_grams_analyze
@@ -19,8 +20,13 @@ def analyze_file_extrinsic(file_path, raisin_vectors_path):
         # Iterate over all documents to find most similar
         vector_document_closest = 0
         for document in raisin_vectors:
+            # Don't compare to self
+            if document["file_name"] == os.path.basename(file_path):
+                continue
             vector_document_closest = max( vector_similarity_cosine(file_vector["vector"], document["vector"]), vector_document_closest )
-        
+        return {
+            "vector_document_closest": vector_document_closest
+        }
 
 def analyze_file_intrinsic(file_path):
     with open(file_path, "r") as f:
@@ -46,22 +52,19 @@ def analyze_file(file_path, raisin_vectors_path):
     intrinsic = None
     intrinsic = analyze_file_intrinsic(file_path)
     extrinsic = analyze_file_extrinsic(file_path, raisin_vectors_path)
-    return {
-        "extrinsic": extrinsic, 
-        "intrinsic": intrinsic
-    }
+    return {**intrinsic, **extrinsic}
 
-def bulk_intrinsic_analysis(directory):
+def bulk_analysis(directory, raisin_vectors_path):
     # Store results
     results = []
     # Iterate over all files in directory
     for file_path in os.listdir(directory):
-        results.append( analyze_file_intrinsic(os.path.join(directory, file_path)) )
+        results.append( 
+            analyze_file(os.path.join(directory, file_path), raisin_vectors_path) 
+        )
     # Store results
-    with open(f"intrinsic_results_{datetime.now().isoformat()}.csv", "w") as f:
-        f.write("file_path,n_grams_literal_integrity,n_grams_pos_integrity,sentence_length\n")
-        for result in results:
-            f.write(result["file_path"] + "," + str(result["n_grams_literal_integrity"]) + "," + str(result["n_grams_pos_integrity"]) + "," + str(result["sentence_length"]) + "\n")
+    df = pd.DataFrame(results)
+    df.to_csv(f"results_{datetime.now().isoformat()}.csv")
 
 def main():
     try:
@@ -74,7 +77,7 @@ def main():
 
         print("Analyzing file " + dir_name + "...")
         # Analyze the file
-        results = bulk_intrinsic_analysis(dir_name)
+        results = bulk_analysis(dir_name, raisin_vectors_path)
         # Print the results
         pprint.pprint(results)
     except Exception as e:

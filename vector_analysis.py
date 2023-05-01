@@ -17,6 +17,7 @@ def vector_from_text(text_blob):
             # print(word)
         except:
             pass
+    print(vectors)
     # Return the average vector
     return vectors / len(text_blob.words)
 
@@ -76,7 +77,7 @@ def main():
         if len(sys.argv) > 1:
             directory_path = sys.argv[1]
         else:
-            throw("No directory path provided")
+            raise Exception("No directory path provided")
         print("Analyzing directory " + directory_path + "...")
         # Train the directory
         results = vector_train_directory(directory_path)
