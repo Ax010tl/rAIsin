@@ -58,10 +58,10 @@ def bulk_intrinsic_analysis(directory):
     for file_path in os.listdir(directory):
         results.append( analyze_file_intrinsic(os.path.join(directory, file_path)) )
     # Store results
-    with open(f"intrinsic_results{datetime.now().isoformat()}.csv", "w") as f:
-        f.write("n_grams_literal_integrity,n_grams_pos_integrity,sentence_length\n")
+    with open(f"intrinsic_results_{datetime.now().isoformat()}.csv", "w") as f:
+        f.write("file_path,n_grams_literal_integrity,n_grams_pos_integrity,sentence_length\n")
         for result in results:
-            f.write(str(result["n_grams_literal_integrity"]) + "," + str(result["n_grams_pos_integrity"]) + "," + str(result["sentence_length"]) + "\n")
+            f.write(result["file_path"] + "," + str(result["n_grams_literal_integrity"]) + "," + str(result["n_grams_pos_integrity"]) + "," + str(result["sentence_length"]) + "\n")
 
 def main():
     try:
