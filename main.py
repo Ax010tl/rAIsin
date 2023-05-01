@@ -2,52 +2,79 @@ import sys
 import statistics
 import pprint
 import json
+import os
+from datetime import datetime
 from textblob import TextBlob
 from n_grams_analysis import n_grams_analyze
 from vector_analysis import vector_analyze, vector_similarity_cosine
 
-def analyze_file(file_path, raisin_vectors_path):
-    with open(file_path, "r") as f, open(raisin_vectors_path) as r:
-        # Read documents
+def analyze_file_extrinsic(file_path, raisin_vectors_path):
+    with open(file_path, "r") as f, open(raisin_vectors_path, "r") as v:
+        # Read document
         document = f.read()
-        raisin_vectors_document = json.load(r)
+        blob = TextBlob(document)
+        # Read vectors
+        raisin_vectors = json.load(v)
+        file_vector = vector_analyze(blob)
+        # Iterate over all documents to find most similar
+        vector_document_closest = 0
+        for document in raisin_vectors:
+            vector_document_closest = max( vector_similarity_cosine(file_vector["vector"], document["vector"]), vector_document_closest )
+        
+
+def analyze_file_intrinsic(file_path):
+    with open(file_path, "r") as f:
+        document = f.read()
         blob = TextBlob(document)
         # Literal n-grams
         n_grams_literal = n_grams_analyze(blob)
-        # PoS n-grams
+         # PoS n-grams
         blob_pos = " ".join([t[1] for t in blob.tags])
         n_grams_pos = n_grams_analyze(TextBlob(blob_pos))
         sentence_lengths_arr = [len(s.words) for s in blob.sentences]
         sentence_length = statistics.stdev(sentence_lengths_arr) if len(sentence_lengths_arr) > 1 else 0
-        # Vector
-        file_vector = vector_analyze(blob)
-        # VeIterate over all documents to find most similar
-        vector_document_closest = float('inf')
-        vector_document_closest_name = None
-        for document in raisin_vectors_document:
-            vector_document_closest = max( vector_similarity_cosine(file_vector["vector"], document["vector"]), vector_document_closest )
-
-        # TODO: Compare with rest of documents
-        # Return the results as a dictionary
+        # Return
         return {
+            "file_path": file_path,
             "n_grams_literal_integrity": n_grams_literal,
             "n_grams_pos_integrity": n_grams_pos,
             "sentence_length": sentence_length,
-            "vector_document_closest": vector_document_closest
         }
+        
+
+def analyze_file(file_path, raisin_vectors_path):
+    intrinsic = None
+    intrinsic = analyze_file_intrinsic(file_path)
+    extrinsic = analyze_file_extrinsic(file_path, raisin_vectors_path)
+    return {
+        "extrinsic": extrinsic, 
+        "intrinsic": intrinsic
+    }
+
+def bulk_intrinsic_analysis(directory):
+    # Store results
+    results = []
+    # Iterate over all files in directory
+    for file_path in os.listdir(directory):
+        results.append( analyze_file_intrinsic(os.path.join(directory, file_path)) )
+    # Store results
+    with open(f"intrinsic_results{datetime.now().isoformat()}.csv", "w") as f:
+        f.write("n_grams_literal_integrity,n_grams_pos_integrity,sentence_length\n")
+        for result in results:
+            f.write(str(result["n_grams_literal_integrity"]) + "," + str(result["n_grams_pos_integrity"]) + "," + str(result["sentence_length"]) + "\n")
 
 def main():
     try:
-        # Read file name from command line arguments
+        # Read dir name from command line arguments
         if len(sys.argv) > 2:
-            file_path = sys.argv[1]
+            dir_name = sys.argv[1]
             raisin_vectors_path = sys.argv[2]
         else:
-            throw("No raisin_vectors.json file path specified")
+            raise Exception("No raisin_vectors.json file path specified")
 
-        print("Analyzing file " + file_path + "...")
+        print("Analyzing file " + dir_name + "...")
         # Analyze the file
-        results = analyze_file(file_path, raisin_vectors_path)
+        results = bulk_intrinsic_analysis(dir_name)
         # Print the results
         pprint.pprint(results)
     except Exception as e:

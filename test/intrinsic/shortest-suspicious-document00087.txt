@@ -1,0 +1,64 @@
+﻿If cavalry is within charging distance of the enemy's cavalry at the end of the enemy's move,
+it must do one of three things--dismount, charge, or retire. If it remains stationary and mounted
+and the enemy charges, one charging sabre will kill five stationary sabres and put fifteen
+others three feet to the rear.
+
+Dismounted cavalry charged is equivalent to infantry in extended order.
+
+If cavalry charges cavalry and the numbers are equal and the ground level, the result must
+be decided by the toss of a coin; the loser losing three-quarters of his men and obliged to
+retire, the winner losing one-quarter of his men.
+
+If the numbers are unequal, the melee rules for Little Wars obtain if the ground is level.
+
+If the ground slopes, the cavalry charging downhill will be multiplied according to the number
+of contours crossed. If it is one contour, it must be multiplied by two; two contours, multiplied
+by three; three contours, multiplied by four.
+
+If cavalry retires before cavalry instead of accepting a charge, it must continue to retire
+so long as it is pursued--the pursuers can only be arrested by fresh cavalry or by infantry
+or artillery fire.
+
+If driven off the field or into an unfordable river, the retreating body is destroyed.
+
+If infantry find hostile cavalry within charging distance at the end of the enemy's move, and
+this infantry retires and yet is still within charging distance, it will receive double losses
+if in extended order if charged; and if in two ranks or in fours, will lose at three feet two
+men for each charging sabre; at two feet, three men for each charging sabre. The cavalry in
+these circumstances will lose nothing. The infantry will have to continue to retire until their
+tormentors have exterminated them or been driven off by someone else.
+
+If cavalry charges artillery and is not dealt with by other forces, one gun is captured with
+a loss to the cavalry of four men per gun for a charge at three feet, three men at two feet,
+and one man at one foot.
+
+If artillery retires before cavalry when cavalry is within charging distance, it must continue
+to retire so long as the cavalry pursues.
+
+The introduction of toy railway trains, moving, let us say, eight feet per move, upon toy rails,
+needs rules as to entraining and detraining and so forth, that will be quite easily worked
+out upon the model of boat embarkation here given. An engine or truck within the circle of
+destruction of a shell will be of course destroyed.
+
+The toy soldiers used in this Kriegspiel should not be the large soldiers used in Little Wars.
+The British manufacturers who turn out these also make a smaller, cheaper type of man--the
+infantry about an inch high--which is better adapted to Kriegspiel purposes.
+
+We hope, if these suggestions "catch on," to induce them to manufacture a type of soldier more
+exactly suited to the needs of the game, including tray carriers for troops in formation and
+(what is at present not attainable) dismountable cavalry that will stand.
+
+We place this rough sketch of a Kriegspiel entirely at the disposal of any military men whose
+needs and opportunities enable them to work it out and make it into an exacter and more realistic
+game. In doing so, we think they will find it advisable to do their utmost to make the game
+work itself, and to keep the need for umpire's decisions at a minimum. Whenever possible, death
+should be by actual gun- and rifle-fire and not by computation. Things should happen, and not
+be decided. We would also like to insist upon the absolute need of an official upon either
+side, simply to watch and measure the moves taken, and to collect and check the amounts of
+supply and ammunition given up. This is a game like real war, played against time, and played
+under circumstances of considerable excitement, and it is remarkable how elastic the measurements
+of quite honest and honourable men can become.
+
+We believe that the nearer that Kriegspiel approaches to an actual small model of war, not
+only in its appearance but in its emotional and intellectual tests, the better it will serve
+its purpose of trial and education.
