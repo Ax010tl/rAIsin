@@ -25,7 +25,7 @@ def analyze_file(file_path, raisin_vectors_path):
         vector_document_closest = float('inf')
         vector_document_closest_name = None
         for document in raisin_vectors_document:
-            vector_document_closest = min( vector_similarity_cosine(file_vector["vector"], document["vector"]), vector_document_closest )
+            vector_document_closest = max( vector_similarity_cosine(file_vector["vector"], document["vector"]), vector_document_closest )
 
         # TODO: Compare with rest of documents
         # Return the results as a dictionary
