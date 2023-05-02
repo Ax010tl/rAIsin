@@ -18,6 +18,7 @@ Word vectors are a numerical representation of a word's meaning. We are using wo
 See also:
 1. https://nlp.stanford.edu/pubs/glove.pdf
 2. https://github.com/RaRe-Technologies/gensim-data
+3. https://medium.com/@akankshagupta371/understanding-text-summarization-using-k-means-clustering-6487d5d37255
 
 In order to make comparisons easier and more efficient, vectors generated for each document and its sentences are stored in a `raisin_vectors.json` file. To generate this file, place all the target documents in a directory. Then call
 ```
