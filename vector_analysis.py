@@ -7,17 +7,16 @@ import os
 import sys
 import json
 
-model = api.load("glove-wiki-gigaword-50")# train a model from the corpus
+model = api.load("glove-wiki-gigaword-100")# train a model from the corpus
 
 def vector_from_text(text_blob):
-    vectors = np.zeros(50)
+    vectors = np.zeros(100)
     for word in text_blob.words:
         try:
             vectors+=model.get_vector(word)
             # print(word)
         except:
             pass
-    print(vectors)
     # Return the average vector
     return vectors / len(text_blob.words)
 
@@ -33,7 +32,7 @@ def vector_analyze(document_blob):
     # Get the vector of the document
     result["vector"] = vector_from_text(document_blob).tolist()
     # Iterate over document paragraphs
-    for sentence in document_blob.sentences:
+    """for sentence in document_blob.sentences:
         # Get sentence blob
         sentence_blob = TextBlob(sentence.raw)
         # Get the vector of the sentence
@@ -42,7 +41,7 @@ def vector_analyze(document_blob):
         result["sentences"].append({
             "vector": sentence_vector.tolist(),
         })
-
+    """
     # Return the result
     return result
 
@@ -53,6 +52,9 @@ def vector_train_directory(directory_path):
     files = os.listdir(directory_path)
     # Iterate over the files
     for file_name in files:
+        # Ignore non-text files
+        if not file_name.endswith(".txt"):
+            continue
         # Get the file path
         file_path = os.path.join(directory_path, file_name)
         # Read the file
