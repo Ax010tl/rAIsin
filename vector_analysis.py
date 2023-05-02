@@ -1,5 +1,7 @@
 from gensim.models.word2vec import Word2Vec
+from textblob import Word
 import gensim.downloader as api
+from gensim.parsing.preprocessing import STOPWORDS
 import numpy as np
 from numpy.linalg import norm
 from textblob import TextBlob
@@ -13,8 +15,17 @@ def vector_from_text(text_blob):
     vectors = np.zeros(100)
     for word in text_blob.words:
         try:
-            vectors+=model.get_vector(word)
-            # print(word)
+            # Lemmatize the word
+            w = Word(word).lemma
+            # Check if the word is not a stop word
+            if w in STOPWORDS:
+                continue
+            # If word not in model
+            if w not in model:
+                continue
+            # Add the vector
+            vectors += model.get_vector(w)
+            print(w)
         except:
             pass
     # Return the average vector
