@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00942.txt">
+  <feature name="about" authors="Vizetelly, Ernest Alfred" title="My Days of Adventure The Fall of France, 1870-71" lang="en" />
+  <feature name="md5Hash" value="73bf9102a840f796e2e48cd2de871a0e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3210" this_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15479" this_length="544" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24039" this_length="274" />
+</document>
+

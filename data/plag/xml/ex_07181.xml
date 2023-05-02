@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07181.txt">
+  <feature name="about" authors="Wood, Louis Aubrey" title="The War Chief of the Six Nations A Chronicle of Joseph Brant" lang="en" />
+  <feature name="md5Hash" value="cf18671965e4dc399f0e44dbe402abb6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5782" this_length="515" source_reference="source-document09467.txt" source_language="en" source_offset="61894" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11817" this_length="540" source_reference="source-document09467.txt" source_language="en" source_offset="17558" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27063" this_length="452" source_reference="source-document04409.txt" source_language="en" source_offset="65598" source_length="465" />
+</document>
+

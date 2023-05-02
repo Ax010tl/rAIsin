@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02058.txt">
+  <feature name="about" authors="Thomas, Cyrus" title="The Problem of the Ohio Mounds" lang="en" />
+  <feature name="md5Hash" value="cf68e3df289f3e7fdaf9c14ba4677bba" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2986" this_length="488" source_reference="source-document03267.txt" source_language="en" source_offset="5368" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17277" this_length="474" source_reference="source-document03267.txt" source_language="en" source_offset="55709" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25998" this_length="233" source_reference="source-document03267.txt" source_language="en" source_offset="11428" source_length="237" />
+</document>
+

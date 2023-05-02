@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07967.txt">
+  <feature name="about" authors="Schmitz, James H." title="The Other Likeness" lang="en" />
+  <feature name="md5Hash" value="10e8f5d989c48c8954474886da2f0b8a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1631" this_length="15271" source_reference="source-document08176.txt" source_language="en" source_offset="3225" source_length="17720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17373" this_length="1619" source_reference="source-document07053.txt" source_language="en" source_offset="4778" source_length="1715" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19123" this_length="496" source_reference="source-document07053.txt" source_language="en" source_offset="20844" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19801" this_length="2722" source_reference="source-document08176.txt" source_language="en" source_offset="24068" source_length="4793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22829" this_length="4315" source_reference="source-document07053.txt" source_language="en" source_offset="29665" source_length="4233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27684" this_length="1751" source_reference="source-document07053.txt" source_language="en" source_offset="21611" source_length="1694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29620" this_length="1991" source_reference="source-document08176.txt" source_language="en" source_offset="639" source_length="2008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31860" this_length="254" source_reference="source-document08176.txt" source_language="en" source_offset="0" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32115" this_length="476" source_reference="source-document07053.txt" source_language="en" source_offset="15070" source_length="453" />
+</document>
+

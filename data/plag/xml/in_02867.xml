@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02867.txt">
+  <feature name="about" authors="Stock, St. George William Joseph" title="Guide to Stoicism" lang="en" />
+  <feature name="md5Hash" value="1c48e1ebe239f7502e56dd7a14a15947" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="238" this_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3100" this_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7807" this_length="3197" />
+</document>
+

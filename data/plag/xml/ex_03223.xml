@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03223.txt">
+  <feature name="about" authors="Stratton, Clarence" title="Public Speaking" lang="en" />
+  <feature name="md5Hash" value="f326206e7fa2761f85ace7f8802c4932" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6409" this_length="12896" source_reference="source-document08223.txt" source_language="en" source_offset="94650" source_length="15714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20231" this_length="3888" source_reference="source-document08025.txt" source_language="en" source_offset="63414" source_length="4068" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25668" this_length="1590" source_reference="source-document08025.txt" source_language="en" source_offset="61309" source_length="1528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27779" this_length="257" source_reference="source-document08025.txt" source_language="en" source_offset="4" source_length="242" />
+</document>
+

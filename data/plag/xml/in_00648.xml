@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00648.txt">
+  <feature name="about" authors="Theuriet, André" title="A Woodland Queen — Volume 3" lang="en" />
+  <feature name="md5Hash" value="541d89a2556ef2023e7e0d66d29baa3b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="418" this_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16409" this_length="3491" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23617" this_length="809" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27433" this_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28553" this_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30528" this_length="232" />
+</document>
+

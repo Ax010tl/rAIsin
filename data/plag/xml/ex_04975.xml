@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04975.txt">
+  <feature name="about" authors="Verne, Jules" title="Off on a Comet! a Journey through Planetary Space" lang="en" />
+  <feature name="md5Hash" value="6f65404db0ce1075dc2235efab70d63c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2715" source_reference="source-document09711.txt" source_language="en" source_offset="212116" source_length="2704" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3070" this_length="4483" source_reference="source-document03902.txt" source_language="en" source_offset="601233" source_length="4698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7554" this_length="2246" source_reference="source-document09711.txt" source_language="en" source_offset="144075" source_length="2382" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10160" this_length="3786" source_reference="source-document03902.txt" source_language="en" source_offset="514820" source_length="3909" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14908" this_length="16147" source_reference="source-document09711.txt" source_language="en" source_offset="148984" source_length="18928" />
+</document>
+

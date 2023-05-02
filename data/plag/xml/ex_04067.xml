@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04067.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Phineas Redux" lang="en" />
+  <feature name="md5Hash" value="19b8d459d6f97704bdf25afee819ad83" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="274" this_length="3813" source_reference="source-document03553.txt" source_language="es" source_offset="63759" source_length="4380" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4088" this_length="2967" source_reference="source-document03553.txt" source_language="es" source_offset="88283" source_length="3368" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7819" this_length="16641" source_reference="source-document03553.txt" source_language="es" source_offset="24637" source_length="18550" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24864" this_length="1376" source_reference="source-document03553.txt" source_language="es" source_offset="169839" source_length="1595" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26312" this_length="212" source_reference="source-document03553.txt" source_language="es" source_offset="5391" source_length="229" />
+</document>
+

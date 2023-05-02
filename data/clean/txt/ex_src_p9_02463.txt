@@ -1,0 +1,447 @@
+﻿THE ENGLISH UTILITARIANS
+
+by
+
+LESLIE STEPHEN
+
+In Three Volumes
+
+VOL. II
+
+JAMES MILL
+
+London Duckworth And Co. 3 Henrietta Street, W.C. 1900
+
+CONTENTS
+
+CHAPTER I
+
+JAMES MILL
+
+                                      PAGE
+
+  I. Early Life,                         1
+
+ II. Bentham's Lieutenant,               7
+
+III. Leader of the Utilitarians,        25
+
+CHAPTER II
+
+REFORM MOVEMENTS
+
+  I. Political Change,                  41
+
+ II. Law Reform,                        47
+
+III. Economic Reform,                   51
+
+ IV. Church Reform,                     57
+
+  V. Sinister Interests,                62
+
+CHAPTER III
+
+POLITICAL THEORY
+
+  I. Mill on Government,                74
+
+ II. Whiggism,                          98
+
+III. Conservatism,                     109
+
+ IV. Socialism,                        119
+
+CHAPTER IV
+
+MALTHUS
+
+  I. Malthus's Starting-point,         137
+
+ II. The Ratios,                       147
+
+III. Moral Restraint,                  156
+
+ IV. Social Remedies,                  165
+
+  V. Political Application,            174
+
+ VI. Rent,                             181
+
+CHAPTER V
+
+RICARDO
+
+  I. Ricardo's Starting-point,         186
+
+ II. The Distribution Problem,         195
+
+III. Value and Labour,                 204
+
+ IV. The Classical Political Economy,  216
+
+  V. The Ricardians,                   226
+
+CHAPTER VI
+
+ECONOMIC HERETICS
+
+  I. The Malthusian Controversy,       238
+
+ II. Socialism,                        259
+
+CHAPTER VII
+
+PSYCHOLOGY
+
+  I. Thomas Brown,                     267
+
+ II. James Mill's Analysis,          287
+
+III. James Mill's Ethics,              312
+
+CHAPTER VIII
+
+RELIGION
+
+  I. Philip Beauchamp,                 338
+
+ II. Contemporary Thought,             361
+
+CHAPTER I
+
+JAMES MILL
+
+I. EARLY LIFE
+
+Bentham's mantle fell upon James Mill.[1] Mill expounded in the tersest form the doctrines
+which in Bentham's hands spread into endless ramifications and lost themselves in minute details.
+Mill became the leader of Bentham's bodyguard; or, rather, the mediator between the prophet
+in his 'hermitage' and the missionaries who were actively engaged on the hustings and in committee-rooms.
+The special characteristics of English Utilitarianism in the period of its greatest activity
+were thus more affected by Mill than by any other leader of opinion.
+
+James Mill was one of the countless Scots who, having been trained at home in strict frugality
+and stern Puritanic principles, have fought their way to success in England. He was born 6th
+April 1773 in the parish of Logie Pert, Forfarshire. His father, also named James Mill, was
+a village shoemaker, employing two or three journeymen when at the height of his prosperity.
+His mother, Isabel Fenton, daughter of a farmer, had been a servant in Edinburgh. Her family
+had some claims to superior gentility; she was fastidious, delicate in frame, and accused of
+pride by her neighbours. She resolved to bring up James, her eldest son, to be a gentleman,
+which practically meant to be a minister. He probably showed early promise of intellectual
+superiority. He received the usual training at the parish school, and was then sent to the
+Montrose Academy, where he was the school-fellow and friend of a younger lad, Joseph Hume (1777-1855),
+afterwards his political ally. He boarded with a Montrose shopkeeper for 2s. 6d. a week, and
+remained at the Academy till he was seventeen. He was never put to work in his father's shop,
+and devoted himself entirely to study. The usual age for beginning to attend a Scottish university
+was thirteen or fourteen; and it would have been the normal course for a lad in Mill's position
+to be sent at that age to Aberdeen. Mill's education was prolonged by a connection which was
+of great service to him. Sir John Stuart (previously Belches), of Fettercairn House, in Mill's
+neighbourhood, had married Lady Jane Leslie, and was by her father of an only child, Wilhelmina.
+Lady Jane was given to charity, and had set up a fund to educate promising lads for the ministry.
+Mill was probably recommended to her by the parish minister, as likely to do credit to her
+patronage. He also acted as tutor to Wilhelmina, who afterwards became the object of Scott's
+early passion. Mill spent much time at Fettercairn House, and appears to have won the warm
+regards both of the Stuarts and of their daughter, who spoke of him affectionately 'with almost
+her last breath.'[2] The Stuarts passed their winters at Edinburgh, whither Mill accompanied
+them. He entered the university in 1790, and seems to have applied himself chiefly to Greek
+and to philosophy. He became so good a Greek scholar that long afterwards (1818) he had some
+thoughts of standing for the Greek chair at Glasgow.[3] He was always a keen student of Plato.
+He read the ordinary Scottish authorities, and attended the lectures of Dugald Stewart. Besides
+reading Rousseau, he studied Massillon, probably with a view to his future performances in
+the pulpit. Massillon might be suggested to him by quotations in Adam Smith's Moral Sentiments.
+There are few records of acquaintanceship with any of his distinguished contemporaries, except
+the chemist Thomas Thomson, who became a lifelong friend. He probably made acquaintance with
+Brougham, and may have known Jeffrey; but he was not a member of the Speculative Society, joined
+by most young men of promise.
+
+In 1794 he began his course of divinity, and on 4th October 1798 was licensed to preach. He
+lived in his father's house, where part of the family room was screened off to form a study
+for him. He delivered some sermons, apparently with little success. He failed to obtain a call
+from any parish; and there are vague reports of his acting as tutor in some families, and of
+a rebuff received at the table of the marquis of Tweeddale, father of one of his pupils, which
+made him resolve to seek for independence by a different career.
+
+In 1802 Mill went to London in company with Sir John Stuart, who was about to take his seat
+in parliament. Stuart procured admission for him to the gallery of the House of Commons, where
+he attended many debates, and acquired an interest in politics. His ambition, however, depended
+upon his pen; and at first, it would seem, he was not more particular than other journalists
+as to the politics of the papers to which he contributed. He had obtained a testimonial from
+Thomson, on the strength of which he introduced himself to John Gifford, editor of the Anti-Jacobin
+Review.[4] This was a monthly magazine, which had adopted the name and politics of the deceased
+Anti-Jacobin, edited by William Gifford. Mill obtained employment, and wrote articles implying
+an interest in the philosophy, and especially in the political economy, of the time. It is
+noteworthy, considering his later principles, that he should at this time have taken part in
+a strong Tory organ. He wrote a pamphlet in 1804 (the first publication under his name) to
+prove the impolicy of a bounty upon the exportation of grain; and in 1807 replied in Commerce
+Defended to William Spence's Britain independent of Commerce. Meanwhile he had found employment
+of a more regular kind. He had formed a connection with a bookseller named Baldwin, for whom
+he undertook to help in rewriting a book called Nature Delineated. This scheme was changed
+for a periodical called the Literary Journal, which started at the beginning of 1803, and lived
+through four years with Mill as editor. At the same time apparently he edited the St. James's
+Chronicle, also belonging to Baldwin, which had no very definite political colour. The Journal
+professed to give a systematic survey of literary, scientific, and philosophical publications.
+For the scientific part Mill was helped by Thomson. His own contributions show that, although
+clearly a rationalist, he was still opposed to open infidelity. A translation of Villers' History
+of the Reformation implies similar tendencies. Other literary hack-work during this and the
+next few years is vaguely indicated. Mill was making about £500 a year or something more during
+his editorships, and thought himself justified in marrying. On 5th June 1805 he became the
+husband of Harriett Burrow, daughter of a widow who kept a private lunatic asylum originally
+started by her husband. The Mills settled in a house in Pentonville belonging to Mrs. Burrow,
+for which they paid £50 a year.
+
+The money question soon became pressing. The editorships vanished, and to make an income by
+periodical writing was no easy task. His son observes that nothing could be more opposed to
+his father's later principles than marrying and producing a large family under these circumstances.
+Nine children were ultimately born, all of whom survived their father. The family in his old
+home were an additional burthen. His mother died before his departure from Scotland. His father
+was paralysed, and having incautiously given security for a friend, became bankrupt. His only
+brother, William, died soon afterwards, and his only sister, Mary, married one of her father's
+journeymen named Greig, and tried to carry on the business. The father died about 1808, and
+the Greigs had a hard struggle, though two of the sons ultimately set up a business in Montrose.
+James Mill appears to have helped to support his father, whose debts he undertook to pay, and
+to have afterwards helped the Greigs. They thought, it seems, that he ought to have done more,
+but were not unlikely to exaggerate the resources of a man who was making his way in England.
+Mill was resolute in doing his duty, but hardly likely to do it graciously. At any rate, in
+the early years, it must have been a severe strain to do anything.
+
+In spite of all difficulties Mill, by strict frugality and unremitting energy, managed to keep
+out of debt. In the end of 1806 he undertook the history of British India. This was to be the
+great work which should give him a name, and enable him to rise above the herd of contemporary
+journalists. He calculated the time necessary for its completion at three years, but the years
+were to be more than trebled before the book was actually finished. At that period there were
+fewer facilities than there could now be for making the necessary researches: and we do not
+know what were the reasons which prompted the selection of a subject of which he could have
+no first-hand knowledge. The book necessarily impeded other labours; and to the toil of writing
+Mill added the toil of superintending the education of his children. His struggle for some
+years was such as to require an extraordinary strain upon all his faculties. Mill, however,
+possessed great physical and mental vigour. He was muscular, well-made, and handsome; he had
+marked powers of conversation, and made a strong impression upon all with whom he came in contact.
+He gradually formed connections which effectually determined his future career.
+
+II. BENTHAM'S LIEUTENANT
+
+The most important influence in Mill's life was the friendship with Bentham. This appears to
+have begun in 1808. Mill speedily became a valued disciple. He used to walk from Pentonville
+to dine with Bentham in Queen's Square Place. Soon the elder man desired to have his new friend
+nearer at hand. In 1810 Mill moved to the house in Bentham's garden, which had once belonged
+to Milton; when this proved unsuitable, he was obliged to move to a more distant abode at Stoke
+Newington; but finally, in 1814, he settled in another house belonging to Bentham, 1 Queen's
+Square, close under the old gentleman's wing. Here for some years they lived in the closest
+intimacy. The Mills also stayed with Bentham in his country-houses at Barrow Green, and afterwards
+at Ford Abbey. The association was not without its troubles. Bentham was fanciful, and Mill
+stern and rigid. No one, however, could be a more devoted disciple. The most curious illustration
+of their relations is a letter written to Bentham by Mill, 19th September 1814, while they
+were both at Ford Abbey. Mill in this declares himself to be a 'most faithful and fervent disciple'
+of the truths which Bentham had the 'immortal honour' of propounding. He had fancied himself
+to be his master's favourite disciple. No one is so completely of Bentham's way of thinking,
+or so qualified by position for carrying on the propaganda. Now, however, Bentham showed that
+he had taken umbrage at some part of Mill's behaviour. An open quarrel would bring discredit
+upon both sides, and upon their common beliefs. The great dangers to friendship are pecuniary
+obligation and too close intimacy. Mill has made it a great purpose of his life to avoid pecuniary
+obligation, though he took pride in receiving obligations from Bentham. He has confined himself
+to accepting Bentham's house at a low rent, and allowing his family to live for part of the
+year at Bentham's expense. He now proposes so to arrange his future life that they shall avoid
+an excessively close intimacy, from which, he thinks, had arisen the 'umbrage.' The letter,
+which is manly and straightforward, led to a reconciliation, and for some years the intercourse
+was as close as ever.[5]
+
+Mill's unreserved adoption of Bentham's principles, and his resolution to devote his life to
+their propagation, implies a development of opinion. He had entirely dropped his theology.
+In the early years of his London life, Mill had been only a rationalist. He had by this time
+become what would now be called an agnostic. He thought 'dogmatic atheism' absurd, says J.
+S. Mill;[6] 'but he held that we can know nothing whatever as to the origin of the world.'
+The occasion of the change, according to his family, was his intercourse with General Miranda,
+who was sitting at Bentham's feet about this time. J. S. Mill states that the turning-point
+in his father's mind was the study of Butler's Analogy. That book, he thought, as others have
+thought, was conclusive against the optimistic deism which it assails; but he thought also
+that the argument really destroyed Butler's own standing-ground. The evils of the world are
+incompatible with the theory of Almighty benevolence. The purely logical objection was combined
+with an intense moral sentiment. Theological doctrines, he thought, were not only false, but
+brutal. His son had heard him say 'a hundred times' that men have attributed to their gods
+every trait of wickedness till the conception culminated in the Christian doctrine of hell.
+Mill still attended church services for some time after his marriage, and the children were
+christened. But the eldest son did not remember the period of even partial conformity, and
+considered himself to have been brought up from the first without any religious belief. James
+Mill had already taken up the uncompromising position congenial to his character, although
+the reticence which the whole party observed prevented any open expression of his sentiments.
+
+Mill's propaganda of Benthamism was for some time obscure. He helped to put together some of
+Bentham's writings, especially the book upon evidence. He was consulted in regard to all proposed
+publications, such as the pamphlet upon jury-packing, which Mill desired to publish in spite
+of Romilly's warning. Mill endeavoured also to disseminate the true faith through various periodicals.
+He obtained admission to the Edinburgh Review, probably through its chief contributor, Brougham.
+Neither Brougham nor Jeffrey was likely to commit the great Whig review to the support of a
+creed still militant and regarded with distrust by the respectable. Mill contributed various
+articles from 1808 to 1813, but chiefly upon topics outside of the political sphere. The Edinburgh
+Review, as I have said, had taken a condescending notice of Bentham in 1804. Mill tried to
+introduce a better tone into an article upon Bexon's Code de la Législation pénale, which he
+was permitted to publish in the number for October 1809. Knowing Jeffrey's 'dislike of praise,'
+he tried to be on his guard, and to insinuate his master's doctrine without openly expressing
+his enthusiasm. Jeffrey, however, sadly mangled the review, struck out every mention but one
+of Bentham, and there substituted words of his own for Mill's. Even as it was, Brougham pronounced
+the praise of Bentham to be excessive.[7] Mill continued to write for a time, partly, no doubt,
+with a view to Jeffrey's cheques. Almost his last article (in January 1813) was devoted to
+the Lancasterian controversy, in which Mill, as we shall directly see, was in alliance with
+the Whigs. But the Edinburgh Reviewers were too distinctly of the Whig persuasion to be congenial
+company for a determined Radical. They would give him no more than a secondary position, and
+would then take good care to avoid the insertion of any suspicious doctrine. Mill wrote no
+more after the summer of 1813.
+
+Meanwhile he was finding more sympathetic allies. First among them was William Allen (1770-1843),
+chemist, of Plough Court. Allen was a Quaker; a man of considerable scientific tastes; successful
+in business, and ardently devoted throughout his life to many philanthropic schemes. He took,
+in particular, an active part in the agitation against slavery. He was, as we have seen, one
+of the partners who bought Owen's establishment at New Lanark; and his religious scruples were
+afterwards the cause of Owen's retirement. These, however, were only a part of his multifarious
+schemes. He was perhaps something of a busybody; his head may have been a little turned by
+the attentions which he received on all hands; he managed the affairs of the duke of Kent;
+was visited by the Emperor Alexander in 1814; and interviewed royal personages on the Continent,
+in order to obtain their support in attacking the slave-trade, and introducing good schools
+and prisons. But, though he may have shared some of the weaknesses of popular philanthropists,
+he is mentioned with respect even by observers such as Owen and Place, who had many prejudices
+against his principles. He undoubtedly deserves a place among the active and useful social
+reformers of his time.
+
+I have already noticed the importance of the Quaker share in the various philanthropic movements
+of the time. The Quaker shared many of the views upon practical questions which were favoured
+by the freethinker. Both were hostile to slavery, in favour of spreading education, opposed
+to all religious tests and restrictions, and advocates of reform in prisons, and in the harsh
+criminal law. The fundamental differences of theological belief were not so productive of discord
+in dealing with the Quakers as with other sects; for it was the very essence of the old Quaker
+spirit to look rather to the spirit than to the letter. Allen, therefore, was only acting in
+the spirit of his society when he could be on equally good terms with the Emperor Alexander
+or the duke of Kent, and, on the other hand, with James Mill, the denouncer of kings and autocrats.
+He could join hands with Mill in assailing slavery, insisting upon prison reform, preaching
+toleration and advancing civilisation, although he heartily disapproved of the doctrines with
+which Mill's practical principles were associated. Mill, too, practised--even to a questionable
+degree--the method of reticence, and took good care not to offend his coadjutor.
+
+Their co-operation was manifested in a quarterly journal called the Philanthropist, which appeared
+during the seven years, 1811-1817, and was published at Allen's expense. Mill found in it the
+opportunity of advocating many of his cherished opinions. He defended toleration in the name
+of Penn, whose life had been published by Clarkson. He attacked the slave-owners, and so came
+into alliance with Wilberforce, Zachary Macaulay, and others of the evangelical persuasion.
+He found, at the same time, opportunities for propagating the creed of Bentham in connection
+with questions of prison reform and the penal code. His most important article, published in
+1812, was another contribution to the Lancasterian controversy. In this Mill had allies of
+a very different school; and his activity brings him into close connection with one of the
+most remarkable men of the time.[8]
+
+This was Francis Place, the famous Radical tailor. Place, born 3rd November 1771, had raised
+himself from the position of a working-man to be occupant of a shop at Charing Cross, which
+became the centre of important political movements. Between Place and Mill there was much affinity
+of character. Place, like Mill, was a man of rigid and vigorous intellect. Dogmatic, self-confident,
+and decidedly censorious, not attractive by any sweetness or grace of character, but thoroughly
+sincere and independent, he extorts rather than commands our respect by his hearty devotion
+to what he at least believed to be the cause of truth and progress. Place was what is now called
+a thorough 'individualist.' He believed in self-reliance and energy, and held that the class
+to which he belonged was to be raised, as he had raised himself, by the exercise of those qualities,
+not by invoking the direct interference of the central power, which, indeed, as he knew it,
+was only likely to interfere on the wrong side. He had the misfortune to be born in London
+instead of Scotland, and had therefore not Mill's educational advantages. He tried energetically,
+and not unsuccessfully, to improve his mind, but he never quite surmounted the weakness of
+the self-educated man, and had no special literary talent. His writing, in fact, is dull and
+long-winded, though he has the merit of judging for himself, and of saying what he thinks.
+
+Place had been a member of the Corresponding Society, and was at one time chairman of the weekly
+committee. He had, however, disapproved of their proceedings, and retired in time to escape
+the imprisonment which finally crushed the committee. He was now occupied in building up his
+own fortunes at Charing Cross. When, during the second war, the native English Radicalism began
+again to raise its head, Place took a highly important share in the political agitation. Westminster,
+the constituency in which he had a vote, had long been one of the most important boroughs.
+It was one of the few large popular constituencies, and was affected by the influences naturally
+strongest in the metropolis. After being long under the influence of the court and the dean
+and chapter, it had been carried by Fox during the discontents of 1780, when the reform movement
+took a start and the county associations were symptoms of a growing agitation. The great Whig
+leader, though not sound upon the question of reform, represented the constituency till his
+death, and reform dropped out of notice for the time. Upon Fox's death (13th September 1806)
+Lord Percy was elected without opposition as his successor by an arrangement among the ruling
+families. Place was disgusted at the distribution of 'bread and cheese and beer,' and resolved
+to find a truly popular candidate. In the general election which soon followed at the end of
+1806 he supported Paull, an impecunious adventurer, who made a good fight, but was beaten by
+Sir J. Hood and Sheridan. Place now proposed a more thorough organisation of the constituency,
+and formed a committee intended to carry an independent candidate. Sir Francis Burdett, a typical
+country gentleman of no great brains and of much aristocratic pride, but a man of honour, and
+of as much liberal feeling as was compatible with wealth and station, had sat at the feet of
+the old Radical, Home Tooke. He had sympathised with the French revolution; but was mainly,
+like his mentor, Tooke, a reformer of the English type, and a believer in Magna Charta and
+the Bill of Rights. He had sat in parliament, and in 1802 had been elected for Middlesex. After
+a prolonged litigation, costing enormous sums, the election had been finally annulled in 1806.
+He had subscribed £1000 towards Paull's expenses; but was so disgusted with his own election
+experiences that he refused to come forward as a candidate. Place's committee resolved therefore
+to elect him and Paull free of expense. Disputes between Paull and Burdett led to a duel, in
+which both were wounded. The committee threw over Paull, and at the election on the dissolution
+of parliament in the spring of 1807, Burdett and Cochrane--afterwards Lord Dundonald--were
+triumphantly elected, defeating the Whig candidates, Sheridan and Elliot. The election was
+the first triumph of the reformers, and was due to Place more than any one. Burdett retained
+his seat for Westminster until 1837, and, in spite of many quarrels with his party, was a leading
+representative of the movement, which henceforward slowly gathered strength. Place, indeed,
+had apparently but scanty respect for the candidate whose success he had secured. Burdett and
+his like aimed at popularity, while he was content to be ignored so long as he could by any
+means carry the measures which he approved. Place, therefore, acted as a most efficient wire-puller,
+but had no ambition to leave his shop to make speeches on the hustings.
+
+The scandals about the duke of York and the Walcheren expedition gave a chance to the Radicals
+and to their leader in the House of Commons. Events in 1810 led to a popular explosion, of
+which Burdett was the hero. John Gale Jones, an old member of the Corresponding Societies,
+had put out a placard denouncing the House of Commons for closing its doors during a debate
+upon the Walcheren expedition. The House proceeded against Jones, who was more or less advised
+by Place in his proceedings. Burdett took the part of Jones, by a paper published in Cobbett's
+Register, and was ultimately committed to the Tower in consequence. The whole of London was
+for a time in a state of excitement, and upon the verge of an outbreak. Burdett refused to
+submit to the arrest. Mobs collected; soldiers filled the streets and were pelted. Burdett,
+when at last he was forced to admit the officers, appeared in his drawing-room in the act of
+expounding Magna Charta to his son. That, it was to be supposed, was his usual occupation of
+an afternoon. Meetings were held, and resolutions passed, in support of the martyr to liberty;
+and when his imprisonment terminated on the prorogation of parliament, vast crowds collected,
+and a procession was arranged to convoy him to his home. Place had been active in arranging
+all the details of what was to be a great popular manifestation. To his infinite disgust, Burdett
+shrank from the performance, and went home by water. The crowd was left to expend its remaining
+enthusiasm upon the hackney carriage which contained his fellow-sufferer Jones. Jones, in the
+following December, was sentenced to twelve months' imprisonment for a libel. Cobbett, Burdett's
+special supporter at this time, was also imprisoned in June 1810. For a time the popular agitation
+collapsed. Place seems to have thought that the failure was due to Burdett's want of courage,
+and dropped all communication with him till a later contest at Westminster.
+
+Place was thus at the centre of the political agitation which, for the time, represented the
+most energetic reforming movement. It was in 1811 or 1812 that he became acquainted with Mill.[9]
+In Mill he recognised a congenial spirit, and a man able to defend and develop principles.
+He perhaps, as Professor Bain thinks, made advances to Mill upon the strength of the history
+of India; and in 1814 he was certainly endeavouring to raise money to put Mill above the need
+of precarious hack-work.[10] The anticipated difficulty of persuading Mill so far to sacrifice
+his independence was apparently fatal to the scheme. Place was in occasional communication
+with Bentham, and visited him at Ford Abbey in 1817. He became intimate with the great man;
+helped him in business affairs; and was one of the disciples employed to prepare his books
+for publication.[11] Bentham was the source of philosophy, and Mill only his prophet. But Mill,
+who was capable of activity in practical affairs, was more useful to a man of the world. The
+first business which brought them into close connection was the Lancasterian controversy. The
+strong interest roused by this agitation was significant of many difficulties to come. The
+average mind had been gradually coming to the conclusion that the poor should be taught to
+read and write. Sunday schools and Hannah More's schools in Somersetshire had drawn the attention
+of the religious world to the subject. During the early years of the century the education
+question had steadily become more prominent, and the growing interest was shown by a singularly
+bitter and complicated controversy. The opposite parties fought under the banners of Bell and
+Lancaster. Andrew Bell, born at St. Andrews, 27th March 1753, was both a canny Scot and an
+Anglican clergyman. He combined philanthropy with business faculties. He sailed to India in
+1787 with £128, 10s. in his pocket to be an army chaplain; he returned in 1796 with £25,000
+and a new system of education which he had devised as superintendent of an orphan asylum. He
+settled in England, published an account of his plan, and did something to bring it into operation.
+Meanwhile Joseph Lancaster (1770-1838), a young Quaker, had set up a school in London; he devised
+a plan similar to that of Bell, and in 1803 published an account of his improvements in education
+with acknowledgments to Bell. For a time the two were on friendly terms. Lancaster set about
+propagating his new system with more enthusiasm than discretion. His fame rapidly spread till
+it reached the throne. In 1805 George III. sent for him; the royal family subscribed to his
+schools; and the king declared his wish that every child in his dominions should be taught
+to read the Bible. The king's gracious wish unconsciously indicated a difficulty. Was it safe
+to teach the Bible without the safeguard of authorised interpretation? Orthodox opponents feared
+the alliance with a man whose first principle was toleration, and first among them was the
+excellent Mrs. Trimmer, who had been already engaged in the Sunday-school movement. She pointed
+out in a pamphlet that the schismatic Lancaster was weakening the Established Church. The Edinburgh
+Review came to his support in 1806 and 1807; for the Whig, especially if he was also a Scot,
+was prejudiced against the Church of England. Lancaster went on his way, but soon got into
+difficulties, for he was impetuous, careless of money, and autocratic. William Allen, with
+another Quaker, came to his support in 1808, and founded the Royal Lancasterian Society to
+maintain his school in the Borough Road, and propagate its like elsewhere. Lancaster travelled
+through the country, and the agitation prospered, and spread even to America. The church, however,
+was now fairly aroused. Bishop Marsh preached a sermon in St.

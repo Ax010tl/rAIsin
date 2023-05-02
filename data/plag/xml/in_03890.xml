@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03890.txt">
+  <feature name="about" authors="Willson, Thomas E." title="Ancient and Modern Physics" lang="en" />
+  <feature name="md5Hash" value="146a48699f7e5c4393f65736b047e2dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="915" this_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12003" this_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19231" this_length="481" />
+</document>
+

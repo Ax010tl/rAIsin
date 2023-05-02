@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10746.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="Burlesques" lang="en" />
+  <feature name="md5Hash" value="b8bb4801168e0374518a5e698a8eeb67" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="359" this_length="394" source_reference="source-document10212.txt" source_language="en" source_offset="4672" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="916" this_length="2938" source_reference="source-document10212.txt" source_language="en" source_offset="91864" source_length="4414" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7548" this_length="2646" source_reference="source-document10212.txt" source_language="en" source_offset="62352" source_length="3496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11851" this_length="1984" source_reference="source-document10212.txt" source_language="en" source_offset="73049" source_length="2274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15369" this_length="767" source_reference="source-document10212.txt" source_language="en" source_offset="90273" source_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16890" this_length="3474" source_reference="source-document10212.txt" source_language="en" source_offset="43028" source_length="4475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24432" this_length="2954" source_reference="source-document10212.txt" source_language="en" source_offset="12229" source_length="4235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28133" this_length="213" source_reference="source-document10212.txt" source_language="en" source_offset="36573" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29270" this_length="1341" source_reference="source-document10212.txt" source_language="en" source_offset="37938" source_length="1769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31037" this_length="192" source_reference="source-document10212.txt" source_language="en" source_offset="103443" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31380" this_length="524" source_reference="source-document10212.txt" source_language="en" source_offset="80670" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32349" this_length="503" source_reference="source-document10212.txt" source_language="en" source_offset="56458" source_length="531" />
+</document>
+

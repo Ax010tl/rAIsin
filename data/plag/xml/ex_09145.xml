@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09145.txt">
+  <feature name="about" authors="Twain, Mark" title="Tom Sawyer Abroad" lang="en" />
+  <feature name="md5Hash" value="3e3c0bf4f57d7bb52ff0896db87d02ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="904" this_length="13902" source_reference="source-document02956.txt" source_language="en" source_offset="77849" source_length="15778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15680" this_length="686" source_reference="source-document03370.txt" source_language="en" source_offset="1406" source_length="718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16611" this_length="3198" source_reference="source-document06643.txt" source_language="en" source_offset="6322" source_length="3288" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20270" this_length="2927" source_reference="source-document06643.txt" source_language="en" source_offset="10076" source_length="3074" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23198" this_length="525" source_reference="source-document03370.txt" source_language="en" source_offset="738" source_length="550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23855" this_length="259" source_reference="source-document03370.txt" source_language="en" source_offset="3228" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24115" this_length="460" source_reference="source-document06643.txt" source_language="en" source_offset="22178" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24621" this_length="277" source_reference="source-document03370.txt" source_language="en" source_offset="3499" source_length="272" />
+</document>
+

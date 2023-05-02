@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01599.txt">
+  <feature name="about" authors="Viljoen, Ben Johannis" title="My Reminiscences of the Anglo-Boer War" lang="en" />
+  <feature name="md5Hash" value="9032d8545fc65edd4a8db6cd53c401a7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14376" this_length="2485" />
+</document>
+

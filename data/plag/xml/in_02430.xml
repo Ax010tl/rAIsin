@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02430.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Memories and Portraits" lang="en" />
+  <feature name="md5Hash" value="aea341fbdf79bbdf59178cda1a45ff47" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8003" this_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16262" this_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23361" this_length="241" />
+</document>
+

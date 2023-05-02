@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01606.txt">
+  <feature name="about" authors="Spielmann, Marion Harry" title="The History of &quot;Punch&quot;" lang="en" />
+  <feature name="md5Hash" value="e80d4abf2b2e143691287f3eb77fa269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15759" this_length="3790" source_reference="source-document05996.txt" source_language="en" source_offset="5580" source_length="5017" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24810" this_length="240" source_reference="source-document05996.txt" source_language="en" source_offset="1246" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26169" this_length="230" source_reference="source-document05996.txt" source_language="en" source_offset="12132" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27096" this_length="544" source_reference="source-document01874.txt" source_language="en" source_offset="64724" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28926" this_length="260" source_reference="source-document05996.txt" source_language="en" source_offset="2483" source_length="268" />
+</document>
+

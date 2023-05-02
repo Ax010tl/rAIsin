@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04160.txt">
+  <feature name="about" authors="Webb-Peploe, Annie" title="The Pilgrims of New England A Tale of the Early American Settlers" lang="en" />
+  <feature name="md5Hash" value="2e780303793a51762240e2e300647c08" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12113" this_length="4738" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24452" this_length="1604" />
+</document>
+

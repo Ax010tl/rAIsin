@@ -24,3 +24,17 @@ In order to make comparisons easier and more efficient, vectors generated for ea
 python3 vector_analysis.py name_of_directory
 ```
 
+<details><summary>Dataset</summary>
+
+
+Corpus is a shortened version of [PAN-PC-11](https://webis.de/data/pan-pc-11.html), selecting texts between 4500-5500 words. They are divided in the following:
+
+[clean](./data/clean/) --> 740 texts without any plagiarism
+
+[plag](./data/plag/) --> 706 texts with different types of plagiarism (translation, obfuscated, among others)
+
+[sus](./data/sus/) --> 40 texts, some with plagiarism, some without (meant to help us determine our model's efficiency)
+
+Each text has an accompanying `.xml`, with data regarding plagiarism (if any) and source.
+
+</details>

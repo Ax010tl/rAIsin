@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00106.txt">
+  <feature name="about" authors="Swinburne, Algernon Charles" title="A Study of Shakespeare" lang="en" />
+  <feature name="md5Hash" value="a8937336431d23ecbcf1fccb4f2d445a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11451" this_length="786" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20232" this_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29535" this_length="241" />
+</document>
+

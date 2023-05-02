@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05298.txt">
+  <feature name="about" authors="Twain, Mark" title="How to Tell a Story and Other Essays" lang="en" />
+  <feature name="md5Hash" value="963f2435b04d44eab5f2b2fe1e8c8715" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="497" this_length="14320" source_reference="source-document08938.txt" source_language="en" source_offset="186207" source_length="15960" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18757" this_length="3996" source_reference="source-document09152.txt" source_language="en" source_offset="4064" source_length="4064" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23578" this_length="1625" source_reference="source-document08938.txt" source_language="en" source_offset="85967" source_length="1624" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25522" this_length="759" source_reference="source-document08938.txt" source_language="en" source_offset="128951" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26468" this_length="234" source_reference="source-document08938.txt" source_language="en" source_offset="95280" source_length="239" />
+</document>
+

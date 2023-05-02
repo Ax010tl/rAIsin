@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04009.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="A Great Success" lang="en" />
+  <feature name="md5Hash" value="bd74d68f543f03e306661f5a639423fe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65" this_length="2305" source_reference="source-document05026.txt" source_language="en" source_offset="265" source_length="2338" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3369" this_length="18472" source_reference="source-document08045.txt" source_language="en" source_offset="370381" source_length="19436" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22223" this_length="2904" source_reference="source-document05026.txt" source_language="en" source_offset="2763" source_length="3021" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25128" this_length="3331" source_reference="source-document05026.txt" source_language="en" source_offset="10362" source_length="3522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28686" this_length="543" source_reference="source-document05026.txt" source_language="en" source_offset="6923" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29230" this_length="227" source_reference="source-document04351.txt" source_language="en" source_offset="390839" source_length="226" />
+</document>
+

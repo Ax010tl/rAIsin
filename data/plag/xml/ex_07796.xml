@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07796.txt">
+  <feature name="about" authors="Sanborn, Kate" title="A Truthful Woman in Southern California" lang="en" />
+  <feature name="md5Hash" value="61c97cf42fe33889e55f50d3c41cd600" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5291" this_length="459" source_reference="source-document02555.txt" source_language="en" source_offset="241138" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13727" this_length="445" source_reference="source-document02555.txt" source_language="en" source_offset="118439" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23854" this_length="256" source_reference="source-document02555.txt" source_language="en" source_offset="274722" source_length="262" />
+</document>
+

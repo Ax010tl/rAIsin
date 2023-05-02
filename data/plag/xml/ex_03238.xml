@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03238.txt">
+  <feature name="about" authors="Wirt, William" title="Celebration in Baltimore of the Triumph of Liberty in France" lang="en" />
+  <feature name="md5Hash" value="5548b64cb3a74aaa08a01ce364634129" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="853" this_length="284" source_reference="source-document08621.txt" source_language="en" source_offset="5915" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9812" this_length="519" source_reference="source-document01861.txt" source_language="en" source_offset="143293" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16078" this_length="243" source_reference="source-document01861.txt" source_language="en" source_offset="296819" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23758" this_length="469" source_reference="source-document08621.txt" source_language="en" source_offset="6187" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26406" this_length="236" source_reference="source-document08621.txt" source_language="en" source_offset="2241" source_length="234" />
+</document>
+

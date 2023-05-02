@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04384.txt">
+  <feature name="about" authors="Howells, William Dean" title="Some Anomalies of the Short Story (from Literature and Life)" lang="en" />
+  <feature name="md5Hash" value="5a4530f3bcd7dcb46d52b7dc17061b80" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="797" this_length="247" source_reference="source-document00540.txt" source_language="en" source_offset="526090" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15519" this_length="691" source_reference="source-document00540.txt" source_language="en" source_offset="266424" source_length="694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21813" this_length="232" source_reference="source-document06842.txt" source_language="en" source_offset="38284" source_length="234" />
+</document>
+

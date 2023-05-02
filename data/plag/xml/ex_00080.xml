@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00080.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Guy Mannering, Or, the Astrologer — Volume 01" lang="en" />
+  <feature name="md5Hash" value="2a45329692e633bc2f850502c903728a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1285" this_length="3985" source_reference="source-document02283.txt" source_language="en" source_offset="1023" source_length="4006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5271" this_length="450" source_reference="source-document02283.txt" source_language="en" source_offset="13042" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6091" this_length="2907" source_reference="source-document08097.txt" source_language="en" source_offset="535" source_length="3060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10822" this_length="3901" source_reference="source-document02283.txt" source_language="en" source_offset="6256" source_length="4013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16540" this_length="2126" source_reference="source-document02283.txt" source_language="en" source_offset="17221" source_length="2119" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19395" this_length="3183" source_reference="source-document04365.txt" source_language="en" source_offset="25032" source_length="3323" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23554" this_length="729" source_reference="source-document05261.txt" source_language="en" source_offset="1624" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24833" this_length="745" source_reference="source-document02283.txt" source_language="en" source_offset="10701" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25579" this_length="244" source_reference="source-document05261.txt" source_language="en" source_offset="70" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26024" this_length="238" source_reference="source-document08097.txt" source_language="en" source_offset="3595" source_length="243" />
+</document>
+

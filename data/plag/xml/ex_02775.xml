@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02775.txt">
+  <feature name="about" authors="Young, Emily Hilda" title="The Misses Mallett The Bridge Dividing" lang="en" />
+  <feature name="md5Hash" value="dcab37b934578388ae14ab02f6d10b85" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5563" this_length="2153" source_reference="source-document08222.txt" source_language="en" source_offset="5125" source_length="2259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27127" this_length="792" source_reference="source-document01520.txt" source_language="en" source_offset="17262" source_length="792" />
+</document>
+

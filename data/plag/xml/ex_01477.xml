@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01477.txt">
+  <feature name="about" authors="Vincent, Harl" title="Vulcan's Workshop" lang="en" />
+  <feature name="md5Hash" value="70bdec460b2f506143fc6ca92ed6b2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1660" this_length="17170" source_reference="source-document03628.txt" source_language="en" source_offset="162065" source_length="17542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23337" this_length="1590" source_reference="source-document03628.txt" source_language="en" source_offset="66444" source_length="2133" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25559" this_length="268" source_reference="source-document00691.txt" source_language="en" source_offset="202964" source_length="259" />
+</document>
+

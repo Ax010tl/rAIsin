@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09886.txt">
+  <feature name="about" authors="Spargo, John" title="The Jew and American Ideals" lang="en" />
+  <feature name="md5Hash" value="a1e6597d7bd638c965a635e36d8e7edf" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4237" this_length="14751" source_reference="source-document08173.txt" source_language="es" source_offset="2864" source_length="16497" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22118" this_length="437" source_reference="source-document08173.txt" source_language="es" source_offset="33871" source_length="499" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22556" this_length="441" source_reference="source-document08173.txt" source_language="es" source_offset="36980" source_length="529" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24687" this_length="4296" source_reference="source-document08118.txt" source_language="es" source_offset="6952" source_length="4687" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29584" this_length="236" source_reference="source-document08173.txt" source_language="es" source_offset="23481" source_length="228" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29821" this_length="494" source_reference="source-document08118.txt" source_language="es" source_offset="1369" source_length="527" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08731.txt">
+  <feature name="about" authors="Snell, Roy Judson" title="Little White Fox and his Arctic Friends" lang="en" />
+  <feature name="md5Hash" value="714efe3c15547a436253bcfb694816a2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114" this_length="18020" source_reference="source-document08149.txt" source_language="en" source_offset="3332" source_length="18047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22541" this_length="453" source_reference="source-document08149.txt" source_language="en" source_offset="25618" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23929" this_length="4279" source_reference="source-document08149.txt" source_language="en" source_offset="21379" source_length="4239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28564" this_length="418" source_reference="source-document08149.txt" source_language="en" source_offset="1445" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29279" this_length="1443" source_reference="source-document08149.txt" source_language="en" source_offset="26072" source_length="1449" />
+</document>
+

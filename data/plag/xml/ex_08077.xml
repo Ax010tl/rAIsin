@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08077.txt">
+  <feature name="about" authors="Bunyan, John" title="Works of John Bunyan — Volume 01" lang="en" />
+  <feature name="md5Hash" value="3588f068450ec3ecc458d1b9b5247b11" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3451" this_length="1434" source_reference="source-document03444.txt" source_language="en" source_offset="3463" source_length="2179" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="12597" this_length="230" source_reference="source-document10881.txt" source_language="en" source_offset="184337" source_length="231" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="24824" this_length="245" source_reference="source-document02954.txt" source_language="en" source_offset="15639" source_length="233" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="25568" this_length="438" source_reference="source-document05204.txt" source_language="en" source_offset="11764" source_length="458" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="27548" this_length="373" source_reference="source-document07829.txt" source_language="en" source_offset="372043" source_length="522" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="29458" this_length="252" source_reference="source-document08665.txt" source_language="en" source_offset="20312" source_length="257" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="29711" this_length="736" source_reference="source-document02852.txt" source_language="en" source_offset="21402" source_length="741" />
+</document>
+

@@ -1,0 +1,424 @@
+﻿Further, between appetite and desire there is no difference, except that the term desire is
+generally applied to men, in so far as they are conscious of their appetite, and may accordingly
+be thus defined: "Desire is appetite with consciousness thereof."  It is thus plain from what
+has been said, that in no case do we strive for, wish for, long for, or desire anything, because
+we deem it to be good, but on the other hand we deem a thing to be good, because we strive
+for it, wish for it, long for it, or desire it.
+
+X. An idea, which excludes the existence of our body, cannot be postulated in our mind, but
+is contrary thereto.
+
+>>>>>Proof--Whatsoever can destroy our body, cannot be postulated therein (III. v.).  Therefore
+neither can the idea of such a thing occur in God, in so far as he has the idea of our body
+(II. ix. Cor.); that is (II. xi., xiii.), the idea of that thing cannot be postulated as in
+our mind, but contrariwise, since (II. xi., xiii.) the first element, that constitutes the
+essence of the mind, is the idea of the human body as actually existing, it follows that the
+first and chief endeavour of our mind is the endeavour to affirm the existence of our body:
+thus, an idea, which negatives the existence of our body, is contrary to our mind, &c.  Q.E.D.
+
+XI. Whatsoever increases or diminishes, helps or hinders the power of activity in our body,
+the idea thereof increases or diminishes, helps or hinders the power of thought in our mind.
+
+>>>>>Proof--This proposition is evident from II. vii. or from II. xiv.
+
+*****Note--Thus we see, that the mind can undergo many changes, and can pass sometimes to a
+state of greater perfection, sometimes to a state of lesser perfection.  These passive states
+of transition explain to us the emotions of pleasure and pain.  By "pleasure" therefore in
+the following propositions I shall signify "a passive state wherein the mind passes to a greater
+perfection."  By "pain" I shall signify "a passive state wherein the mind passes to a lesser
+perfection." Further, the emotion of pleasure in reference to the body and mind together I
+shall call "stimulation" (titillatio) or "merriment" (hilaritas), the emotion of pain in the
+same relation I shall call "suffering" or "melancholy."  But we must bear in mind, that stimulation
+and suffering are attributed to man, when one part of his nature is more affected than the
+rest, merriment and melancholy, when all parts are alike affected.  What I mean by desire I
+have explained in the note to Prop. ix. of this part; beyond these three I recognize no other
+primary emotion; I will show as I proceed, that all other emotions arise from these three.
+But, before I go further, I should like here to explain at greater length Prop. x. of this
+part, in order that we may clearly understand how one idea is contrary to another. In the note
+to II. xvii. we showed that the idea, which constitutes the essence of mind, involves the existence
+of body, so long as the body itself exists.  Again, it follows from what we pointed out in
+the Corollary to II. viii., that the present existence of our mind depends solely on the fact,
+that the mind involves the actual existence of the body.  Lastly, we showed (II. xvii., xviii.
+and Note) that the power of the mind, whereby it imagines and remembers things, also depends
+on the fact, that it involves the actual existence of the body.  Whence it follows, that the
+present existence of the mind and its power of imagining are removed, as soon as the mind ceases
+to affirm the present existence of the body.  Now the cause, why the mind ceases to affirm
+this existence of the body, cannot be the mind itself (III. iv.), nor again the fact that the
+body ceases to exist.  For (by II. vi.) the cause, why the mind affirms the existence of the
+body, is not that the body began to exist; therefore, for the same reason, it does not cease
+to affirm the existence of the body, because the body ceases to exist; but (II. xvii.) this
+result follows from another idea, which excludes the present existence of our body and, consequently,
+of our mind, and which is therefore contrary to the idea constituting the essence of our mind.
+
+XII. Note), conceives it, the human body is affected in a mode, which involves the nature of
+the said external body; thus so long as the mind conceives things, which increase or help the
+power of activity in our body, the body is affected in modes which increase or help its power
+of activity (III. Post. i.); consequently (III. xi.) the mind's power of thinking is for that
+period increased or helped.  Thus (III. vi., ix.) the mind, as far as it can, endeavours to
+imagine such things.  Q.E.D.
+
+XIII. When the mind conceives things which diminish or hinder the body's power of activity,
+it endeavours, as far as possible, to remember things which exclude the existence of the first-named
+things.
+
+>>>>>Proof--So long as the mind conceives anything of the kind alluded to, the power of the
+mind and body is diminished or constrained (cf. III. xii. Proof); nevertheless it will continue
+to conceive it, until the mind conceives something else, which excludes the present existence
+thereof (II. xvii.); that is (as I have just shown), the power of the mind and of the body
+is diminished, or constrained, until the mind conceives something else, which excludes the
+existence of the former thing conceived:  therefore the mind (III. ix.), as far as it can,
+will endeavour to conceive or remember the latter. Q.E.D.
+
+<<<<<Corollary--Hence it follows that the mind shrinks from conceiving those things, which
+diminish or constrain the power of itself and of the body.
+
+*****Note--From what has been said we may clearly understand the nature of Love and Hate. 
+"Love" is nothing else but "pleasure accompanied by the idea of an external cause."  We further
+see, that he who loves necessarily endeavours to have, and to keep present to him, the object
+of his love; while he who hates endeavours to remove and destroy the object of his hatred.
+But I will treat of these matters at more length hereafter.
+
+XIV. If the mind has once been affected by two emotions at the same time, it will, whenever
+it is afterwards affected by one of these two, be also affected by the other.
+
+>>>>>Proof--If the human body has once been affected by two bodies at once, whenever afterwards
+the mind conceives one of them, it will straightway remember the other also (II. xviii.). 
+But the mind's conceptions indicate rather the emotions of our body than the nature of external
+bodies (II. xvi. Cor. ii.); therefore, if the body, and consequently the mind (III. Def. iii.)
+has been once affected by two emotions at the same time, it will, whenever it is afterwards
+affected by one of the two, be also affected by the other.
+
+XV. Anything can, accidentally, be the cause of pleasure, pain, or desire.
+
+>>>>>Proof--Let it be granted that the mind is simultaneously affected by two emotions, of
+which one neither increases nor diminishes its power of activity, and the other does either
+increase or diminish the said power (III. Post. i.).  From the foregoing proposition it is
+evident that, whenever the mind is afterwards affected by the former, through its true cause,
+which (by hypothesis) neither increases nor diminishes its power of action, it will be at the
+same time affected by the latter, which does increase or diminish its power of activity, that
+is (III. xi. note) it will be affected with pleasure or pain.  Thus the former of the two emotions
+will, not through itself, but accidentally, be the cause of pleasure or pain.  In the same
+way also it can be easily shown, that a thing may be accidentally the cause of desire.  Q.E.D.
+
+<<<<<Corollary--Simply from the fact that we have regarded a thing with the emotion of pleasure
+or pain, though that thing be not the efficient cause of the emotion, we can either love or
+hate it.
+
+>>>>>Proof--For from this fact alone it arises (III. xiv.), that the mind afterwards conceiving
+the said thing is affected with the emotion of pleasure or pain, that is (III. xi. note), according
+as the power of the mind and body may be increased or diminished, &c.; and consequently (III.
+xii.), according as the mind may desire or shrink from the conception of it (III. xiii. Cor.),
+in other words (III. xiii. note), according as it may love or hate the same. Q.E.D.
+
+*****Note--Hence we understand how it may happen, that we love or hate a thing without any
+cause for our emotion being known to us; merely, as a phrase is, from "sympathy" or "antipathy."
+We should refer to the same category those objects, which affect us pleasurably or painfully,
+simply because they resemble other objects which affect us in the same way.  This I will show
+in the next Prop.  I am aware that certain authors, who were the first to introduce these terms
+"sympathy" and "antipathy," wished to signify thereby some occult qualities in things; nevertheless
+I think we may be permitted to use the same terms to indicate known or manifest qualities.
+
+XVI. Simply from the fact that we conceive, that a given object has some point of resemblance
+with another object which is wont to affect the mind pleasurably or painfully, although the
+point of resemblance be not the efficient cause of the said emotions, we shall still regard
+the first-named object with love or hate.
+
+>>>>>Proof--The point of resemblance was in the object (by hypothesis), when we regarded it
+with pleasure or pain, thus (III. xiv.), when the mind is affected by the image thereof, it
+will straightway be affected by one or the other emotion, and consequently the thing, which
+we perceive to have the same point of resemblance, will be accidentally (III. xv.) a cause
+of pleasure or pain.  Thus (by the foregoing Corollary), although the point in which the two
+objects resemble one another be not the efficient cause of the emotion, we shall still regard
+the first-named object with love or hate.  Q.E.D.
+
+XVII. If we conceive that a thing, which is wont to affect us painfully, has any point of resemblance
+with another thing which is wont to affect us with an equally strong emotion of pleasure, we
+shall hate the first-named thing, and at the same time we shall love it.
+
+>>>>>Proof--The given thing is (by hypothesis) in itself a cause of pain, and (III. xiii. note),
+in so far as we imagine it with this emotion, we shall hate it:  further, inasmuch as we conceive
+that it has some point of resemblance to something else, which is wont to affect us with an
+equally strong emotion of pleasure, we shall with an equally strong impulse of pleasure love
+it (III. xvi.); thus we shall both hate and love the same thing.  Q.E.D.
+
+*****Note--This disposition of the mind, which arises from two contrary emotions, is called
+"vacillation"; it stands to the emotions in the same relation as doubt does to the imagination
+(II. xliv. note); vacillation and doubt do not differ one from the other, except as greater
+differs from less.  But we must bear in mind that I have deduced this vacillation from causes,
+which give rise through themselves to one of the emotions, and to the other accidentally. I
+have done this, in order that they might be more easily deduced from what went before; but
+I do not deny that vacillation of the disposition generally arises from an object, which is
+the efficient cause of both emotions.  The human body is composed (II. Post. i.) of a variety
+of individual parts of different nature, and may therefore (Ax. i. after Lemma iii. after II.
+xiii.) be affected in a variety of different ways by one and the same body; and contrariwise,
+as one and the same thing can be affected in many ways, it can also in many different ways
+affect one and the same part of the body.  Hence we can easily conceive, that one and the same
+object may be the cause of many and conflicting emotions.
+
+XVIII. A man is as much affected pleasurably or painfully by the image of a thing past or future
+as by the image of a thing present.
+
+>>>>>Proof--So long as a man is affected by the image of anything, he will regard that thing
+as present, even though it be non-existent (II. xvii. and Cor.), he will not conceive it as
+past or future, except in so far as its image is joined to the image of time past or future
+(II. xliv. note).  Wherefore the image of a thing, regarded in itself alone, is identical,
+whether it be referred to time past, time future, or time present; that is (II. xvi. Cor.),
+the disposition or emotion of the body is identical, whether the image be of a thing past or
+future.  Q.E.D.
+
+*****Note I.--I call a thing past or future, according as we either have been or shall be affected
+thereby.  For instance, according as we have seen it, or are about to see it, according as
+it has recreated us, or will recreate us, according as it has harmed us, or will harm us. 
+For, as we thus conceive it, we affirm its existence; that is, the body is affected by no emotion
+which excludes the existence of the thing, and therefore (II. xvii.) the body is affected by
+the image of the thing, in the same way as if the thing were actually present.
+
+*****Note II.--From what has just been said, we understand what is meant by the terms Hope,
+Fear, Confidence, Despair, Joy, and Disappointment.  "Hope" is nothing else but "an inconstant
+pleasure, arising from the image of something future or past, whereof we do not yet know the
+issue."  "Fear," on the other hand, is "an inconstant pain also arising from the image of something
+concerning which we are in doubt."  If the element of doubt be removed from these emotions,
+hope becomes "Confidence" and fear becomes "Despair." In other words, "Pleasure or Pain arising
+from the image of something concerning which we have hoped or feared."  Again, "Joy" is "Pleasure
+arising from the image of something past whereof we have doubted the issue."  "Disappointment"
+is "the Pain opposed to Joy."
+
+XIX. He who conceives that the object of his love is destroyed will feel pain; if he conceives
+that it is preserved he will feel pleasure.
+
+>>>>>Proof--The mind, as far as possible, endeavours to conceive those things which increase
+or help the body's power of activity (III. xii.); in other words (III. xii. note), those things
+which it loves.  But conception is helped by those things which postulate the existence of
+a thing, and contrariwise is hindered by those which exclude the existence of a thing (II.
+xvii.); therefore the images of things, which postulate the existence of an object of love,
+help the mind's endeavour to conceive the object of love, in other words (III. xi. note), affect
+the mind pleasurably; contrariwise those things, which exclude the existence of an object of
+love, hinder the aforesaid mental endeavour; in other words, affect the mind painfully.  He,
+therefore, who conceives that the object of his love is destroyed will feel pain, &c.  Q.E.D.
+
+XX. He who conceives that the object of his hate is destroyed will also feel pleasure.
+
+>>>>>Proof--The mind (III. xiii.) endeavours to conceive those things, which exclude the existence
+of things whereby the body's power of activity is diminished or constrained; that is (III.
+xiii. note), it endeavours to conceive such things as exclude the existence of what it hates;
+therefore the image of a thing, which excludes the existence of what the mind hates, helps
+the aforesaid mental effort, in other words (III. xi. note), affects the mind pleasurably.
+Thus he who conceives that the object of his hate is destroyed will feel pleasure.  Q.E.D.
+
+XXI.  But pleasure postulates the existence of something feeling pleasure, so much the more
+in proportion as the emotion of pleasure is greater; for it is (III. xi. note) a transition
+to a greater perfection; therefore the image of pleasure in the object of love helps the mental
+endeavour of the lover; that is, it affects the lover pleasurably, and so much the more, in
+proportion as this emotion may have been greater in the object of love.  This was our first
+point. Further, in so far as a thing is affected with pain, it is to that extent destroyed,
+the extent being in proportion to the amount of pain (III. xi. note); therefore (III. xix.)
+he who conceives, that the object of his love is affected painfully, will himself be affected
+painfully, in proportion as the said emotion is greater or less in the object of love.  Q.E.D.
+
+XXII. If we conceive that anything pleasurably affects some object of our love, we shall be
+affected with love towards that thing.  Contrariwise, if we conceive that it affects an object
+of our love painfully, we shall be affected with hatred towards it.
+
+>>>>>Proof--He, who affects pleasurably or painfully the object of our love, affects us also
+pleasurably or painfully--that is, if we conceive the loved object as affected with the said
+pleasure or pain (III. xxi.). But this pleasure or pain is postulated to come to us accompanied
+by the idea of an external cause; therefore (III. xiii. note), if we conceive that anyone affects
+an object of our love pleasurably or painfully, we shall be affected with love or hatred towards
+him.  Q.E.D.
+
+*****Note--Prop. xxi. explains to us the nature of 'Pity,' which we may define as 'pain arising
+from another's hurt.'  What term we can use for pleasure arising from another's gain, I know not.
+
+We will call the 'love towards him who confers a benefit on another,' 'Approval;' and the 'hatred
+towards him who injures another,' we will call 'Indignation.'  We must further remark, that
+we not only feel pity for a thing which we have loved (as shown in III. xxi.), but also for
+a thing which we have hitherto regarded without emotion, provided that we deem that it resembles
+ourselves (as I will show presently).  Thus, we bestow approval on one who has benefited anything
+resembling ourselves, and, contrariwise, are indignant with him who has done it an injury.
+
+XXIII. He who conceives, that an object of his hatred is painfully affected, will feel pleasure.
+Contrariwise, if he thinks that the said object is pleasurably affected, he will feel pain.
+Each of these emotions will be greater or less, according as its contrary is greater or less
+in the object of hatred.
+
+>>>>>Proof--In so far as an object of hatred is painfully affected, it is destroyed, to an
+extent proportioned to the strength of the pain (III. xi. note).  Therefore, he (III. xx.)
+who conceives, that some object of his hatred is painfully affected, will feel pleasure, to
+an extent proportioned to the amount of pain he conceives in the object of his hatred.  This
+was our first point.  Again, pleasure postulates the existence of the pleasurably affected
+thing (III. xi. note), in proportion as the pleasure is greater or less.  If anyone imagines
+that an object of his hatred is pleasurably affected, this conception (III. xiii.) will hinder
+his own endeavour to persist; in other words (III. xi. note), he who hates will be painfully
+affected.  Q.E.D.
+
+*****Note--This pleasure can scarcely be felt unalloyed, and without any mental conflict. 
+For (as I am about to show in Prop. xxvii.), in so far as a man conceives that something similar
+to himself is affected by pain, he will himself be affected in like manner; and he will have
+the contrary emotion in contrary circumstances.  But here we are regarding hatred only.
+
+XXIV. If we conceive that anyone pleasurably affects an object of our hate, we shall feel hatred
+towards him also.  If we conceive that he painfully affects that said object, we shall feel
+love towards him.
+
+>>>>>Proof--This proposition is proved in the same way as III. xxii., which see.
+
+*****Note--These and similar emotions of hatred are attributable to 'envy,' which, accordingly,
+is nothing else but 'hatred, in so far as it is regarded as disposing a man to rejoice in another's
+hurt, and to grieve at another's advantage.'
+
+XXV. We endeavour to affirm, concerning ourselves, and concerning what we love, everything
+that we can conceive to affect pleasurably ourselves, or the loved object. Contrariwise, we
+endeavour to negative everything, which we conceive to affect painfully ourselves or the loved
+object.
+
+>>>>>Proof--That, which we conceive to affect an object of our love pleasurably or painfully,
+affects us also pleasurably or painfully (III. xxi.).  But the mind (III. xii.) endeavours,
+as far as possible, to conceive those things which affect us pleasurably; in other words (II.
+xvii. and Cor.), it endeavours to regard them as present.  And, contrariwise (III. xiii.),
+it endeavours to exclude the existence of such things as affect us painfully; therefore, we
+endeavour to affirm concerning ourselves, and concerning the loved object, whatever we conceive
+to affect ourselves, or the love object pleasurably. Q.E.D.
+
+XXVI. We endeavour to affirm, concerning that which we hate, everything which we conceive to
+affect it painfully; and, contrariwise, we endeavour to deny, concerning it, everything which
+we conceive to affect it pleasurably.
+
+>>>>>Proof--This proposition follows from III. xxiii., as the foregoing proposition followed
+from III. xxi.
+
+*****Note--Thus we see that it may readily happen, that a man may easily think too highly of
+himself, or a loved object, and, contrariwise, too meanly of a hated object.  This feeling
+is called 'pride,' in reference to the man who thinks too highly of himself, and is a species
+of madness, wherein a man dreams with his eyes open, thinking that he can accomplish all things
+that fall within the scope of his conception, and thereupon accounting them real, and exulting
+in them, so long as he is unable to conceive anything which excludes their existence, and determines
+his own power of action.  'Pride,' therefore, is 'pleasure springing from a man thinking too
+highly of himself.' Again, the 'pleasure which arises from a man thinking too highly of another'
+is called 'over-esteem.'  Whereas the 'pleasure which arises from thinking too little of a
+man' is called 'disdain.'
+
+XXVII. By the very fact that we conceive a thing, which is like ourselves, and which we have
+not regarded with any emotion, to be affected with any emotion, we are ourselves affected with
+a like emotion (affectus).
+
+>>>>>Proof--The images of things are modifications of the human body, whereof the ideas represent
+external bodies as present to us (II. xvii.); in other words (II. x.), whereof the ideas involve
+the nature of our body, and, at the same time, the nature of the external bodies as present.
+If, therefore, the nature of the external body be similar to the nature of our body, then the
+idea which we form of the external body will involve a modification of our own body similar
+to the modification of the external body.  Consequently, if we conceive anyone similar to ourselves
+as affected by any emotion, this conception will express a modification of our body similar
+to that emotion.  Thus, from the fact of conceiving a thing like ourselves to be affected with
+any emotion, we are ourselves affected with a like emotion. If, however, we hate the said thing
+like ourselves, we shall, to that extent, be affected by a contrary, and not similar, emotion.
+Q.E.D.
+
+*****Note I--This imitation of emotions, when it is referred to pain, is called "compassion"
+(cf. III. xxii. note); when it is referred to desire, it is called "emulation," which is nothing
+else but "the desire of anything, engendered in us by the fact that we conceive that others
+have the like desire."
+
+<<<<<Corollary I--If we conceive that anyone, whom we have hitherto regarded with no emotion,
+pleasurably affects something similar to ourselves, we shall be affected with love towards
+him.  If, on the other hand, we conceive that he painfully affects the same, we shall be affected
+with hatred towards him.
+
+>>>>>Proof--This is proved from the last proposition in the same manner as III. xxii. is proved
+from III. xxi.
+
+<<<<<Corollary II--We cannot hate a thing which we pity, because its misery affects us painfully.
+
+>>>>>Proof--If we could hate it for this reason, we should rejoice in its pain, which is contrary
+to the hypothesis.
+
+<<<<<Corollary III--We seek to free from misery, as far as we can, a thing which we pity.
+
+>>>>>Proof--That, which painfully affects the object of our pity, affects us also with similar
+pain (by the foregoing proposition); therefore, we shall endeavour to recall everything which
+removes its existence, or which destroys it (cf. III. xiii.); in other words (III. ix. note),
+we shall desire to destroy it, or we shall be determined for its destruction; thus, we shall
+endeavour to free from misery a thing which we pity.  Q.E.D.
+
+*****Note II--This will or appetite for doing good, which arises from pity of the thing whereon
+we would confer a benefit, is called "benevolence," and is nothing else but "desire arising
+from compassion."  Concerning love or hate towards him who has done good or harm to something,
+which we conceive to be like ourselves, see III. xxii. note.
+
+XXVIII. We endeavour to bring about whatsoever we conceive to conduce to pleasure; but we endeavour
+to remove or destroy whatsoever we conceive to be truly repugnant thereto, or to conduce to pain.
+
+>>>>>Proof--We endeavour, as far as possible, to conceive that which we imagine to conduce
+to pleasure (III. xii.); in other words (II. xvii.) we shall endeavour to conceive it as far
+as possible as present or actually existing.  But the endeavour of the mind, or the mind's
+power of thought, is equal to, and simultaneous with, the endeavour of the body, or the body's
+power of action.  (This is clear from II. vii. Cor. and II. xi. Cor.).  Therefore we make an
+absolute endeavour for its existence, in other words (which by III. ix., note, come to the
+same thing) we desire and strive for it; this was our first point. Again, if we conceive that
+something, which we believed to be the cause of pain, that is (III. xiii. note), which we hate,
+is destroyed, we shall rejoice (III. xx.).  We shall, therefore (by the first part of this
+proof), endeavour to destroy the same, or (III. xiii.) to remove it from us, so that we may
+not regard it as present; this was our second point.  Wherefore whatsoever conduces to pleasure,
+&c.  Q.E.D.
+
+XXIX. We shall also endeavour to do whatsoever we conceive men* to regard with pleasure, and
+contrariwise we shall shrink from doing that which we conceive men to shrink from.
+
+[*N.B. By "men" in this and the following propositions, I mean men whom we regard without any
+particular emotion.]
+
+>>>>>Proof--From the fact of imagining, that men love or hate anything, we shall love or hate
+the same thing (III. xxvii.). That is (III. xiii. note), from this mere fact we shall feel
+pleasure or pain at the thing's presence.  And so we shall endeavour to do whatsoever we conceive
+men to love or regard with pleasure, etc.  Q.E.D.
+
+*****Note--This endeavour to do a thing or leave it undone, solely in order to please men,
+we call "ambition," especially when we so eagerly endeavour to please the vulgar, that we do
+or omit certain things to our own or another's hurt:  in other cases it is generally called
+"kindliness."  Furthermore I give the name of "praise" to the "pleasure, with which we conceive
+the action of another, whereby he has endeavoured to please us"; but of "blame" to the "pain
+wherewith we feel aversion to his action."
+
+XXX. If anyone has done something which he conceives as affecting other men pleasurably, he
+will be affected by pleasure, accompanied by the idea of himself as cause; in other words,
+he will regard himself with pleasure.  And so "mutatis mutandis" in the case of pain.  Q.E.D.
+
+*****Note--As love (III. xiii.) is pleasure accompanied by the idea of an external cause, and
+hatred is pain accompanied by the idea of an external cause; the pleasure and pain in question
+will be a species of love and hatred.  But, as the terms love and hatred are used in reference
+to external objects, we will employ other names for the emotions now under discussion: pleasure
+accompanied by the idea of an external cause we will style "Honour," and the emotion contrary
+thereto we will style "Shame":  I mean in such cases as where pleasure or pain arises from
+a man's belief, that he is being praised or blamed: otherwise pleasure accompanied by the idea
+of an external cause is called "self-complacency," and its contrary pain is called "repentance."
+Again, as it may happen (II. xvii. Cor.) that the pleasure, wherewith a man conceives that
+he affects others, may exist solely in his own imagination, and as (III. xxv.) everyone endeavours
+to conceive concerning himself that which he conceives will affect him with pleasure, it may
+easily come to pass that a vain man may be proud and may imagine that he is pleasing to all,
+when in reality he may be an annoyance to all.
+
+XXXI. If we conceive that anyone loves, desires, or hates anything which we ourselves love,
+desire, or hate, we shall thereupon regard the thing in question with more steadfast love,
+&c.  On the contrary, if we think that anyone shrinks from something that we love, we shall
+undergo vacillations of soul.
+
+>>>>>Proof--From the mere fact of conceiving that anyone loves anything we shall ourselves
+love that thing (III. xxvii.): but we are assumed to love it already; there is, therefore,
+a new cause of love, whereby our former emotion is fostered; hence we shall thereupon love
+it more steadfastly.  Again, from the mere fact of conceiving that anyone shrinks from anything,
+we shall ourselves shrink from that thing (III. xxvii.). If we assume that we at the same time
+love it, we shall then simultaneously love it and shrink from it; in other words, we shall
+be subject to vacillation (III. xvii. note).  Q.E.D.
+
+<<<<<Corollary--From the foregoing, and also from III. xxviii. it follows that everyone endeavours,
+as far as possible, to cause others to love what he himself loves, and to hate what he himself
+hates:  as the poet* says:  "As lover let us share every hope and every fear:  ironhearted
+were he who should love what the other leaves."** [* Ovid, "Amores," II. xix.
+
+XXXII. If we conceive that anyone takes delight in something, which only one person can possess,
+we shall endeavour to bring it about that the man in question shall not gain possession thereof.
+
+>>>>>Proof--From the mere fact of our conceiving that another person takes delight in a thing
+(III. xxvii. and Cor.) we shall ourselves love that thing and desire to take delight therein.
+But we assumed that the pleasure in question would be prevented by another's delight in its
+object; we shall, therefore, endeavour to prevent his possession thereof (III. xxviii.).  Q.E.D.
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07652.txt">
+  <feature name="about" authors="Swedenborg, Emanuel" title="Angelic Wisdom about Divine Providence" lang="en" />
+  <feature name="md5Hash" value="9d27bd37b88cb321b57564f197c584b1" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9362" this_length="3969" source_reference="source-document00908.txt" source_language="de" source_offset="2494" source_length="4393" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14893" this_length="446" source_reference="source-document00908.txt" source_language="de" source_offset="1971" source_length="488" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17255" this_length="703" source_reference="source-document00908.txt" source_language="de" source_offset="687" source_length="813" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19935" this_length="1529" source_reference="source-document00630.txt" source_language="de" source_offset="21112" source_length="1713" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24591" this_length="204" source_reference="source-document00908.txt" source_language="de" source_offset="1719" source_length="252" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26515" this_length="1196" source_reference="source-document07712.txt" source_language="de" source_offset="1214" source_length="1370" />
+</document>
+

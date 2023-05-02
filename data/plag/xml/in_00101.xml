@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00101.txt">
+  <feature name="about" authors="Stevens, John Austin" title="Albert Gallatin American Statesmen Series, Vol. XIII" lang="en" />
+  <feature name="md5Hash" value="a19bd12a04fd54ab2993198282623eb3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13151" this_length="2809" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29300" this_length="261" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02767.txt">
+  <feature name="about" authors="Chamberlain, Basil Hall" title="The Invention of a New Religion" lang="en" />
+  <feature name="md5Hash" value="a43d935595fcdfa8a5bb0650b1b07756" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4452" this_length="1848" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19985" this_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24477" this_length="273" />
+</document>
+

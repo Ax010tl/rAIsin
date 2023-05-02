@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10618.txt">
+  <feature name="about" authors="Thomas, Edward" title="George Borrow The Man and His Books" lang="en" />
+  <feature name="md5Hash" value="45d3b3022bb6232858404d8608ae0f3e" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="11440" this_length="15593" source_reference="source-document04603.txt" source_language="es" source_offset="290649" source_length="17513" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30348" this_length="244" source_reference="source-document04101.txt" source_language="es" source_offset="5467" source_length="267" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30883" this_length="204" source_reference="source-document04101.txt" source_language="es" source_offset="2141" source_length="240" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31367" this_length="388" source_reference="source-document05828.txt" source_language="es" source_offset="121734" source_length="451" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31854" this_length="461" source_reference="source-document05828.txt" source_language="es" source_offset="82416" source_length="528" />
+</document>
+

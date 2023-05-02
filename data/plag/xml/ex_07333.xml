@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07333.txt">
+  <feature name="about" authors="Tupper, Martin Farquhar" title="Heart A Social Novel" lang="en" />
+  <feature name="md5Hash" value="99e6569ddd9d1275a7ed8758901a2588" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1195" this_length="541" source_reference="source-document05596.txt" source_language="en" source_offset="9491" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4729" this_length="2240" source_reference="source-document05596.txt" source_language="en" source_offset="10398" source_length="2752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16385" this_length="2991" source_reference="source-document10537.txt" source_language="en" source_offset="401279" source_length="4151" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24598" this_length="713" source_reference="source-document05596.txt" source_language="en" source_offset="8625" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26459" this_length="585" source_reference="source-document10537.txt" source_language="en" source_offset="434061" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28175" this_length="293" source_reference="source-document10537.txt" source_language="en" source_offset="291148" source_length="254" />
+</document>
+

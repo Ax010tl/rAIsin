@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02833.txt">
+  <feature name="about" authors="Towle, George Makepeace" title="The Nation in a Nutshell" lang="en" />
+  <feature name="md5Hash" value="71bafe3875223b56d59f6caa9e1eee5c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1523" this_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15361" this_length="2312" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20892" this_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27080" this_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29792" this_length="751" />
+</document>
+

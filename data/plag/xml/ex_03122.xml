@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03122.txt">
+  <feature name="about" authors="Talbot, Frederick Arthur Ambrose" title="Sixteen Months in Four German Prisons Wesel, Sennelager, Klingelputz, Ruhleben" lang="en" />
+  <feature name="md5Hash" value="3a419611ca3cf2fd8c5f85f45e87ca1f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6475" this_length="3909" source_reference="source-document04967.txt" source_language="en" source_offset="431220" source_length="3854" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15203" this_length="1389" source_reference="source-document10132.txt" source_language="en" source_offset="238784" source_length="1736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21023" this_length="2066" source_reference="source-document04967.txt" source_language="en" source_offset="653834" source_length="2237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26245" this_length="258" source_reference="source-document10132.txt" source_language="en" source_offset="27718" source_length="262" />
+</document>
+

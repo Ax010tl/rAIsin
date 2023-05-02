@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06917.txt">
+  <feature name="about" authors="Tarbell, Lee" title="Valley of the Croen" lang="en" />
+  <feature name="md5Hash" value="c315233d9b1613a6193547df5cfc6873" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71" this_length="708" source_reference="source-document01239.txt" source_language="en" source_offset="334649" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="899" this_length="1751" source_reference="source-document01239.txt" source_language="en" source_offset="322193" source_length="1741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3160" this_length="2039" source_reference="source-document01239.txt" source_language="en" source_offset="203629" source_length="2065" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5468" this_length="3283" source_reference="source-document01239.txt" source_language="en" source_offset="271157" source_length="3313" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9250" this_length="495" source_reference="source-document01239.txt" source_language="en" source_offset="268933" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10134" this_length="4018" source_reference="source-document01239.txt" source_language="en" source_offset="145703" source_length="4080" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14865" this_length="2442" source_reference="source-document01239.txt" source_language="en" source_offset="379194" source_length="2377" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17728" this_length="2461" source_reference="source-document01239.txt" source_language="en" source_offset="196261" source_length="2467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20505" this_length="3637" source_reference="source-document01239.txt" source_language="en" source_offset="397651" source_length="3708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24672" this_length="4269" source_reference="source-document01239.txt" source_language="en" source_offset="28413" source_length="4358" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29809" this_length="254" source_reference="source-document01239.txt" source_language="en" source_offset="384225" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30064" this_length="233" source_reference="source-document01239.txt" source_language="en" source_offset="214764" source_length="227" />
+</document>
+

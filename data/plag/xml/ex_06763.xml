@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06763.txt">
+  <feature name="about" authors="Samuelson, James" title="Roumania Past and Present" lang="en" />
+  <feature name="md5Hash" value="3845e16467bc62ac1c2bd583198ada26" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3880" this_length="19234" source_reference="source-document00924.txt" source_language="en" source_offset="278568" source_length="18808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25882" this_length="766" source_reference="source-document08299.txt" source_language="en" source_offset="1337089" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27330" this_length="2128" source_reference="source-document08299.txt" source_language="en" source_offset="196455" source_length="2312" />
+</document>
+

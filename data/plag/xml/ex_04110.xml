@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04110.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="A List To Starboard 1909" lang="en" />
+  <feature name="md5Hash" value="4f3b4a17583f42b1c56298dc1af70a4d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3028" this_length="238" source_reference="source-document07522.txt" source_language="en" source_offset="208151" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18732" this_length="761" source_reference="source-document07522.txt" source_language="en" source_offset="61615" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22164" this_length="228" source_reference="source-document07522.txt" source_language="en" source_offset="139676" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30120" this_length="232" source_reference="source-document07522.txt" source_language="en" source_offset="215070" source_length="228" />
+</document>
+

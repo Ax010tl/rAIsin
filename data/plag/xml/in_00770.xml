@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00770.txt">
+  <feature name="about" authors="Talbot, Neville Stuart" title="Thoughts on religion at the front" lang="en" />
+  <feature name="md5Hash" value="c50185e99a3c7e672cbe5126165079bd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12323" this_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22170" this_length="547" />
+</document>
+

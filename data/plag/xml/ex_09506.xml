@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09506.txt">
+  <feature name="about" authors="Stockley, Cynthia" title="Blue Aloes Stories of South Africa" lang="en" />
+  <feature name="md5Hash" value="a5c19938b190eb71170eb682d8d0fc02" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177" this_length="1654" source_reference="source-document05923.txt" source_language="en" source_offset="94406" source_length="2142" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3638" this_length="12530" source_reference="source-document01606.txt" source_language="en" source_offset="313787" source_length="22689" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17103" this_length="515" source_reference="source-document03463.txt" source_language="en" source_offset="1188" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17959" this_length="3838" source_reference="source-document01606.txt" source_language="en" source_offset="210745" source_length="4027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22248" this_length="3233" source_reference="source-document01606.txt" source_language="en" source_offset="158504" source_length="3300" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25631" this_length="740" source_reference="source-document01606.txt" source_language="en" source_offset="411683" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26468" this_length="257" source_reference="source-document01606.txt" source_language="en" source_offset="286419" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26930" this_length="517" source_reference="source-document03463.txt" source_language="en" source_offset="1729" source_length="471" />
+</document>
+

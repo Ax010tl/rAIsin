@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00254.txt">
+  <feature name="about" authors="United States. Presidents." title="State of the Union Address (1790-2001)" lang="en" />
+  <feature name="md5Hash" value="2d420ba94d8d983721c1ac42d30aa804" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3434" this_length="19111" source_reference="source-document05456.txt" source_language="en" source_offset="154703" source_length="20234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22975" this_length="2348" source_reference="source-document05456.txt" source_language="en" source_offset="139570" source_length="2196" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25464" this_length="2091" source_reference="source-document05456.txt" source_language="en" source_offset="200001" source_length="2015" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27932" this_length="1488" source_reference="source-document05456.txt" source_language="en" source_offset="36098" source_length="1491" />
+</document>
+

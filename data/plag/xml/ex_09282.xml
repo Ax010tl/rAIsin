@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09282.txt">
+  <feature name="about" authors="Spinoza, Benedictus de" title="Theologico-Political Treatise — Part 2" lang="en" />
+  <feature name="md5Hash" value="eeff4af55a00eddddef4ae134dd91e8d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3229" this_length="1998" source_reference="source-document09281.txt" source_language="en" source_offset="19749" source_length="1983" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22926" this_length="540" source_reference="source-document09281.txt" source_language="en" source_offset="27400" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27117" this_length="501" source_reference="source-document09281.txt" source_language="en" source_offset="11261" source_length="488" />
+</document>
+

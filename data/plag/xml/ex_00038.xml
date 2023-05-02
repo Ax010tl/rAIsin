@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00038.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="A Gentleman Vagabond and Some Others" lang="en" />
+  <feature name="md5Hash" value="536f7782c53cb93180dfe0ac6cc38bda" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="547" this_length="16055" source_reference="source-document02296.txt" source_language="en" source_offset="230589" source_length="23631" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18969" this_length="3248" source_reference="source-document02296.txt" source_language="en" source_offset="116140" source_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22579" this_length="2117" source_reference="source-document02296.txt" source_language="en" source_offset="316264" source_length="2261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24697" this_length="2097" source_reference="source-document03970.txt" source_language="en" source_offset="714770" source_length="2136" />
+</document>
+

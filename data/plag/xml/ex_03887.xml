@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03887.txt">
+  <feature name="about" authors="Verne, Jules" title="Celebrated Travels and Travellers Part III. The Great Explorers of the Nineteenth Century" lang="en" />
+  <feature name="md5Hash" value="ccad6239881337b4fa64dddec1edb617" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5522" this_length="1483" source_reference="source-document10808.txt" source_language="en" source_offset="26058" source_length="1688" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20165" this_length="1992" source_reference="source-document10808.txt" source_language="en" source_offset="5345" source_length="1915" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25003" this_length="271" source_reference="source-document10808.txt" source_language="en" source_offset="22160" source_length="264" />
+</document>
+

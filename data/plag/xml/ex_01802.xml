@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01802.txt">
+  <feature name="about" authors="Starzl, Roman Frederick" title="In the Orbit of Saturn" lang="en" />
+  <feature name="md5Hash" value="11a0cf74f02a33e87b6183c1396cc439" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6398" this_length="407" source_reference="source-document02299.txt" source_language="en" source_offset="16639" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14966" this_length="277" source_reference="source-document02299.txt" source_language="en" source_offset="6708" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21775" this_length="238" source_reference="source-document02299.txt" source_language="en" source_offset="12623" source_length="237" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00674.txt">
+  <feature name="about" authors="Davis, Richard Harding" title="The Nature Faker" lang="en" />
+  <feature name="md5Hash" value="9b00869ba1b786dda77b3dae110067d8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7788" this_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18012" this_length="1489" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24666" this_length="524" />
+</document>
+

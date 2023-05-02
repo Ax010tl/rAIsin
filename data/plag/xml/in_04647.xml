@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04647.txt">
+  <feature name="about" authors="Van Dyke, Henry" title="The Spirit of Christmas" lang="en" />
+  <feature name="md5Hash" value="49b2d4f017638dbcbb9ce6da37900f87" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5903" this_length="3944" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19225" this_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25834" this_length="2125" />
+</document>
+

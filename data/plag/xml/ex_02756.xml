@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02756.txt">
+  <feature name="about" authors="Vincent, Harl" title="The Copper-Clad World" lang="en" />
+  <feature name="md5Hash" value="475108c251ea1358d7fdc123a16de388" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10633" this_length="4607" source_reference="source-document06642.txt" source_language="en" source_offset="840368" source_length="4664" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17027" this_length="710" source_reference="source-document06642.txt" source_language="en" source_offset="585669" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22916" this_length="2029" source_reference="source-document06642.txt" source_language="en" source_offset="251554" source_length="2049" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26113" this_length="236" source_reference="source-document06642.txt" source_language="en" source_offset="851911" source_length="241" />
+</document>
+

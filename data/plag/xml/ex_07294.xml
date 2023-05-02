@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07294.txt">
+  <feature name="about" authors="Shaw, Bernard" title="Cashel Byron's Profession" lang="en" />
+  <feature name="md5Hash" value="fcea4c7a633331b688b1c917d1ba3e84" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="709" this_length="4281" source_reference="source-document07812.txt" source_language="en" source_offset="161755" source_length="4283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10451" this_length="15717" source_reference="source-document02447.txt" source_language="en" source_offset="113855" source_length="15109" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26565" this_length="550" source_reference="source-document07812.txt" source_language="en" source_offset="1341" source_length="543" />
+</document>
+

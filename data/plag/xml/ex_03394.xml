@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03394.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The Girl at Cobhurst" lang="en" />
+  <feature name="md5Hash" value="17f0b1d68864ffb4503812344513e241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5038" this_length="1460" source_reference="source-document02006.txt" source_language="en" source_offset="11044" source_length="1464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17077" this_length="242" source_reference="source-document02006.txt" source_language="en" source_offset="6149" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20970" this_length="238" source_reference="source-document02006.txt" source_language="en" source_offset="14764" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24089" this_length="524" source_reference="source-document02006.txt" source_language="en" source_offset="18909" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27143" this_length="240" source_reference="source-document02006.txt" source_language="en" source_offset="12956" source_length="236" />
+</document>
+

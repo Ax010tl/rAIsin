@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01697.txt">
+  <feature name="about" authors="Sinclair, Upton" title="Love's Pilgrimage" lang="en" />
+  <feature name="md5Hash" value="e917b8f87d10a8b9d9946eec554d9683" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="77" this_length="3471" source_reference="source-document05169.txt" source_language="de" source_offset="18054" source_length="3803" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3925" this_length="1599" source_reference="source-document05169.txt" source_language="de" source_offset="177654" source_length="1779" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5973" this_length="17347" source_reference="source-document05169.txt" source_language="de" source_offset="213592" source_length="19319" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25214" this_length="3399" source_reference="source-document03555.txt" source_language="de" source_offset="940" source_length="3739" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29069" this_length="250" source_reference="source-document03555.txt" source_language="de" source_offset="5653" source_length="275" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29320" this_length="611" source_reference="source-document05169.txt" source_language="de" source_offset="76775" source_length="681" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30043" this_length="228" source_reference="source-document05169.txt" source_language="de" source_offset="138893" source_length="232" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30272" this_length="208" source_reference="source-document03555.txt" source_language="de" source_offset="524" source_length="238" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30481" this_length="431" source_reference="source-document05169.txt" source_language="de" source_offset="193149" source_length="457" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31035" this_length="222" source_reference="source-document05169.txt" source_language="de" source_offset="22171" source_length="260" />
+</document>
+

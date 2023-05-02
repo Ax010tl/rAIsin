@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09572.txt">
+  <feature name="about" authors="Saltus, Edgar" title="The Lords of the Ghostland A History of the Ideal" lang="en" />
+  <feature name="md5Hash" value="75b999758a61068d145ff42945d7771e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1139" this_length="4690" source_reference="source-document03534.txt" source_language="en" source_offset="108013" source_length="4963" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20409" this_length="246" source_reference="source-document03534.txt" source_language="en" source_offset="90248" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21553" this_length="247" source_reference="source-document03534.txt" source_language="en" source_offset="159656" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23855" this_length="694" source_reference="source-document03534.txt" source_language="en" source_offset="186095" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25793" this_length="252" source_reference="source-document03534.txt" source_language="en" source_offset="23397" source_length="243" />
+</document>
+

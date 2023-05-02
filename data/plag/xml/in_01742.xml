@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01742.txt">
+  <feature name="about" authors="Wells, Joseph" title="The Oxford Degree Ceremony" lang="en" />
+  <feature name="md5Hash" value="488586e0b461fb7a14e6518ca89b6883" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16971" this_length="2921" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28423" this_length="246" />
+</document>
+

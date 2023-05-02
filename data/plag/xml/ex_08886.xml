@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08886.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="The Girl and the Kingdom Learning to Teach" lang="en" />
+  <feature name="md5Hash" value="e7d6b2854914c52e97c8c6ef98d29b20" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12862" this_length="3688" source_reference="source-document01528.txt" source_language="en" source_offset="3412" source_length="3672" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21363" this_length="2024" source_reference="source-document01528.txt" source_language="en" source_offset="1150" source_length="2035" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29908" this_length="232" source_reference="source-document01528.txt" source_language="en" source_offset="7084" source_length="227" />
+</document>
+

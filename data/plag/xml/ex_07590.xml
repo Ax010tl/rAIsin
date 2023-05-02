@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07590.txt">
+  <feature name="about" authors="Viebig, Clara" title="Absolution" lang="en" />
+  <feature name="md5Hash" value="f1abb388c170ea4a6d589774451b3387" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5642" this_length="2258" source_reference="source-document02162.txt" source_language="en" source_offset="15204" source_length="3285" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="7964" this_length="459" source_reference="source-document02582.txt" source_language="en" source_offset="55276" source_length="493" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="11491" this_length="2253" source_reference="source-document03398.txt" source_language="en" source_offset="33395" source_length="2266" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13825" this_length="206" source_reference="source-document09565.txt" source_language="en" source_offset="353367" source_length="237" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14407" this_length="251" source_reference="source-document05821.txt" source_language="en" source_offset="23512" source_length="250" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14659" this_length="956" source_reference="source-document00797.txt" source_language="en" source_offset="274228" source_length="1764" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15616" this_length="121" source_reference="source-document04730.txt" source_language="en" source_offset="118843" source_length="266" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15738" this_length="3381" source_reference="source-document10837.txt" source_language="en" source_offset="112810" source_length="3433" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="19120" this_length="210" source_reference="source-document07670.txt" source_language="en" source_offset="59428" source_length="254" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="19331" this_length="458" source_reference="source-document00978.txt" source_language="en" source_offset="51779" source_length="457" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="19790" this_length="553" source_reference="source-document02072.txt" source_language="en" source_offset="5450931" source_length="520" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="20344" this_length="2563" source_reference="source-document03662.txt" source_language="en" source_offset="209605" source_length="2520" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="22908" this_length="3110" source_reference="source-document08704.txt" source_language="en" source_offset="26795" source_length="3215" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="26019" this_length="3830" source_reference="source-document10980.txt" source_language="en" source_offset="64336" source_length="3977" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="29850" this_length="338" source_reference="source-document01861.txt" source_language="en" source_offset="373032" source_length="537" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="30189" this_length="331" source_reference="source-document09192.txt" source_language="en" source_offset="17924" source_length="489" />
+</document>
+

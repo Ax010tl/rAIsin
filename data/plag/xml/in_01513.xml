@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01513.txt">
+  <feature name="about" authors="Sabin, Edwin Legrand" title="Pluck on the Long Trail Boy Scouts in the Rockies" lang="en" />
+  <feature name="md5Hash" value="014e999b578ad746024fa4822e7a38c1" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="134" this_length="252" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4600" this_length="1775" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21137" this_length="632" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24264" this_length="668" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28967" this_length="236" />
+</document>
+

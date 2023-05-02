@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01764.txt">
+  <feature name="about" authors="Toy, Crawford Howell" title="Introduction to the History of Religions Handbooks on the History of Religions, Volume IV" lang="en" />
+  <feature name="md5Hash" value="745c70c4252680b1c42a4244d1bb0785" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10975" this_length="3080" />
+</document>
+

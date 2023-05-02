@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07363.txt">
+  <feature name="about" authors="Verrill, Alpheus Hyatt" title="Knots, Splices and Rope Work A Practical Treatise" lang="en" />
+  <feature name="md5Hash" value="cd4dd5f4194505edb75607c2bf609d8d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6081" this_length="2177" source_reference="source-document10495.txt" source_language="en" source_offset="279754" source_length="1991" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15734" this_length="1178" source_reference="source-document10495.txt" source_language="en" source_offset="93310" source_length="2474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21984" this_length="481" source_reference="source-document03232.txt" source_language="en" source_offset="83876" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23211" this_length="512" source_reference="source-document10495.txt" source_language="en" source_offset="20810" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26844" this_length="1392" source_reference="source-document03232.txt" source_language="en" source_offset="119614" source_length="1470" />
+</document>
+

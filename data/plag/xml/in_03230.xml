@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03230.txt">
+  <feature name="about" authors="Stephens, Charles Asbury" title="A Busy Year at the Old Squire's" lang="en" />
+  <feature name="md5Hash" value="8fd0f8a2ed4a5ddd10b98e8518c98ce2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5860" this_length="1999" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20582" this_length="2212" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26258" this_length="241" />
+</document>
+

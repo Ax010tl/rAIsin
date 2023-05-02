@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01516.txt">
+  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 04: Caligula" lang="en" />
+  <feature name="md5Hash" value="7f86b90d5443e27068dda0f57a1bba39" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7328" this_length="773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21964" this_length="515" />
+</document>
+

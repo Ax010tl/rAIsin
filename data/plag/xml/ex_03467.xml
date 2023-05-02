@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03467.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Passages from a Relinquised Work (From &quot;Mosses from an Old Manse&quot;)" lang="en" />
+  <feature name="md5Hash" value="be3298aa7274e4fc4790ca6500729d68" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3059" this_length="232" source_reference="source-document01667.txt" source_language="en" source_offset="15932" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11223" this_length="554" source_reference="source-document01667.txt" source_language="en" source_offset="203800" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17889" this_length="246" source_reference="source-document01667.txt" source_language="en" source_offset="279388" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23460" this_length="244" source_reference="source-document01667.txt" source_language="en" source_offset="420235" source_length="231" />
+</document>
+

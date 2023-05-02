@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01927.txt">
+  <feature name="about" authors="Jordan, David Starr" title="Life's Enthusiasms" lang="en" />
+  <feature name="md5Hash" value="b4bf57b97261862a636b520ccfc08a5f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7059" this_length="2329" />
+</document>
+

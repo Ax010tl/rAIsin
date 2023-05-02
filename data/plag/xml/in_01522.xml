@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01522.txt">
+  <feature name="about" authors="Sawyer, Ruth" title="The Primrose Ring" lang="en" />
+  <feature name="md5Hash" value="eb3c2730e71cba072a9552025a49724e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9770" this_length="3346" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25580" this_length="486" />
+</document>
+

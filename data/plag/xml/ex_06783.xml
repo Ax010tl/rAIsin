@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06783.txt">
+  <feature name="about" authors="Holmes, Oliver Wendell" title="The Poetical Works of Oliver Wendell Holmes — Volume 03: Medical Poems" lang="en" />
+  <feature name="md5Hash" value="2f10edfff65523d74da9c5bae295b033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="636" this_length="502" source_reference="source-document06508.txt" source_language="en" source_offset="21731" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11873" this_length="4781" source_reference="source-document06508.txt" source_language="en" source_offset="349158" source_length="4777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19534" this_length="2204" source_reference="source-document06508.txt" source_language="en" source_offset="358905" source_length="2275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26179" this_length="526" source_reference="source-document06508.txt" source_language="en" source_offset="15919" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27259" this_length="266" source_reference="source-document06508.txt" source_language="en" source_offset="201146" source_length="269" />
+</document>
+

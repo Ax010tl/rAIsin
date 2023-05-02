@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00905.txt">
+  <feature name="about" authors="Coppel, Alfred" title="The Peacemaker" lang="en" />
+  <feature name="md5Hash" value="3d0c67b54bec59c2d4c81bc7d2326f68" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2309" this_length="251" source_reference="source-document09393.txt" source_language="en" source_offset="1199" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12622" this_length="530" source_reference="source-document04014.txt" source_language="en" source_offset="104836" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20271" this_length="234" source_reference="source-document09393.txt" source_language="en" source_offset="971" source_length="228" />
+</document>
+

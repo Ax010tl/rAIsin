@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06006.txt">
+  <feature name="about" authors="Van Dyke, Henry" title="Songs out of Doors" lang="en" />
+  <feature name="md5Hash" value="73c7fb548a422ac310708359877e743c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1222" this_length="2942" source_reference="source-document03949.txt" source_language="en" source_offset="97913" source_length="3107" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4165" this_length="1990" source_reference="source-document03949.txt" source_language="en" source_offset="20338" source_length="2032" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7449" this_length="2563" source_reference="source-document03949.txt" source_language="en" source_offset="52682" source_length="2526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10906" this_length="3043" source_reference="source-document03949.txt" source_language="en" source_offset="23356" source_length="3037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14790" this_length="2199" source_reference="source-document03949.txt" source_language="en" source_offset="94321" source_length="2033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18734" this_length="4955" source_reference="source-document03949.txt" source_language="en" source_offset="31690" source_length="4817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24299" this_length="1694" source_reference="source-document03949.txt" source_language="en" source_offset="91700" source_length="1723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26184" this_length="554" source_reference="source-document03949.txt" source_language="en" source_offset="40161" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27036" this_length="216" source_reference="source-document03949.txt" source_language="en" source_offset="73231" source_length="227" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03054.txt">
+  <feature name="about" authors="Sloane, Julia M." title="The Smiling Hill-Top And Other California Sketches" lang="en" />
+  <feature name="md5Hash" value="1832c0048bff0686d7262cad63c08d3e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2714" this_length="17609" source_reference="source-document10776.txt" source_language="en" source_offset="170689" source_length="18305" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21394" this_length="3049" source_reference="source-document10776.txt" source_language="en" source_offset="315292" source_length="3144" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24716" this_length="1702" source_reference="source-document02966.txt" source_language="en" source_offset="310712" source_length="1707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26821" this_length="1490" source_reference="source-document02966.txt" source_language="en" source_offset="374717" source_length="1518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28527" this_length="267" source_reference="source-document10776.txt" source_language="en" source_offset="278173" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28795" this_length="473" source_reference="source-document10776.txt" source_language="en" source_offset="471838" source_length="466" />
+</document>
+

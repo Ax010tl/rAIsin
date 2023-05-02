@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01179.txt">
+  <feature name="about" authors="Wharton, Edith" title="Fighting France, from Dunkerque to Belfort" lang="en" />
+  <feature name="md5Hash" value="21b1531182b51dbfe064a414acb5b3fb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="838" this_length="4697" source_reference="source-document09060.txt" source_language="en" source_offset="97371" source_length="4475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7159" this_length="1880" source_reference="source-document09060.txt" source_language="en" source_offset="4089" source_length="1949" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10252" this_length="1804" source_reference="source-document10131.txt" source_language="en" source_offset="14759" source_length="1792" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12535" this_length="2225" source_reference="source-document09060.txt" source_language="en" source_offset="62006" source_length="2285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15651" this_length="265" source_reference="source-document09060.txt" source_language="en" source_offset="128023" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17405" this_length="4213" source_reference="source-document09060.txt" source_language="en" source_offset="44565" source_length="4548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22462" this_length="4622" source_reference="source-document09060.txt" source_language="en" source_offset="32823" source_length="4491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28747" this_length="244" source_reference="source-document10131.txt" source_language="en" source_offset="19175" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29065" this_length="270" source_reference="source-document10131.txt" source_language="en" source_offset="21719" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29484" this_length="272" source_reference="source-document09060.txt" source_language="en" source_offset="126590" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29757" this_length="252" source_reference="source-document10131.txt" source_language="en" source_offset="16750" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30159" this_length="488" source_reference="source-document10131.txt" source_language="en" source_offset="4205" source_length="516" />
+</document>
+

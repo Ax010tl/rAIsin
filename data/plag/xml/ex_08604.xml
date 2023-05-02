@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08604.txt">
+  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 03: Tiberius" lang="en" />
+  <feature name="md5Hash" value="7384d4033a10b0c5f9c78c5b5286313a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1707" this_length="11227" source_reference="source-document04324.txt" source_language="en" source_offset="330846" source_length="20795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15132" this_length="1583" source_reference="source-document04324.txt" source_language="en" source_offset="309087" source_length="1538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16716" this_length="3408" source_reference="source-document04324.txt" source_language="en" source_offset="298997" source_length="4471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21268" this_length="3291" source_reference="source-document04324.txt" source_language="en" source_offset="132221" source_length="4136" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25013" this_length="238" source_reference="source-document04324.txt" source_language="en" source_offset="423237" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25342" this_length="703" source_reference="source-document04324.txt" source_language="en" source_offset="174010" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26046" this_length="252" source_reference="source-document04324.txt" source_language="en" source_offset="292370" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26704" this_length="249" source_reference="source-document04324.txt" source_language="en" source_offset="138670" source_length="249" />
+</document>
+

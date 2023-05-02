@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10411.txt">
+  <feature name="about" authors="Sweeney, Zachary Taylor" title="The Spirit and the Word A Treatise on the Holy Spirit in the Light of a Rational Interpretation of the Word of Truth" lang="en" />
+  <feature name="md5Hash" value="22e3fb30bb2e52d1973ddde19610d775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3567" this_length="10144" source_reference="source-document08595.txt" source_language="en" source_offset="131088" source_length="15552" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14806" this_length="2855" source_reference="source-document09047.txt" source_language="en" source_offset="4600" source_length="2716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17844" this_length="418" source_reference="source-document08595.txt" source_language="en" source_offset="77809" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18439" this_length="2243" source_reference="source-document08595.txt" source_language="en" source_offset="36981" source_length="2543" />
+</document>
+

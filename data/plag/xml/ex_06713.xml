@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06713.txt">
+  <feature name="about" authors="Wollstonecraft, Mary" title="Mary A Fiction" lang="en" />
+  <feature name="md5Hash" value="62a75b2e813cb653709143b549289f0a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6989" this_length="14292" source_reference="source-document02072.txt" source_language="en" source_offset="4042051" source_length="15322" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23384" this_length="1725" source_reference="source-document04601.txt" source_language="en" source_offset="4000" source_length="1721" />
+</document>
+

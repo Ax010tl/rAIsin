@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05058.txt">
+  <feature name="about" authors="Stevenson, James" title="Ceremonial of Hasjelti Dailjis and Mythical Sand Painting of the Navajo Indians" lang="en" />
+  <feature name="md5Hash" value="159b0d872fda86c11ea9a0b2e40bfa2f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3391" this_length="281" source_reference="source-document02091.txt" source_language="en" source_offset="119080" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14239" this_length="245" source_reference="source-document02091.txt" source_language="en" source_offset="21883" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26130" this_length="758" source_reference="source-document02091.txt" source_language="en" source_offset="281816" source_length="708" />
+</document>
+

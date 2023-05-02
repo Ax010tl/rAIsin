@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03322.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Helena" lang="en" />
+  <feature name="md5Hash" value="0b6779076fc5120142a860120b240b9f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1838" this_length="14983" source_reference="source-document08823.txt" source_language="en" source_offset="170532" source_length="17194" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19538" this_length="2313" source_reference="source-document08823.txt" source_language="en" source_offset="202417" source_length="2730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22910" this_length="2387" source_reference="source-document08823.txt" source_language="en" source_offset="87121" source_length="2432" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25615" this_length="1819" source_reference="source-document08823.txt" source_language="en" source_offset="229983" source_length="1813" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00803.txt">
+  <feature name="about" authors="Verne, Jules" title="Michael Strogoff Or, The Courier of the Czar" lang="en" />
+  <feature name="md5Hash" value="251ac3ee3f66ea5a77086952acd69f52" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19979" this_length="2838" source_reference="source-document05691.txt" source_language="en" source_offset="9208" source_length="4176" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28512" this_length="287" source_reference="source-document05691.txt" source_language="en" source_offset="33858" source_length="258" />
+</document>
+

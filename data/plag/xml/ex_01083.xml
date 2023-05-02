@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01083.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Fragments from the Journal of a Solitary Man (From: &quot;The Doliver Romance and Other Pieces: Tales and Sketches&quot;)" lang="en" />
+  <feature name="md5Hash" value="42e569d532534489fe2544d423682469" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8724" this_length="4593" source_reference="source-document01168.txt" source_language="es" source_offset="68744" source_length="4985" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14571" this_length="2576" source_reference="source-document01168.txt" source_language="es" source_offset="64141" source_length="2891" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="23045" this_length="491" source_reference="source-document01168.txt" source_language="es" source_offset="22697" source_length="536" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24130" this_length="419" source_reference="source-document01168.txt" source_language="es" source_offset="75535" source_length="503" />
+</document>
+

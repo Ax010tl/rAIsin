@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04509.txt">
+  <feature name="about" authors="Swedenborg, Emanuel" title="Heaven and its Wonders and Hell" lang="en" />
+  <feature name="md5Hash" value="ebac5ba5578833cb1df7307accb21995" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="8541" this_length="1891" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23364" this_length="224" />
+</document>
+

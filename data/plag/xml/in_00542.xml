@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00542.txt">
+  <feature name="about" authors="Stevenson, Burton Egbert" title="American Men of Action" lang="en" />
+  <feature name="md5Hash" value="222b88b20e2bcbd7bbf6a29571381606" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2213" this_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9096" this_length="224" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18447" this_length="821" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02795.txt">
+  <feature name="about" authors="Shelley, Henry Charles" title="Inns and Taverns of Old London" lang="en" />
+  <feature name="md5Hash" value="0b4a2690616f84f92f36dada23080180" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1165" this_length="1495" source_reference="source-document09351.txt" source_language="en" source_offset="180844" source_length="1496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25060" this_length="1515" source_reference="source-document09351.txt" source_language="en" source_offset="196083" source_length="1473" />
+</document>
+

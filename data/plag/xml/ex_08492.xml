@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08492.txt">
+  <feature name="about" authors="Wallace, Alfred Russel" title="Is Mars habitable? A critical examination of Professor Percival Lowell's book &quot;Mars and its canals,&quot; with an alternative explanation" lang="en" />
+  <feature name="md5Hash" value="bfcf56d091718e31e0f4c1e22fc81932" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7229" this_length="1450" source_reference="source-document05436.txt" source_language="en" source_offset="1650" source_length="1515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13438" this_length="2882" source_reference="source-document10933.txt" source_language="en" source_offset="134408" source_length="2929" />
+</document>
+

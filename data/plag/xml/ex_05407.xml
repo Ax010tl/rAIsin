@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05407.txt">
+  <feature name="about" authors="Ward, C. S." title="Hints on Driving" lang="en" />
+  <feature name="md5Hash" value="d4d48fcc240a224ddfa49279aa0cb186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="901" this_length="13770" source_reference="source-document10721.txt" source_language="en" source_offset="1590" source_length="19432" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16149" this_length="2964" source_reference="source-document03488.txt" source_language="en" source_offset="196911" source_length="4808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19621" this_length="1727" source_reference="source-document10721.txt" source_language="en" source_offset="22138" source_length="1684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21978" this_length="3835" source_reference="source-document04802.txt" source_language="en" source_offset="179711" source_length="4559" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25814" this_length="750" source_reference="source-document10721.txt" source_language="en" source_offset="544" source_length="706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26565" this_length="765" source_reference="source-document04802.txt" source_language="en" source_offset="213526" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27331" this_length="888" source_reference="source-document04802.txt" source_language="en" source_offset="77552" source_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28439" this_length="810" source_reference="source-document04802.txt" source_language="en" source_offset="205638" source_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29357" this_length="298" source_reference="source-document10721.txt" source_language="en" source_offset="21872" source_length="266" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00935.txt">
+  <feature name="about" authors="Stewart, Elinore Pruitt" title="Letters on an Elk Hunt" lang="en" />
+  <feature name="md5Hash" value="3ddee03de185c2c50f6a3771a8154efa" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1478" this_length="3735" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20906" this_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21469" this_length="230" />
+</document>
+

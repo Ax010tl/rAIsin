@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08350.txt">
+  <feature name="about" authors="Skinner, Charles Montgomery" title="Myths and Legends of Our Own Land — Volume 06 : Central States and Great Lakes" lang="en" />
+  <feature name="md5Hash" value="16d65c1c3782b30524a5c695b09cceb3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6187" this_length="512" source_reference="source-document03181.txt" source_language="en" source_offset="19070" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13544" this_length="233" source_reference="source-document00197.txt" source_language="en" source_offset="7570" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19694" this_length="270" source_reference="source-document00197.txt" source_language="en" source_offset="2899" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23050" this_length="463" source_reference="source-document03181.txt" source_language="en" source_offset="20513" source_length="472" />
+</document>
+

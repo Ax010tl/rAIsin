@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04709.txt">
+  <feature name="about" authors="Wainwright, Jonathan Mayhew" title="A Sermon Preached on the Anniversary of the Boston Female Asylum for Destitute Orphans, September 25, 1835" lang="en" />
+  <feature name="md5Hash" value="9bca8d5f560e402d81afa40aea65b8c5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1634" this_length="14084" source_reference="source-document09665.txt" source_language="es" source_offset="188459" source_length="15761" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27367" this_length="445" source_reference="source-document09665.txt" source_language="es" source_offset="51994" source_length="494" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28315" this_length="491" source_reference="source-document09665.txt" source_language="es" source_offset="322528" source_length="527" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29148" this_length="489" source_reference="source-document09665.txt" source_language="es" source_offset="329376" source_length="510" />
+</document>
+

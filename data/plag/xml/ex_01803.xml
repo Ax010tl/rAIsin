@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01803.txt">
+  <feature name="about" authors="Twain, Mark" title="Mark Twain's Letters — Volume 5 (1901-1906)" lang="en" />
+  <feature name="md5Hash" value="a0eec12a2c15e743af5bc55f948bf1b7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2781" this_length="11937" source_reference="source-document07821.txt" source_language="en" source_offset="109570" source_length="21976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15805" this_length="2891" source_reference="source-document08663.txt" source_language="en" source_offset="230186" source_length="2902" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19650" this_length="3623" source_reference="source-document08663.txt" source_language="en" source_offset="203725" source_length="4778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23665" this_length="2913" source_reference="source-document08663.txt" source_language="en" source_offset="251892" source_length="3016" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26982" this_length="246" source_reference="source-document08663.txt" source_language="en" source_offset="14897" source_length="246" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11054.txt">
+  <feature name="about" authors="Shaler, Nathaniel Southgate" title="Outlines of the Earth's History A Popular Study in Physiography" lang="en" />
+  <feature name="md5Hash" value="7a0448fe61037c27577e1655d35f15bd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="273" source_reference="source-document05950.txt" source_language="en" source_offset="336198" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6523" this_length="844" source_reference="source-document05950.txt" source_language="en" source_offset="329782" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9944" this_length="279" source_reference="source-document05950.txt" source_language="en" source_offset="38613" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12426" this_length="245" source_reference="source-document05950.txt" source_language="en" source_offset="87315" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17892" this_length="893" source_reference="source-document05950.txt" source_language="en" source_offset="181083" source_length="819" />
+</document>
+

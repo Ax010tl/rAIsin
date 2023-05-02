@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08147.txt">
+  <feature name="about" authors="Wharton, William Harris" title="Texas : a Brief Account of the Origin, Progress and Present State of the Colonial Settlements of Texas; Together with an Exposition of the Causes which have induced the Existing War with Mexico" lang="en" />
+  <feature name="md5Hash" value="d32eecd8fc0c4485a136bd1f47193671" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4595" this_length="9923" source_reference="source-document03654.txt" source_language="en" source_offset="15602" source_length="15898" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15818" this_length="2647" source_reference="source-document10243.txt" source_language="en" source_offset="417285" source_length="2508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19354" this_length="1854" source_reference="source-document03654.txt" source_language="en" source_offset="6369" source_length="3615" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22745" this_length="3695" source_reference="source-document10243.txt" source_language="en" source_offset="664976" source_length="3760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26890" this_length="229" source_reference="source-document03654.txt" source_language="en" source_offset="32782" source_length="225" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09842.txt">
+  <feature name="about" authors="Sapir, Edward" title="Language An Introduction to the Study of Speech" lang="en" />
+  <feature name="md5Hash" value="2a5d07bc5c0cbb375c6f714317ac7a09" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4168" this_length="222" source_reference="source-document05453.txt" source_language="en" source_offset="26572" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13805" this_length="508" source_reference="source-document05453.txt" source_language="en" source_offset="8830" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17156" this_length="523" source_reference="source-document00865.txt" source_language="en" source_offset="48326" source_length="535" />
+</document>
+

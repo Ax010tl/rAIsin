@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08271.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The Adventures of Roderick Random" lang="en" />
+  <feature name="md5Hash" value="4d9dc9b2450474193db08f18f266afa2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4512" this_length="16136" source_reference="source-document10010.txt" source_language="en" source_offset="211898" source_length="16349" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21691" this_length="467" source_reference="source-document10010.txt" source_language="en" source_offset="240898" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22423" this_length="1340" source_reference="source-document10010.txt" source_language="en" source_offset="62667" source_length="1433" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24401" this_length="2368" source_reference="source-document10010.txt" source_language="en" source_offset="164742" source_length="2467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27772" this_length="1756" source_reference="source-document10010.txt" source_language="en" source_offset="192924" source_length="1906" />
+</document>
+

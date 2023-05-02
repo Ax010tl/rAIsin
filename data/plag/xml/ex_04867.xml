@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04867.txt">
+  <feature name="about" authors="Swinton, Ernest Dunlop" title="The Defence of Duffer's Drift" lang="en" />
+  <feature name="md5Hash" value="efa234fe5ecd4610285e564b7e804f1b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="348" this_length="263" source_reference="source-document08632.txt" source_language="en" source_offset="329908" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12794" this_length="1614" source_reference="source-document08632.txt" source_language="en" source_offset="389968" source_length="1605" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20474" this_length="230" source_reference="source-document08632.txt" source_language="en" source_offset="215962" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23257" this_length="431" source_reference="source-document08632.txt" source_language="en" source_offset="32714" source_length="461" />
+</document>
+

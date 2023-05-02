@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00340.txt">
+  <feature name="about" authors="Wells, Herbert George" title="In the Fourth Year Anticipations of a World Peace" lang="en" />
+  <feature name="md5Hash" value="9febfb12da1f04da3839b7c51531333a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9260" this_length="787" source_reference="source-document07170.txt" source_language="en" source_offset="330708" source_length="789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21509" this_length="475" source_reference="source-document07170.txt" source_language="en" source_offset="225054" source_length="505" />
+</document>
+

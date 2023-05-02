@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02666.txt">
+  <feature name="about" authors="Withers, Hartley" title="International Finance" lang="en" />
+  <feature name="md5Hash" value="ab10e91681a918ec3e57052562227fdf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1290" this_length="18194" source_reference="source-document02804.txt" source_language="en" source_offset="232469" source_length="18194" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20333" this_length="243" source_reference="source-document02804.txt" source_language="en" source_offset="159675" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21027" this_length="4839" source_reference="source-document02804.txt" source_language="en" source_offset="133264" source_length="4834" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26140" this_length="2370" source_reference="source-document03760.txt" source_language="en" source_offset="15793" source_length="2400" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28608" this_length="277" source_reference="source-document02804.txt" source_language="en" source_offset="16561" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28886" this_length="260" source_reference="source-document02804.txt" source_language="en" source_offset="41038" source_length="248" />
+</document>
+

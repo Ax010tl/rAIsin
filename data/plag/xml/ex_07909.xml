@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07909.txt">
+  <feature name="about" authors="Thomson, John" title="The Tricks of the Town: or, Ways and Means of getting Money" lang="en" />
+  <feature name="md5Hash" value="07f12afed7440422d6b8eeae916fd720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5906" this_length="3539" source_reference="source-document00302.txt" source_language="en" source_offset="0" source_length="3705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20285" this_length="4583" source_reference="source-document10180.txt" source_language="en" source_offset="366888" source_length="4234" />
+</document>
+

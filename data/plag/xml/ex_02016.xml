@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02016.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Love and Life An Old Story in Eighteenth Century Costume" lang="en" />
+  <feature name="md5Hash" value="e1c35ecb03ed042b9c8cdd36bc5348ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66" this_length="755" source_reference="source-document08148.txt" source_language="en" source_offset="12153" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1076" this_length="2781" source_reference="source-document08148.txt" source_language="en" source_offset="540558" source_length="2846" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4838" this_length="4270" source_reference="source-document04815.txt" source_language="en" source_offset="272205" source_length="4278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11028" this_length="14684" source_reference="source-document04815.txt" source_language="en" source_offset="153286" source_length="18218" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29149" this_length="1885" source_reference="source-document04815.txt" source_language="en" source_offset="172709" source_length="2003" />
+</document>
+

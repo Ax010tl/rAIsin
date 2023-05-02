@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04437.txt">
+  <feature name="about" authors="Sinclair, Upton" title="The Jungle" lang="en" />
+  <feature name="md5Hash" value="7a0df8cb2365611d3155c899c3b4e366" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4678" this_length="4836" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25745" this_length="773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28684" this_length="490" />
+</document>
+

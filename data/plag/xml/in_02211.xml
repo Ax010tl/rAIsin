@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02211.txt">
+  <feature name="about" authors="Dante Alighieri" title="The Divine Comedy by Dante, Illustrated, Purgatory, Volume 2" lang="en" />
+  <feature name="md5Hash" value="4cf9a183fd313572b318e4ff919a6efe" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7721" this_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20139" this_length="502" />
+</document>
+

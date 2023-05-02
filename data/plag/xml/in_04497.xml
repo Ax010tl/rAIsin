@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04497.txt">
+  <feature name="about" authors="Tracy, Louis" title="The Captain of the Kansas" lang="en" />
+  <feature name="md5Hash" value="dd175f03ece89a40dfa985f57612c2b5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="290" this_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19505" this_length="4073" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26449" this_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28070" this_length="489" />
+</document>
+

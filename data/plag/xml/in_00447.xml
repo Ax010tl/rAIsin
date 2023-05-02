@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00447.txt">
+  <feature name="about" authors="Thompson, George" title="City Crimes or Life in New York and Boston" lang="en" />
+  <feature name="md5Hash" value="502af764a726ed8a60625c93e5cae627" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7123" this_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16285" this_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22461" this_length="488" />
+</document>
+

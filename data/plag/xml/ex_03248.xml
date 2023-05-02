@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03248.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Clever Woman of the Family" lang="en" />
+  <feature name="md5Hash" value="b073a153e267c74a1ff27970e55f1d0f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3502" this_length="683" source_reference="source-document03570.txt" source_language="en" source_offset="440" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18061" this_length="3174" source_reference="source-document03570.txt" source_language="en" source_offset="10185" source_length="3195" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29313" this_length="269" source_reference="source-document04885.txt" source_language="en" source_offset="86396" source_length="270" />
+</document>
+

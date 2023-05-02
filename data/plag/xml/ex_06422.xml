@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06422.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Life of Cicero Volume One" lang="en" />
+  <feature name="md5Hash" value="6653337c4d4ad10f063fc04f26f3ccdb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="255" source_reference="source-document02896.txt" source_language="en" source_offset="212671" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="477" this_length="455" source_reference="source-document02896.txt" source_language="en" source_offset="971504" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2294" this_length="16714" source_reference="source-document02502.txt" source_language="en" source_offset="5672" source_length="21999" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23392" this_length="489" source_reference="source-document02896.txt" source_language="en" source_offset="170119" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23965" this_length="225" source_reference="source-document02896.txt" source_language="en" source_offset="1131883" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24376" this_length="266" source_reference="source-document02502.txt" source_language="en" source_offset="31132" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24643" this_length="240" source_reference="source-document02502.txt" source_language="en" source_offset="32720" source_length="244" />
+</document>
+

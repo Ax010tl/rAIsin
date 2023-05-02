@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09351.txt">
+  <feature name="about" authors="Wright Henderson, Patrick Arkley" title="The Life and Times of John Wilkins Warden of Wadham college, Oxford; master of Trinity college, Cambridge; and Bishop of Chester" lang="en" />
+  <feature name="md5Hash" value="f23a679aeef094e5874ed4fb58eb305b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9275" this_length="3856" source_reference="source-document09041.txt" source_language="en" source_offset="8957" source_length="3773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27277" this_length="542" source_reference="source-document09041.txt" source_language="en" source_offset="12730" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29763" this_length="212" source_reference="source-document09041.txt" source_language="en" source_offset="1065" source_length="231" />
+</document>
+

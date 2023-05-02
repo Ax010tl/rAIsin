@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08048.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Mother Carey's Chickens" lang="en" />
+  <feature name="md5Hash" value="1eb58ec8ddd228337c88730fcd5a9e8c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54" this_length="258" source_reference="source-document05629.txt" source_language="en" source_offset="5922" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5605" this_length="231" source_reference="source-document05629.txt" source_language="en" source_offset="23097" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14608" this_length="456" source_reference="source-document05629.txt" source_language="en" source_offset="5379" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21443" this_length="246" source_reference="source-document05629.txt" source_language="en" source_offset="16533" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26117" this_length="240" source_reference="source-document05629.txt" source_language="en" source_offset="25097" source_length="237" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02029.txt">
+  <feature name="about" authors="Work Projects Administration" title="Slave Narratives: a Folk History of Slavery in the United States From Interviews with Former Slaves Florida Narratives" lang="en" />
+  <feature name="md5Hash" value="499e97e4461843e46a9aebaeae6ca80a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1159" this_length="19198" source_reference="source-document09473.txt" source_language="en" source_offset="99717" source_length="19169" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22061" this_length="4600" source_reference="source-document09473.txt" source_language="en" source_offset="294102" source_length="4596" />
+</document>
+

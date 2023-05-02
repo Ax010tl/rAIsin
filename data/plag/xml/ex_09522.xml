@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09522.txt">
+  <feature name="about" authors="Richardson, Samuel" title="Pamela, or Virtue Rewarded" lang="en" />
+  <feature name="md5Hash" value="84fdce02b93a4bb0afbe11121ccf04e2" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="689" this_length="3608" source_reference="source-document11029.txt" source_language="de" source_offset="1326" source_length="4101" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4537" this_length="3608" source_reference="source-document04363.txt" source_language="de" source_offset="82901" source_length="4257" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9454" this_length="4217" source_reference="source-document04363.txt" source_language="de" source_offset="123128" source_length="4893" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14278" this_length="3323" source_reference="source-document04363.txt" source_language="de" source_offset="59648" source_length="3801" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18551" this_length="4274" source_reference="source-document04363.txt" source_language="de" source_offset="173657" source_length="4753" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23145" this_length="2033" source_reference="source-document04363.txt" source_language="de" source_offset="239662" source_length="2249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25745" this_length="1735" source_reference="source-document04363.txt" source_language="de" source_offset="230169" source_length="1993" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27712" this_length="225" source_reference="source-document11029.txt" source_language="de" source_offset="7264" source_length="260" />
+</document>
+

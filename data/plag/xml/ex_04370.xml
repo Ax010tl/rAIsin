@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04370.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Dove in the Eagle's Nest" lang="en" />
+  <feature name="md5Hash" value="d19fc4e5b73451afe8143d346f927728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5817" this_length="22326" source_reference="source-document05326.txt" source_language="en" source_offset="17637" source_length="22741" />
+</document>
+

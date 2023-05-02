@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00798.txt">
+  <feature name="about" authors="Weyman, Stanley John" title="The Castle Inn" lang="en" />
+  <feature name="md5Hash" value="26624d231ef210061a786ebac1071728" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8690" this_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22672" this_length="260" />
+</document>
+

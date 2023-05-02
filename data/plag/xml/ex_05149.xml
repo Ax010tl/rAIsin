@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05149.txt">
+  <feature name="about" authors="Sergeant, Philip Walsingham" title="Bell's Cathedrals: The Cathedral Church of Winchester A Description of Its Fabric and a Brief History of the Episcopal See" lang="en" />
+  <feature name="md5Hash" value="289495ca6225d70ec79cadd9627f5a8a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="456" this_length="1934" source_reference="source-document09899.txt" source_language="en" source_offset="58506" source_length="1824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5909" this_length="4418" source_reference="source-document09899.txt" source_language="en" source_offset="69481" source_length="4477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10660" this_length="4070" source_reference="source-document09899.txt" source_language="en" source_offset="24726" source_length="4204" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15097" this_length="2426" source_reference="source-document09899.txt" source_language="en" source_offset="48976" source_length="2419" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18467" this_length="269" source_reference="source-document09899.txt" source_language="en" source_offset="61641" source_length="248" />
+</document>
+

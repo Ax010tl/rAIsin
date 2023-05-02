@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00647.txt">
+  <feature name="about" authors="Dickens, Charles" title="To Be Read at Dusk" lang="en" />
+  <feature name="md5Hash" value="703dd2afe7c399bb2be231e775a8614e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3533" this_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18093" this_length="455" />
+</document>
+

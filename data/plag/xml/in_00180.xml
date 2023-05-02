@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00180.txt">
+  <feature name="about" authors="Twain, Mark" title="Essays on Paul Bourget" lang="en" />
+  <feature name="md5Hash" value="6277b3045e8757dbd15de6018eeb2ff9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4657" this_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10985" this_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15417" this_length="796" />
+</document>
+

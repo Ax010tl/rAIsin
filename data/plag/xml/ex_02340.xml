@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02340.txt">
+  <feature name="about" authors="Walker, Anne" title="A Matter of Proportion" lang="en" />
+  <feature name="md5Hash" value="c8b816e4d767ca82f2938552151438a2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2385" this_length="21169" source_reference="source-document07335.txt" source_language="en" source_offset="478868" source_length="23538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23896" this_length="1928" source_reference="source-document07335.txt" source_language="en" source_offset="397309" source_length="2196" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26296" this_length="1929" source_reference="source-document07335.txt" source_language="en" source_offset="460110" source_length="1933" />
+</document>
+

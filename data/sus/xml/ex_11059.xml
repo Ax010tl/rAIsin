@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11059.txt">
+  <feature name="about" authors="Sloat, Edwin K." title="The Space Rover" lang="en" />
+  <feature name="md5Hash" value="35e25037cb9004883be4b180ae94184f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5107" this_length="1842" source_reference="source-document05132.txt" source_language="en" source_offset="348390" source_length="2116" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12021" this_length="1450" source_reference="source-document00385.txt" source_language="en" source_offset="1021889" source_length="1446" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23534" this_length="1468" source_reference="source-document00385.txt" source_language="en" source_offset="1133753" source_length="1509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27374" this_length="256" source_reference="source-document00385.txt" source_language="en" source_offset="455586" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28103" this_length="211" source_reference="source-document05132.txt" source_language="en" source_offset="282830" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29940" this_length="246" source_reference="source-document05132.txt" source_language="en" source_offset="40755" source_length="256" />
+</document>
+

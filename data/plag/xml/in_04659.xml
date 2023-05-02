@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04659.txt">
+  <feature name="about" authors="Springer, Norman" title="The Blood Ship" lang="en" />
+  <feature name="md5Hash" value="cea3a66ef55d989cbe2003d9be278d30" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="472" this_length="680" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12544" this_length="2535" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="21439" this_length="249" />
+</document>
+

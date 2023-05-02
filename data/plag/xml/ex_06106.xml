@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06106.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="Amos Kilbright; His Adscititious Experiences" lang="en" />
+  <feature name="md5Hash" value="364ea0bec9d7cdaf2eff2b7761fec885" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13692" this_length="2120" source_reference="source-document02573.txt" source_language="en" source_offset="129612" source_length="5020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23588" this_length="511" source_reference="source-document03279.txt" source_language="en" source_offset="1741360" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25313" this_length="272" source_reference="source-document02573.txt" source_language="en" source_offset="123946" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28073" this_length="787" source_reference="source-document02573.txt" source_language="en" source_offset="247703" source_length="783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29589" this_length="257" source_reference="source-document02573.txt" source_language="en" source_offset="954885" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31556" this_length="191" source_reference="source-document02573.txt" source_language="en" source_offset="376905" source_length="239" />
+</document>
+

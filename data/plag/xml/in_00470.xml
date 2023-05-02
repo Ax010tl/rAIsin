@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00470.txt">
+  <feature name="about" authors="Wairy, Louis Constant" title="Recollections of the Private Life of Napoleon — Volume 10" lang="en" />
+  <feature name="md5Hash" value="e4bfd8ccf05a77632b1071c734331d09" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4852" this_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15239" this_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18169" this_length="231" />
+</document>
+

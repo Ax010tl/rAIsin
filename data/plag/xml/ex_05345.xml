@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05345.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="A Book of Golden Deeds" lang="en" />
+  <feature name="md5Hash" value="247467c35ec5952b0c1d25742f1e867f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8414" this_length="4563" source_reference="source-document06403.txt" source_language="en" source_offset="84658" source_length="4523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24173" this_length="2267" source_reference="source-document06403.txt" source_language="en" source_offset="34281" source_length="2540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29901" this_length="226" source_reference="source-document06403.txt" source_language="en" source_offset="30567" source_length="237" />
+</document>
+

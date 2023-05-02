@@ -1,0 +1,466 @@
+﻿DARWINISM
+
+    AN EXPOSITION OF THE
+
+    THEORY OF NATURAL SELECTION
+
+    WITH SOME OF ITS APPLICATIONS
+
+    BY
+
+    ALFRED RUSSEL WALLACE
+
+    LL.D., F.L.S., ETC.
+
+    WITH A PORTRAIT OF THE AUTHOR, MAP AND ILLUSTRATIONS
+
+    MACMILLAN AND CO.
+    LONDON AND NEW YORK
+    [Second Edition] 1889
+
+       *       *       *       *       *
+
+       *       *       *       *       *
+
+PREFACE TO SECOND EDITION
+
+The present edition is a reprint of the first, with a few verbal corrections and the alteration
+of some erroneous or doubtful statements. Of these latter the following are the most important:--
+
+P. 30. The statement as to the fulmar petrel, which Professor A. Newton assures me is erroneous,
+has been modified.
+
+P. 34. A note is added as to Darwin's statement about the missel and song-thrushes in Scotland.
+
+P. 172. An error as to the differently-coloured herds of cattle in the Falkland Islands, is
+corrected.
+
+    PARKSTONE, DORSET
+    August, 1889.
+
+PREFACE TO FIRST EDITION
+
+The present work treats the problem of the Origin of Species on the same general lines as were
+adopted by Darwin; but from the standpoint reached after nearly thirty years of discussion,
+with an abundance of new facts and the advocacy of many new or old theories.
+
+While not attempting to deal, even in outline, with the vast subject of evolution in general,
+an endeavour has been made to give such an account of the theory of Natural Selection as may
+enable any intelligent reader to obtain a clear conception of Darwin's work, and to understand
+something of the power and range of his great principle.
+
+Darwin wrote for a generation which had not accepted evolution, and which poured contempt on
+those who upheld the derivation of species from species by any natural law of descent. He did
+his work so well that "descent with modification" is now universally accepted as the order
+of nature in the organic world; and the rising generation of naturalists can hardly realise
+the novelty of this idea, or that their fathers considered it a scientific heresy to be condemned
+rather than seriously discussed.
+
+The objections now made to Darwin's theory apply, solely, to the particular means by which
+the change of species has been brought about, not to the fact of that change. The objectors
+seek to minimise the agency of natural selection and to subordinate it to laws of variation,
+of use and disuse, of intelligence, and of heredity. These views and objections are urged with
+much force and more confidence, and for the most part by the modern school of laboratory naturalists,
+to whom the peculiarities and distinctions of species, as such, their distribution and their
+affinities, have little interest as compared with the problems of histology and embryology,
+of physiology and morphology. Their work in these departments is of the greatest interest and
+of the highest importance, but it is not the kind of work which, by itself, enables one to
+form a sound judgment on the questions involved in the action of the law of natural selection.
+These rest mainly on the external and vital relations of species to species in a state of nature--on
+what has been well termed by Semper the "physiology of organisms," rather than on the anatomy
+or physiology of organs.
+
+       *       *       *       *       *
+
+It has always been considered a weakness in Darwin's work that he based his theory, primarily,
+on the evidence of variation in domesticated animals and cultivated plants. I have endeavoured
+to secure a firm foundation for the theory in the variations of organisms in a state of nature;
+and as the exact amount and precise character of these variations is of paramount importance
+in the numerous problems that arise when we apply the theory to explain the facts of nature,
+I have endeavoured, by means of a series of diagrams, to exhibit to the eye the actual variations
+as they are found to exist in a sufficient number of species. By doing this, not only does
+the reader obtain a better and more precise idea of variation than can be given by any number
+of tabular statements or cases of extreme individual variation, but we obtain a basis of fact
+by which to test the statements and objections usually put forth on the subject of specific
+variability; and it will be found that, throughout the work, I have frequently to appeal to
+these diagrams and the facts they illustrate, just as Darwin was accustomed to appeal to the
+facts of variation among dogs and pigeons.
+
+I have also made what appears to me an important change in the arrangement of the subject.
+Instead of treating first the comparatively difficult and unfamiliar details of variation,
+I commence with the Struggle for Existence, which is really the fundamental phenomenon on which
+natural selection depends, while the particular facts which illustrate it are comparatively
+familiar and very interesting. It has the further advantage that, after discussing variation
+and the effects of artificial selection, we proceed at once to explain how natural selection acts.
+
+Among the subjects of novelty or interest discussed in this volume, and which have important
+bearings on the theory of natural selection, are: (1) A proof that all specific characters
+are (or once have been) either useful in themselves or correlated with useful characters (Chap.
+VI); (2) a proof that natural selection can, in certain cases, increase the sterility of crosses
+(Chap. VII); (3) a fuller discussion of the colour relations of animals, with additional facts
+and arguments on the origin of sexual differences of colour (Chaps. VIII-X); (4) an attempted
+solution of the difficulty presented by the occurrence of both very simple and very complex
+modes of securing the cross-fertilisation of plants (Chap. XI); (5) some fresh facts and arguments
+on the wind-carriage of seeds, and its bearing on the wide dispersal of many arctic and alpine
+plants (Chap. XII); (6) some new illustrations of the non-heredity of acquired characters,
+and a proof that the effects of use and disuse, even if inherited, must be overpowered by natural
+selection (Chap. XIV); and (7) a new argument as to the nature and origin of the moral and
+intellectual faculties of man (Chap. XV).
+
+       *       *       *       *       *
+
+Although I maintain, and even enforce, my differences from some of Darwin's views, my whole
+work tends forcibly to illustrate the overwhelming importance of Natural Selection over all
+other agencies in the production of new species. I thus take up Darwin's earlier position,
+from which he somewhat receded in the later editions of his works, on account of criticisms
+and objections which I have endeavoured to show are unsound. Even in rejecting that phase of
+sexual selection depending on female choice, I insist on the greater efficacy of natural selection.
+This is pre-eminently the Darwinian doctrine, and I therefore claim for my book the position
+of being the advocate of pure Darwinism.
+
+I wish to express my obligation to Mr. Francis Darwin for lending me some of his father's unused
+notes, and to many other friends for facts or information, which have, I believe, been acknowledged
+either in the text or footnotes. Mr. James Sime has kindly read over the proofs and given me
+many useful suggestions; and I have to thank Professor Meldola, Mr. Hemsley, and Mr. E.B. Poulton
+for valuable notes or corrections in the later chapters in which their special subjects are
+touched upon.
+
+GODALMING, March 1889.
+
+CONTENTS
+
+CHAPTER I
+
+WHAT ARE "SPECIES" AND WHAT IS MEANT BY THEIR "ORIGIN"
+
+    Definition of species--Special creation--The early
+    transmutationists--Scientific opinion before Darwin--The problem
+    before Darwin--The change of opinion effected by Darwin--The
+    Darwinian theory--Proposed mode of treatment of the subject
+
+CHAPTER II
+
+THE STRUGGLE FOR EXISTENCE
+
+    Its importance--The struggle among plants--Among
+    animals--Illustrative cases--Succession of trees in forests of
+    Denmark--The struggle for existence on the Pampas--Increase of
+    organisms in a geometrical ratio--Examples of rapid increase of
+    animals--Rapid increase and wide spread of plants--Great
+    fertility not essential to rapid increase--Struggle between
+    closely allied species most severe--The ethical aspect of the
+    struggle for existence
+
+CHAPTER III
+
+THE VARIABILITY OF SPECIES IN A STATE OF NATURE
+
+   Importance of variability--Popular ideas regarding
+   it--Variability of the lower animals--The variability of
+   insects--Variation among lizards--Variation among
+   birds--Diagrams of bird-variation--Number of varying
+   individuals--Variation in the mammalia--Variation in internal
+   organs--Variations in the skull--Variations in the habits of
+   animals--The variability of plants--Species which vary
+   little--Concluding remarks
+
+CHAPTER IV
+
+VARIATION OF DOMESTICATED ANIMALS AND CULTIVATED PLANTS
+
+    The facts of variation and artificial selection--Proofs of the
+    generality of variation--Variations of apples and
+    melons--Variations of flowers--Variations of domestic
+    animals--Domestic pigeons--Acclimatisation--Circumstances
+    favourable to selection by man--Conditions favourable to
+    variation--Concluding remarks
+
+CHAPTER V
+
+NATURAL SELECTION BY VARIATION AND SURVIVAL OF THE FITTEST
+
+    Effect of struggle for existence under unchanged conditions--The
+    effect under change of conditions--Divergence of character--In
+    insects--In birds--In mammalia--Divergence leads to a maximum of
+    life in each area--Closely allied species inhabit distinct
+    areas--Adaptation to conditions at various periods of life--The
+    continued existence of low forms of life--Extinction of low
+    types among the higher animals--Circumstances favourable to the
+    origin of new species--Probable origin of the dippers--The
+    importance of isolation--On the advance of organisation by
+    natural selection--Summary of the first five chapters
+
+CHAPTER VI
+
+DIFFICULTIES AND OBJECTIONS
+
+    Difficulty as to smallness of variations--As to the right
+    variations occurring when required--The beginnings of important
+    organs--The mammary glands--The eyes of flatfish--Origin of the
+    eye--Useless or non-adaptive characters--Recent extension of the
+    region of utility in plants--The same in animals--Uses of
+    tails--Of the horns of deer--Of the scale-ornamentation of
+    reptiles--Instability of non-adaptive characters--Delboeuf's
+    law--No "specific" character proved to be useless--The swamping
+    effects of intercrossing--Isolation as preventing
+    intercrossing--Gulick on the effects of isolation--Cases in
+    which isolation is ineffective
+
+CHAPTER VII
+
+ON THE INFERTILITY OF CROSSES BETWEEN DISTINCT SPECIES AND THE USUAL STERILITY OF THEIR HYBRID
+OFFSPRING
+
+    Statement of the problem--Extreme susceptibility of the
+    reproductive functions--Reciprocal crosses--Individual
+    differences in respect to cross-fertilisation--Dimorphism and
+    trimorphism among plants--Cases of the fertility of hybrids and
+    of the infertility of mongrels--The effects of close
+    interbreeding--Mr. Huth's objections--Fertile hybrids among
+    animals--Fertility of hybrids among plants--Cases of sterility
+    of mongrels--Parallelism between crossing and change of
+    conditions--Remarks on the facts of hybridity--Sterility due to
+    changed conditions and usually correlated with other
+    characters--Correlation of colour with constitutional
+    peculiarities--The isolation of varieties by selective
+    association--The influence of natural selection upon sterility
+    and fertility--Physiological selection--Summary and concluding
+    remarks
+
+CHAPTER VIII
+
+THE ORIGIN AND USES OF COLOUR IN ANIMALS
+
+    The Darwinian theory threw new light on organic colour--The
+    problem to be solved--The constancy of animal colour indicates
+    utility--Colour and environment--Arctic animals
+    white--Exceptions prove the rule--Desert, forest, nocturnal, and
+    oceanic animals--General theories of animal colour--Variable
+    protective colouring--Mr. Poulton's experiments--Special or
+    local colour adaptations--Imitation of particular objects--How
+    they have been produced--Special protective colouring of
+    butterflies--Protective resemblance among marine
+    animals--Protection by terrifying enemies--Alluring
+    coloration--The coloration of birds' eggs--Colour as a means of
+    recognition--Summary of the preceding exposition--Influence of
+    locality or of climate on colour--Concluding remarks
+
+CHAPTER IX
+
+WARNING COLORATION AND MIMICRY
+
+    The skunk as an example of warning coloration--Warning colours
+    among insects--Butterflies--Caterpillars--Mimicry--How mimicry
+    has been produced--Heliconidae--Perfection of the
+    imitation--Other cases of mimicry among Lepidoptera--Mimicry
+    among protected groups--Its explanation--Extension of the
+    principle--Mimicry in other orders of insects--Mimicry among the
+    vertebrata--Snakes--The rattlesnake and the cobra--Mimicry among
+    birds--Objections to the theory of mimicry--Concluding remarks
+    on warning colours and mimicry
+
+CHAPTER X
+
+COLOURS AND ORNAMENTS CHARACTERISTIC OF SEX
+
+    Sex colours in the mollusca and crustacea--In insects--In
+    butterflies and moths--Probable causes of these colours--Sexual
+    selection as a supposed cause--Sexual coloration of birds--Cause
+    of dull colours of female birds--Relation of sex colour to
+    nesting habits--Sexual colours of other vertebrates--Sexual
+    selection by the struggles of males--Sexual characters due to
+    natural selection--Decorative plumage of males and its effect on
+    the females--Display of decorative plumage by the males--A
+    theory of animal coloration--The origin of accessory
+    plumes--Development of accessory plumes and their display--The
+    effect of female preference will be neutralised by natural
+    selection--General laws of animal coloration--Concluding remarks
+
+CHAPTER XI
+
+THE SPECIAL COLOURS OF PLANTS: THEIR ORIGIN AND PURPOSE
+
+    The general colour relations of plants--Colours of fruits--The
+    meaning of nuts--Edible or attractive fruits--The colours of
+    flowers--Modes of securing cross-fertilisation--The
+    interpretation of the facts--Summary of additional facts
+    bearing on insect fertilisation--Fertilisation of flowers by
+    birds--Self-fertilisation of flowers--Difficulties and
+    contradictions--Intercrossing not necessarily
+    advantageous--Supposed evil results of close interbreeding--How
+    the struggle for existence acts among flowers--Flowers the
+    product of insect agency--Concluding remarks on colour in nature
+
+CHAPTER XII
+
+THE GEOGRAPHICAL DISTRIBUTION OF ORGANISMS
+
+    The facts to be explained--The conditions which have determined
+    distribution--The permanence of oceans--Oceanic and continental
+    areas--Madagascar and New Zealand--The teachings of the
+    thousand-fathom line--The distribution of marsupials--The
+    distribution of tapirs--Powers of dispersal as illustrated by
+    insular organisms--Birds and insects at sea--Insects at great
+    altitudes--The dispersal of plants--Dispersal of seeds by the
+    wind--Mineral matter carried by the wind--Objections to the
+    theory of wind-dispersal answered--Explanation of north
+    temperate plants in the southern hemisphere--No proof of
+    glaciation in the tropics--Lower temperature not needed to
+    explain the facts--Concluding remarks
+
+CHAPTER XIII
+
+THE GEOLOGICAL EVIDENCES OF EVOLUTION
+
+    What we may expect--The number of known species of extinct
+    animals--Causes of the imperfection of the geological
+    record--Geological evidences of
+    evolution--Shells--Crocodiles--The rhinoceros tribe--The
+    pedigree of the horse tribe--Development of deer's horns--Brain
+    development--Local relations of fossil and living animals--Cause
+    of extinction of large animals--Indications of general progress
+    in plants and animals--The progressive development of
+    plants--Possible cause of sudden late appearance of
+    exogens--Geological distribution of insects--Geological
+    succession of vertebrata--Concluding remarks
+
+CHAPTER XIV
+
+FUNDAMENTAL PROBLEMS IN RELATION TO VARIATION AND HEREDITY
+
+    Fundamental difficulties and objections--Mr. Herbert Spencer's
+    factors of organic evolution--Disuse and effects of withdrawal
+    of natural selection--Supposed effects of disuse among wild
+    animals--Difficulty as to co-adaptation of parts by variation
+    and selection--Direct action of the environment--The American
+    school of evolutionists--Origin of the feet of the
+    ungulates--Supposed action of animal intelligence--Semper on the
+    direct influence of the environment--Professor Geddes's theory
+    of variation in plants--Objections to the theory--On the origin
+    of spines--Variation and selection overpower the effects of use
+    and disuse--Supposed action of the environment in imitating
+    variations--Weismann's theory of heredity--The cause of
+    variation--The non-heredity of acquired characters--The theory
+    of instinct--Concluding remarks
+
+CHAPTER XV
+
+DARWINISM APPLIED TO MAN
+
+    General identity of human and animal structure--Rudiments and
+    variations showing relation of man to other mammals--The
+    embryonic development of man and other mammalia--Diseases common
+    to man and the lower animals--The animals most nearly allied to
+    man--The brains of man and apes--External differences of man and
+    apes--Summary of the animal characteristics of man--The
+    geological antiquity of man--The probable birthplace of man--The
+    origin of the moral and intellectual nature of man--The argument
+    from continuity--The origin of the mathematical faculty--The
+    origin of the musical and artistic faculties--Independent proof
+    that these faculties have not been developed by natural
+    selection--The interpretation of the facts--Concluding remarks
+
+LIST OF ILLUSTRATIONS
+
+    PORTRAIT OF AUTHOR
+    MAP SHOWING THE 1000-FATHOM LINE
+    1.  DIAGRAM OF VARIATIONS OF LACERTA MURALIS
+    2.     "       VARIATION OF LIZARDS
+    3.     "       VARIATION OF WINGS AND TAIL OF BIRDS
+    4.     "       VARIATION OF DOLICHONYX ORYZIVORUS
+    5.     "       VARIATION OF AGELAEUS PHOENICEUS
+    6.     "       VARIATION OF CARDINALIS VIRGINIANUS
+    7.     "       VARIATION OF TARSUS AND TOES
+    8.     "       VARIATION OF BIRDS IN LEYDEN MUSEUM
+    9.     "       VARIATION OF ICTERUS BALTIMORE
+    10.    "       VARIATION OF AGELAEUS PHOENICEUS
+    11.    "       CURVES OF VARIATION
+    12.    "       VARIATION OF CARDINALIS VIRGINIANUS
+    13.    "       VARIATION OF SCIURUS CAROLINENSIS
+    14.    "       VARIATION OF SKULLS OF WOLF
+    15.    "       VARIATION OF SKULLS OF URSUS LABIATUS
+    16.    "       VARIATION OF SKULLS OF SUS CRISTATUS
+    17. PRIMULA VERIS (Cowslip). From Darwin's Forms of Flowers
+    18. GAZELLA SOEMMERRINGI (to show recognition marks)
+    19. RECOGNITION MARKS OF AFRICAN PLOVERS
+          (from Seebohm's Charadriadae)
+    20. RECOGNITION OF OEDICNEMUS VERMICULATUS AND OE. SENEGALENSIS
+          (from Seebohm's Charadriadae)
+    21. RECOGNITION OF CURSORIUS CHALCOPTERUS AND C. GALLICUS
+          (from Seebohm's Charadriadae)
+    22. RECOGNITION OF SCOLOPAX MEGALA AND S. STENURA
+          (from Seebohm's Charadriadae)
+    23. METHONA PSIDII AND LEPTALIS ORISE
+    24. OPTHALMIS LINCEA AND ARTAXA SIMULANS
+          (from the Official Narrative of the Voyage of the Challenger)
+    25. WINGS OF ITUNA ILIONE AND THYRIDIA MEGISTO
+          (from Proceedings of the Entomological Society)
+    26. MYGNIMIA AVICULUS AND COLOBORHOMBUS FASCIATIPENNIS
+    27. MIMICKING INSECTS FROM THE PHILIPPINES
+          (from Semper's Animal Life)
+    28. MALVA SYLVESTRIS AND M. ROTUNDIFOLIA
+          (from Lubbock's British Wild Flowers in Relation to Insects)
+    29. LYTHRUM SALICARIA, THREE FORMS OF
+          (from Lubbock's British Wild Flowers in Relation to Insects)
+    30. ORCHIS PYRAMIDALIS (from Darwin's Fertilisation of Orchids)
+    31. HUMMING-BIRD FERTILISING MARCGRAVIA NEPENTHOIDES
+    32. DIAGRAM OF MEAN HEIGHT OF LAND AND DEPTH OF OCEANS
+    33. GEOLOGICAL DEVELOPMENT OF THE HORSE TRIBE
+          (from Huxley's American Addresses)
+    34. DIAGRAM ILLUSTRATING THE GEOLOGICAL DISTRIBUTION OF PLANTS
+          (from Ward's Sketch of Palaeobotany)
+    35. TRANSFORMATION OF ARTEMIA SALINA TO A. MILHAUSENII
+          (from Semper's Animal Life)
+    36. BRANCHIPUS STAGNALIS AND ARTEMIA SALINA
+          (from Semper's Animal Life)
+    37. In order to appreciate fully the aim and object of
+this work, and the change which it has effected not only in natural
+history but in many other sciences, it is necessary to form a clear
+conception of the meaning of the term "species," to know what was the
+general belief regarding them at the time when Mr. Darwin's book first
+appeared, and to understand what he meant, and what was generally meant,
+by discovering their "origin." It is for want of this preliminary
+knowledge that the majority of educated persons who are not naturalists
+are so ready to accept the innumerable objections, criticisms, and
+difficulties of its opponents as proofs that the Darwinian theory is
+unsound, while it also renders them unable to appreciate, or even to
+comprehend, the vast change which that theory has effected in the whole
+mass of thought and opinion on the great question of evolution.
+
+The term "species" was thus defined by the celebrated botanist De Candolle: "A species is a
+collection of all the individuals which resemble each other more than they resemble anything
+else, which can by mutual fecundation produce fertile individuals, and which reproduce themselves
+by generation, in such a manner that we may from analogy suppose them all to have sprung from
+one single individual." And the zoologist Swainson gives a somewhat similar definition: "A
+species, in the usual acceptation of the term, is an animal which, in a state of nature, is
+distinguished by certain peculiarities of form, size, colour, or other circumstances, from
+another animal. It propagates, 'after its kind,' individuals perfectly resembling the parent;
+its peculiarities, therefore, are permanent."[1]
+
+To illustrate these definitions we will take two common English birds, the rook (Corvus frugilegus)
+and the crow (Corvus corone). These are distinct species, because, in the first place, they
+always differ from each other in certain slight peculiarities of structure, form, and habits,
+and, in the second place, because rooks always produce rooks, and crows produce crows, and
+they do not interbreed. It was therefore concluded that all the rooks in the world had descended
+from a single pair of rooks, and the crows in like manner from a single pair of crows, while
+it was considered impossible that crows could have descended from rooks or vice versâ. The
+"origin" of the first pair of each kind was a mystery. Similar remarks may be applied to our
+two common plants, the sweet violet (Viola odorata) and the dog violet (Viola canina). These
+also produce their like and never produce each other or intermingle, and they were therefore
+each supposed to have sprung from a single individual whose "origin" was unknown. But besides
+the crow and the rook there are about thirty other kinds of birds in various parts of the world,
+all so much like our species that they receive the common name of crows; and some of them differ
+less from each other than does our crow from our rook. These are all species of the genus Corvus,
+and were therefore believed to have been always as distinct as they are now, neither more nor
+less, and to have each descended from one pair of ancestral crows of the same identical species,
+which themselves had an unknown "origin." Of violets there are more than a hundred different
+kinds in various parts of the world, all differing very slightly from each other and forming
+distinct species of the genus Viola. But, as these also each produce their like and do not
+intermingle, it was believed that every one of them had always been as distinct from all the
+others as it is now, that all the individuals of each kind had descended from one ancestor,
+but that the "origin" of these hundred slightly differing ancestors was unknown. In the words
+of Sir John Herschel, quoted by Mr. Darwin, the origin of such species was "the mystery of
+mysteries."
+
+The Early Transmutationists.
+

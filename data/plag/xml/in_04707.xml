@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04707.txt">
+  <feature name="about" authors="Saxo, Grammaticus" title="The Danish History, Books I-IX" lang="en" />
+  <feature name="md5Hash" value="f0bd7380b6d8301e1d26acfe1a9a06ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="132" this_length="1961" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17317" this_length="4373" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29022" this_length="731" />
+</document>
+

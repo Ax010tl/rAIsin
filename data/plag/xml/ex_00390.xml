@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00390.txt">
+  <feature name="about" authors="Saphro, Charles" title="Zero Data" lang="en" />
+  <feature name="md5Hash" value="f1aa5e9dd05c2034776dd01b88b9434c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4195" this_length="695" source_reference="source-document05204.txt" source_language="en" source_offset="12221" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12483" this_length="2151" source_reference="source-document05204.txt" source_language="en" source_offset="842" source_length="2226" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06913.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Felix O'Day" lang="en" />
+  <feature name="md5Hash" value="bbfbb44eb154ff5b3b49b3190b64dcfa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1363" this_length="755" source_reference="source-document10581.txt" source_language="en" source_offset="20530" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21018" this_length="218" source_reference="source-document10581.txt" source_language="en" source_offset="2733" source_length="240" />
+</document>
+

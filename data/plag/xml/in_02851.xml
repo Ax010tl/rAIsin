@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02851.txt">
+  <feature name="about" authors="Berkebile, Donald H." title="Conestoga Wagons in Braddock's Campaign, 1755" lang="en" />
+  <feature name="md5Hash" value="53dff426cc7f067d9563ac063ed28fb8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1766" this_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18841" this_length="710" />
+</document>
+

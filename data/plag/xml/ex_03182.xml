@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03182.txt">
+  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 01: Julius Caesar" lang="en" />
+  <feature name="md5Hash" value="9ffc33403f6648de2791762218abaf8a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1951" this_length="9997" source_reference="source-document08312.txt" source_language="en" source_offset="322230" source_length="18278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13503" this_length="1370" source_reference="source-document08312.txt" source_language="en" source_offset="382079" source_length="1384" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15202" this_length="2303" source_reference="source-document08312.txt" source_language="en" source_offset="441015" source_length="2281" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17924" this_length="3216" source_reference="source-document08312.txt" source_language="en" source_offset="920383" source_length="3183" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22000" this_length="2679" source_reference="source-document08312.txt" source_language="en" source_offset="217337" source_length="2704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24848" this_length="542" source_reference="source-document08312.txt" source_language="en" source_offset="803007" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25565" this_length="691" source_reference="source-document08312.txt" source_language="en" source_offset="866760" source_length="700" />
+</document>
+

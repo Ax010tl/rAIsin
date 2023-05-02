@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03023.txt">
+  <feature name="about" authors="Wilson, Theodore P." title="Working in the Shade Lowly Sowing brings Glorious Reaping" lang="en" />
+  <feature name="md5Hash" value="a762b2460d3cbf06b7c0e973b20657a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3799" this_length="1888" source_reference="source-document10781.txt" source_language="en" source_offset="5483" source_length="2052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10760" this_length="2927" source_reference="source-document10781.txt" source_language="en" source_offset="16860" source_length="3219" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22817" this_length="491" source_reference="source-document10781.txt" source_language="en" source_offset="16321" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24596" this_length="221" source_reference="source-document10781.txt" source_language="en" source_offset="4055" source_length="242" />
+</document>
+

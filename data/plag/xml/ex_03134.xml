@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03134.txt">
+  <feature name="about" authors="Walpole, Horace" title="Hieroglyphic Tales" lang="en" />
+  <feature name="md5Hash" value="fed6780bb3985f610fb8b1dc13f815a9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4801" this_length="762" source_reference="source-document07291.txt" source_language="en" source_offset="10350" source_length="789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8783" this_length="717" source_reference="source-document07291.txt" source_language="en" source_offset="5542" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17478" this_length="602" source_reference="source-document07291.txt" source_language="en" source_offset="11863" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19274" this_length="464" source_reference="source-document07291.txt" source_language="en" source_offset="20955" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25493" this_length="237" source_reference="source-document07291.txt" source_language="en" source_offset="1813" source_length="236" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00607.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Bride of Lammermoor" lang="en" />
+  <feature name="md5Hash" value="9b3e3dd33c84cd2f201c59bd91f9f93b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6755" this_length="3996" source_reference="source-document04134.txt" source_language="en" source_offset="24090" source_length="4018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17561" this_length="1576" source_reference="source-document04134.txt" source_language="en" source_offset="10769" source_length="1567" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26774" this_length="1764" source_reference="source-document04134.txt" source_language="en" source_offset="28291" source_length="1764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29764" this_length="244" source_reference="source-document04134.txt" source_language="en" source_offset="4788" source_length="246" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10954.txt">
+  <feature name="about" authors="Titcomb, Timothy" title="Lessons in Life A Series of Familiar Essays" lang="en" />
+  <feature name="md5Hash" value="285c39f5c4e967a5cb45420f42562f79" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="423" this_length="3631" source_reference="source-document03043.txt" source_language="en" source_offset="4223" source_length="3545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7312" this_length="1483" source_reference="source-document03043.txt" source_language="en" source_offset="910" source_length="1485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11174" this_length="3238" source_reference="source-document03043.txt" source_language="en" source_offset="16881" source_length="3274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17073" this_length="2394" source_reference="source-document03043.txt" source_language="en" source_offset="8917" source_length="2404" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20385" this_length="3330" source_reference="source-document03043.txt" source_language="en" source_offset="12795" source_length="3298" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25759" this_length="269" source_reference="source-document03043.txt" source_language="en" source_offset="3528" source_length="270" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07946.txt">
+  <feature name="about" authors="Turgenev, Ivan Sergeevich" title="A Reckless Character And Other Stories" lang="en" />
+  <feature name="md5Hash" value="d8b1b7aef3e93dd19c3eb14e67e7137e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135" this_length="517" source_reference="source-document02214.txt" source_language="en" source_offset="1122" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2483" this_length="17367" source_reference="source-document02144.txt" source_language="en" source_offset="131149" source_length="17209" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25581" this_length="766" source_reference="source-document00856.txt" source_language="en" source_offset="148317" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26510" this_length="268" source_reference="source-document00856.txt" source_language="en" source_offset="27973" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27043" this_length="257" source_reference="source-document02214.txt" source_language="en" source_offset="206" source_length="259" />
+</document>
+

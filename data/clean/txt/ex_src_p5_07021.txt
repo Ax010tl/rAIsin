@@ -1,0 +1,372 @@
+﻿  |                                 |                                 |
+  |PROVED FACTS.                  |NECESSARY CONSEQUENCES         |
+  |                                 |(afterwards taken as Proved     |
+  |                                 |Facts).                         |
+  |||
+  |                                 |                                 |
+  |RAPID INCREASE OF ORGANISMS,     |                                 |
+  |pp. 29, 265; ("Origin            |STRUGGLE FOR EXISTENCE,          |
+  |of Species," p. 75, 5th Ed.)     |the deaths equalling the         |
+  |                                 |births on the average, p. 30;    |
+  |TOTAL NUMBER OF INDIVIDUALS      |("Origin of Species," chap.      |
+  |STATIONARY, pp. 30,              |III.)                            |
+  |266.                             |                                 |
+  |||
+  |                                 |                                 |
+  |STRUGGLE FOR EXISTENCE.          |SURVIVAL OF THE FITTEST,         |
+  |                                 |or Natural Selection; meaning    |
+  |HEREDITY WITH VARIATION,         |simply, that on the              |
+  |or general likeness with         |whole those die who are          |
+  |individual differences of parents|least fitted to maintain their   |
+  |and offspring, pp.               |existence; ("Origin of Species," |
+  |266, 287-291, 308; ("Origin      |chap. IV.)                       |
+  |of Species," chap. I., II., V.)  |                                 |
+  |||
+  |                                 |                                 |
+  |SURVIVAL OF THE FITTEST.         |CHANGES OF ORGANIC FORMS,        |
+  |                                 |to keep them in harmony          |
+  |CHANGE OF EXTERNAL CONDITIONS,   |with the Changed Conditions;     |
+  |universal and unceasing.--See    |and as the changes               |
+  |"Lyell's                         |of conditions are permanent      |
+  |Principles of Geology."
+
+Among the most advanced students of man, there exists a wide difference of opinion on some
+of the most vital questions respecting his nature and origin. Anthropologists are now, indeed,
+pretty well agreed that man is not a recent introduction into the earth. All who have studied
+the question, now admit that his antiquity is very great; and that, though we have to some
+extent ascertained the minimum of time during which he must have existed, we have made no approximation
+towards determining that far greater period during which he may have, and probably has existed.
+We can with tolerable certainty affirm that man must have inhabited the earth a thousand centuries
+ago, but we cannot assert that he positively did not exist, or that there is any good evidence
+against his having existed, for a period of ten thousand centuries. We know positively, that
+he was contemporaneous with many now extinct animals, and has survived changes of the earth's
+surface fifty or a hundred times greater than any that have occurred during the historical
+period; but we cannot place any definite limit to the number of species he may have outlived,
+or to the amount of terrestrial change he may have witnessed.
+
+Wide differences of opinion as to Man's Origin.
+
+But while on this question of man's antiquity there is a very general agreement,--and all are
+waiting eagerly for fresh evidence to clear up those points which all admit to be full of doubt,--on
+other, and not less obscure and difficult questions, a considerable amount of dogmatism is
+exhibited; doctrines are put forward as established truths, no doubt or hesitation is admitted,
+and it seems to be supposed that no further evidence is required, or that any new facts can
+modify our convictions. This is especially the case when we inquire,--Are the various forms
+under which man now exists primitive, or derived from pre-existing forms; in other words, is
+man of one or many species? To this question we immediately obtain distinct answers diametrically
+opposed to each other: the one party positively maintaining, that man is a species and is essentially
+one--that all differences are but local and temporary variations, produced by the different
+physical and moral conditions by which he is surrounded; the other party maintaining with equal
+confidence, that man is a genus of many species, each of which is practically unchangeable,
+and has ever been as distinct, or even more distinct, than we now behold them. This difference
+of opinion is somewhat remarkable, when we consider that both parties are well acquainted with
+the subject; both use the same vast accumulation of facts; both reject those early traditions
+of mankind which profess to give an account of his origin; and both declare that they are seeking
+fearlessly after truth alone; yet each will persist in looking only at the portion of truth
+on his own side of the question, and at the error which is mingled with his opponent's doctrine.
+It is my wish to show how the two opposing views can be combined, so as to eliminate the error
+and retain the truth in each, and it is by means of Mr. Darwin's celebrated theory of "Natural
+Selection" that I hope to do this, and thus to harmonise the conflicting theories of modern
+anthropologists.
+
+Let us first see what each party has to say for itself. In favour of the unity of mankind it
+is argued, that there are no races without transitions to others; that every race exhibits
+within itself variations of colour, of hair, of feature, and of form, to such a degree as to
+bridge over, to a large extent, the gap that separates it from other races. It is asserted
+that no race is homogeneous; that there is a tendency to vary; that climate, food, and habits
+produce, and render permanent, physical peculiarities, which, though slight in the limited
+periods allowed to our observation, would, in the long ages during which the human race has
+existed, have sufficed to produce all the differences that now appear. It is further asserted
+that the advocates of the opposite theory do not agree among themselves; that some would make
+three, some five, some fifty or a hundred and fifty species of man; some would have had each
+species created in pairs, while others require nations to have at once sprung into existence,
+and that there is no stability or consistency in any doctrine but that of one primitive stock.
+
+The advocates of the original diversity of man, on the other hand, have much to say for themselves.
+They argue that proofs of change in man have never been brought forward except to the most
+trifling amount, while evidence of his permanence meets us everywhere. The Portuguese and Spaniards,
+settled for two or three centuries in South America, retain their chief physical, mental, and
+moral characteristics; the Dutch boers at the Cape, and the descendants of the early Dutch
+settlers in the Moluccas, have not lost the features or the colour of the Germanic races; the
+Jews, scattered over the world in the most diverse climates, retain the same characteristic
+lineaments everywhere; the Egyptian sculptures and paintings show us that, for at least 4000
+or 5000 years, the strongly contrasted features of the Negro and the Semitic races have remained
+altogether unchanged; while more recent discoveries prove, that the mound-builders of the Mississippi
+valley, and the dwellers on Brazilian mountains, had, even in the very infancy of the human
+race, some traces of the same peculiar and characteristic type of cranial formation that now
+distinguishes them.
+
+If we endeavour to decide impartially on the merits of this difficult controversy, judging
+solely by the evidence that each party has brought forward, it certainly seems that the best
+of the argument is on the side of those who maintain the primitive diversity of man. Their
+opponents have not been able to refute the permanence of existing races as far back as we can
+trace them, and have failed to show, in a single case, that at any former epoch the well marked
+varieties of mankind approximated more closely than they do at the present day. At the same
+time this is but negative evidence. A condition of immobility for four or five thousand years,
+does not preclude an advance at an earlier epoch, and--if we can show that there are causes
+in nature which would check any further physical change when certain conditions were fulfilled--does
+not even render such an advance improbable, if there are any general arguments to be adduced
+in its favour. Such a cause, I believe, does exist; and I shall now endeavour to point out
+its nature and its mode of operation.
+
+Outline of the Theory of Natural Selection.
+
+In order to make my argument intelligible, it is necessary for me to explain very briefly the
+theory of "Natural Selection" promulgated by Mr. Darwin, and the power which it possesses of
+modifying the forms of animals and plants. The grand feature in the multiplication of organic
+life is, that close general resemblance is combined with more or less individual variation.
+The child resembles its parents or ancestors more or less closely in all its peculiarities,
+deformities, or beauties; it resembles them in general more than it does any other individuals;
+yet children of the same parents are not all alike, and it often happens that they differ very
+considerably from their parents and from each other. This is equally true, of man, of all animals,
+and of all plants. Moreover, it is found that individuals do not differ from their parents
+in certain particulars only, while in all others they are exact duplicates of them. They differ
+from them and from each other, in every particular: in form, in size, in colour; in the structure
+of internal as well as of external organs; in those subtle peculiarities which produce differences
+of constitution, as well as in those still more subtle ones which lead to modifications of
+mind and character. In other words, in every possible way, in every organ and in every function,
+individuals of the same stock vary.
+
+Now, health, strength, and long life, are the results of a harmony between the individual and
+the universe that surrounds it. Let us suppose that at any given moment this harmony is perfect.
+A certain animal is exactly fitted to secure its prey, to escape from its enemies, to resist
+the inclemencies of the seasons, and to rear a numerous and healthy offspring. But a change
+now takes place. A series of cold winters, for instance, come on, making food scarce, and bringing
+an immigration of some other animals to compete with the former inhabitants of the district.
+The new immigrant is swift of foot, and surpasses its rivals in the pursuit of game; the winter
+nights are colder, and require a thicker fur as a protection, and more nourishing food to keep
+up the heat of the system. Our supposed perfect animal is no longer in harmony with its universe;
+it is in danger of dying of cold or of starvation. But the animal varies in its offspring.
+Some of these are swifter than others--they still manage to catch food enough; some are hardier
+and more thickly furred--they manage in the cold nights to keep warm enough; the slow, the
+weak, and the thinly clad soon die off. Again and again, in each succeeding generation, the
+same thing takes place. By this natural process, which is so inevitable that it cannot be conceived
+not to act, those best adapted to live, live; those least adapted, die. It is sometimes said
+that we have no direct evidence of the action of this selecting power in nature. But it seems
+to me we have better evidence than even direct observation would be, because it is more universal,
+viz., the evidence of necessity. It must be so; for, as all wild animals increase in a geometrical
+ratio, while their actual numbers remain on the average stationary, it follows, that as many
+die annually as are born. If, therefore, we deny natural selection, it can only be by asserting
+that, in such a case as I have supposed, the strong, the healthy, the swift, the well clad,
+the well organised animals in every respect, have no advantage over,--do not on the average
+live longer than, the weak, the unhealthy, the slow, the ill-clad, and the imperfectly organised
+individuals; and this no sane man has yet been found hardy enough to assert. But this is not
+all; for the offspring on the average resemble their parents, and the selected portion of each
+succeeding generation will therefore be stronger, swifter, and more thickly furred than the
+last; and if this process goes on for thousands of generations, our animal will have again
+become thoroughly in harmony with the new conditions in which it is placed. But it will now
+be a different creature. It will be not only swifter and stronger, and more furry, it will
+also probably have changed in colour, in form, perhaps have acquired a longer tail, or differently
+shaped ears; for it is an ascertained fact, that when one part of an animal is modified, some
+other parts almost always change, as it were in sympathy with it. Mr. Darwin calls this "correlation
+of growth," and gives as instances, that hairless dogs have imperfect teeth; white cats, when
+blue-eyed, are deaf; small feet accompany short beaks in pigeons; and other equally interesting
+cases.
+
+Grant, therefore, the premises: 1st. That peculiarities of every kind are more or less hereditary.
+2nd. That the offspring of every animal vary more or less in all parts of their organization.
+3rd. That the universe in which these animals live, is not absolutely invariable;--none of
+which propositions can be denied; and then consider, that the animals in any country (those
+at least which are not dying out) must at each successive period be brought into harmony with
+the surrounding conditions; and we have all the elements for a change of form and structure
+in the animals, keeping exact pace with changes of whatever nature in the surrounding universe.
+Such changes must be slow, for the changes in the universe are very slow; but just as these
+slow changes become important, when we look at results after long periods of action, as we
+do when we perceive the alterations of the earth's surface during geological epochs; so the
+parallel changes in animal form become more and more striking, in proportion as the time they
+have been going on is great; as we see when we compare our living animals with those which
+we disentomb from each successively older geological formation.
+
+This is, briefly, the theory of "natural selection," which explains the changes in the organic
+world as being parallel with, and in part dependent on, those in the inorganic. What we now
+have to inquire is,--Can this theory be applied in any way to the question of the origin of
+the races of man? or is there anything in human nature that takes him out of the category of
+those organic existences, over whose successive mutations it has had such powerful sway?
+
+Different effects of Natural Selection on Animals and on Man.
+
+In order to answer these questions, we must consider why it is that "natural selection" acts
+so powerfully upon animals; and we shall, I believe, find, that its effect depends mainly upon
+their self-dependence and individual isolation. A slight injury, a temporary illness, will
+often end in death, because it leaves the individual powerless against its enemies. If an herbivorous
+animal is a little sick and has not fed well for a day or two, and the herd is then pursued
+by a beast of prey, our poor invalid inevitably falls a victim. So, in a carnivorous animal,
+the least deficiency of vigour prevents its capturing food, and it soon dies of starvation.
+There is, as a general rule, no mutual assistance between adults, which enables them to tide
+over a period of sickness. Neither is there any division of labour; each must fulfil all the
+conditions of its existence, and, therefore, "natural selection" keeps all up to a pretty uniform
+standard.
+
+But in man, as we now behold him, this is different. He is social and sympathetic. In the rudest
+tribes the sick are assisted, at least with food; less robust health and vigour than the average
+does not entail death. Neither does the want of perfect limbs, or other organs, produce the
+same effects as among animals. Some division of labour takes place; the swiftest hunt, the
+less active fish, or gather fruits; food is, to some extent, exchanged or divided. The action
+of natural selection is therefore checked; the weaker, the dwarfish, those of less active limbs,
+or less piercing eyesight, do not suffer the extreme penalty which falls upon animals so defective.
+
+In proportion as these physical characteristics become of less importance, mental and moral
+qualities will have increasing influence on the well-being of the race. Capacity for acting
+in concert for protection, and for the acquisition of food and shelter; sympathy, which leads
+all in turn to assist each other; the sense of right, which checks depredations upon our fellows;
+the smaller development of the combative and destructive propensities; self-restraint in present
+appetites; and that intelligent foresight which prepares for the future, are all qualities,
+that from their earliest appearance must have been for the benefit of each community, and would,
+therefore, have become the subjects of "natural selection." For it is evident that such qualities
+would be for the well-being of man; would guard him against external enemies, against internal
+dissensions, and against the effects of inclement seasons and impending famine, more surely
+than could any merely physical modification. Tribes in which such mental and moral qualities
+were predominant, would therefore have an advantage in the struggle for existence over other
+tribes in which they were less developed, would live and maintain their numbers, while the
+others would decrease and finally succumb.
+
+Again, when any slow changes of physical geography, or of climate, make it necessary for an
+animal to alter its food, its clothing, or its weapons, it can only do so by the occurrence
+of a corresponding change in its own bodily structure and internal organization. If a larger
+or more powerful beast is to be captured and devoured, as when a carnivorous animal which has
+hitherto preyed on antelopes is obliged from their decreasing numbers to attack buffaloes,
+it is only the strongest who can hold,--those with most powerful claws, and formidable canine
+teeth, that can struggle with and overcome such an animal. Natural selection immediately comes
+into play, and by its action these organs gradually become adapted to their new requirements.
+But man, under similar circumstances, does not require longer nails or teeth, greater bodily
+strength or swiftness. He makes sharper spears, or a better bow, or he constructs a cunning
+pitfall, or combines in a hunting party to circumvent his new prey. The capacities which enable
+him to do this are what he requires to be strengthened, and these will, therefore, be gradually
+modified by "natural selection," while the form and structure of his body will remain unchanged.
+So, when a glacial epoch comes on, some animals must acquire warmer fur, or a covering of fat,
+or else die of cold. Those best clothed by nature are, therefore, preserved by natural selection.
+Man, under the same circumstances, will make himself warmer clothing, and build better houses;
+and the necessity of doing this will react upon his mental organization and social condition--will
+advance them while his natural body remains naked as before.
+
+When the accustomed food of some animal becomes scarce or totally fails, it can only exist
+by becoming adapted to a new kind of food, a food perhaps less nourishing and less digestible.
+"Natural selection" will now act upon the stomach and intestines, and all their individual
+variations will be taken advantage of, to modify the race into harmony with its new food. In
+many cases, however, it is probable that this cannot be done. The internal organs may not vary
+quick enough, and then the animal will decrease in numbers, and finally become extinct. But
+man guards himself from such accidents by superintending and guiding the operations of nature.
+He plants the seed of his most agreeable food, and thus procures a supply, independent of the
+accidents of varying seasons or natural extinction. He domesticates animals, which serve him
+either to capture food or for food itself, and thus, changes of any great extent in his teeth
+or digestive organs are rendered unnecessary. Man, too, has everywhere the use of fire, and
+by its means can render palatable a variety of animal and vegetable substances, which he could
+hardly otherwise make use of; and thus obtains for himself a supply of food far more varied
+and abundant than that which any animal can command.
+
+Thus man, by the mere capacity of clothing himself, and making weapons and tools, has taken
+away from nature that power of slowly but permanently changing the external form and structure,
+in accordance with changes in the external world, which she exercises over all other animals.
+As the competing races by which they are surrounded, the climate, the vegetation, or the animals
+which serve them for food, are slowly changing, they must undergo a corresponding change in
+their structure, habits, and constitution, to keep them in harmony with the new conditions--to
+enable them to live and maintain their numbers. But man does this by means of his intellect
+alone, the variations of which enable him, with an unchanged body, still to keep in harmony
+with the changing universe.
+
+There is one point, however, in which nature will still act upon him as it does on animals,
+and, to some extent, modify his external characters. Mr. Darwin has shown, that the colour
+of the skin is correlated with constitutional peculiarities both in vegetables and animals,
+so that liability to certain diseases or freedom from them is often accompanied by marked external
+characters. Now, there is every reason to believe that this has acted, and, to some extent,
+may still continue to act, on man. In localities where certain diseases are prevalent, those
+individuals of savage races which were subject to them would rapidly die off; while those who
+were constitutionally free from the disease would survive, and form the progenitors of a new
+race. These favoured individuals would probably be distinguished by peculiarities of colour,
+with which again peculiarities in the texture or the abundance of hair seem to be correlated,
+and thus may have been brought about those racial differences of colour, which seem to have
+no relation to mere temperature or other obvious peculiarities of climate.
+
+From the time, therefore, when the social and sympathetic feelings came into active operation,
+and the intellectual and moral faculties became fairly developed, man would cease to be influenced
+by "natural selection" in his physical form and structure. As an animal he would remain almost
+stationary, the changes of the surrounding universe ceasing to produce in him that powerful
+modifying effect which they exercise over other parts of the organic world. But from the moment
+that the form of his body became stationary, his mind would become subject to those very influences
+from which his body had escaped; every slight variation in his mental and moral nature which
+should enable him better to guard against adverse circumstances, and combine for mutual comfort
+and protection, would be preserved and accumulated; the better and higher specimens of our
+race would therefore increase and spread, the lower and more brutal would give way and successively
+die out, and that rapid advancement of mental organization would occur, which has raised the
+very lowest races of man so far above the brutes (although differing so little from some of
+them in physical structure), and, in conjunction with scarcely perceptible modifications of
+form, has developed the wonderful intellect of the European races.
+
+Influence of external Nature in the development of the Human Mind.
+
+But from the time when this mental and moral advance commenced, and man's physical character
+became fixed and almost immutable, a new series of causes would come into action, and take
+part in his mental growth. The diverse aspects of nature would now make themselves felt, and
+profoundly influence the character of the primitive man.
+
+When the power that had hitherto modified the body had its action transferred to the mind,
+then races would advance and become improved, merely by the harsh discipline of a sterile soil
+and inclement seasons. Under their influence, a hardier, a more provident, and a more social
+race would be developed, than in those regions where the earth produces a perennial supply
+of vegetable food, and where neither foresight nor ingenuity are required to prepare for the
+rigours of winter. And is it not the fact that in all ages, and in every quarter of the globe,
+the inhabitants of temperate have been superior to those of hotter countries? All the great
+invasions and displacements of races have been from North to South, rather than the reverse;
+and we have no record of there ever having existed, any more than there exists to-day, a solitary
+instance of an indigenous inter-tropical civilization. The Mexican civilization and government
+came from the North, and, as well as the Peruvian, was established, not in the rich tropical
+plains, but on the lofty and sterile plateaux of the Andes. The religion and civilization of
+Ceylon were introduced from North India; the successive conquerors of the Indian peninsula
+came from the North-west; the northern Mongols conquered the more Southern Chinese; and it
+was the bold and adventurous tribes of the North that overran and infused new life into Southern
+Europe.
+
+Extinction of Lower Races.
+
+It is the same great law of "the preservation of favoured races in the struggle for life,"
+which leads to the inevitable extinction of all those low and mentally undeveloped populations
+with which Europeans come in contact. The red Indian in North America, and in Brazil; the Tasmanian,
+Australian, and New Zealander in the southern hemisphere, die out, not from any one special
+cause, but from the inevitable effects of an unequal mental and physical struggle. The intellectual
+and moral, as well as the physical, qualities of the European are superior; the same powers
+and capacities which have made him rise in a few centuries from the condition of the wandering
+savage with a scanty and stationary population, to his present state of culture and advancement,
+with a greater average longevity, a greater average strength, and a capacity of more rapid
+increase,--enable him when in contact with the savage man, to conquer in the struggle for existence,
+and to increase at his expense, just as the better adapted, increase at the expense of the
+less adapted varieties in the animal and vegetable kingdoms,--just as the weeds of Europe overrun
+North America and Australia, extinguishing native productions by the inherent vigour of their
+organization, and by their greater capacity for existence and multiplication.
+
+The Origin of the Races of Man.
+
+If these views are correct; if in proportion as man's social, moral, and intellectual faculties
+became developed, his physical structure would cease to be affected by the operation of "natural
+selection," we have a most important clue to the origin of races. For it will follow, that
+those great modifications of structure and of external form, which resulted in the development
+of man out of some lower type of animal, must have occurred before his intellect had raised
+him above the condition of the brutes, at a period when he was gregarious, but scarcely social,
+with a mind perceptive but not reflective, ere any sense of right or feelings of sympathy had
+been developed in him. He would be still subject, like the rest of the organic world, to the
+action of "natural selection," which would retain his physical form and constitution in harmony
+with the surrounding universe. He was probably at a very early period a dominant race, spreading
+widely over the warmer regions of the earth as it then existed, and in agreement with what
+we see in the case of other dominant species, gradually becoming modified in accordance with
+local conditions. As he ranged farther from his original home, and became exposed to greater
+extremes of climate, to greater changes of food, and had to contend with new enemies, organic
+and inorganic, slight useful variations in his constitution would be selected and rendered
+permanent, and would, on the principle of "correlation of growth," be accompanied by corresponding
+external physical changes. Thus might have arisen those striking characteristics and special
+modifications which still distinguish the chief races of mankind. The red, black, yellow, or
+blushing white skin; the straight, the curly, the woolly hair; the scanty or abundant beard;
+the straight or oblique eyes; the various forms of the pelvis, the cranium, and other parts
+of the skeleton.
+
+But while these changes had been going on, his mental development had, from some unknown cause,
+greatly advanced, and had now reached that condition in which it began powerfully to influence
+his whole existence, and would therefore become subject to the irresistible action of "natural
+selection." This action would quickly give the ascendency to mind: speech would probably now
+be first developed, leading to a still further advance of the mental faculties; and from that
+moment man, as regards the form and structure of most parts of his body, would remain almost
+stationary. The art of making weapons, division of labour, anticipation of the future, restraint
+of the appetites, moral, social, and sympathetic feelings, would now have a preponderating
+influence on his well being, and would therefore be that part of his nature on which "natural
+selection" would most powerfully act; and we should thus have explained that wonderful persistence
+of mere physical characteristics, which is the stumbling-block of those who advocate the unity
+of mankind.
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00559.txt">
+  <feature name="about" authors="Roosevelt, Theodore" title="The Naval War of 1812 Or the History of the United States Navy during the Last War with Great Britain to Which Is Appended an Account of the Battle of New Orleans" lang="en" />
+  <feature name="md5Hash" value="20ab1cac014e53a8b6a122266a46b09b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="690" this_length="1646" source_reference="source-document04647.txt" source_language="es" source_offset="2969" source_length="1838" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4335" this_length="2389" source_reference="source-document04647.txt" source_language="es" source_offset="6770" source_length="2444" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9858" this_length="237" source_reference="source-document04647.txt" source_language="es" source_offset="4961" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13168" this_length="4325" source_reference="source-document04647.txt" source_language="es" source_offset="10342" source_length="4977" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="21780" this_length="2109" source_reference="source-document04647.txt" source_language="es" source_offset="19409" source_length="2284" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="26076" this_length="1697" source_reference="source-document04647.txt" source_language="es" source_offset="1184" source_length="1785" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06087.txt">
+  <feature name="about" authors="Spillman, Joseph" title="The Shipwreck A Story for the Young" lang="en" />
+  <feature name="md5Hash" value="15f0f1b2771e21da2c2eb3a6dcfe5321" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154" this_length="681" source_reference="source-document03900.txt" source_language="en" source_offset="200064" source_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8002" this_length="22687" source_reference="source-document03900.txt" source_language="en" source_offset="302644" source_length="24671" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32196" this_length="238" source_reference="source-document03900.txt" source_language="en" source_offset="14" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32543" this_length="267" source_reference="source-document03900.txt" source_language="en" source_offset="68963" source_length="269" />
+</document>
+

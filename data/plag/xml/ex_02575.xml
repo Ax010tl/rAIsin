@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02575.txt">
+  <feature name="about" authors="Verne, Jules" title="Celebrated Travels and Travellers Part I. The Exploration of the World" lang="en" />
+  <feature name="md5Hash" value="d57f866d63a21a6770a14eb20e64fafd" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1370" this_length="3680" source_reference="source-document08092.txt" source_language="de" source_offset="2729" source_length="4148" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7138" this_length="3524" source_reference="source-document06822.txt" source_language="de" source_offset="568" source_length="4049" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12301" this_length="4392" source_reference="source-document04927.txt" source_language="de" source_offset="204666" source_length="4982" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17959" this_length="1433" source_reference="source-document04927.txt" source_language="de" source_offset="83572" source_length="1556" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20170" this_length="1893" source_reference="source-document04927.txt" source_language="de" source_offset="44263" source_length="1996" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22395" this_length="229" source_reference="source-document08092.txt" source_language="de" source_offset="196" source_length="261" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22777" this_length="637" source_reference="source-document04927.txt" source_language="de" source_offset="532629" source_length="705" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23714" this_length="441" source_reference="source-document04927.txt" source_language="de" source_offset="96625" source_length="480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24470" this_length="211" source_reference="source-document04927.txt" source_language="de" source_offset="248548" source_length="240" />
+</document>
+

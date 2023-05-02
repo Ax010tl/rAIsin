@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04337.txt">
+  <feature name="about" authors="Saintsbury, George" title="The Flourishing of Romance and the Rise of Allegory (Periods of European Literature, vol. II)" lang="en" />
+  <feature name="md5Hash" value="786a2001ee4f5686650058bce2f6fbea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3086" this_length="3271" source_reference="source-document07662.txt" source_language="en" source_offset="4378" source_length="3060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16320" this_length="1543" source_reference="source-document07662.txt" source_language="en" source_offset="0" source_length="1725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22950" this_length="1290" source_reference="source-document07662.txt" source_language="en" source_offset="2013" source_length="1512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27936" this_length="235" source_reference="source-document07662.txt" source_language="en" source_offset="3580" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28546" this_length="283" source_reference="source-document07662.txt" source_language="en" source_offset="3975" source_length="263" />
+</document>
+

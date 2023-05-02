@@ -1,0 +1,506 @@
+﻿Inaugural-Dissertation
+                             zur
+                  Erlangung der Doktorwürde
+
+                           in der
+             Medizin, Chirurgie und Geburtshülfe
+
+                             der
+                Hohen Medizinischen Fakultät
+           der Königlichen Universität Greifswald
+
+                          vorgelegt
+                             von
+                         Carl Weiss
+                       aus Essen-Ruhr.
+
+  Buchdruckerei Hans Adler, Inh. E. Panzig, Greifswald 1913
+
+                Eingereicht im Oktober 1913.
+
+      Gedruckt mit Genehmigung der Hohen Medizinischen
+            Fakultät der Universität Greifswald.
+
+                  Dekan: Prof. Dr. Steyrer.
+
+         Referent: Geh. Med.-Rat Prof. Dr. Loeffler.
+
+                    Meiner lieben Mutter.
+
+Mit der fortschreitenden Vervollkommnung der bakteriologischen Untersuchungsmethoden war bald
+der Nachweis erbracht, daß manche pathogene Mikroorganismen nahezu ubiquitär sind, daß sie
+auch den ungünstigsten Lebensbedingungen sich anzupassen vermögen und lange Zeit an ihrer Virulenz
+nichts einzubüßen brauchen. Man konnte viele von ihnen an allen möglichen Gebrauchsgegenständen,
+auch an solchen, die mit Kranken nicht in direkte Berührung gekommen waren, nachweisen und
+mußte für die Ansteckungsmöglichkeit nicht nur den direkten Weg von Mensch zu Mensch, sondern
+weit häufiger den der indirekten Übertragung über die verschiedensten Gebrauchsgegenstände
+des Kranken selbst oder seiner nächsten Umgebung in Betracht ziehen. Diese Vorstellungen haben
+bald in weiteren Bevölkerungsschichten Verbreitung gefunden und zu der für unsere Zeit so charakteristischen
+Erscheinung der Bazillenfurcht geführt. Wenn Dinge, die von Hand zu Hand gehen oder von mehreren
+Personen benutzt werden, wie z. B. Papiergeld, Bücher aus den Bibliotheken, Utensilien der
+Barbierstuben, Trinkgefäße, Zahnstocherbehälter u. a. auf das Vorkommen pathogener Keime mikroskopisch
+und bakteriologisch eingehend untersucht worden sind, so geschah es doch wohl vornehmlich aus
+dem Grunde, weil man diesen Dingen eine nicht zu unterschätzende Rolle als Krankheitsvermittler
+ansprechen zu müssen glaubte.
+
+Es ist nicht überraschend, daß bald nach allgemeiner Einführung der Telephone, die ja heute
+wie kein anderes Verständigungsmittel ein Allgemeingut der gesamten Bevölkerung geworden sind,
+sich auch gegen diese der Verdacht regte, ihre weitgehende Inanspruchnahme disponiere sie geradezu
+zu Überträgern ansteckender Krankheiten. Es mag zugegeben werden, daß vom rein theoretischen
+Standpunkte aus die Möglichkeit einer Infektion durch Benutzung des Fernsprechers nicht abgeleugnet
+werden kann. Man ist weiter gegangen und hat auf Grund dieser theoretischen Erwägungen auf
+die tatsächlich gegebenen Verhältnisse geschlossen und von einer großen Gefahr der Ansteckungsmöglichkeit
+gesprochen. Wenn Laien diese Ansicht äußern, so mag das ihren irrtümlichen Anschauungen von
+dem Zustandekommen und dem Wesen einer Infektion zu Gute gerechnet werden; wenn jedoch bakteriologisch
+geschulte Männer dieser häufig zu begegnenden Ansicht der Laien beipflichten, das Telephon
+stelle in hygienischer Beziehung eine Gefahr dar, so ist es berechtigt, dieser Frage näher
+zu treten, zumal in besonders interessierten Kreisen der Verdacht gegen das Telephon durch
+Veröffentlichungen in Fachzeitschriften wachgehalten und bestärkt wird. So ist in der »Deutschen
+Postzeitung« Nr. 31 vom 4. 8. 1912 von einer »häufig unterschätzten, in Wahrheit aber sehr
+bedeutenden Gefahr der Ansteckung am Fernsprecher« die Rede, einer Gefahr, »die durch systematische
+Versuche bedeutender Bakteriologen in England und Deutschland in ein helles Licht gerückt worden
+ist. Der englische Bakteriologe Francis J. Allan«, so heißt es in der Notiz »Wissenschaftliche
+Ergebnisse über die Ansteckungsgefahr am Telephon« weiter, »benutzte zu seinem Versuche ein
+öffentliches Telephon in der Londoner Zentralbörse. Die Mundöffnung des Apparates wurde mit
+einem Tuch abgewischt, und der Inhalt des Tuches wurde dann zu Versuchen an zwei Meerschweinchen
+benutzt. Das erste Meerschweinchen starb 23 Tage später, nachdem ihm von dem Inhalte des Wischtuches
+etwas eingeimpft worden war, und die Sezierung ließ die ausgesprochenen Kennzeichen der Tuberkulose
+erkennen. Das zweite Meerschweinchen starb 27 Tage nach der Infektion und zeigte ähnliche Zeichen
+der Ansteckung. Diese Experimente beweisen, daß tödliche Tuberkulosebazillen von öffentlichen
+Telephonapparaten auch auf den Menschen leicht übertragen werden können.«
+
+Kritiklos, wie derartige tendenziös gehaltene Mitteilungen zumeist hingenommen zu werden pflegen,
+wird diese Mitteilung das ihrige dazu beigetragen haben, die Furcht vor der Ansteckungsgefahr
+am Telephon noch zu erhöhen.
+
+Es ist lohnend, näher auf die Originalveröffentlichung Allans im »Lancet« 1908 Nr. 4426 einzugehen:
+Es sind im ganzen sechs Versuche angestellt worden, von denen fünf negativ ausfielen. Bei dem
+6. Versuch gelang die Infizierung der oben erwähnten 2 Meerschweinchen mit Tuberkelbazillen.
+Dieser sechste Versuch wird wie folgt näher beschrieben:
+
+»Tel. Nr. -- P. O. Zentral. Dieser Wischer hatte eine Masse von weißgrauer, klebriger Substanz
+an sich haften; im gefärbten Ausstrich untersucht, zeigte sie eine Anzahl säurefester Bazillen,
+die in Gestalt und Form Tuberkelbazillen glichen.«
+
+Es ist offensichtlich, daß diese weißgraue, klebrige Substanz Sputum gewesen ist und zwar in
+so großer Menge mit dem Wischer entnommen wurde, daß man Ausstrichpräparate davon herstellen
+und mit dem Rest Tierversuche anstellen konnte.
+
+Dieser Fall, daß Sputum in dem Sprechtrichter in so großen Massen angetroffen wird, ist wohl
+praktisch so selten, daß man für die Frage einer Ansteckungsgefahr am Fernsprecher unter gewöhnlichen
+Verhältnissen daraus Schlüsse zu ziehen nicht berechtigt ist. Die Veröffentlichungen Allan's
+im »Lancet« sind geeignet, ein gänzlich falsches Bild von der Möglichkeit einer Ansteckung
+am Telephon zu entwerfen und können mithin als ein Versuch, diese Frage wissenschaftlich zu
+klären, nicht betrachtet werden.
+
+Im Gegensatz zu den Ausführungen Allan's möchte ich Ergebnisse einiger anderer Bakteriologen
+anführen. Die Versuche, die diesen Ergebnissen zu Grunde liegen, sind m. E. weit umfassender
+und weit mehr den tatsächlichen Verhältnissen angepaßt als die Allan's und verdienen deshalb
+größere Beachtung.
+
+Speziell bezüglich der Ansteckungsmöglichkeit mit Tuberkelbazillen hat der Londoner Bakteriologe
+Dr. Spitta eingehende Untersuchungen mit dem Fernsprecher angestellt. Es wurden Fernsprechapparate
+in Krankensälen angebracht, wo sie ausschließlich von Lungenkranken benutzt wurden. Während
+der Dauer eines ganzen Jahres hat man die Apparate weder gereinigt noch desinfiziert. Dann
+wurden die Mundstücke ausgewaschen und die Flüssigkeit Meerschweinchen injiziert. Der Versuch
+ergab selbst unter diesen für eine Übertragung der Krankheitsstoffe äußerst günstigen Bedingungen
+keine Ansteckung. Wenn man bedenkt, daß etwa 8 Tuberkelbazillen genügen, um ein Meerschweinchen
+tödlich zu infizieren, andrerseits in Betracht zieht, daß die Sekrete aus den tieferen Luftwegen
+Tuberkulöser u. U. massenhaft Tuberkelbazillen enthalten und falls sie in den Schallbecher
+gelangen sollten, über eine lange Zeit auch in eingetrocknetem Zustande lebensfähig bleiben,
+dann muß man nach den Versuchen Spittas zu der Überzeugung kommen, daß selbst unter so günstigen
+Verhältnissen für das Zustandekommen einer tuberkulösen Infektion von einer Gefahr nicht die
+Rede sein kann.
+
+Die Möglichkeit einer Übertragung von Infektionsstoffen ist abhängig zu machen von einer Summe
+von Faktoren, die durchaus nicht immer zusammentreffen werden. Diese Fragen behandelt Tomarkin
+in einer recht interessanten Arbeit in der »Münchener Medizinischen Wochenschrift«. Wie gelangen
+Infektionskeime überhaupt in den Schallbecher hinein?
+
+Die Exspirationsluft gesunder und kranker Personen ist, wie festgestellt worden ist, vollkommen
+keimfrei; während des Sprechaktes werden jedoch, wie Flügge bewiesen hat, feinste Tröpfchen,
+die mit Bakterien beladen sein können, in die Umgebung geschleudert. Cornet hat bezüglich der
+Tuberkulose den Nachweis geführt, daß diese verstäubten Tröpfchen, weil sie lediglich aus Mundspeichel
+bestehen, nur äußerst selten Tuberkelbazillen enthalten, immerhin werden bei Hustenstößen und
+namentlich in der Nähe einer sprechenden Person auch Sekrete der Tiefe verschleudert, die wohl
+Tuberkelbazillen enthalten können.
+
+Sind unter diesen Verhältnissen Keime in den Schalltrichter gelangt, so ist für eine nachträglich
+das Telephon benutzende Person eine Infektionsmöglichkeit gegeben in zweierlei Weise:
+
+Erstlich könnte die Person infiziert werden durch feinste infizierte Teilchen, die von dem
+vorhergehenden Benutzer in den Schalltrichter und dessen Umgebung hineinverstäubt sich dort
+noch eine Zeit schwebend erhalten haben, und zweitens durch infizierte trockene Teilchen, die
+etwa in dem Trichter abgelagert durch die Exspirationsluft des Sprechenden wieder aufgewirbelt
+würden.
+
+Von den Krankheitserregern, die beim Sprechakt in das Innere des Schallbechers gelangen und
+dort in irgend einer Form deponiert werden können, kommen nach Tomarkin in Frage die Erreger
+der Tuberkulose, der Diphtherie, des Scharlachs, der Masern, der Influenza, Pneumonie, Meningitis
+cerebrospinalis, verschiedener Anginen, Katarrhe usw.
+
+Der Hörer könnte als Vermittler der verschiedensten Hautaffektionen in Betracht kommen, kommt
+er doch häufig genug in direkten Kontakt mit den Produkten der äußeren Haut kranker Personen,
+wodurch er gründlich und dauernd verunreinigt werden kann.
+
+Mit demselben Recht könnte man den Griff als Krankheitsvermittler betrachten. Man braucht nur
+an die Bazillenträger zu denken. Ein Diphtheriebazillenträger z. B., der eben noch in seine
+Hand hineingehustet hat, kann Diphtheriebazillen auf den Griff übertragen, diese könnten übergehen
+auf die Hand der nachträglich den Fernsprecher benutzenden Person und dieser gefährlich werden.
+Der gleiche Fall läge vor bei Typhusbazillenträgern, bei denen die Erreger durch Unreinlichkeit
+bei der Defäkation auf die Handfläche gelangt sein könnten. Indessen wäre die daraus resultierende
+Gefahr nicht spezifisch für das Telephon, da ja bei vielen anderen Gegenständen z. B. Türklinken
+die gleichen Verhältnisse gegeben wären. Die Untersuchung des Griffes ist mithin als über den
+Rahmen der vorliegenden Arbeit hinausgehend unterlassen worden.
+
+Wenn wir nun von der Voraussetzung ausgehen, der Sprechtrichter sei infiziert mit Erregern
+ansteckender Krankheiten, so ist weiterhin für die Frage einer Ansteckungsmöglichkeit von Bedeutung,
+wie die in den Trichter abgelagerten Keime in die Atmungswege der nachträglich das Telephon
+benutzenden Person gelangen.
+
+Tomarkin vertritt die Anschauung, daß zur Fortbewegung der in den Sprechtrichter abgelagerten
+infizierten Teilchen ganz geringe Luftströme wie z. B. die Exspirationsluft der am Telephon
+sprechenden Person ausreichend seien. Dieser Meinung möchte ich mich nicht anschließen auf
+Grund von Untersuchungen, die Müller in der »Münchener Medizinischen Wochenschrift« veröffentlicht
+hat.
+
+Eine Entscheidung darüber, ob die Luftströme, die durch Räuspern, Niesen, Husten, Sprechen
+entstehen, ausreichen, um in den Sprechtrichter gelangte Keime loszulösen, die in Tröpfchen
+von Speichel oder Schleim eingeschlossen auf demselben haften geblieben sind, gehört meines
+Erachtens zu dem springenden Punkte der Frage einer Ansteckungsmöglichkeit. Die nach dieser
+Richtung hin von Dr. Müller im Hygienischen Institut in München angestellten Versuche bieten
+für die aufgeworfene Frage großes Interesse. Es sei mir gestattet, sie wörtlich zu zitieren:
+
+»Es wurden nun, nachdem nachgewiesen war, daß die Telephonmembranen sich selbst überlassen,
+lange infiziert bleiben, mannigfaltig modifizierte Versuche darüber angestellt, ob sich die
+Keime bei der Benutzung des Telephons von der Membran ablösen und in die Luft übergehen. Bei
+einem Teile der Versuche wurden die Membranen für sich allein in der angegebenen Weise mehr
+oder weniger reichlich mit Prodigiosus infiziert; bei anderen Versuchen wurden die Apparate
+fertig montiert und dann erst dem Prodigiosusspray ausgesetzt, sodaß auch die Umrahmung infiziert
+war. Die Montierung wurde so angebracht, daß die Membran auch von rückwärts besprochen werden
+konnte. Nun wurde die Membran samt Montierung in den gerade ihrem Umfange entsprechenden Hals
+einer ca. 10 Liter haltenden Flasche, deren Boden durch Abschleifen völlig entfernt war, eingeführt
+und abgedichtet. Darauf wurde ½ bis 4 Stunden gewartet, damit die Membran lufttrocken gemacht
+werden konnte und etwa lediglich durch die Erschütterung beim Einführen in den Flaschenhals
+losgelöste Keime Zeit hätten, sich zu Boden zu senken. Nach dieser Zeit wurden von der weiten
+Bodenöffnung her mit aller Vorsicht Gelatineplatten in Petrischalen, gewöhnlich vier hintereinander,
+in die Flasche hineingeschoben und die Öffnung mit einem Glasdeckel verschlossen. Bei einigen
+Versuchen lag die Flasche nicht horizontal, sondern stand senkrecht und zwar war hohl auf untergeschobenen
+Holzklötzchen. Die Platten wurden in diesem Falle in der Bodenöffnung, also senkrecht unter
+der Membran, aufgestellt. Es wurde nun die Membran in Schwingungen versetzt, zunächst indem
+von rückwärts gegen sie durch längere Zeit laut gesprochen wurde; später als diese Versuche
+negativ ausgefallen waren, indem 1 bis 2 Minuten lang auf einer Trompete gegen sie geblasen
+wurde. Nach der Erschütterung wurde die ganze Vorrichtung durch 1 bis 24 Stunden sich selbst
+überlassen, um den losgelösten und in die Luft übergegangenen Keimen Zeit zu gewähren, sich
+auf die Kulturschichten abzusetzen. Die Platten wurden nach der Herausnahme aus der Flasche
+in der feuchten Kammer gehalten und 8 Tage lang beobachtet.
+
+Von 10 derartigen Versuchen sind 9 vollkommen negativ ausgefallen, negativ insbesondere auch
+die Trompetenversuche, bei denen das Telephon so heftig in Schwingungen versetzt worden war,
+wie es bei gewöhnlichem Gebrauch garnicht vorkommt.
+
+Nur bei einem einzigen derartigen Versuche wurden Prodigiosus Kolonieen und zwar nicht mehr
+als 5 auf den Nährplatten nachgewiesen. Außerdem wurden auch noch bei einem Kontrollversuche,
+bei welchem sich der infizierte Sprechtrichter 24 Stunden lang vertikal über dem Nährboden
+befand, ohne daß seine Membran in Schallschwingungen versetzt wurde, 3 Prodigiosuskolonieen
+aufgefunden.
+
+Wenn man bedenkt, wie schwierig es ist, bei derartigen Versuchen zufällige Infektionen des
+Nährbodens mit einzelnen Keimen zu vermeiden, wird man diesen beiden positiven Fällen kein
+großes Gewicht beilegen dürfen. Es ist fraglich, ob die 5 Prodigiosuskeime wirklich vom Telephon
+herabgefallen sind. Schlimmstenfalls haben sich von den vielen Millionen, die sich am Telephon
+befanden, nur einige vereinzelte Keime losgelöst. Das Ergebnis der Versuche bestätigt somit
+nach unserem Dafürhalten die schon vorher gefaßte Meinung, daß die Infektionsgefahr bei halbwegs
+vernünftigem Gebrauch des Telephons minimal sei. Das Bedürfnis, es zu desinfizieren, scheint
+uns nicht vorzuliegen.« --
+
+Müller geht bei seinen Untersuchungen, soweit sie für die vorliegende Arbeit Interesse bieten,
+von der Voraussetzung aus, daß bereits eine Infizierung des Sprechers mit krankheitserregenden
+Keimen stattgefunden hat, und beschäftigt sich dann mit den Faktoren, die gegeben sein müssen,
+damit eine vom Telephon ausgehende Ansteckung erfolgen kann. Müller ist, ohne die Frage zu
+berühren, ob überhaupt infektionsauslösende Keime am Fernsprecher nachweisbar sind, bereits
+zu dem Schlusse gekommen, daß die Infektionsgefahr minimal ist, und verwertet dieses Resultat
+seiner Untersuchungen, um die ihnen zu Grunde liegende Frage nach dem Bedürfnis einer Desinfektion
+der Telephone zu verneinen.
+
+Ich möchte der Kette dieser experimentellen Untersuchungen, die die Furcht vor der Ansteckungsmöglichkeit
+durch das Telephon zu beheben imstande sind, ein weiteres Glied einfügen und zu entscheiden
+versuchen, ob unter den gewöhnlichen alltäglichen Verhältnissen pathogene Keime sich nachweisen
+lassen. Ich gehe dabei von der Voraussetzung aus, daß, wenn man aus ihrem Vorkommen am Telephon
+für den Benutzenden eine Gefahr konstruieren will, sie in größerer Menge am Sprecher oder Hörer
+haften müssen, auf jeden Fall sich mit den bakteriologischen Methoden nachweisen lassen müssen.
+Die Versuche, die Allan nach dieser Richtung hin angestellt hat, sind mir nicht einwandfrei
+und erschöpfend genug, werden ja auch bezüglich der Tuberkulose durch Spittas Untersuchungen
+hinlänglich widerlegt.
+
+Um nun einen Einblick in die Bakterienflora am Telephon zu gewinnen, habe ich völlig vorurteilslos
+eine Reihe von Untersuchungen vorgenommen an 40 der am meisten in Anspruch genommenen Telephone
+der Stadt Greifswald: Öffentlichen Fernsprechstellen der Hauptpost, Bahnpost, des Bahnhofs,
+der Polizeiwachen, zahlreicher Gasthöfe, größerer Kaufhäuser, Privat- und Universitätskliniken
+u. a.
+
+Die Methode meiner Untersuchungen war folgende:
+
+Ein Stückchen steriler Watte wurde in 5 ccm steriler Bouillon gebracht. Mit diesem mit Bouillon
+angefeuchteten Wattebäuschchen wurden vermittels steriler Pinzetten Schallbecher und Hörrohr
+gründlich abgerieben. Hatte sich das Wattebäuschchen reichlich mit Bouillon getränkt, so kam
+es zuweilen vor, daß während des Abreibens Tropfen vom Schalltrichter abfielen. Diese abfallenden
+Tropfen wurden in sterilem Reagenzglase mit der sterilen Bouillon aufgefangen. Nach beendigter
+Abreibung wurde die Watte in die Bouillon zurückgebracht, mit Hilfe steriler Glasstäbe zerzupft
+und gründlichst in derselben ausgewaschen.
+
+Bei zehn Telephonen wurden anfänglich Hörer und Sprechtrichter gesondert untersucht, da ja
+in erster Linie die Frage nach der Art der Keime interessierte. Als sich herausstellte, daß
+die Bakterienflora des Hörers sich in keinem Punkte von der des Schallbechers unterschied,
+wurden bei den nächsten 20 Telephonen Hörer und Sprechtrichter mit dem gleichen Wattebäuschchen
+abgerieben und dieses in dieselbe Bouillon gebracht, deren Menge aber in diesen Fällen auf
+10 ccm bemessen wurde.
+
+Als sich bei den ersten zehn Versuchen ein auffallender Unterschied in der Zahl der Keime,
+je nachdem sie dem Hörer oder dem Schallbecher entstammten, herausstellte, wurden nachträglich
+weitere 10 Telephone analog den ersten 10 untersucht.
+
+Es ist kaum zu glauben, wieviel Schmutz den Telephonen im allgemeinen anhaftet. Besonders trifft
+dies zu für die in dunkelen, geschlossenen Zellen untergebrachten Fernsprecher. Da vielfach
+nicht einmal für Beleuchtung in denselben gesorgt ist, so ist es begreiflich, daß der ungeheuere
+Schmutz von den Besitzern der Apparate garnicht gesehen und demzufolge für eine Entfernung
+garnicht Sorge getragen wird. So ist es wohl denkbar, daß in vielen derartigen Fällen der Schmutz
+sich über Jahre hin anhäufen konnte.
+
+Nach der Auswaschung nimmt die klare Bouillon eine schmutzig graue, oft tief schwarze Verfärbung
+an und bleibt in den wenigsten Fällen durchsichtig. Auch in den Fällen, wo eine tägliche Reinigung
+der Telephone vorgenommen wird, wie an den Apparaten der Postanstalten und vieler Kliniken,
+tritt, nachdem das Material in der Bouillon ausgewaschen ist, stets eine, wenn auch geringe
+Trübung ein.
+
+Zentrifugiert setzt sich ein mehr oder weniger reichlicher, grauer bis schwarzer Bodensatz
+ab, dessen Formbestandteile nicht näher zu differenzieren waren.
+
+Bringt man einen Tropfen dieser Bouillon auf ein Deckglas und betrachtet das ungefärbte, nicht
+lufttrocken gemachte Präparat unter dem Mikroskop oder nimmt man die Untersuchung am hängenden
+Tropfen vor, so sieht man eine unglaubliche Menge der verschiedensten Mikroorganismen, runde
+Kokken, die vereinzelt oder zu langen Ketten aneinandergereiht liegen und schon hier als Streptokokken
+zu diagnostizieren waren; kurze, längere, oft kolossal lange Stäbchen mit und ohne lebhafte
+Eigenbewegungen, mit und ohne stark glänzende Sporen. Die Bouillon enthielt also eine Unzahl
+von Keimen. Für die Aussaat auf Kulturplatten entschied ich mich nach längeren Probeversuchen
+für die Menge von 2 Platinösen. Es wuchsen bei dieser Aussaatmenge im Mittel 27 Kolonieen auf
+den Nährböden, was einer Menge von 67500 in den 5 ccm Waschflüssigkeit entsprechen würde.
+
+Mit dem gewonnenen Material wurden nun folgende Versuche angestellt:
+
+Je zwei Platinösen wurden auf Agar-Agarplatten verimpft und von diesen die eine bei Zimmertemperatur,
+die andere im Brutschrank bei 37° aufbewahrt und 14 Tage lang beobachtet.
+
+2 Platinösen wurden in Gelatine verteilt und diese in Petrischalen ausgegossen; mit dem Rest
+der Bouillon wurden Tierexperimente angestellt. Zu den Versuchen wurden ausschließlich Meerschweinchen
+verwandt. Diesen wurde der ganze Rest der bakterienhaltigen Bouillon also ca. 5 oder 10 ccm,
+subcutan oder intraperitoneal injiciert.
+
+Von den auf den Platten gewachsenen Kolonieen wurden Reinkulturen gewonnen und auch mit diesen
+Tierversuche angestellt: 2-4 Platinösen dieser Reinkulturen wurden in 2 ccm steriler Kochsalzlösung
+fein verteilt und Meerschweinchen subcutan injiziert.
+
+Wo ich a priori infektiöses Material erwarten konnte, wie bei den Telephonen der Diphtherie-
+oder Typhusbaracke, wurden neben den gewöhnlichen Agarplatten auch andere Nährböden zur Züchtung
+verwandt: Material aus der Diphtheriebaracke wurde auf Hammelblutserumplatten ausgesät, und
+mit dem Material aus der Typhusbaracke das Verfahren der Anreicherung in Ochsengalle angestellt.
+Über das Ergebnis wird weiter unten berichtet werden.
+
+Die Versuche ergaben folgendes Resultat:
+
+Was zunächst die Zahl der gewachsenen Kolonieen betrifft, so ist oben bemerkt worden, daß ein
+Unterschied zu konstatieren war, je nachdem die Platten mit dem Material des Hörers oder des
+Sprechtrichters besät waren. Hörer und Schallbecher wurden getrennt untersucht bei 20 Telephonen.
+Der besseren Übersicht diene folgende Zusammenstellung: Siehe Tabelle S. 18.
+
+                  Tabelle von Seite 17.
+
+  Anzahl der auf Agar-Agar Platten gewachsenen Kolonieen
+
+    =========+=======================+===============
+    Telephon |  Material des Hörers  |  Material des
+      Nr.    |                       |  Schallbechers
+    ---------+-----------------------+---------------
+        1    |           30          |      16
+        2    |           24          |      16
+        3    |           20          |       5
+        4    |            8          |       1
+        5    |           39          |       7
+        6    |            4          |       8!
+        7    |           18          |       3
+        8    |          245          |      18
+        9    |           12          |      74!
+       10    |            5          |       2
+       31    |          348          |      18
+       32    |           83          |       5
+       33    |            7          |       7
+       34    |            6          |      28!
+       35    |           23          |      26!
+       36    |          364          |      24
+       37    |           70          |       8
+       38    |           18          |       3
+       39    |           63          |       5
+       40    |           31          |      13
+    ---------+-----------------------+---------------
+       20              1418                287
+    Telephone       Kolonieen           Kolonieen
+
+Die Tabelle zeigt uns, daß durchschnittlich die Kulturplatten, die mit dem Material des Hörers
+besät sind, rund 71 Kolonieen aufweisen, während auf den Kulturplatten, die mit dem Material
+des Schallbechers besät sind, nur rund 14 Kolonieen gewachsen sind. Die Platten, die dem Material
+des Hörers entstammen, enthielten demnach etwa 5 mal so viel Keime, als die des Schallbechers.
+Dieses Verhältnis 5 : 1 scheint mir etwas zu hoch gegriffen und ist lediglich auf die außerordentlich
+zahlreiche Bewachsung der Kulturplatten von den Telephonen Nr. 8, 31, 36 zurückzuführen. Indessen
+ist als erwiesen anzusehen, daß dem Hörer eine weit größere Menge Mikroorganismen anhaften
+als dem Schallbecher. Den Grund für dieses zunächst nicht zu erwartende Resultat möchte ich
+vornehmlich darin suchen, daß durch den direkten Kontakt der ganz ansehnlichen Fläche, die
+der Hörer bildet, mit der Haut und besonders auch den Haaren der das Telephon benutzenden Person
+das Haftenbleiben von Keimen stark begünstigt wird. Ferner ist in Erwägung zu ziehen, daß der
+Hörer der Ansiedelung von Keimen, die mit dem Staube verschleppt werden, eine größere Oberfläche
+darbietet und auch weit mehr der Staubablagerung exponiert ist als der trichterförmig abgeschlossene
+Schallbecher.
+
+Abgesehen von der Zahl der Keime interessierte nun besonders lebhaft die Frage nach der Art
+derselben, unter besonderer Berücksichtigung des Umstandes, ob unter den aufgefundenen Arten
+pathogene Keime vorhanden seien.
+
+Zur Identifizierung der einzelnen Arten verwandte ich Züchtung in Bouillon, auf Agar-Agar-,
+Serum-, Gelatineplatten, ferner mikroskopische Untersuchung aller gewachsenen Kolonieen sowohl
+im hängenden Tropfen wie nach vorangegangener Färbung mit Methylenblau, Karbolfuchsin, Malachitgrün,
+oder Gramfärbung und zur besseren Darstellung der Sporen die Sporenfärbung nach Möller, bei
+Diphtherie ähnlichen Keimen die von Loeffler modifizierte Neissersche Polkörnchenfärbung, an
+die sich eventuell weiter notwendige Maßnahmen wie Verimpfung auf Trauben- und Milchzuckerhaltige
+Nährböden, spezifische Typhusnährböden usw. anschlossen. Zur Entscheidung über die Pathogenität
+diente in jedem Falle der Tierversuch.
+
+Hiernach kam ich zu folgendem Resultat:
+
+Die Arten der durch die Plattenkulturen an den Fernsprechern nachgewiesenen Mikroorganismen
+sind fast in jedem Falle die gleichen. Die Bakterienflora des Hörers unterschied sich qualitativ
+in nichts von der des Schallbechers, weshalb nach einer Reihe von Untersuchungen das gesonderte
+Verfahren aufgegeben wurde.
+
+Weitaus am häufigsten, auf jeder Platte mehrmals, anzutreffen sind Kolonieen runder, Gram positiver
+Mikrokokken (Staphylokokken). Die Kolonieen sind in den meisten Fällen schon makroskopisch
+als Staphylokokkenkolonieen zu erkennen. Sie sind zumeist rund, glattrandig, starkglänzend
+und bilden ziemlich dicke Auflagerungen. Häufig zu beobachten ist nach längerer Zeit die Bildung
+von concentrischen Ringen und Dellen im Centrum der Kolonieen, sodaß die Randzone wallartig
+aufgeworfen erscheint. In der Farbe geben sie alle Nüancierungen wieder von einem dunklen Orange
+zum hellen Citronengelb, von einem leuchtenden Weiß über rosa Farbentöne zum Rot. Auch Farbenwechsel
+nach längerer Zeit ist beobachtet: Kolonieen, die anfänglich als weiße Auflagerungen protokolliert
+sind, nehmen später z. B. einen gelblichorangen Farbenton an. Andrerseits findet sich bei ein
+und derselben Kolonie stärker ausgesprochene Färbung des Centrums oder entsprechend den concentrischen
+Ringen, während häufig die Randzone blassere Farbentöne aufweist. Nicht immer ist der Grund
+darin zu suchen, daß die Kolonie stumpf kegelförmig vom Rande her nach dem Centrum ansteigt,
+also an der Peripherie dünner geschichtet ist.
+
+Die Größenverhältnisse der Kolonieen sind auch bei gleichem Alter verschieden: es finden sich
+Kolonieen im Durchmesser von 1-20 mm.
+
+Die Konsistenz der Kolonieen ist durchweg weich, das Material für die Untersuchungen ist mit
+der Platinöse stets leicht zu entnehmen.
+
+Die Form der Kokken ist in der Mehrzahl der Fälle rund und im allgemeinen treffen wir bei der
+gleichen Kolonie Kokken von gleicher Größe. Sie liegen haufenweise zusammen, ausgesprochene
+Traubenform ist nicht selten. Häufig liegen sie vereinzelt und imponieren dann oft als Diplokokken.
+Was die Größe der einzelnen Kokkenarten anbelangt, so finden wir alle Übergänge von winzigen
+zu recht ansehnlichen Kokken.
+
+Die Agarstrichkulturen zeigen die gleichen Eigenschaften bezüglich der Farbe und Beschaffenheit
+wie die Plattenkulturen. Sie bilden dicke, saftig erscheinende Auflagerungen längs des Striches,
+meist über ihn hinauswachsend. Das Kondenswasser ist diffus getrübt.
+
+Die Gelatine wird von den einzelnen Arten verschieden spät verflüssigt. Einige Kokkenarten
+verflüssigen rapide, bei anderen zeigt sich erst nach Ablauf von einigen Tagen eine schwache
+Verflüssigungszone um die Kolonie, wieder andere verflüssigen garnicht.
+
+Nach ihren genannten Merkmalen trage ich keine Bedenken, die meisten der gefundenen Arten je
+nach ihrer Farbstoffbildung als Staphylococcus albus, aureus, citreus, rosaceus etc. zu identifizieren.
+Der Staphylococcus albus, aureus, citreus wird ja vielfach als der verbreiteteste Eitererreger
+angesehen, und es liegt der Gedanke nahe, daß wir es bei den aufgefundenen Arten mit Vertretern
+pathogener Keime zu tun haben. Indessen kann man nicht lediglich aus der Form und der Art des
+Wachstums der Mikroorganismen Rückschlüsse auf deren Virulenz machen. Ich habe daher in all
+diesen Fällen den Tierversuch entscheiden lassen. Von Reinkulturen wurden 2 bis 4 Platinösen
+Meerschweinchen unter die Haut appliziert: trotz der reichlichen Menge zeigten die Tiere keinerlei
+Herd- oder Allgemeinerscheinungen, die auf krankhafte Prozesse schließen ließen.
+
+Ziemlich selten wurden Gram negative Kokken gefunden.
+
+Während von den Gram positiven Kokken jede einzelne Art häufiger anzutreffen war, ist von den
+Gram negativen Kokkenkolonieen fast keine der anderen gleich:
+
+Sind sie auch äußerlich nach Farbe und Beschaffenheit der Kolonieen nicht zu unterscheiden
+so finden sich Abweichungen in der Größe der einzelnen Kokken, der Fähigkeit, Gelatine zu verflüssigen,
+oder der Form, indem sie dann und wann als Diplokokken in Erscheinung treten.
+
+Relativ oft sind es blaßgraue bis bräunliche, stark saftig erscheinende Kolonieen, deren mehr
+oder weniger breite Randzone einen gezackten Rand aufweist und transparent ist. Ihre Oberfläche
+ist glatt, oft mit radiärer Streifung versehen. Treten dazu concentrische Ringe, so erhalten
+die Kolonieen, wie einige Mal beobachtet, ein kokardenähnliches Aussehen.
+
+Auch grünlichgelbe, citronen- bis schwefelgelbe Kolonieen kommen häufiger vor; auch diese Kolonieen
+bilden nach einiger Zeit concentrische Ringe, in noch älteren Stadien Schichtung im Centrum.
+Diese gelben Kolonieen zeigen die Eigentümlichkeit, daß die Größe der Kokken aus der gleichen
+Kolonie ziemlich variiert.
+
+Auch mit diesen Gram negativen Kokkenarten sind Tierexperimente angestellt worden. Es zeigte
+sich, daß auch sie nicht tierpathogen sind.
+
+Sehr häufig sind Sarcine auf den Kulturplatten anzutreffen. Fast ausschließlich sind es matt
+oder glänzend gelbe, glattrandige, die Gelatine mehr oder weniger zeitig verflüssigende Kolonieen.
+Auf Gelatineplatten wachsen sie langsam, schneller auf Agarplatten, wo Auflagerungen von 1 cm
+Durchmesser beobachtet wurden. Mikroskopisch finden wir neben ausgesprochener Warenballenform
+Anordnung der Sarcinekokken in Tetraden.
+
+Zweimal sind kleine, grauweiße, runde, matte Sarcinekolonieen angetroffen worden, die die Gelatine
+spät verflüssigten. Mikroskopisch erwiesen sie sich als kleine rundliche Kokken, die zu vieren
+zusammenlagen.
+
+Einige der oben angeführten gelb wachsenden Arten halte ich für identisch mit der Sarcina flava
+und lutea.
+
+Auch mit den Sarcinearten sind Tierversuche angestellt worden. Injektionen von Reinkulturen
+unter die Haut von Meerschweinchen riefen keinerlei Veränderungen am Tierkörper hervor.
+
+Zu den allergewöhnlichsten Befunden auf den Kulturplatten gehören Stäbchen. Weitaus in der
+Mehrzahl sind es Vertreter aus der großen Gruppe der Heubazillen. Ihre Kolonieen finden sich
+auf jeder Platte als weißlichgraue, glänzende, auf Agar-Agar häufiger matte, glattrandige Auflagerungen.
+Ihre Oberfläche ist oft radiär oder concentrisch gefaltet und einem Häutchen vergleichbar.
+
+Mikroskopisch finden sich große und mittelgroße, oft zu langen Fäden vereinigte sporentragende
+Stäbchen, die sich nach Gram färben. Im hängenden Tropfen zeigen die Bazillen lebhafte Eigenbewegung.
+Die Gelatine wird schnell unter Bildung eines zarten Häutchens verflüssigt.
+
+Als sicher konnten diagnostiziert werden der Bazillus subtilis, der Bazillus mesentericus vulgatus,
+charakterisiert durch das typische Wachstum auf Kartoffeln, ferner der Bazillus mycoides, dessen
+Kolonieen wie die Ausläufer von Wurzeln sich verzweigen und schon makroskopisch nicht zu verkennen
+sind. Alle diese Mikroorganismen sind in Luft und Staub weit verbreitet und absolut unschädlich.
+Die pathogenen Arten der sporenbildenden Stäbchen, die Erreger des Milzbrandes, Rauschbrandes,
+des malignen Oedems sind nicht gefunden worden.
+
+Nicht sporentragende Stäbchen gehören ebenfalls zu den allergewöhnlichsten Befunden.
+
+Kurze, plumpe Gram positive Stäbchen sind von den verschiedensten Kolonieen zu gewinnen. Beobachtet
+wurden auf Agarplatten orangegelbe Kolonieen, die eine stark glänzende Oberfläche haben und
+nach dem Rande hin sich aufhellen. Die Kolonie ist stark prominent, ihr Rand glatt, bei älteren
+Kolonieen treffen wir im Centrum dellenförmige Einsenkungen an.
+
+Ein andermal entstammen nach ihrer Form mikroskopisch von den eben genannten nicht zu unterscheidende
+plumpe Kurzstäbchen weißlich runden, weniger intensiv glänzenden, durch concentrische Ringe
+und gezackten Rand sich auszeichnenden Auflagerungen.
+
+Mit einiger Regelmäßigkeit treffen wir ferner plumpe Kurzstäbchen an in Kolonieen, die blaßgraugelblich
+glänzend, transparent sind und eine unregelmäßige Form haben. Die Randzone ist stärker prominent,
+wallartig und intensiver gelblich gefärbt.
+
+Weiterhin sind plumpe Gram positive Kurzstäbchen nachzuweisen in großen, gelblichgrauen, glänzenden,
+glattrandigen, runden Kolonieen mit concentrischen Ringen. Die Stäbchen aus diesen Kolonieen
+liegen meist paarweise aneinander.
+
+Auch auf blaßrosa, runden, im Centrum intensiver rosa gefärbten Kolonieen wuchsen plumpe Gram
+positive Kurzstäbchen.
+
+Winzige, zarte, schlanke Gram positive Stäbchen bildeten oft Kolonieen, die eine saftig glänzende
+Oberfläche aufweisen, gelb bis gelblichbraun gefärbt sind und nach dem Rand hin durchsichtig
+werden. Die Auflagerungen sind zart und erreichen selten eine auffallende Größe.
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08084.txt">
+  <feature name="about" authors="Burritt, Elihu" title="A Journal of a Visit of Three Days to Skibbereen, and its Neighbourhood" lang="en" />
+  <feature name="md5Hash" value="331f203da0d64d4b4bd6503f07bc77dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1927" this_length="16321" source_reference="source-document06823.txt" source_language="en" source_offset="7547" source_length="17032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22118" this_length="491" source_reference="source-document06823.txt" source_language="en" source_offset="5630" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23365" this_length="1754" source_reference="source-document06823.txt" source_language="en" source_offset="684" source_length="2102" />
+</document>
+

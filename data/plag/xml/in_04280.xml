@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04280.txt">
+  <feature name="about" authors="Skinner, Charles Montgomery" title="Myths and Legends of Our Own Land — Volume 08 : on the Pacific Slope" lang="en" />
+  <feature name="md5Hash" value="35be3bfe9eb6c34109df0be7f958aac8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3343" this_length="2826" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21738" this_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24009" this_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30447" this_length="466" />
+</document>
+

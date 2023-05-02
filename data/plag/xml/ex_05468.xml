@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05468.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="The Mating of Lydia" lang="en" />
+  <feature name="md5Hash" value="fdb40221d534b37f3f6192bc3dbb73d1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1595" this_length="13825" source_reference="source-document06764.txt" source_language="en" source_offset="1008374" source_length="20740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22932" this_length="234" source_reference="source-document06764.txt" source_language="en" source_offset="490742" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23346" this_length="779" source_reference="source-document04348.txt" source_language="en" source_offset="613" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25031" this_length="1681" source_reference="source-document04348.txt" source_language="en" source_offset="1577" source_length="1643" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26713" this_length="251" source_reference="source-document06764.txt" source_language="en" source_offset="857617" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27110" this_length="249" source_reference="source-document06764.txt" source_language="en" source_offset="1115746" source_length="247" />
+</document>
+

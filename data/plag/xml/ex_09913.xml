@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09913.txt">
+  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 11: Titus" lang="en" />
+  <feature name="md5Hash" value="8a0b7e424c0070a2ffecccd9c8b09430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4465" this_length="1521" source_reference="source-document00067.txt" source_language="en" source_offset="176904" source_length="2244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15328" this_length="2820" source_reference="source-document00067.txt" source_language="en" source_offset="310073" source_length="2772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25174" this_length="1618" source_reference="source-document06019.txt" source_language="en" source_offset="364277" source_length="2279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29043" this_length="243" source_reference="source-document00067.txt" source_language="en" source_offset="101094" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31054" this_length="838" source_reference="source-document00067.txt" source_language="en" source_offset="346036" source_length="789" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33673" this_length="240" source_reference="source-document00067.txt" source_language="en" source_offset="313458" source_length="239" />
+</document>
+

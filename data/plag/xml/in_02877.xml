@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02877.txt">
+  <feature name="about" authors="Stockley, Cynthia" title="Blue Aloes Stories of South Africa" lang="en" />
+  <feature name="md5Hash" value="8a68699efac989c75c983797bf946d52" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1" this_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11567" this_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27111" this_length="270" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03533.txt">
+  <feature name="about" authors="Slemons, Josiah Morris" title="The Prospective Mother, a Handbook for Women During Pregnancy" lang="en" />
+  <feature name="md5Hash" value="d09a68b1f0e3d8a3bd174de8d5128a07" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13572" this_length="1999" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22494" this_length="689" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29549" this_length="255" />
+</document>
+

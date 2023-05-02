@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10138.txt">
+  <feature name="about" authors="Vaughan, John Stephen" title="The Purpose of the Papacy" lang="en" />
+  <feature name="md5Hash" value="daa2f6c5a57fc59a519e862244ffc2dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377" this_length="2478" source_reference="source-document03499.txt" source_language="en" source_offset="58885" source_length="2530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3481" this_length="16774" source_reference="source-document03499.txt" source_language="en" source_offset="96176" source_length="16970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23092" this_length="1865" source_reference="source-document03499.txt" source_language="en" source_offset="174128" source_length="1782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25063" this_length="270" source_reference="source-document03499.txt" source_language="en" source_offset="140560" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25334" this_length="471" source_reference="source-document10905.txt" source_language="en" source_offset="32685" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25806" this_length="245" source_reference="source-document03499.txt" source_language="en" source_offset="293157" source_length="251" />
+</document>
+

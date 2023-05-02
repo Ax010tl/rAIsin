@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01533.txt">
+  <feature name="about" authors="Salisbury, William" title="The Botanist's Companion, Volume II" lang="en" />
+  <feature name="md5Hash" value="4db5d0db521ac8f9267a1843aaf68c61" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="691" this_length="3673" source_reference="source-document00970.txt" source_language="en" source_offset="512400" source_length="4156" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12461" this_length="1690" source_reference="source-document00970.txt" source_language="en" source_offset="288592" source_length="1567" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17860" this_length="994" source_reference="source-document00970.txt" source_language="en" source_offset="11059" source_length="1995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21360" this_length="471" source_reference="source-document00970.txt" source_language="en" source_offset="870411" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22568" this_length="766" source_reference="source-document00970.txt" source_language="en" source_offset="303872" source_length="780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24254" this_length="245" source_reference="source-document00970.txt" source_language="en" source_offset="186471" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25068" this_length="228" source_reference="source-document00970.txt" source_language="en" source_offset="216574" source_length="248" />
+</document>
+

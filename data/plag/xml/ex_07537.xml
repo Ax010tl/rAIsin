@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07537.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Purse" lang="en" />
+  <feature name="md5Hash" value="e25abe0dc4dd5165f02ae5786863a173" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2666" this_length="6492" source_reference="source-document02307.txt" source_language="en" source_offset="56071" source_length="16223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11967" this_length="6726" source_reference="source-document02307.txt" source_language="en" source_offset="239635" source_length="15809" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22738" this_length="8333" source_reference="source-document02307.txt" source_language="en" source_offset="122999" source_length="21275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31305" this_length="439" source_reference="source-document02307.txt" source_language="en" source_offset="7958" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31962" this_length="1728" source_reference="source-document02307.txt" source_language="en" source_offset="519900" source_length="1730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33970" this_length="413" source_reference="source-document02307.txt" source_language="en" source_offset="330732" source_length="480" />
+</document>
+

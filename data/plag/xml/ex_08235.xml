@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08235.txt">
+  <feature name="about" authors="Sanchez, Nellie Van de Grift" title="The Life of Mrs. Robert Louis Stevenson" lang="en" />
+  <feature name="md5Hash" value="7a881293be8567c8dc1540f2a941aaee" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="521" this_length="2142" source_reference="source-document04874.txt" source_language="en" source_offset="481394" source_length="2256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3560" this_length="1746" source_reference="source-document04874.txt" source_language="en" source_offset="12744" source_length="1788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5850" this_length="1986" source_reference="source-document04874.txt" source_language="en" source_offset="401312" source_length="1931" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9241" this_length="2701" source_reference="source-document04874.txt" source_language="en" source_offset="606237" source_length="3013" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12549" this_length="477" source_reference="source-document04874.txt" source_language="en" source_offset="586221" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13672" this_length="1436" source_reference="source-document04874.txt" source_language="en" source_offset="519329" source_length="1500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16295" this_length="3027" source_reference="source-document04874.txt" source_language="en" source_offset="438452" source_length="3400" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20228" this_length="1474" source_reference="source-document04874.txt" source_language="en" source_offset="552339" source_length="1488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21913" this_length="481" source_reference="source-document04874.txt" source_language="en" source_offset="129435" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23519" this_length="2374" source_reference="source-document04874.txt" source_language="en" source_offset="596587" source_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26124" this_length="471" source_reference="source-document04874.txt" source_language="en" source_offset="139047" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27061" this_length="257" source_reference="source-document04874.txt" source_language="en" source_offset="245159" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27319" this_length="220" source_reference="source-document04874.txt" source_language="en" source_offset="66908" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27675" this_length="234" source_reference="source-document04874.txt" source_language="en" source_offset="133551" source_length="226" />
+</document>
+

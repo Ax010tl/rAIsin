@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06248.txt">
+  <feature name="about" authors="Twain, Mark" title="The Prince and the Pauper, Part 8." lang="en" />
+  <feature name="md5Hash" value="891b229655383eeb7b70998411bb7d67" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2542" this_length="259" source_reference="source-document06500.txt" source_language="en" source_offset="236148" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12128" this_length="438" source_reference="source-document06500.txt" source_language="en" source_offset="417297" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17043" this_length="228" source_reference="source-document06500.txt" source_language="en" source_offset="175468" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25713" this_length="244" source_reference="source-document06500.txt" source_language="en" source_offset="77798" source_length="242" />
+</document>
+

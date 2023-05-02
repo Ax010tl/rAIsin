@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05770.txt">
+  <feature name="about" authors="Steedman, Amy" title="The Babe in the Bulrushes" lang="en" />
+  <feature name="md5Hash" value="216fcb03f4d6d614c4552054a42dcc12" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2840" this_length="740" source_reference="source-document02598.txt" source_language="en" source_offset="10791" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7456" this_length="1985" source_reference="source-document02598.txt" source_language="en" source_offset="16021" source_length="2244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17577" this_length="508" source_reference="source-document03928.txt" source_language="en" source_offset="17598" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19290" this_length="456" source_reference="source-document02598.txt" source_language="en" source_offset="7937" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21106" this_length="271" source_reference="source-document03928.txt" source_language="en" source_offset="16113" source_length="264" />
+</document>
+

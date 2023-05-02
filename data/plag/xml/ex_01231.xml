@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01231.txt">
+  <feature name="about" authors="Seton, Ernest Thompson" title="Lobo, Rag and Vixen Being The Personal Histories Of Lobo, Redruff, Raggylug &amp; Vixen" lang="en" />
+  <feature name="md5Hash" value="5a9a60f08ec76e10c9986028672f0dcc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13352" this_length="2397" source_reference="source-document01629.txt" source_language="en" source_offset="82999" source_length="2448" />
+</document>
+

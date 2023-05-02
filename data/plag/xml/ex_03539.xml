@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03539.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Minstrelsy of the Scottish border, Volume 1" lang="en" />
+  <feature name="md5Hash" value="989d03f9c566ec5e0df146dc1a133a3a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2488" this_length="477" source_reference="source-document06875.txt" source_language="en" source_offset="3243" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8562" this_length="472" source_reference="source-document06875.txt" source_language="en" source_offset="4445" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12660" this_length="785" source_reference="source-document01467.txt" source_language="en" source_offset="10177" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22218" this_length="545" source_reference="source-document06875.txt" source_language="en" source_offset="6552" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24823" this_length="270" source_reference="source-document01467.txt" source_language="en" source_offset="203" source_length="270" />
+</document>
+

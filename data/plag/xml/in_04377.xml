@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04377.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="More about Pixie" lang="en" />
+  <feature name="md5Hash" value="98f029d75ffaf3d6bc3c261115bf6eb0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6149" this_length="2674" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21429" this_length="1833" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26798" this_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29896" this_length="274" />
+</document>
+

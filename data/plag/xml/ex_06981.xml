@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06981.txt">
+  <feature name="about" authors="Sholl, Anna McClure" title="The Faery Tales of Weir" lang="en" />
+  <feature name="md5Hash" value="80a6dcd05f9814a3eae6ce818f105de1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="539" source_reference="source-document04693.txt" source_language="en" source_offset="136529" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="983" this_length="2259" source_reference="source-document04693.txt" source_language="en" source_offset="168097" source_length="2299" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5878" this_length="14668" source_reference="source-document04693.txt" source_language="en" source_offset="81716" source_length="15815" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21251" this_length="3474" source_reference="source-document04693.txt" source_language="en" source_offset="70004" source_length="3433" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25141" this_length="519" source_reference="source-document04693.txt" source_language="en" source_offset="217118" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25661" this_length="238" source_reference="source-document04693.txt" source_language="en" source_offset="59855" source_length="243" />
+</document>
+

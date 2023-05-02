@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04010.txt">
+  <feature name="about" authors="Vance, Louis Joseph" title="The Black Bag" lang="en" />
+  <feature name="md5Hash" value="27584e750307f105bcaa10584a4f32c3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7910" this_length="20772" source_reference="source-document09943.txt" source_language="en" source_offset="460054" source_length="20252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34474" this_length="446" source_reference="source-document09943.txt" source_language="en" source_offset="543050" source_length="508" />
+</document>
+

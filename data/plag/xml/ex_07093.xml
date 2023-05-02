@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07093.txt">
+  <feature name="about" authors="White, William Allen" title="The Court of Boyville" lang="en" />
+  <feature name="md5Hash" value="924415e5938c0d701679b3b51c4edb1f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11505" this_length="3633" source_reference="source-document01996.txt" source_language="en" source_offset="105946" source_length="3999" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16799" this_length="499" source_reference="source-document04601.txt" source_language="en" source_offset="3958" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21230" this_length="1488" source_reference="source-document04601.txt" source_language="en" source_offset="2078" source_length="1449" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24831" this_length="256" source_reference="source-document01996.txt" source_language="en" source_offset="60877" source_length="266" />
+</document>
+

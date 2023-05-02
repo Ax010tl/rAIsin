@@ -1,0 +1,352 @@
+﻿Our home-made gas yields a smoky and unsatisfactory flame, owing to the presence of certain
+impurities--ammonia, tar, sulphuretted hydrogen, and carbon bisulphide. A gas factory must
+be equipped with means of getting rid of these objectionable constituents. Turning to Fig.
+195, which displays very diagrammatically the main features of a gas plant, we observe at the
+extreme right the retorts, which correspond to our canister. These are usually long fire-brick
+tubes of D-section, the flat side at the bottom. Under each is a furnace, the flames of which
+play on the bottom, sides, and inner end of the retort. The outer end projecting beyond the
+brickwork seating has an iron air-tight door for filling the retort through, immediately behind
+which rises an iron exit pipe, A, for the gases. Tar, which vaporizes at high temperatures,
+but liquefies at ordinary atmospheric heat, must first be got rid of. This is effected by passing
+the gas through the hydraulic main, a tubular vessel half full of water running the whole length
+of the retorts. The end of pipe A dips below the surface of the water, which condenses most
+of the tar and steam. The partly-purified gas now passes through pipe B to the condensers,
+a series of inverted U-pipes standing on an iron chest with vertical cross divisions between
+the mouths of each U. These divisions dip into water, so that the gas has to pass up one leg
+of a U, down the other, up the first leg of the second pipe, and so on, till all traces of
+the tar and other liquid constituents have condensed on the inside of the pipe, from which
+they drop into the tank below.
+
+The next stage is the passage of the scrubber, filled with coke over which water perpetually
+flows. The ammonia gas is here absorbed. There still remain the sulphuretted hydrogen and the
+carbon bisulphide, both of which are extremely offensive to the nostrils. Slaked lime, laid
+on trays in an air-tight compartment called the lime purifier, absorbs most of the sulphurous
+elements of these; and the coal gas is then fit for use. On leaving the purifiers it flows
+into the gasometer, or gasholder, the huge cake-like form of which is a very familiar object
+in the environs of towns. The gasometer is a cylindrical box with a domed top, but no bottom,
+built of riveted steel plates. It stands in a circular tank of water, so that it may rise and
+fall without any escape of gas. The levity of the gas, in conjunction with weights attached
+to the ends of chains working over pulleys on the framework surrounding the holder, suffices
+to raise the holder.
+
+Some gasometers have an enormous capacity. The record is at present held by that built for
+the South Metropolitan Gas Co., London, by Messrs. Clayton & Son of Leeds. This monster (of
+which we append an illustration, Fig. 196) is 300 feet in diameter and 180 feet high. When
+fully extended it holds 12,158,600 cubic feet of gas. Owing to its immense size, it is built
+on the telescopic principle in six "lifts," of 30 feet deep each. The sides of each lift, or
+ring, except the topmost, have a section shaped somewhat like the letter N. Two of the members
+form a deep, narrow cup to hold water, in which the "dip" member of the ring above it rises
+and falls.
+
+AUTOMATIC STOKING.
+
+The labour of feeding the retorts with coal and removing the coke is exceedingly severe. In
+the illustration on p. 400 (made from a very fine photograph taken by Mr. F. Marsh of Clifton)
+we see a man engaged in "drawing" the retorts through the iron doors at their outer ends. Automatic
+machinery is now used in large gasworks for both operations. One of the most ingenious stokers
+is the De Brouwer, shown at work in Fig. 198. The machine is suspended from an overhead trolley
+running on rails along the face of the retorts. Coal falls into a funnel at the top of the
+telescopic pipe P from hoppers in the story above, which have openings, H H, controlled by
+shutters. The coal as it falls is caught by a rubber belt working round part of the circumference
+of the large wheel W and a number of pulleys, and is shot into the mouth of the retort. The
+operator is seen pulling the handle which opens the shutter of the hopper above the feed-tube,
+and switching on the 4 h.p. electric motor which drives the belt and moves the machine about.
+One of these feeders will charge a retort 20 feet long in twenty-two seconds.
+
+A GAS GOVERNOR.
+
+Some readers may have noticed that late at night a gas-jet, which a few hours before burned
+with a somewhat feeble flame when the tap was turned fully on, now becomes more and more vigorous,
+and finally may flare up with a hissing sound. This is because many of the burners fed by the
+main supplying the house have been turned off, and consequently there is a greater amount of
+gas available for the jets still burning, which therefore feel an increased pressure. As a
+matter of fact, the pressure of gas in the main is constantly varying, owing partly to the
+irregularity of the delivery from the gasometer, and partly to the fact that the number of
+burners in action is not the same for many minutes together. It must also be remembered that
+houses near the gasometer end of the main will receive their gas at a higher pressure than
+those at the other end. The gas stored in the holders may be wanted for use in the street lamps
+a few yards away, or for other lamps several miles distant. It is therefore evident that if
+there be just enough pressure to give a good supply to the nearest lamp, there will be too
+little a short distance beyond it, and none at all at the extreme point; so that it is necessary
+to put on enough pressure to overcome the friction on all these miles of pipe, and give just
+enough gas at the extreme end. It follows that at all intermediate points the pressure is excessive.
+Gas of the average quality is burned to the greatest advantage, as regards its light-giving
+properties, when its pressure is equal to that of a column of water half an inch high, or about
+1/50 lb. to the square inch. With less it gives a smoky, flickering light, and with more the
+combustion is also imperfect.
+
+Every house supply should therefore be fitted with a gas governor, to keep the pressure constant.
+A governor frequently used, the Stott, is shown in section in Fig. 199. Gas enters from the
+main on the right, and passes into a circular elbow, D, which has top and bottom apertures
+closed by the valves V V. Attached to the valve shaft is a large inverted cup of metal, the
+tip of which is immersed in mercury. The pressure at which the governor is to act is determined
+by the weights W, with which the valve spindle is loaded at the top. As soon as this pressure
+is exceeded, the gas in C C lifts the metal cup, and V V are pressed against their seats, so
+cutting off the supply. Gas cannot escape from C C, as it has not sufficient pressure to force
+its way through the mercury under the lip of the cup. Immediately the pressure in C C falls,
+owing to some of the gas being used up, the valves open and admit more gas. When the fluctuations
+of pressure are slight, the valves never close completely, but merely throttle the supply until
+the pressure beyond them falls to its proper level--that is, they pass just as much gas as
+the burners in use can consume at the pressure arranged for.
+
+Governors of much larger size, but working on much the same principle, are fitted to the mains
+at the point where they leave the gasometers. They are not, however, sensitive to local fluctuations
+in the pipes, hence the necessity for separate governors in the house between the meter and
+the burners.
+
+THE GAS-METER
+
+commonly used in houses acts on the principle shown in Fig. 200. The air-tight casing is divided
+by horizontal and vertical divisions into three gas-chambers, B, C, and D. Gas enters at A,
+and passes to the valve chamber B. The slide-valves of this allow it to pass into C and D,
+and also into the two circular leather bellows E, F, which are attached to the central division
+G, but are quite independent of one another.
+
+We will suppose that in the illustration the valves are admitting gas to chamber C and bellows
+F. The pressure in C presses the circular head of E towards the division G, expelling the contents
+of the bellows through an outlet pipe (not shown) to the burners in operation within the house.
+Simultaneously the inflation of F forces the gas in chamber D also through the outlet. The
+head-plates of the bellows are attached to rods and levers (not shown) working the slide-valves
+in B. As soon as E is fully in, and F fully expanded, the valves begin to open and put the
+inlet pipe in communication with D and E, and allow the contents of F and C to escape to the
+outlet. The movements of the valve mechanism operate a train of counting wheels, visible through
+a glass window in the side of the case. As the bellows have a definite capacity, every stroke
+that they give means that a certain volume of gas has been ejected either from them or from
+the chambers in which they move: this is registered by the counter. The apparatus practically
+has two double-action cylinders (of which the bellows ends are the pistons) working on the
+same principle as the steam-cylinder (Fig. 21). The valves have three ports--the central, or
+exhaust, leading to the outlet, the outer ones from the inlet. The bellows are fed through
+channels in the division G.
+
+INCANDESCENT GAS LIGHTING.
+
+The introduction of the electric arc lamp and the incandescent glow-lamp seemed at one time
+to spell the doom of gas as an illuminating agent. But the appearance in 1886 of the Welsbach
+incandescent mantle for gas-burners opened a prosperous era in the history of gas lighting.
+
+The luminosity of a gas flame depends on the number of carbon particles liberated within it,
+and the temperature to which these particles can be heated as they pass through the intensely
+hot outside zone of the flame. By enriching the gas in carbon more light is yielded, up to
+a certain point, with a flame of a given temperature. To increase the heat of the flame various
+devices were tried before the introduction of the incandescent mantle, but they were found
+to be too short-lived to have any commercial value. Inventors therefore sought for methods
+by which the emission of light could be obtained from coal gas independently of the incandescence
+of the carbon particles in the flame itself; and step by step it was discovered that gas could
+be better employed merely as a heating agent, to raise to incandescence substances having a
+higher emissivity of light than carbon.
+
+Dr. Auer von Welsbach found that the substances most suitable for incandescent mantles were
+the oxides of certain rare metals, thorium, and cerium. The mantle is made by dipping a cylinder
+of cotton net into a solution of nitrate of thorium and cerium, containing 99 per cent. of
+the former and 1 per cent. of the latter metal. When the fibres are sufficiently soaked, the
+mantle is withdrawn, squeezed, and placed on a mould to dry. It is next held over a Bunsen
+gas flame and the cotton is burned away, while the nitrates are converted into oxides. The
+mantle is now ready for use, but very brittle. So it has to undergo a further dipping, in a
+solution of gun-cotton and alcohol, to render it tough enough for packing. When it is required
+for use, it is suspended over the burner by an asbestos thread woven across the top, a light
+is applied to the bottom, and the collodion burned off, leaving nothing but the heat-resisting
+oxides.
+
+The burner used with a mantle is constructed on the Bunsen principle. The gas is mixed, as
+it emerges from the jet, with sufficient air to render its combustion perfect. All the carbon
+is burned, and the flame, though almost invisible, is intensely hot. The mantle oxides convert
+the heat energy of the flame into light energy. This is proved not only by the intense whiteness
+of the mantle, but by the fact that the heat issuing from the chimney of the burner is not
+nearly so great when the mantle is in position as when it is absent.
+
+The incandescent mantle is more extensively used every year. In Germany 90 per cent. of gas
+lighting is on the incandescent system, and in England about 40 per cent. We may notice, as
+an interesting example of the fluctuating fortunes of invention, that the once doomed gas-burner
+has, thanks to Welsbach's mantle, in many instances replaced the incandescent electric lamps
+that were to doom it.
+
+[38] If, of course, there is no safety-valve in proper working order included in the installation.
+
+CLOCKS AND WATCHES.
+
+A SHORT HISTORY OF TIMEPIECES.
+
+The oldest device for measuring time is the sun-dial. That of Ahaz mentioned in the Second
+Book of Kings is the earliest dial of which we have record. The obelisks of the Egyptians and
+the curious stone pillars of the Druidic age also probably served as shadow-casters.
+
+The clepsydra, or water-clock, also of great antiquity, was the first contrivance for gauging
+the passage of the hours independently of the motion of the earth. In its simplest form it
+was a measure into which water fell drop by drop, hour levels being marked on the inside. Subsequently
+a very simple mechanism was added to drive a pointer--a float carrying a vertical rack, engaging
+with a cog on the pointer spindle; or a string from the float passed over a pulley attached
+to the pointer and rotated it as the float rose, after the manner of the wheel barometer (Fig.
+153). In 807 A.D. Charlemagne received from the King of Persia a water-clock which struck the
+hours. It is thus described in Gifford's "History of France":--"The dial was composed of twelve
+small doors, which represented the division of the hours. Each door opened at the hour it was
+intended to represent, and out of it came a small number of little balls, which fell one by
+one, at equal distances of time, on a brass drum. It might be told by the eye what hour it
+was by the number of doors that were open, and by the ear by the number of balls that fell.
+When it was twelve o'clock twelve horsemen in miniature issued forth at the same time and shut
+all the doors."
+
+Sand-glasses were introduced about 330 A.D. Except for special purposes, such as timing sermons
+and boiling eggs, they have not been of any practical value.
+
+The clepsydra naturally suggested to the mechanical mind the idea of driving a mechanism for
+registering time by the force of gravity acting on some body other than water. The invention
+of the weight-driven clock is attributed, like a good many other things, to Archimedes, the
+famous Sicilian mathematician of the third century B.C.; but no record exists of any actual
+clock composed of wheels operated by a weight prior to 1120 A.D. So we may take that year as
+opening the era of the clock as we know it.
+
+About 1500 Peter Hele of Nuremberg invented the mainspring as a substitute for the weight,
+and the watch appeared soon afterwards (1525 A.D.). The pendulum was first adopted for controlling
+the motion of the wheels by Christian Huygens, a distinguished Dutch mechanician, in 1659.
+
+To Thomas Tompion, "the father of English watchmaking," is ascribed the honour of first fitting
+a hairspring to the escapement of a watch, in or about the year 1660. He also introduced the
+cylinder escapement now so commonly used in cheap watches. Though many improvements have been
+made since his time, Tompion manufactured clocks and watches which were excellent timekeepers,
+and as a reward for the benefits conferred on his fellows during his lifetime, he was, after
+death, granted the exceptional honour of a resting-place in Westminster Abbey.
+
+THE CONSTRUCTION OF TIMEPIECES.
+
+A clock or watch contains three main elements:--(1) The source of power, which may be a weight
+or a spring; (2) the train of wheels operated by the driving force; (3) the agent for controlling
+the movements of the train--this in large clocks is usually a pendulum, in small clocks and
+watches a hairspring balance. To these may be added, in the case of clocks, the apparatus for
+striking the hour.
+
+THE DRIVING POWER.
+
+Weights are used only in large clocks, such as one finds in halls, towers, and observatories.
+The great advantage of employing weights is that a constant driving power is exerted. Springs
+occupy much less room than weights, and are indispensable for portable timepieces. The employment
+of them caused trouble to early experimenters on account of the decrease in power which necessarily
+accompanies the uncoiling of a wound-up spring. Jacob Zech of Prague overcame the difficulty
+in 1525 by the invention of the fusee, a kind of conical pulley interposed between the barrel,
+or circular drum containing the mainspring, and the train of wheels which the spring has to
+drive. The principle of the "drum and fusee" action will be understood from Fig. 201. The mainspring
+is a long steel ribbon fixed at one end to an arbor (the watchmaker's name for a spindle or
+axle), round which it is tightly wound. The arbor and spring are inserted in the barrel. The
+arbor is prevented from turning by a ratchet, B, and click, and therefore the spring in its
+effort to uncoil causes the barrel to rotate.
+
+A string of catgut (or a very fine chain) is connected at one end to the circumference of the
+drum, and wound round it, the other end being fixed to the larger end of the fusee, which is
+attached to the driving-wheel of the watch or clock by the intervention of a ratchet and click
+(not shown). To wind the spring the fusee is turned backward by means of a key applied to the
+square end A of the fusee arbor, and this draws the string from off the drum on to the fusee.
+The force of the spring causes the fusee to rotate by pulling the string off it, coil by coil,
+and so drives the train of wheels. But while the mainspring, when fully wound, turns the fusee
+by uncoiling the string from the smallest part of the fusee, it gets the advantage of the larger
+radius as its energy becomes lessened.
+
+The fusee is still used for marine chronometers, for some clocks that have a mainspring and
+pendulum, and occasionally for watches. In the latter it has been rendered unnecessary by the
+introduction of the going-barrel by Swiss watchmakers, who formed teeth on the edge of the
+mainspring barrel to drive the train of wheels. This kind of drum is called "going" because
+it drives the watch during the operation of winding, which is performed by rotating the drum
+arbor to which the inner end of the spring is attached. A ratchet prevents the arbor from being
+turned backwards by the spring. The adoption of the going-barrel has been made satisfactory
+by the improvements in the various escapement actions.
+
+THE ESCAPEMENT.
+
+The spring or weight transmits its power through a train of cogs to the escapement, or device
+for regulating the rate at which the wheels are to revolve. In clocks a pendulum is generally
+used as the controlling agent. Galileo, when a student at Pisa, noticed that certain hanging
+lamps in the cathedral there swung on their cords at an equal rate; and on investigation he
+discovered the principle that the shorter a pendulum is the more quickly will it swing to and
+fro. As has already been observed, Huygens first applied the principle to the governing of
+clocks. In Fig. 202 we have a simple representation of the "dead-beat" escapement commonly
+used in clocks. The escape-wheel is mounted on the shaft of the last cog of the driving train,
+the pallet on a spindle from which depends a split arm embracing the rod and the pendulum.
+We must be careful to note that the pendulum controls motion only; it does not cause movement.
+
+The escape-wheel revolves in a clockwise direction. The two pallets a and b are so designed
+that only one can rest on the teeth at one time. In the sketch the sloping end of b has just
+been forced upwards by the pressure of a tooth. This swings the pallet and the pendulum. The
+momentum of the latter causes a to descend, and at the instant when b clears its tooth a catches
+and holds another. The left-hand side of a, called the locking-face, is part of a circle, so
+that the escape-wheel is held motionless as long as it touches a: hence the term, "dead beat"--that
+is, brought to a dead stop. As the pendulum swings back, to the left, under the influence of
+gravity, a is raised and frees the tooth. The wheel jerks round, and another tooth is caught
+by the locking-face of b. Again the pendulum swings to the right, and the sloping end of b
+is pushed up once more, giving the pendulum fresh impetus. This process repeats itself as long
+as the driving power lasts--for weeks, months, or years, as the case may be, and the mechanism
+continues to be in good working order.
+
+COMPENSATING PENDULUMS.
+
+Metal expands when heated; therefore a steel pendulum which is of the exact length to govern
+a clock correctly at a temperature of 60° would become too long at 80°, and slow the clock,
+and too short at 40°, and cause it to gain. In common clocks the pendulum rod is often made
+of wood, which maintains an almost constant length at all ordinary temperatures. But for very
+accurate clocks something more efficient is required. Graham, the partner of Thomas Tompion,
+took advantage of the fact that different kinds of metal have different ratios of expansion
+to produce a self-compensating pendulum on the principle illustrated by Fig. 203. He used steel
+for the rod, and formed the bob, or weighted end, of a glass jar containing mercury held in
+a stirrup; the mercury being of such a height that, as the pendulum rod lengthened with a rise
+of temperature, the mercury expanded upwards sufficiently to keep the distance between the
+point of suspension and the centre of gravity of the bob always the same. With a fall of temperature
+the rod shortened, while the mercury sank in the jar. This device has not been improved upon,
+and is still used in observatories and other places where timekeepers of extreme precision
+are required. The milled nut S in Fig. 203 is fitted at the end of the pendulum rod to permit
+the exact adjustment of the pendulum's length.
+
+For watches, chronometers, and small clocks
+
+THE SPRING BALANCE
+
+takes the place of the pendulum. We still have an escape-wheel with teeth of a suitable shape
+to give impulses to the controlling agent. There are two forms of spring escapement, but as
+both employ a hairspring and balance-wheel we will glance at these before going further.
+
+The hairspring is made of very fine steel ribbon, tempered to extreme elasticity, and shaped
+to a spiral. The inner end is attached to the arbor of the balance-wheel, the outer end to
+a stud projecting from the plate of the watch. When the balance-wheel, impelled by the escapement,
+rotates, it winds up the spring. The energy thus stored helps the wheel to revolve the other
+way during the locking of a tooth of the escape-wheel. The time occupied by the winding and
+the unwinding depends upon the length of the spring. The strength of the impulse makes no difference.
+A strong impulse causes the spring to coil itself up more than a weak impulse would; but inasmuch
+as more energy is stored the process of unwinding is hastened. To put the matter very simply--a
+strong impulse moves the balance-wheel further, but rotates it quickly; a weak impulse moves
+it a shorter distance, but rotates it slowly. In fact, the principle of the pendulum is also
+that of the hairspring; and the duration of a vibration depends on the length of the rod in
+the one case, and of the spring in the other.
+
+Motion is transmitted to the balance by one of two methods. Either (1) directly, by a cylinder
+escapement; or (2) indirectly, through a lever.
+
+THE CYLINDER ESCAPEMENT
+
+is seen in Fig. 204. The escape-wheel has sharp teeth set on stalks. (One tooth is removed
+to show the stalk.) The balance-wheel is mounted on a small steel cylinder, with part of the
+circumference cut away at the level of the teeth, so that if seen from above it would appear
+like a in our illustration. A tooth is just beginning to shove its point under the nearer edge
+of the opening. As it is forced forwards, b is revolved in a clockwise direction, winding up
+the hairspring. When the tooth has passed the nearer edge it flies forward, striking the inside
+of the further wall of the cylinder, which holds it while the spring uncoils. The tooth now
+pushes its way past the other edge, accelerating the unwinding, and, as it escapes, the next
+tooth jumps forward and is arrested by the outside of the cylinder. The balance now reverses
+its motion, is helped by the tooth, is wound up, locks the tooth, and so on.
+
+THE LEVER ESCAPEMENT
+
+is somewhat more complicated. The escape-wheel teeth are locked and unlocked by the pallets
+P P^1 projecting from a lever which moves on a pivot (Fig. 205). The end of the lever is forked,
+and has a square notch in it. On the arbor of the balance-wheel is a roller, or plate, R, which
+carries a small pin, I. Two pins, B B, projecting from the plate of the watch prevent the lever
+moving too far. We must further notice the little pin C on the lever, and a notch in the edge
+of the roller.
+
+In the illustration a tooth has just passed under the "impulse face" b of P^1. The lever has
+been moved upwards at the right end; and its forked end has given an impulse to R, and through
+it to the balance-wheel. The spring winds up. The pin C prevents the lever dropping, because
+it no longer has the notch opposite to it, but presses on the circumference of R. As the spring
+unwinds it strikes the lever at the moment when the notch and C are opposite. The lever is
+knocked downwards, and the tooth, which had been arrested by the locking-face a of pallet P,
+now presses on the impulse face b, forcing the left end of the lever up. The impulse pin I
+receives a blow, assisting the unwinding of the spring, and C again locks the lever. The same
+thing is repeated in alternate directions over and over again.
+
+COMPENSATING BALANCE-WHEELS.
+

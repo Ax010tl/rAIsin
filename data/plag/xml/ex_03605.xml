@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03605.txt">
+  <feature name="about" authors="Tomlinson, Abraham" title="The Military Journals of Two Private Soldiers, 1758-1775 With Numerous Illustrative Notes" lang="en" />
+  <feature name="md5Hash" value="9cb7653e8c85a12a8058f0e2f6f6462c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="849" this_length="10406" source_reference="source-document08217.txt" source_language="en" source_offset="0" source_length="24491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11615" this_length="1064" source_reference="source-document08217.txt" source_language="en" source_offset="32129" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12680" this_length="849" source_reference="source-document08217.txt" source_language="en" source_offset="29011" source_length="752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13530" this_length="2669" source_reference="source-document08217.txt" source_language="en" source_offset="26107" source_length="2260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16200" this_length="650" source_reference="source-document08217.txt" source_language="en" source_offset="30379" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16884" this_length="2883" source_reference="source-document09134.txt" source_language="en" source_offset="199782" source_length="2678" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20039" this_length="581" source_reference="source-document02827.txt" source_language="en" source_offset="398568" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20621" this_length="284" source_reference="source-document02827.txt" source_language="en" source_offset="393665" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20906" this_length="272" source_reference="source-document02827.txt" source_language="en" source_offset="119392" source_length="238" />
+</document>
+

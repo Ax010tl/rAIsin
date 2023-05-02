@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10342.txt">
+  <feature name="about" authors="Sparks, Edwin Erle" title="The United States of America, Part 1" lang="en" />
+  <feature name="md5Hash" value="269b2e127b3296ab0684ffb96d18b736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13905" this_length="1110" source_reference="source-document03692.txt" source_language="en" source_offset="18389" source_length="2729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25997" this_length="291" source_reference="source-document03692.txt" source_language="en" source_offset="21683" source_length="248" />
+</document>
+

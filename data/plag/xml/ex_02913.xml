@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02913.txt">
+  <feature name="about" authors="Field, Ellen Robena" title="Buttercup Gold, and other stories" lang="en" />
+  <feature name="md5Hash" value="05a474a597d6db08ded61fd674dcaeb5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="353" this_length="3794" source_reference="source-document09650.txt" source_language="en" source_offset="58630" source_length="4968" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7546" this_length="5387" source_reference="source-document03931.txt" source_language="en" source_offset="4821" source_length="22005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20896" this_length="302" source_reference="source-document03931.txt" source_language="en" source_offset="4042" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21321" this_length="234" source_reference="source-document09650.txt" source_language="en" source_offset="55955" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21736" this_length="570" source_reference="source-document03931.txt" source_language="en" source_offset="27892" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22721" this_length="752" source_reference="source-document00057.txt" source_language="en" source_offset="644128" source_length="757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23474" this_length="300" source_reference="source-document03931.txt" source_language="en" source_offset="764" source_length="255" />
+</document>
+

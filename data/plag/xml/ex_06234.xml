@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06234.txt">
+  <feature name="about" authors="Semple, Ellen Churchill" title="Influences of Geographic Environment On the Basis of Ratzel's System of Anthropo-Geography" lang="en" />
+  <feature name="md5Hash" value="c57e1b47cb5c6250b568b9aa61bc780d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16262" this_length="3491" source_reference="source-document06625.txt" source_language="en" source_offset="288415" source_length="3496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23892" this_length="201" source_reference="source-document06625.txt" source_language="en" source_offset="71638" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26572" this_length="240" source_reference="source-document06625.txt" source_language="en" source_offset="172245" source_length="228" />
+</document>
+

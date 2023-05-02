@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00979.txt">
+  <feature name="about" authors="Sepharial" title="How to Read the Crystal or, Crystal and Seer" lang="en" />
+  <feature name="md5Hash" value="e52b475c5d6cbbe6c532d853a284f60f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8511" this_length="2162" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28873" this_length="484" />
+</document>
+

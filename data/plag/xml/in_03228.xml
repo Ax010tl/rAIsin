@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03228.txt">
+  <feature name="about" authors="Withers, Hartley" title="War-Time Financial Problems" lang="en" />
+  <feature name="md5Hash" value="509bcb2f8a7b37aa6c8464f2a27ea34b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5977" this_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22070" this_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27794" this_length="519" />
+</document>
+

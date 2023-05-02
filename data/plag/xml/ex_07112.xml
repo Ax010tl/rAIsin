@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07112.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="On the Significance of Science and Art" lang="en" />
+  <feature name="md5Hash" value="dbc2b257690d70c9cab400bdcf1c456f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2871" this_length="3872" source_reference="source-document01277.txt" source_language="en" source_offset="14895" source_length="3779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24205" this_length="2261" source_reference="source-document10702.txt" source_language="en" source_offset="54041" source_length="2240" />
+</document>
+

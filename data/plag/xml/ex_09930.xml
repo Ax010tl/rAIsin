@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09930.txt">
+  <feature name="about" authors="Weinbaum, Stanley Grauman" title="The Ideal" lang="en" />
+  <feature name="md5Hash" value="624cd7ef6bac38bd58b5a7002b01ba2a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2102" this_length="233" source_reference="source-document05671.txt" source_language="en" source_offset="14633" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16584" this_length="786" source_reference="source-document05671.txt" source_language="en" source_offset="455" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24134" this_length="266" source_reference="source-document05671.txt" source_language="en" source_offset="4181" source_length="270" />
+</document>
+

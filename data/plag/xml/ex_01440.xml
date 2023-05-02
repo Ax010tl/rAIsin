@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01440.txt">
+  <feature name="about" authors="Scott, Ernest" title="Laperouse" lang="en" />
+  <feature name="md5Hash" value="af4057f3b69bbab64c060f91de0676ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2209" this_length="1715" source_reference="source-document05860.txt" source_language="en" source_offset="45798" source_length="1694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18902" this_length="1739" source_reference="source-document05140.txt" source_language="en" source_offset="239319" source_length="1744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24757" this_length="268" source_reference="source-document05140.txt" source_language="en" source_offset="382255" source_length="264" />
+</document>
+

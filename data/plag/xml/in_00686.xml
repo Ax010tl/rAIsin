@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00686.txt">
+  <feature name="about" authors="Tosi, Pier Francesco" title="Opinioni de' cantori antichi e moderni. English - Observations on the Florid Song or Sentiments on the Ancient and Modern Singers" lang="en" />
+  <feature name="md5Hash" value="ff0ef465458824bd079e12304bf6d0c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6146" this_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23116" this_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29729" this_length="241" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03895.txt">
+  <feature name="about" authors="Sleeman, William" title="A Journey through the Kingdom of Oude, Volumes I &amp; II" lang="en" />
+  <feature name="md5Hash" value="dbcb8fd33e97c4816b3e05fd7359f35c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4159" this_length="672" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16176" this_length="256" />
+</document>
+

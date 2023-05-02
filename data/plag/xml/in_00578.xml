@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00578.txt">
+  <feature name="about" authors="Senior, William" title="Scotch Loch-Fishing" lang="en" />
+  <feature name="md5Hash" value="f5897ca633f3f210845487f0c19df9ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4680" this_length="1341" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12160" this_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12831" this_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20061" this_length="828" />
+</document>
+

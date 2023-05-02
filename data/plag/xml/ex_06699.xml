@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06699.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Being a Boy" lang="en" />
+  <feature name="md5Hash" value="86da60cf515a46931069e1ad84c9c509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="319" this_length="1811" source_reference="source-document07464.txt" source_language="en" source_offset="267699" source_length="1807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2986" this_length="10310" source_reference="source-document07464.txt" source_language="en" source_offset="172604" source_length="18418" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16119" this_length="4149" source_reference="source-document08032.txt" source_language="en" source_offset="1645" source_length="4528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21310" this_length="2684" source_reference="source-document07464.txt" source_language="en" source_offset="124211" source_length="2721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24271" this_length="1398" source_reference="source-document07464.txt" source_language="en" source_offset="127445" source_length="1455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25670" this_length="844" source_reference="source-document08032.txt" source_language="en" source_offset="8170" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26515" this_length="495" source_reference="source-document07464.txt" source_language="en" source_offset="259094" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27011" this_length="220" source_reference="source-document08032.txt" source_language="en" source_offset="8918" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27232" this_length="714" source_reference="source-document07464.txt" source_language="en" source_offset="33520" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27947" this_length="670" source_reference="source-document07464.txt" source_language="en" source_offset="141059" source_length="683" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28714" this_length="243" source_reference="source-document07464.txt" source_language="en" source_offset="292421" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28958" this_length="239" source_reference="source-document07464.txt" source_language="en" source_offset="258657" source_length="235" />
+</document>
+

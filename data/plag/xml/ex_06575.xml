@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06575.txt">
+  <feature name="about" authors="Trollope, Anthony" title="La Mere Bauche" lang="en" />
+  <feature name="md5Hash" value="1f039d42583eb02e5efcb802ee74a45b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2775" this_length="2816" source_reference="source-document07054.txt" source_language="es" source_offset="3213" source_length="2983" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9782" this_length="2045" source_reference="source-document10534.txt" source_language="es" source_offset="27303" source_length="2218" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13807" this_length="1423" source_reference="source-document07054.txt" source_language="es" source_offset="9124" source_length="1508" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17333" this_length="2185" source_reference="source-document07054.txt" source_language="es" source_offset="6196" source_length="2360" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="22956" this_length="556" source_reference="source-document10534.txt" source_language="es" source_offset="49167" source_length="814" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27072" this_length="2114" source_reference="source-document10534.txt" source_language="es" source_offset="171370" source_length="2401" />
+</document>
+

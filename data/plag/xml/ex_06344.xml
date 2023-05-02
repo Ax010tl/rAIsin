@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06344.txt">
+  <feature name="about" authors="Stevens, Geo. Alex." title="A Lecture On Heads As Delivered By Mr. Charles Lee Lewes, To Which Is Added, An Essay On Satire, With Forty-Seven Heads By Nesbit, From Designs By Thurston, 1812" lang="en" />
+  <feature name="md5Hash" value="c519692d6ce0340e73b8732a8ba05094" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3201" this_length="508" source_reference="source-document05962.txt" source_language="en" source_offset="512785" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14774" this_length="496" source_reference="source-document05962.txt" source_language="en" source_offset="81604" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24405" this_length="483" source_reference="source-document05962.txt" source_language="en" source_offset="494157" source_length="491" />
+</document>
+

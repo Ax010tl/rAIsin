@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09007.txt">
+  <feature name="about" authors="Sturt, Charles" title="Two Expeditions into the Interior of Southern Australia — Volume I" lang="en" />
+  <feature name="md5Hash" value="e89c0a3a7f3a7cf773db721da7f7b29e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2412" this_length="4807" source_reference="source-document04079.txt" source_language="en" source_offset="1374" source_length="4797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8702" this_length="4218" source_reference="source-document04079.txt" source_language="en" source_offset="13871" source_length="4257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16541" this_length="4322" source_reference="source-document04079.txt" source_language="en" source_offset="7726" source_length="4219" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21370" this_length="1542" source_reference="source-document04079.txt" source_language="en" source_offset="18128" source_length="1498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23500" this_length="838" source_reference="source-document04079.txt" source_language="en" source_offset="20549" source_length="816" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25050" this_length="2564" source_reference="source-document06261.txt" source_language="en" source_offset="84777" source_length="2539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28211" this_length="486" source_reference="source-document02946.txt" source_language="en" source_offset="3097" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28996" this_length="284" source_reference="source-document04079.txt" source_language="en" source_offset="19626" source_length="275" />
+</document>
+

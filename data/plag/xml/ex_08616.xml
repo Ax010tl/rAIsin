@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08616.txt">
+  <feature name="about" authors="Woodson, Carter Godwin" title="The Education of the Negro Prior to 1861 A History of the Education of the Colored People of the United States from the Beginning of Slavery to the Civil War" lang="en" />
+  <feature name="md5Hash" value="de64adbf8e97401366ceab1df41909b7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="681" this_length="14249" source_reference="source-document03387.txt" source_language="en" source_offset="243661" source_length="17231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16459" this_length="476" source_reference="source-document00613.txt" source_language="en" source_offset="754" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17005" this_length="4736" source_reference="source-document08867.txt" source_language="en" source_offset="25222" source_length="4950" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22582" this_length="5027" source_reference="source-document08867.txt" source_language="en" source_offset="142535" source_length="5013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27814" this_length="501" source_reference="source-document00613.txt" source_language="en" source_offset="2963" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28316" this_length="439" source_reference="source-document00613.txt" source_language="en" source_offset="3498" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28892" this_length="467" source_reference="source-document00613.txt" source_language="en" source_offset="4584" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29558" this_length="265" source_reference="source-document08867.txt" source_language="en" source_offset="128773" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29824" this_length="257" source_reference="source-document08867.txt" source_language="en" source_offset="59218" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30082" this_length="254" source_reference="source-document08867.txt" source_language="en" source_offset="211442" source_length="244" />
+</document>
+

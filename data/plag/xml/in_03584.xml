@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03584.txt">
+  <feature name="about" authors="Tytler, Sarah" title="The Old Masters and Their Pictures For the Use of Schools and Learners in Art" lang="en" />
+  <feature name="md5Hash" value="152009d4e39be9a258aed0f22260299d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="992" this_length="224" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9213" this_length="1295" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="18976" this_length="232" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="23706" this_length="424" />
+</document>
+

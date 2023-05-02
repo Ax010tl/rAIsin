@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01540.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Clever Woman of the Family" lang="en" />
+  <feature name="md5Hash" value="f1362084895c19a49008005ca965e3b9" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3381" this_length="13446" source_reference="source-document06096.txt" source_language="es" source_offset="309004" source_length="14933" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17633" this_length="1403" source_reference="source-document06678.txt" source_language="es" source_offset="3161" source_length="1491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19762" this_length="2911" source_reference="source-document06096.txt" source_language="es" source_offset="264427" source_length="3299" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22906" this_length="436" source_reference="source-document06678.txt" source_language="es" source_offset="676" source_length="484" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23991" this_length="2655" source_reference="source-document06096.txt" source_language="es" source_offset="186266" source_length="3099" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27107" this_length="488" source_reference="source-document06678.txt" source_language="es" source_offset="1440" source_length="541" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28055" this_length="2453" source_reference="source-document06678.txt" source_language="es" source_offset="4805" source_length="2666" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30918" this_length="674" source_reference="source-document06096.txt" source_language="es" source_offset="357965" source_length="702" />
+</document>
+

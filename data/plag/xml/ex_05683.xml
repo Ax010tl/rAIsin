@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05683.txt">
+  <feature name="about" authors="Becke, Louis" title="The Adventure Of Elizabeth Morey, of New York 1901" lang="en" />
+  <feature name="md5Hash" value="fb67230bf34c1230a708f741d331f443" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1713" this_length="784" source_reference="source-document11069.txt" source_language="en" source_offset="115470" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12575" this_length="2488" source_reference="source-document11069.txt" source_language="en" source_offset="27140" source_length="2552" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23312" this_length="216" source_reference="source-document11069.txt" source_language="en" source_offset="30051" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25231" this_length="271" source_reference="source-document11069.txt" source_language="en" source_offset="75742" source_length="266" />
+</document>
+

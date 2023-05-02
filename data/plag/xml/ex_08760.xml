@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08760.txt">
+  <feature name="about" authors="Sawyer, Ruth" title="The Primrose Ring" lang="en" />
+  <feature name="md5Hash" value="02b00b786695692375fccb5798f999ba" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="980" this_length="2993" source_reference="source-document03712.txt" source_language="en" source_offset="616538" source_length="3066" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5882" this_length="4711" source_reference="source-document00331.txt" source_language="en" source_offset="9869" source_length="5032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13759" this_length="3424" source_reference="source-document03712.txt" source_language="en" source_offset="1352067" source_length="3696" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19414" this_length="3446" source_reference="source-document00331.txt" source_language="en" source_offset="788" source_length="3447" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23599" this_length="1289" source_reference="source-document00331.txt" source_language="en" source_offset="7843" source_length="1494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25575" this_length="254" source_reference="source-document03712.txt" source_language="en" source_offset="782605" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25830" this_length="208" source_reference="source-document03712.txt" source_language="en" source_offset="1241496" source_length="254" />
+</document>
+

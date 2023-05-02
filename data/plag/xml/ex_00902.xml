@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00902.txt">
+  <feature name="about" authors="Tuckwell, William" title="Biographical Study of A.W. Kinglake" lang="en" />
+  <feature name="md5Hash" value="ba840a797ffcebcba6df202c57dd86cc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11677" this_length="2645" source_reference="source-document08473.txt" source_language="en" source_offset="1386" source_length="2544" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26894" this_length="230" source_reference="source-document08473.txt" source_language="en" source_offset="549" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30044" this_length="237" source_reference="source-document08473.txt" source_language="en" source_offset="6176" source_length="229" />
+</document>
+

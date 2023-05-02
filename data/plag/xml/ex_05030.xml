@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05030.txt">
+  <feature name="about" authors="Todd, Mattie Phipps" title="Hand-Loom Weaving A Manual for School and Home" lang="en" />
+  <feature name="md5Hash" value="d0a61043d3372584e25dfa6a7b302b85" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4794" this_length="426" source_reference="source-document10247.txt" source_language="de" source_offset="214272" source_length="515" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14394" this_length="205" source_reference="source-document03408.txt" source_language="de" source_offset="15570" source_length="234" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17590" this_length="231" source_reference="source-document10247.txt" source_language="de" source_offset="32625" source_length="268" />
+</document>
+

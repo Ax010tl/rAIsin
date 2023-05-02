@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07996.txt">
+  <feature name="about" authors="Spence, Catherine Helen" title="An Autobiography" lang="en" />
+  <feature name="md5Hash" value="463369ea981981e722f3ca201f5d171a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4081" this_length="5010" source_reference="source-document07542.txt" source_language="en" source_offset="143414" source_length="5017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15496" this_length="821" source_reference="source-document04910.txt" source_language="en" source_offset="74864" source_length="813" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17277" this_length="1477" source_reference="source-document07542.txt" source_language="en" source_offset="46182" source_length="1399" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21972" this_length="753" source_reference="source-document04910.txt" source_language="en" source_offset="121852" source_length="784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23322" this_length="501" source_reference="source-document04910.txt" source_language="en" source_offset="185617" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24783" this_length="233" source_reference="source-document04910.txt" source_language="en" source_offset="210757" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25606" this_length="263" source_reference="source-document07542.txt" source_language="en" source_offset="187137" source_length="268" />
+</document>
+

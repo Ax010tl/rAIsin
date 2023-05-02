@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04360.txt">
+  <feature name="about" authors="Ray, G. Whitfield" title="Through Five Republics on Horseback, Being an Account of Many Wanderings in South America" lang="en" />
+  <feature name="md5Hash" value="c68542b9620bc8c504e17f5ee364bc79" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3094" this_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12267" this_length="681" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20541" this_length="809" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26228" this_length="242" />
+</document>
+

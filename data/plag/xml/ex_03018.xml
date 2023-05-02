@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03018.txt">
+  <feature name="about" authors="Twain, Mark" title="A Tramp Abroad — Volume 06" lang="en" />
+  <feature name="md5Hash" value="846e690c2ed6bed2e4ae88f8d166827c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1035" this_length="4753" source_reference="source-document07330.txt" source_language="en" source_offset="4529" source_length="4758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7318" this_length="2202" source_reference="source-document07330.txt" source_language="en" source_offset="15694" source_length="2299" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10671" this_length="1637" source_reference="source-document07330.txt" source_language="en" source_offset="22377" source_length="1735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12598" this_length="3991" source_reference="source-document07330.txt" source_language="en" source_offset="10926" source_length="4079" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18700" this_length="512" source_reference="source-document07330.txt" source_language="en" source_offset="3765" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19654" this_length="1500" source_reference="source-document07330.txt" source_language="en" source_offset="2121" source_length="1494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21542" this_length="3578" source_reference="source-document07330.txt" source_language="en" source_offset="18135" source_length="3526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26392" this_length="495" source_reference="source-document07330.txt" source_language="en" source_offset="21661" source_length="504" />
+</document>
+

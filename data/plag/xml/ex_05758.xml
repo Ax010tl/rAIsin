@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05758.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Prose Works of Jonathan Swift, D.D. — Volume 04 Swift's Writings on Religion and the Church — Volume 2" lang="en" />
+  <feature name="md5Hash" value="d9dd5a5c4e680ed9feaa396594c6f0eb" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="20540" this_length="3606" source_reference="source-document05076.txt" source_language="de" source_offset="114" source_length="3785" />
+</document>
+

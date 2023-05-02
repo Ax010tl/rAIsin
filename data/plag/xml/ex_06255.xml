@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06255.txt">
+  <feature name="about" authors="Setoun, Gabriel" title="Robert Burns Famous Scots Series" lang="en" />
+  <feature name="md5Hash" value="0cd2b4ba3f7cdc6be48f46088a2d6f0d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1399" this_length="229" source_reference="source-document04400.txt" source_language="en" source_offset="16903" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3314" this_length="2319" source_reference="source-document04400.txt" source_language="en" source_offset="33038" source_length="2280" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16255" this_length="516" source_reference="source-document04400.txt" source_language="en" source_offset="31087" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20161" this_length="491" source_reference="source-document04400.txt" source_language="en" source_offset="11287" source_length="503" />
+</document>
+

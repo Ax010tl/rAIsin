@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00700.txt">
+  <feature name="about" authors="Vigny, Alfred de" title="Cinq Mars — Volume 3" lang="en" />
+  <feature name="md5Hash" value="09e40151c3c244ed85c93d2cf81bdd4d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="755" this_length="2423" source_reference="source-document06851.txt" source_language="en" source_offset="115691" source_length="2399" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4016" this_length="2622" source_reference="source-document08821.txt" source_language="en" source_offset="10098" source_length="2601" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11209" this_length="17890" source_reference="source-document08821.txt" source_language="en" source_offset="20166" source_length="17278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30846" this_length="511" source_reference="source-document06851.txt" source_language="en" source_offset="149236" source_length="500" />
+</document>
+

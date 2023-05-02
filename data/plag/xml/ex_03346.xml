@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03346.txt">
+  <feature name="about" authors="Sotheran, Charles" title="Percy Bysshe Shelley as a Philosopher and Reformer" lang="en" />
+  <feature name="md5Hash" value="b25bcad26e64c1cf52824a9ac86bc7ed" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3145" this_length="13574" source_reference="source-document10507.txt" source_language="es" source_offset="390342" source_length="15234" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19334" this_length="2744" source_reference="source-document01454.txt" source_language="es" source_offset="495" source_length="3036" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22506" this_length="676" source_reference="source-document10507.txt" source_language="es" source_offset="1007338" source_length="745" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23524" this_length="252" source_reference="source-document10507.txt" source_language="es" source_offset="1205022" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23777" this_length="235" source_reference="source-document01454.txt" source_language="es" source_offset="0" source_length="260" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24013" this_length="221" source_reference="source-document01454.txt" source_language="es" source_offset="260" source_length="235" />
+</document>
+

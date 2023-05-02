@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00748.txt">
+  <feature name="about" authors="Wharton, Edith" title="Bunner Sisters" lang="en" />
+  <feature name="md5Hash" value="01b7b7cbd0567448fb8004866fb943d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1711" this_length="18390" source_reference="source-document05690.txt" source_language="en" source_offset="44770" source_length="21909" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21155" this_length="4310" source_reference="source-document05690.txt" source_language="en" source_offset="72471" source_length="4291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25909" this_length="744" source_reference="source-document05690.txt" source_language="en" source_offset="85129" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26700" this_length="553" source_reference="source-document05690.txt" source_language="en" source_offset="2029" source_length="546" />
+</document>
+

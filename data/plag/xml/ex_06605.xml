@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06605.txt">
+  <feature name="about" authors="Wilson, Harry Leon" title="Somewhere in Red Gap" lang="en" />
+  <feature name="md5Hash" value="8d18185026f76909e641029e6adf0f2f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4579" this_length="2517" source_reference="source-document05733.txt" source_language="en" source_offset="346774" source_length="2560" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15717" this_length="1657" source_reference="source-document02267.txt" source_language="en" source_offset="92787" source_length="1672" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21902" this_length="2714" source_reference="source-document02267.txt" source_language="en" source_offset="2887" source_length="3030" />
+</document>
+

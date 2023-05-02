@@ -1,0 +1,423 @@
+﻿MARVEL CARBURETER AND HEAT CONTROL
+
+AS USED ON SERIES 691 NASH SIXES
+
+BOOKLET S
+
+MARVEL CARBURETER CO. FLINT, MICHIGAN U.S.A.
+
+MODEL "S" CARBURETER
+
+Used on Series 691 Nash Sixes
+
+The carbureter measures the fuel charges for the engine and automatically mixes them with the
+proper amount of air to form a highly combustible gas. The Marvel Model "S" Carbureter is of
+the automatic air valve, heat controlled type. Its outstanding advantages are:
+
+1. Simplicity of construction and operation.
+
+2. Quick starting in any weather.
+
+3. Automatically controlled heat application to ensure complete vaporization of fuels.
+
+4. Economy in fuel consumption.
+
+5. Ease of adjustment to meet varied driving and climatic conditions.
+
+CONSTRUCTION
+
+The construction embodies a main body or mixing chamber and a conventional float chamber bowl
+with fuel strainer attached at point of entrance of fuel to bowl. Within the mixing chamber
+are two nozzles which proportion the amount of gasoline used in the mixture. One of these nozzles,
+called the "low speed," is regulated by the gasoline adjustment screw at bottom of carbureter
+and the other, called the "high speed," is controlled by the automatic air valve. An air screw
+is provided which regulates the pressure of the air valve spring enclosed therein. Within this
+screw is also enclosed a plunger connected by a link to the air valve. The function of this
+plunger is to provide a resistance in addition to that of the air valve spring to assist in
+acceleration. This arrangement of plunger and air valve screw is termed the dash pot.
+
+A further control of the high speed jet is provided by the fuel metering valve operated by
+the carbureter throttle. This valve provides the maximum fuel feed to the "high speed" nozzle
+when the throttle is fully opened for high speeds and for quick "pick up." During the ordinary
+driving ranges this valve controls the amount of fuel being used, thus providing all the economy
+possible. This valve is entirely automatic and requires no adjustment.
+
+The passage-way from the mixing chamber to the intake manifold is controlled by a butterfly
+valve which is called the throttle-valve and is connected to the throttle-lever on the steering
+wheel as well as to the foot accelerator, its position determining the amount of gas and air
+or mixture being fed the engine.
+
+STARTING
+
+A choke button is provided on the instrument board to assist in starting. Pulling out this
+button closes a butterfly choker valve (see cut) in the air intake passage of carbureter which
+restricts the air opening of the carbureter, and consequently produces a richer mixture.
+
+To start engine, pull out choke button all the way. Advance spark lever about half way and
+throttle lever about one-quarter way and depress starter pedal.
+
+As soon as motor fires when starting, this control should be released part way, otherwise too
+much fuel will be drawn from carbureter, causing flooding of the motor and failure of the latter
+to continue to promptly fire. After starting, motor should be allowed to run "part choke" as
+stated for a few minutes while warming up, then the choker control should be fully released,
+or pushed in completely on the instrument board, and engine allowed to run normally for sometime
+until water in cylinder jackets is thoroughly warmed up before starting to make final carbureter
+adjustments.
+
+HEAT CONTROL--STOVE
+
+In the colder seasons warm air is fed to air intake of carbureter through the warm air elbow
+"F" (see cut). This elbow connects the carbureter with the warm air stove, which is a casting
+surrounding the two exhaust heat tubes which supply exhaust heat to the carbureter jackets
+as described below.
+
+The amount of heat required for proper carburation depends on the temperature of the outside
+air. The first means of control is in the warm air stove just described, which should be connected
+to the carbureter furnishing warm air to carbureter air intake in all seasons of the year when
+the outside air temperature is below 50° F., whenever the outside air temperature runs above
+this point cold air should be furnished to carbureter air intake. This can be done by loosening
+the wing nut holding the warm air elbow "F" on the stove and also loosening the set screw holding
+this elbow in the air intake of carbureter, after which slide elbow out of air intake and revolve
+it--180 degrees about an horizontal axis and re-insert in carbureter air intake and lock in
+place with set screw. The opening in the elbow now is turned down away from the stove and draws
+in only cold air.
+
+The above procedure, it must be understood, will vary somewhat due to differences in locality,
+altitude and fuels used, but it should be borne in mind that the best economy can be had with
+cold air passing to the carbureter, and the stove should not be connected until the acceleration
+and performance of the job requires the use of warm air for the best results.
+
+The adjustment of the carbureter should be made per the above description of the stove, as
+the latter is used for meeting weather conditions and should be set as described.
+
+HEAT CONTROL--CARBURETER JACKETS
+
+The carbureter and manifolds have been designed to utilize the exhaust gases of the engine
+to insure complete vaporization and a consequent minimum consumption of fuel. This is accomplished
+by surrounding the upper portion of the mixing chamber with a large heat jacket provided with
+an inlet and an outlet opening and connected by means of tubes to an exhaust manifold valve
+body in the exhaust pipe of the engine; this valve body, housing a large valve called the main-exhaust-heat-valve
+("C" in cut) within the body itself, the return or outlet tube from the carbureter heat jacket
+entering the valve-body in the lower portion below the main-exhaust-heat-valve.
+
+The main-exhaust-heat-valve "C" is connected by means of a lever and long connecting rod to
+the throttle lever of the carbureter so that when the throttle valve is operated the main-exhaust-valve
+is operated simultaneously with it.
+
+The purpose of the carbureter heat jacket and valve in exhaust line with connections described,
+is to provide means for utilizing the heat of the exhaust gases of the motor for vaporization
+of the fuel supplied the engine by the carbureter and to do so automatically. The automatic
+feature of same is accomplished by setting the Main-Exhaust-Heat-Valve "C" by means of the
+long connecting rod, in closed position with the closed or idling position of the throttle
+valve, thus providing for and causing all of the exhaust gases of the engine to pass through
+the heat jacket of the carbureter when engine is idling and to regulate the volume of this
+heat as throttle is opened by automatically opening the Main-Exhaust-Heat-Valve, thus allowing
+the increasing volume of the exhaust gases to pass on out through the main exhaust pipe without
+being deflected and by-passed to the carbureter heat-jacket as the motor speed increases.
+
+By referring to the cut shown (See Page 5) and noting "Heat Setting No. 1," it will be noted
+that valve "C" in main exhaust line is fully closed with the closed or idling position of the
+throttle valve. This adjustment is accomplished by having long connecting rod "R" from valve
+"C" Lever set in "Hole No. 1," in Throttle Lever "L," being sure that when throttle valve is
+standing in fully closed or idling position that valve "C" is also in closed position, proving
+out the latter feature by loosening connection of valve "C" lever holding long connecting rod;
+holding Throttle Lever "L" in closed or idling position and bringing up valve "C" lever on
+connecting rod "R" as far as it will go to the right toward the carbureter and tightening its
+connection on the connecting rod in that position. After having made the adjustment as just
+described, it is assured that "Heat Setting No. 1" has been properly made and that all of the
+heat possible from the exhaust has been secured.
+
+This "Heat Setting No. 1," provides as stated, for the most exhaust heat obtainable and should
+be used during the entire year, except in extremely hot seasons or hot climates or when high-test
+gasoline is being used in engine and even then unless engine is losing power due to excessive heat.
+
+If loss of power or mileage due to too much heat is experienced, first be sure that it is not
+due to driving on hot-air instead of cold-air. After making this observation, if there is still
+too much heat, refer to cut (See Page 7) describing "Heat Setting No. 2." It will be noted
+that connecting rod "R" from valve "C" is removed from "Hole No. 1," in Throttle Lever "L"
+and placed in "Hole No. 2," in Throttle Lever. This change is all that is necessary in order
+to reduce the amount of heat applied to carbureter. In "Heat Setting No. 2," when the throttle
+is in closed or idling position, valve "C" is quite aways off its seat. This adjustment provides
+for a great deal less heat than is provided by "Heat Setting No. 1" and is all that is required
+in the reduction of the volume of heat together with driving on "Cold" air for the main-air-supply,
+in the warmest weather or hottest climates.
+
+NOTE--After original position of valve "C" is made as described in "Heat Setting No. 1" do
+not again readjust valve "C" on connecting rod but when changing from "Heat Setting No. 1"
+to "Heat Setting No. 2," merely change position of long connecting rod from "Hole No. 1" to
+"Hole No. 2" in throttle lever.
+
+ADJUSTMENT
+
+No change should be made in the carbureter adjustments until after an inspection has been made
+to determine if the trouble is in some other unit. It should be noted that the gasoline lines
+are clear, that there is gasoline in the vacuum tank, that there are no leaks at connections
+between carbureter and engine, that the ignition system is in proper condition, and that there
+is even compression in all cylinders.
+
+If it is necessary to test adjustment or to make a readjustment proceed as follows:
+
+Set air screw so that the end is flush with the end of ratchet set spring. Loosen packing nut
+on needle adjustment. Turn gasoline adjustment to the right very carefully so as not to injure
+the needle point, until the valve is closed gently against its seat. Then turn to left approximately
+one complete turn which will bring notch in the disc handle directly below the guide post above
+it. Tighten packing nut to hold needle firmly as set.
+
+The notch in disc handle of needle is put in handle after the needle has been carefully calibrated
+by a flow-meter at the factory, therefore the notch in handle should register with guide post
+above it. This setting of needle valve is absolutely essential to get the best results. The
+object in directing that needle be first turned to the right until closed is to insure against
+two or more turns open, as from closed position to notch (usually about one turn) is the normal
+setting. This being true it is not necessary to turn needle in to the right firmly but merely
+far enough to be sure that when turning back to the left, to the notch registering with guide
+post, that the needle is not more than once around or one turn from its seat.
+
+Set stove heat and damper heat as previously instructed above. Pull out choker to closed position
+and start engine in usual manner. As soon as engine has fired release choker three-fourths
+of way in. Run until engine has warmed up then push choker all the way in, remembering to never
+use choker longer than necessary, as when not needed it has a tendency to foul up engine and
+ruin the lubricating oil in the crank case.
+
+Next, set air screw for good idle by either turning to the right a little or backing out to
+the left as the needs of the engine require, remembering that first of all, the needle must
+be set as described. With the needle so set and the engine warmed up, the adjustment of the
+air screw for proper idling is easily accomplished by using a little care. If the air screw
+is turned in too tight, the motor will roll. If the air screw is not tight enough, the motor
+will hesitate and perhaps stop entirely. To make a nice clean adjustment for idle, first having
+set needle as described, turn air screw in quarter of a turn at a time until engine, does roll;
+then turn back to the left until engine hesitates, indicating that mixture has too much air
+and is too lean; next turn air screw in to the right three or four notches at a time until
+engine runs smoothly. This accomplished (and it is very easy to do by proceeding as directed
+above) the proper adjustment for the entire range of the engine will have been attained, thus
+insuring the best economy and power.
+
+MODEL "S" MARVEL CARBURETER
+
+If the engine idles too fast with throttle closed, the latter may be adjusted by means of the
+throttle lever adjusting screw.
+
+RICH MIXTURE
+
+An over-rich mixture will cause the engine speed to fluctuate through more or less regular
+periods from high to low speeds; the engine will seem to be mis-firing and there will be noticeable
+a strong odor, as well as, usually, a heavy black smoke from the exhaust.
+
+LEAN MIXTURE
+
+The best adjustment is obtained with the fuel and air valves set as described. It must be remembered
+that too lean a mixture as well as an over rich mixture causes over-heating and loss of power
+and is not as economical as an adjustment which provides just the proper proportion of gasoline
+and air.
+
+CAUTION
+
+It must be remembered that the low speed needle has been carefully calibrated to notch in disc
+handle and guide post above it, at the factory and that in making an adjustment that the needle
+must be so set and the rest of the adjusting done with the air screw as described, never varying
+from described needle setting unless in extreme cold weather, when a little more gas may be
+carried, or turning off a little when casing head gas is used in hot weather.
+
+MARVEL CARBURETER MODEL "S"
+
+Part No.            Name               Price
+
+10-80      Carbureter Body            $ 6.00
+10-580     Carbureter Assembly         22.00
+11-537     Insert Assembly              7.00
+12-77      Accelerator Lever             .40
+12-78      Throttle Lever                .40
+14-2       Throttle Fly                  .25
+15-5       10×24×1/2 Insert Lock Screw   .05
+15-6       Bowl Support Screw            .05
+15-14      Ratchet Spring Screw          .05
+15-15      Bowl Cover Screw              .05
+15-23      Throttle and Choker Fly
+             Screws                      .05
+15-28      Throttle Stop Adjusting
+             Screw                       .05
+15-29      6-32×1/4" French Head Screw   .05
+15-32      Pilot Set Screw               .05
+15-43      Square Head Set Screw         .05
+16-5       Bowl Cover Gasket             .05
+16-14      Strainer Gasket (fibre)       .05
+16-16      Strainer Gasket (Copper)      .10
+16-35      Flange Gasket                 .10
+16-48      Insert Gasket                 .10
+21-519     Throttle Stop Damper Control
+             and Shaft Assembly
+22-1       Heater Jacket Plug            .20
+23-8       Air Screw Shell               .50
+24-6       Choker Spring                 .15
+24-116     Air Valve Spring              .30
+24-28      Flusher Spring                .15
+24-50      Metering Pin Spring           .15
+24-51      Ratchet Spring                .15
+25-524     Choker Shaft and Spring
+             Assembly                    .75
+27-10      Choker Fly                    .25
+30-504     Float and Lever Assembly      .75
+33-501     Float Shaft Assembly          .20
+35-501     Float Valve Assembly          .45
+36-4       Strainer Connection to Bowl   .40
+38-501     Insert Connection Screw       .50
+43-508     Gasoline  Adjusting Needle
+            Assembly                     .50
+44-1       Gasoline Adjusting Needle
+            Packing                      .10
+45-1       Gasoline Adjusting Needle
+            Packing Nut                  .15
+49-56      High Speed Jet                .30
+56-508     Bowl Cover Assembly           .75
+58-501     Flusher Assembly              .15
+64-1       Bowl Support                  .10
+65-1       Brass Bowl                   2.50
+65-502     Brass Bowl Assembly          6.00
+66-3       Metering Pin Lock Wire        .05
+67-1       Strainer Body                 .30
+67-502     Strainer Assembly            1.00
+78-1       Throttle Shaft Washer         .05
+78-5       3/16 Lock Washer              .05
+79-8       Metering Pin Housing Space    .20
+80-3       Metering Pin Plug             .15
+81-16      Strainer Nut                  .15
+82-1       Cotter Pin                    .05
+83-2       Manifold Stud                 .05
+84-3       Metering Pin Jet              .35
+95-1       Strainer Gauze                .20
+119-504    Dash Pot Plunger, Plunger
+          Rod and Washer Assem.          .80
+125-2      Metering Pin Spring Seat      .05
+158-2      Metering Pin Housing          .15
+167-502    Metering Pin Stem and
+             Wire Assembly               .10
+173-529    Metering Pin and Lock Wire
+             Assembly                    .45
+
+REPLACEMENT FOR PREVIOUS MODEL NASH SIXES
+
+The Model "S" Marvel Carbureter is interchangeable with the Model "K" Marvel Carbureter, which
+was standard equipment on the 1922 and 1923 Nash Sixes of the early 691 series.
+
+The previous series 681 Nash Sixes of 1921, 1920, and 1919, which were equipped with the Model
+"E" Marvel Carbureter as standard equipment, can be very greatly improved by the installation
+of the Model "S" carbureter, exhaust damper body assembly necessary for same, and the hot air
+stove assembly that goes with this installation.
+
+Following is the complete Parts Price List of the Model "S" carbureter, damper body assembly
+and stove parts for same. Notice is called to the fact again that the damper body and stove
+parts are not needed on the early 691 series of 1922 and 1923.
+
+REPLACEMENT PARTS PRICE LIST For 1919-1922 Series 681 Nash Sixes
+
+10-579    Carbureter and Heat Equipment
+            Complete                       $30.00
+
+Consisting of the Following Parts:
+
+Part No.      Name                          Price
+
+10-580   Carbureter Assembly          1     22.00
+128-506  Damper Body and Stove
+           Assembly                          8.00
+15-16    10×24×3/8   F.H. Machine
+           Screw                      1   $   .05
+15-43    1/4×20×1/2 Std. Square
+           Head Set Screw             2       .05
+15-53    5/16×18×2-1/2 Cap Screw      1       .05
+15-54    3/8×16×1 Standard Square
+           Head Set Screw             2       .05
+17-14    Exhaust Shut-off Valve
+           Connecting Rod             1       .10
+17-15    Damper Connecting Rod
+           (Main Damper)              1       .20
+19-2     Exhaust Manifold Damper
+           Fly                               1.00
+19-9     Warm Air Stove Damper
+           Fly                        1
+20-31    Stove Damper Fly Shaft       1       .10
+24-31    Damper Fly Shaft Spring      1       .10
+24-43    Stove Damper Fly Spring      1       .15
+28-4     Connecting Rod Swivel        1       .25
+62-5     Escutcheon Pin               1       .05
+74-3     Exhaust Shut-off Valve       1       .15
+78-4     5/16 Plain Washer            1       .05
+81-26    3/8×16 Check Nut             2       .05
+82-1     1/16×1/2 Cotter Pin          2       .05
+82-3     1/8×3/4 Cotter Pin           3       .05
+100-16   Warm Air Stove               1
+100-17   Warm Air Stove               1
+100-520  Warm Air Stove Assembly      1      1.50
+122-503  Damper Lever and Shaft
+           Assembly                   1      1.00
+122-504  Exhaust Shut-off Lever
+           and Shaft Assembly         1       .40
+123-1    Heat Tube Support Ring       1       .10
+123-3    Damper Body Packing
+           Stop Ring                  1       .10
+123-4    Exhaust Damper Body
+           Packing Ring               1       .10
+124-1    Heat Tube Collar             4       .20
+125-1    Damper Shaft Spring
+           Seat                       2       .10
+126-2   Heat Tube Outlet              1       .50
+126-12  Heat Tube Inlet               1       .50
+127-1   Heat Tube Packing             4       .10
+127-2   Exhaust Damper Body
+          Packing, per foot           1       .10
+128-3   Exhaust Damper Body           1      3.00
+128-506 Exhaust Manifold Damper
+           Body and Stove Assembly    1      8.00
+163-1   Choker Rod Extension                  .10
+
+MARVEL CARBURETER DISTRIBUTORS
+
+Distributors who carry a complete stock of Carbureters and Parts and who are prepared to overhaul
+and rebuild Carbureters:
+
+Marvel Carbureter Sales Co., 335 Newbury Street, Boston, Mass.
+
+Marvel Carbureter Sales Co., 242 West 69th Street, New York, N.Y.
+
+Marvel Carbureter Sales Co., 2120 Fourteenth Street, N.W., Washington, D.C.
+
+Marvel Carbureter Sales Co., 6520 Carnegie Avenue, Cleveland, Ohio.
+
+Marvel Carbureter Sales Co., 1406 McGee Street, Kansas City, Mo.
+
+Marvel Carbureter Sales Co., 2119 S. Michigan Avenue, Chicago, Ill.
+
+Marvel Carbureter Sales Co., 926-928 E. Washington Street, Indianapolis, Ind.
+
+Marvel Carbureter Sales Co., 1138 Broadway, Denver, Colo.
+
+Marvel Carbureter Sales Co., 1837 South Flower Street, Los Angeles, Calif.
+
+Edwards Warden Motor Parts Co., 309-315 E. Broadway, Salt Lake City, Utah.
+
+Fauver-Cavanagh Co., Inc., 46-52 Canfield Avenue E., Detroit, Michigan.
+
+McAlpin & Schreiner Co., 1520 Tenth Avenue, Seattle, Washington.
+
+Moloney Battery & Ignition Co., 108-110 Wyoming Street, El Paso, Texas.
+
+W.S. Nott Company, Second Ave. N. & 3rd Street, Minneapolis, Minn.
+
+Distributors who carry a complete stock of Carbureters and Parts:
+
+Auto Supply Co., Inc., 1107-1111 Broadway, Nashville, Tenn.
+
+Herrick Hardware Co., Waco, Texas.
+
+Joseph Schwartz Company, 729-735 St. Charles Street, New Orleans, La.
+
+Shelton Motor Company, Abeline, Texas.
+
+Wholesale Auto Supply House, 309-311 Washington Street, Tampa, Florida.
+
+Westbrook Motor Co., San Antonio, Texas.
+
+EXPORT BUSINESS
+
+All export business and shipments handled by Overseas Motor Service Corporation, 1760 Broadway,
+New York, N.Y.
+

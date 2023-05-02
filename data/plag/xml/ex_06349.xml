@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06349.txt">
+  <feature name="about" authors="Webb, Frank J." title="The Garies and Their Friends" lang="en" />
+  <feature name="md5Hash" value="de8e8cf509733d4e39b48bc4aa4ec878" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="939" this_length="1797" source_reference="source-document09581.txt" source_language="en" source_offset="154570" source_length="1801" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21059" this_length="468" source_reference="source-document09581.txt" source_language="en" source_offset="295367" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24773" this_length="224" source_reference="source-document09581.txt" source_language="en" source_offset="285355" source_length="232" />
+</document>
+

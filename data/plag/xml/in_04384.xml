@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04384.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Miss Mackenzie" lang="en" />
+  <feature name="md5Hash" value="51bc9592f9f9bd671d623e10f6daf3f7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13048" this_length="3292" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20107" this_length="700" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24147" this_length="439" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26535" this_length="592" />
+</document>
+

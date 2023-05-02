@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01215.txt">
+  <feature name="about" authors="Twain, Mark" title="A Connecticut Yankee in King Arthur's Court, Part 9." lang="en" />
+  <feature name="md5Hash" value="172cbcf2bca36380c8bfb61146d0e869" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="962" this_length="16984" source_reference="source-document07453.txt" source_language="en" source_offset="2951" source_length="17501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18033" this_length="785" source_reference="source-document10182.txt" source_language="en" source_offset="3272" source_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19046" this_length="3117" source_reference="source-document03072.txt" source_language="en" source_offset="18351" source_length="4462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22213" this_length="3380" source_reference="source-document03072.txt" source_language="en" source_offset="7562" source_length="4812" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25726" this_length="274" source_reference="source-document09267.txt" source_language="en" source_offset="1542" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26081" this_length="760" source_reference="source-document03072.txt" source_language="en" source_offset="1872" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26842" this_length="242" source_reference="source-document10182.txt" source_language="en" source_offset="5329" source_length="253" />
+</document>
+

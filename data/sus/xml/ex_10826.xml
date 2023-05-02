@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10826.txt">
+  <feature name="about" authors="Walton, Amy" title="Our Frank and other stories" lang="en" />
+  <feature name="md5Hash" value="27b2afd87feb9ed774ca0db27c32f609" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="323" this_length="2749" source_reference="source-document03690.txt" source_language="en" source_offset="29561" source_length="2998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4002" this_length="3025" source_reference="source-document09776.txt" source_language="en" source_offset="1224" source_length="3050" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11159" this_length="14796" source_reference="source-document03690.txt" source_language="en" source_offset="65421" source_length="16477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26161" this_length="234" source_reference="source-document03690.txt" source_language="en" source_offset="118417" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26740" this_length="813" source_reference="source-document03690.txt" source_language="en" source_offset="131151" source_length="815" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27554" this_length="231" source_reference="source-document03690.txt" source_language="en" source_offset="142518" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28036" this_length="772" source_reference="source-document03690.txt" source_language="en" source_offset="210322" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28809" this_length="290" source_reference="source-document03690.txt" source_language="en" source_offset="145483" source_length="268" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07525.txt">
+  <feature name="about" authors="Voorhies, Felix" title="Acadian Reminiscences : The True Story of Evangeline" lang="en" />
+  <feature name="md5Hash" value="7012c18588cdf4154349ea5e2a17b89b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="520" this_length="5084" source_reference="source-document06926.txt" source_language="en" source_offset="22586" source_length="4763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6472" this_length="3971" source_reference="source-document06926.txt" source_language="en" source_offset="118402" source_length="4301" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10912" this_length="1734" source_reference="source-document06926.txt" source_language="en" source_offset="152212" source_length="1709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13351" this_length="3177" source_reference="source-document06926.txt" source_language="en" source_offset="178844" source_length="2985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16836" this_length="3306" source_reference="source-document06926.txt" source_language="en" source_offset="166354" source_length="3230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21052" this_length="3398" source_reference="source-document06926.txt" source_language="en" source_offset="124316" source_length="3265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25029" this_length="3829" source_reference="source-document06926.txt" source_language="en" source_offset="73264" source_length="3747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29290" this_length="1598" source_reference="source-document06926.txt" source_language="en" source_offset="174564" source_length="1514" />
+</document>
+

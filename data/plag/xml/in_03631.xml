@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03631.txt">
+  <feature name="about" authors="Van Warmelo, Dietlof" title="On Commando" lang="en" />
+  <feature name="md5Hash" value="9b7356fff8203b2510a4f975d75a724c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16017" this_length="3468" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25559" this_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28794" this_length="512" />
+</document>
+

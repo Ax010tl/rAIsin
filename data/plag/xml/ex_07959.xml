@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07959.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="A Letter to a Hindu" lang="en" />
+  <feature name="md5Hash" value="c11606c2541b3600a41e0649dd629f5b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13586" this_length="808" source_reference="source-document10055.txt" source_language="en" source_offset="376658" source_length="824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23174" this_length="829" source_reference="source-document10055.txt" source_language="en" source_offset="422124" source_length="822" />
+</document>
+

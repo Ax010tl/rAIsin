@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06738.txt">
+  <feature name="about" authors="Vasari, Giorgio" title="Lives of the Most Eminent Painters Sculptors and Architects Vol. 01 (of 10), Cimabue to Agnolo Gaddi" lang="en" />
+  <feature name="md5Hash" value="cbc3ee39992c7d950a9c295eb7db21ec" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1215" this_length="517" source_reference="source-document00061.txt" source_language="en" source_offset="177114" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9295" this_length="793" source_reference="source-document00061.txt" source_language="en" source_offset="77882" source_length="794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28924" this_length="800" source_reference="source-document00061.txt" source_language="en" source_offset="90884" source_length="796" />
+</document>
+

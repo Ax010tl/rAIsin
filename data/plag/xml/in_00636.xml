@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00636.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Is He Popenjoy?" lang="en" />
+  <feature name="md5Hash" value="5a388972153b93fabda07a969712d037" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3841" this_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13150" this_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21073" this_length="243" />
+</document>
+

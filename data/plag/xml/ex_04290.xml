@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04290.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Waverley — Volume 1" lang="en" />
+  <feature name="md5Hash" value="e72aeae36059c67f0a15217711322056" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4241" this_length="8484" source_reference="source-document10831.txt" source_language="en" source_offset="17241" source_length="16525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14764" this_length="3283" source_reference="source-document10831.txt" source_language="en" source_offset="3502" source_length="3313" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18876" this_length="3834" source_reference="source-document10831.txt" source_language="en" source_offset="8517" source_length="3948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24199" this_length="2017" source_reference="source-document10831.txt" source_language="en" source_offset="12702" source_length="2075" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27080" this_length="2570" source_reference="source-document10831.txt" source_language="en" source_offset="164" source_length="2524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30039" this_length="279" source_reference="source-document10831.txt" source_language="en" source_offset="36243" source_length="259" />
+</document>
+

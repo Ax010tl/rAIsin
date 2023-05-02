@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02556.txt">
+  <feature name="about" authors="Russell, George William" title="AE in the Irish Theosophist" lang="en" />
+  <feature name="md5Hash" value="e0b4b1bf16a99ee3d4c71b663152ef42" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="888" this_length="10163" source_reference="source-document08703.txt" source_language="en" source_offset="98478" source_length="17847" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13533" this_length="2445" source_reference="source-document08703.txt" source_language="en" source_offset="10461" source_length="2481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16346" this_length="3072" source_reference="source-document08703.txt" source_language="en" source_offset="59580" source_length="2940" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20082" this_length="688" source_reference="source-document08703.txt" source_language="en" source_offset="51085" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21219" this_length="2865" source_reference="source-document08703.txt" source_language="en" source_offset="36686" source_length="3040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24420" this_length="2298" source_reference="source-document08703.txt" source_language="en" source_offset="62745" source_length="2203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27406" this_length="1824" source_reference="source-document08703.txt" source_language="en" source_offset="39726" source_length="1823" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29231" this_length="828" source_reference="source-document08703.txt" source_language="en" source_offset="72362" source_length="820" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30103" this_length="483" source_reference="source-document08703.txt" source_language="en" source_offset="71788" source_length="464" />
+</document>
+

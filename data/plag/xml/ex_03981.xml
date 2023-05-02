@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03981.txt">
+  <feature name="about" authors="Wilson, Harry Leon" title="Ma Pettengill" lang="en" />
+  <feature name="md5Hash" value="5202a17c19e74b4ea9f5aadf7be5b03c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2796" this_length="16752" source_reference="source-document02779.txt" source_language="en" source_offset="33435" source_length="19538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20189" this_length="225" source_reference="source-document02779.txt" source_language="en" source_offset="123493" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21038" this_length="3859" source_reference="source-document02779.txt" source_language="en" source_offset="127549" source_length="3967" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25235" this_length="3721" source_reference="source-document02779.txt" source_language="en" source_offset="135148" source_length="3756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29724" this_length="1595" source_reference="source-document02779.txt" source_language="en" source_offset="54948" source_length="1544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31481" this_length="245" source_reference="source-document02779.txt" source_language="en" source_offset="54211" source_length="248" />
+</document>
+

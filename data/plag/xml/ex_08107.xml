@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08107.txt">
+  <feature name="about" authors="Zangwill, Israel" title="Children of the Ghetto A Study of a Peculiar People" lang="en" />
+  <feature name="md5Hash" value="2d280739bea28f3b7bd4295ec0168431" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198" this_length="2420" source_reference="source-document05682.txt" source_language="en" source_offset="236823" source_length="2411" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2950" this_length="240" source_reference="source-document05682.txt" source_language="en" source_offset="181792" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3257" this_length="12411" source_reference="source-document05682.txt" source_language="en" source_offset="143527" source_length="17964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19353" this_length="3582" source_reference="source-document05682.txt" source_language="en" source_offset="120722" source_length="3580" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23631" this_length="3444" source_reference="source-document05682.txt" source_language="en" source_offset="164689" source_length="3462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27464" this_length="4056" source_reference="source-document05682.txt" source_language="en" source_offset="36408" source_length="4052" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32158" this_length="474" source_reference="source-document05682.txt" source_language="en" source_offset="24560" source_length="482" />
+</document>
+

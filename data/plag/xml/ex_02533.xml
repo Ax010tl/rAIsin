@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02533.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Uncle Titus and His Visit to the Country" lang="en" />
+  <feature name="md5Hash" value="708a7230bedd9d28d5c8c053e24b9e85" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7129" this_length="4256" source_reference="source-document07675.txt" source_language="en" source_offset="245278" source_length="4296" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18148" this_length="1525" source_reference="source-document07675.txt" source_language="en" source_offset="21187" source_length="1465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19937" this_length="508" source_reference="source-document07675.txt" source_language="en" source_offset="121762" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22408" this_length="495" source_reference="source-document07675.txt" source_language="en" source_offset="275815" source_length="514" />
+</document>
+

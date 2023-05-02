@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07651.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Timothy's Quest A Story for Anybody, Young or Old, Who Cares to Read It" lang="en" />
+  <feature name="md5Hash" value="f61dc0dafd5b213d72d3f9332bc81e5c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5821" this_length="874" source_reference="source-document03640.txt" source_language="en" source_offset="3007" source_length="821" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21400" this_length="557" source_reference="source-document03640.txt" source_language="en" source_offset="11032" source_length="547" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03145.txt">
+  <feature name="about" authors="Verne, Jules" title="The Moon-Voyage" lang="en" />
+  <feature name="md5Hash" value="1ee7be67cc23d30147733d0542862bf5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1003" this_length="4031" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18162" this_length="2216" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28309" this_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29907" this_length="241" />
+</document>
+

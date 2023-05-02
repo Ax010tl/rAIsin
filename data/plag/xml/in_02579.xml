@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02579.txt">
+  <feature name="about" authors="Crane, William E." title="Bugle Blasts Read before the Ohio Commandery of the Military Order of the Loyal Legion of the United States" lang="en" />
+  <feature name="md5Hash" value="960d170910796968fe46908b2064c765" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6428" this_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15959" this_length="221" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22353" this_length="523" />
+</document>
+

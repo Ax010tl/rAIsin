@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05453.txt">
+  <feature name="about" authors="Stretton, Hesba" title="Cobwebs and Cables" lang="en" />
+  <feature name="md5Hash" value="e8ef66c71c49036e47279191d951a253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2749" this_length="4069" source_reference="source-document06312.txt" source_language="en" source_offset="52208" source_length="4093" />
+</document>
+

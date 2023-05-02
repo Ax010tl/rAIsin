@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10551.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Missing" lang="en" />
+  <feature name="md5Hash" value="f066554b7e007eb364611697cc2f0cd0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2182" this_length="16131" source_reference="source-document07318.txt" source_language="en" source_offset="5035" source_length="14937" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23592" this_length="2584" source_reference="source-document00602.txt" source_language="en" source_offset="268710" source_length="2748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26644" this_length="490" source_reference="source-document00602.txt" source_language="en" source_offset="119227" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27199" this_length="273" source_reference="source-document07318.txt" source_language="en" source_offset="22707" source_length="269" />
+</document>
+

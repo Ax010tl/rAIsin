@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04773.txt">
+  <feature name="about" authors="Sarmiento de Gamboa, Pedro" title="History of the Incas" lang="en" />
+  <feature name="md5Hash" value="92bc6dd439dcb965b29f64deea72b4d4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7261" this_length="2474" source_reference="source-document00528.txt" source_language="en" source_offset="37609" source_length="2383" />
+</document>
+

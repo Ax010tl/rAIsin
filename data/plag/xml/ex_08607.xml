@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08607.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Harvest" lang="en" />
+  <feature name="md5Hash" value="6d9965452cf80b149d4e97134d8fd34e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="758" this_length="15096" source_reference="source-document06204.txt" source_language="en" source_offset="12752" source_length="17953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16114" this_length="3195" source_reference="source-document06204.txt" source_language="en" source_offset="2483" source_length="3987" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19784" this_length="3033" source_reference="source-document06204.txt" source_language="en" source_offset="9249" source_length="3503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22905" this_length="2145" source_reference="source-document06204.txt" source_language="en" source_offset="6663" source_length="2044" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25386" this_length="750" source_reference="source-document06204.txt" source_language="en" source_offset="1555" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26137" this_length="486" source_reference="source-document06204.txt" source_language="en" source_offset="601" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26624" this_length="235" source_reference="source-document06204.txt" source_language="en" source_offset="0" source_length="243" />
+</document>
+

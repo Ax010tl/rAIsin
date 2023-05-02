@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07467.txt">
+  <feature name="about" authors="Wandrei, Donald A." title="Raiders of the Universes" lang="en" />
+  <feature name="md5Hash" value="81f43d16edb816558ea51420a71b85e0" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="169" this_length="202" source_reference="source-document10324.txt" source_language="en" source_offset="86599" source_length="231" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3042" this_length="470" source_reference="source-document02086.txt" source_language="en" source_offset="74038" source_length="764" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3898" this_length="2829" source_reference="source-document09074.txt" source_language="en" source_offset="1194695" source_length="2788" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="7783" this_length="530" source_reference="source-document04496.txt" source_language="en" source_offset="122455" source_length="502" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="9047" this_length="1439" source_reference="source-document00345.txt" source_language="en" source_offset="144733" source_length="1977" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10585" this_length="214" source_reference="source-document03398.txt" source_language="en" source_offset="32699" source_length="240" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10800" this_length="1437" source_reference="source-document02582.txt" source_language="en" source_offset="87391" source_length="1576" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="12238" this_length="480" source_reference="source-document02671.txt" source_language="en" source_offset="5026" source_length="510" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="12719" this_length="224" source_reference="source-document03994.txt" source_language="en" source_offset="2648" source_length="225" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13085" this_length="2562" source_reference="source-document05704.txt" source_language="en" source_offset="14393" source_length="3528" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15648" this_length="2727" source_reference="source-document00213.txt" source_language="en" source_offset="24343" source_length="2986" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="18376" this_length="3489" source_reference="source-document06836.txt" source_language="en" source_offset="394142" source_length="3948" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="21866" this_length="2473" source_reference="source-document03830.txt" source_language="en" source_offset="108520" source_length="2337" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="24340" this_length="243" source_reference="source-document01935.txt" source_language="en" source_offset="6377" source_length="238" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="24584" this_length="783" source_reference="source-document04499.txt" source_language="en" source_offset="125359" source_length="803" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="25368" this_length="2835" source_reference="source-document08393.txt" source_language="en" source_offset="406099" source_length="2978" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="28204" this_length="2118" source_reference="source-document00310.txt" source_language="en" source_offset="3218" source_length="2018" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="30323" this_length="811" source_reference="source-document08236.txt" source_language="en" source_offset="10549" source_length="793" />
+</document>
+

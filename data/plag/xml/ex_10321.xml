@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10321.txt">
+  <feature name="about" authors="Swinburne, T. R." title="A Holiday in the Happy Valley with Pen and Pencil" lang="en" />
+  <feature name="md5Hash" value="56e1cc8d261d9a64fcbe3dd338ea40ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="287" this_length="15397" source_reference="source-document07479.txt" source_language="en" source_offset="20017" source_length="17932" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16653" this_length="3725" source_reference="source-document07479.txt" source_language="en" source_offset="76794" source_length="3824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20379" this_length="4336" source_reference="source-document07479.txt" source_language="en" source_offset="49651" source_length="4547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25188" this_length="4713" source_reference="source-document07479.txt" source_language="en" source_offset="65969" source_length="5014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30073" this_length="1452" source_reference="source-document07479.txt" source_language="en" source_offset="131685" source_length="1497" />
+</document>
+

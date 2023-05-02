@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00479.txt">
+  <feature name="about" authors="Schiller, Friedrich" title="History of the Revolt of the Netherlands — Volume 03" lang="en" />
+  <feature name="md5Hash" value="a099fafe34f4a9f3ce2602cf64210708" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5266" this_length="2653" source_reference="source-document03652.txt" source_language="en" source_offset="377115" source_length="2539" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10566" this_length="4010" source_reference="source-document00536.txt" source_language="en" source_offset="460947" source_length="3712" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14867" this_length="2580" source_reference="source-document06332.txt" source_language="en" source_offset="50640" source_length="2489" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="18193" this_length="3926" source_reference="source-document00560.txt" source_language="en" source_offset="87292" source_length="4408" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="22120" this_length="2433" source_reference="source-document11091.txt" source_language="en" source_offset="462749" source_length="2301" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="24650" this_length="3154" source_reference="source-document04173.txt" source_language="en" source_offset="156406" source_length="2960" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="27805" this_length="2103" source_reference="source-document02539.txt" source_language="en" source_offset="380902" source_length="2225" />
+</document>
+

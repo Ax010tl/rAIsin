@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07662.txt">
+  <feature name="about" authors="Huxley, Thomas Henry" title="Method By Which the Causes of the Present and Past Conditions of Organic Nature Are to Be Discovered — the Origination of Living Beings" lang="en" />
+  <feature name="md5Hash" value="6967ac0b83983a81e14e2fae20773fb1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="831" this_length="435" source_reference="source-document00779.txt" source_language="en" source_offset="208788" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4103" this_length="1875" source_reference="source-document00779.txt" source_language="en" source_offset="262605" source_length="1925" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26319" this_length="494" source_reference="source-document00779.txt" source_language="en" source_offset="673871" source_length="483" />
+</document>
+

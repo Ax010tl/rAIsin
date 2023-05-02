@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02574.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Sunny Memories of Foreign Lands, Volume 2" lang="en" />
+  <feature name="md5Hash" value="a625573aaecff0c6bba52d5424f42016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="506" this_length="1499" source_reference="source-document00569.txt" source_language="en" source_offset="73602" source_length="1514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5211" this_length="519" source_reference="source-document03684.txt" source_language="en" source_offset="2434" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16069" this_length="4216" source_reference="source-document03684.txt" source_language="en" source_offset="37792" source_length="4217" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23131" this_length="2537" source_reference="source-document03684.txt" source_language="en" source_offset="43552" source_length="2529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29844" this_length="254" source_reference="source-document00569.txt" source_language="en" source_offset="10726" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30558" this_length="263" source_reference="source-document03684.txt" source_language="en" source_offset="63103" source_length="253" />
+</document>
+

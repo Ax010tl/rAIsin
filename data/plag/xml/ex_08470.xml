@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08470.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Chantry House" lang="en" />
+  <feature name="md5Hash" value="dfb676334fbcfd30bc494a83ad826ec3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2051" this_length="13362" source_reference="source-document10234.txt" source_language="en" source_offset="147213" source_length="16127" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20020" this_length="3529" source_reference="source-document01099.txt" source_language="en" source_offset="483" source_length="3768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23606" this_length="3681" source_reference="source-document10234.txt" source_language="en" source_offset="12477" source_length="3707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28741" this_length="1583" source_reference="source-document10234.txt" source_language="en" source_offset="10021" source_length="1608" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30957" this_length="508" source_reference="source-document10234.txt" source_language="en" source_offset="113707" source_length="514" />
+</document>
+

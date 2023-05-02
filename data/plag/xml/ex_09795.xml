@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09795.txt">
+  <feature name="about" authors="True, John Preston" title="The Iron Star — and what It saw on Its Journey through the Ages" lang="en" />
+  <feature name="md5Hash" value="9bc4309ae8ccf20a1ab92bd83e2ea778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1807" this_length="1877" source_reference="source-document10304.txt" source_language="en" source_offset="14660" source_length="2034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13013" this_length="3958" source_reference="source-document08833.txt" source_language="en" source_offset="30388" source_length="4197" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24919" this_length="262" source_reference="source-document08833.txt" source_language="en" source_offset="4087" source_length="253" />
+</document>
+

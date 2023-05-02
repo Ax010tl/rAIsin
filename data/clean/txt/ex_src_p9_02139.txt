@@ -1,0 +1,416 @@
+﻿Amp. Hours                    No. of Cells     No. 115 Volt Capacity       Amperes        in
+Series        Lamps Required 5 Amp. Rate    Approximate    on Line          115 Volt -----------
+-----------    ------------     -------------- 50 or less        0.05        3            
+5-15 watt, in series 50 or less        0.05        30               2-15 watt, in series 50
+or less        0.05        45               1-15 watt, in series 50-100            0.10   
+3                3-25 watt, in series 50-100            0.10        3                1-25 watt,
+in series 50-100            0.10        45               2-25 watt, in parallel 100 or over
+0.15        3                2-25 watt, in series 100 or over       0.15        30        
+1-25 watt, in series 100 or over       0.15        45               3-25 watt, in parallel
+
+Every two months interrupt the trickle charge long enough to add water to bring the electrolyte
+up to the proper level. When this has been done, continue the trickle charge.
+
+Before putting the batteries into service, see that the electrolyte is up to the correct level,
+and that the specific gravity of the electrolyte is 1.280-1.300. If necessary, give a short
+charge on the charging bench to bring the specific gravity up to the correct value.
+
+Dry Storage
+
+1. Give the battery a complete charge. Pour out the electrolyte, and separate the groups. If
+the negatives have bulged active material, press them in the plate press. In batteries such
+as the Prest-OLite in which it is difficult to remove the plates from the cover, the groups
+need not be separated unless the negatives have badly bulged active material. It may not be
+necessary to separate the groups even then, provided that the positives are not buckled to
+any noticeable extent. If only a very slight amount of buckling exists, the entire element
+may be pressed by putting thin boards between the plates in place of the separators.
+
+2. Immerse the negatives in distilled water for ten to twelve hours. If positives and negatives
+cannot be separated, wash each complete element in a gentle stream of water.
+
+3. Remove plates from water and allow them to drain thoroughly and dry. The negatives will
+heat up when exposed to the air, and when they do so they should be immersed in the water again
+to cool them. Repeat this as long as they tend to heat up. Then allow them to dry thoroughly.
+
+4. Throw away the old separators. Rubber separators may be saved if in good condition. Clean
+the covers and terminals., wash out the jars, and turn the case up side down to drain out the
+water. Examine the box carefully. It is advisable to wash with a solution of baking soda, rinsing
+the water in order to neutralize as far as possible the action of acid remaining on the box.
+If this is not done, the acid may start decomposition of the box while in storage, in which
+case the owner of the battery may insist on its renewal before acceptance at the end of the
+storage period.
+
+5. When, the plates are perfectly dry, nest the positives and negatives together, using dry
+cardboard instead of separators, and replace them in the jars in their proper positions.
+
+6. Replace the covers and vent plugs, but, of course, do not use any sealing compound on them.
+
+7. Tie the terminals and top connectors to the handle on the case with a wire.
+
+8. Tag the battery with the owner's name and address, using the tag on which you made the sketch
+of the arrangement of the terminals and top connections.
+
+9. Store the battery in a dry place, free from dust, until called for.
+
+10. When the battery is to be put into service again, put in new separators, put the elements
+in the jars, seal the covers, and burn on the top connectors and terminals (if these are of
+the burned-on type). Fill the cells with electrolyte of about 1.310 specific gravity and allow
+the battery to stand for ten to twelve hours in order to cool. Then put the battery on charge
+at one-half the normal charging rate and charge until the specific gravity of the electrolyte
+stops rising and remains stationary for five hours. The total time required for this development
+charge will be about four days. Watch the temperature of the electrolyte carefully, and if
+it should rise to 110° Fahrenheit, stop the charge until it cools.
+
+11. The specific gravity will fall during the first part of the charge, due to the new separators;
+at the end of the charge, the specific gravity should be 1.280-1.300. If it is not within these
+limits, adjust it by withdrawing some electrolyte with the hydrometer and adding water if the
+gravity is high, or 1.400 electrolyte if the gravity is low.
+
+12. Clean the case thoroughly and give it a coat of asphaltum paint.
+
+13.
+
+DETERMINING AGE OF BATTERY
+
+Battery manufacturers use codes to indicate the age of their batteries. These codes consist
+of letters, figures, or combinations of letters and figures, which are stamped on the inter-cell
+connectors or on the nameplate. The codes may also be burned on the case.
+
+The codes of the leading makes of batteries follow. In addition to determining the age of a
+battery by means of the code, the owner should be questioned as to the time the battery was
+installed on his car. If the battery is the original one which came with the car, the dealer's
+or car manufacturer's records will help determine the battery's age. If a new battery has been
+installed to replace the one that came with the car, the battery distributor's records will
+help determine the age of the battery.
+
+Familiarity with the different makes and types of battery will also help in determining a battery's
+age. Manufacturers make improvements in the construction of their batteries from time to time,
+and by keeping up-to-date on battery constructions, it is often possible to approximate the
+age of a battery by such changes.
+
+If a battery was kept "dry" while in stock, its age should be figured from the time it was
+prepared for service and placed on the car, since batteries in dry storage do not deteriorate.
+Some batteries are shipped from the factory "wet," i.e., filled with electrolyte and fully
+charged and the age of such batteries should be figured from the time they were shipped from
+the factory, because deterioration begins as soon as a battery is filled with electrolyte.
+When batteries are "dry" no chemical action can take place, and the battery does not deteriorate,
+while in a "wet" battery, chemical action takes place which gradually causes a battery to deteriorate.
+
+Exide Age Code.
+
+Since October, 1917, the date of shipment of Exide batteries from the factory, or from Exide
+Deposts has been stamped on the top of the first inter-cell connector from the negative end
+of the batter instead of on the nameplate figures are used to indicate the dates, as follows:
+
+  [Image: Exide and Philadelphia battery age code charts]
+
+All Philadelphia batteries shipped prior to April 1, 1920 and all batteries shipped from depot
+stock after this date carry double letter branding. The first battery is the factory date and
+the second letter in this code indicates latest month during which the guarantee may begin.
+
+Batteries sold direct from Philadelphia to all classes of customers after April 1, 1920, carry
+the single letter branding code, indicating month of manufacture.
+
+The letters used in the double letter age code are selected from the table given above, and
+the second letter is the important one, since it gives the latest date from which adjustment
+can be made. If a Philadelphia battery with a double letter age code comes in, therefore, the
+foregoing table should be consulted in determining the age of the battery.
+
+If a Philadelphia battery with a single letter age code comes in, the following table should
+be consulted in determining the age of the battery:
+
+  [Image: Single Letter Philadelphia Batteries Age Code Chart]
+
+Prest-O-Lite Age Code.
+
+All Prest-O-Lite batteries carry a date letter stamped on the cell-connectors. This letter
+indicates the month and year in which the battery was manufactured. The letter is preceeded
+by a number which represents the factory at which the battery was built.
+
+Prest-O-Lite Factory Marks.
+
+  Indianapolis--50    Cleveland--7    San Francisco--23
+
+For example: "50-K" indicates that the battery was manufactured at Indianopolis in January, 1920.
+
+In addition to the above, each "Wet" Prest-O-Lite battery is branded in the side with a date,
+as "9-19," indicating October, 1919. This date is really sixty days ahead of the actual building
+date, to allow time for shipping, etc., before the guarentee starts. The branded "9-19" was
+actually built in August, 1919.
+
+Titan Age Code.
+
+The age of Titan batteries is indicated by a number stamped on one of the inter-cell connectors,
+this number indicating the month the battery was hipped from the factory.
+
+  [Image: Age code charts for Titan batteries]
+
+  [Image: Age code charts for U.S.L., and Vesta batteries]
+
+  [Image: Age code charts for Westinghouse and Willard batteries]
+
+RENTAL BATTERIES
+
+Rental batteries are those which are put on a customer's car while his own is being repaired
+or recharged. They are usually rebuilt batteries turned in when a new battery is bought. They
+may also be made of the good parts of batteries which are junked. By carefully saving good
+parts, such as plates, jars, covers, and cases, a stock of parts will gradually be acquired
+from which rental batteries may be made. Rental batteries may also be bought from the battery
+manufacturers.
+
+A supply of rental batteries should, of course, be kept ready to go out at any time. The number
+of such batteries depends upon the size of the business. 25 batteries for each 1000 cars in
+the territory served is a good average. Do not have too many rental batteries of the same type.
+Many of them will be idle most of the time and thus will not bring in any money. Rentals should
+be made to fit those makes of cars of which there are the greatest number in the territory
+served by the repair shop. Sufficient parts should be kept on hand to make up other rentals
+on short notice.
+
+Terminals for Rental Batteries
+
+There are several combination terminals on the market which allow rental batteries equipped
+with them to be easily connected to several of the various types of cable terminals that are
+in use. Yet it is a universal experience for the average service station always to have calls
+for rental batteries with just the type of terminals which are not on hand. When the station
+has many batteries with the clamp type straight posts the call always seems to be for the taper
+plug type and vice versa.
+
+  [Fig. 152 Best type of connection to be used whenever possible]
+
+Most of us will agree that the clamp type post terminal is the cause of much trouble. It is
+almost impossible to prevent corrosion at the positive post and many a car owner has found
+that this has been his trouble when his lights burn all right but the battery seemingly does
+not have power enough to turn over the engine and yet every cell tests 1.280. Service Station
+men should not scrape and clean up a corroded clamp type terminal and put it back on again,
+but should cut it off and put on either a taper plug or, preferably, a lead-plated copper terminal
+lug. Of course either of these terminal connections necessitates changing the battery terminals
+to correspond.
+
+For rental batteries it will be found that short cable terminals with lead-plated copper lugs
+at the end will enable a battery man to connect most any type of cable terminal on any car.
+It is true that such connections must be taped up, but the prompt service rendered more than
+offsets a little tape. Figures 152 to 158 illustrate how these connections can be made to the
+taper plug and clamp types which are used on most cars.
+
+  [Fig. 153 Method of connecting rental battery with cable
+   terminals to car with taper plug]
+
+  [Fig. 154 Another method of connecting copper terminal
+   lug to clamp terminal on car]
+
+  [Fig. 155 Method of connecting rental batteries with
+   cable terminals to cars with clamp type terminals]
+
+Fig. 155. A bolt is passed through the opening and a washer and nut complete the connection.
+In Fig. 156 a taper plug is inserted and screwed tight. The projecting part of the plug has
+been turned down to fit the clamp type terminal which is clamped to it. In Fig. 157 a bolt
+is passed through and the clamp type terminal tightened to the plug type terminal with a washer
+and nut.
+
+  [Fig. 158 Lead plated copper terminal lug]
+
+Fig. 158 shows a simple means of putting on a lead-plated copper terminal lug without solder.
+These lugs should be soldered on whenever possible, but it is often a difficult job to put
+one on in the confined space of some battery compartments. In such places, a quick and lasting
+job can be made with a band vise and a short piece of round iron. This latter is laid across
+the lug and the vise screwed up, making a crimp across the lug which firmly grips down upon
+the bared cable strands that have been inserted into the lug.
+
+New batteries sold to replace other batteries should be installed with cable connections, as
+illustrated in Figure 152. This method of connecting a battery is superior to any other method
+and will never cause trouble. It will usually be found that the old taper plugs or clamp terminals
+that have been in use have started to corrode and that a new battery works increasingly at
+a disadvantage from the day it is installed until the corrosion becomes so great that the car
+cannot be started and then the customer kicks about his new battery. The best connection possible
+will pay handsome dividends to all concerned, in the end.
+
+Marking Rental Batteries. Rental batteries should be marked in a mariner which enables them
+to be recognized quickly. Painting the cases a red color is a good way. The service station's
+name should appear somewhere on the battery. A good plan is to have a lead tag, which is attached
+to the handle at the negative end of the battery, or is tacked to the case. The name may also
+be painted on the case. Each battery should be given a number which should preferably be painted
+in large white figures on the end or side of each case. The number may also be stamped on a
+lead tag tied to the handle at the negative end.
+
+A service station which sells a certain make of battery should not use cases of some other
+make if the name of the other make appears on the case. Such names may give a wrong impression
+to the customer, which will not be fair either to the service station or to the manufacturer
+whose name appears on the case. If the service station sells, another make of battery, the
+customer may get the impression that the service station man does not have enough confidence
+in the make which he sells, and must use some other make for his rentals. If the rental battery
+does not give good service, the customer will get the impression that the manufacturer whose
+name appears on the case does not turn out good batteries, when as a matter of fact, the plates,
+covers, jars, and other parts used in the rental battery may not have been made by this manufacturer.
+Some battery men would, perhaps, consider the failure of a rental battery as an opportunity
+to "knock" the manufacturer whose name appears on the case. Such an action may have the desired
+effect on a very few customers, but the great majority of men have no use for any one who "knocks"
+a competitor's products.
+
+Keeping a Record of Rental Batteries. A careful record should be kept of all rental batteries.
+The more carefully such a record is kept, the less confusion there will be in knowing just
+where every rental battery is. A special rack for rental batteries, such as those shown in
+Figures 88 and 89 should be provided, and all rental batteries which are in the shop should
+be kept there, except when they are on charge or are being overhauled. Have them fully charged
+and ready to go out immediately, without keeping a customer waiting around, when he is in a
+hurry to go somewhere else.
+
+General Rental Policy. No service station should make a practice of installing rental batteries
+on any car unless the owner leaves his own battery to be repaired or recharged. The purpose
+of having a stock of rental batteries is to enable customers to have the use of their cars
+while their own batteries are being repaired by the battery man who furnishes the rental battery
+and not to furnish batteries to car owners who may be taking their batteries to some other
+station to be repaired. It is, of course, a good thing to be generous and accommodating, but
+every battery repairman should think of his own business first, before he helps build up the
+business of a competitor.
+
+The customer must have some inducement to bring in your rental battery and get his own. A rental
+charge of 25 cents-per day serves as a reminder to most customers. However, some customers
+are forgetful and the battery man must telephone or write to any owner who fails to call for
+his battery. If, due to failure to keep after the owner, a rental battery is out for several
+weeks, there is likely to be an argument when the rental bill is presented to the owner. If
+the delay in calling in a rental battery is due to failure to repair the customer's battery,
+the rental charge should be reduced.
+
+A rental battery should not be put in place of a battery which is almost ready for the junk
+pile. The thing to do is to sell the customer a new battery. Repairs on an almost worn out
+battery are expensive and the results may not be satisfactory.
+
+RADIO BATTERIES
+
+The wide-awake battery man will not overlook the new and rapidly growing field which has been
+opened for him by the installation of hundreds of thousands of radio-phone receiving sets in
+all parts of the country. The so-called radio "craze" has affected every state, and every battery
+repairman can increase his income to a considerable extent by selling, charging, and repairing
+radio storage batteries.
+
+The remarkable growth of the radio-phone has, of course, been due to the radio broadcasting
+stations which have been established in all parts of the country, and from which concerts,
+speeches, market reports, baseball reports, news reports, children's stories and religious
+services are sent out. These broadcasting stations have sending ranges as high as 1,000 miles.
+The fact that a service station is not located near a broadcasting station is therefore no
+reason why it should not have its share of the radio battery business, because the broadcasting
+stations are scattered all over the United States, and receiving sets may be made powerful
+enough to "pick up" the waves from at least one of the broadcasting stations.
+
+Radio receiving sets may be divided into two general classes, the "Crystal" sets and the "Bulb"
+sets. "Crystal" sets use crystals of galena (lead sulphide), silicon (a crystalline form of
+silicon, one of the chemical elements), or carborundum (carbide of silicon) to "detect" or,
+in other words, to rectify the incoming radio waves so that they may be translated into sound
+by the telephone receivers. Receiving sets using these crystals do not use a battery, but these
+sets are not very sensitive, and cannot "pick up" weak waves. This means that crystal receiving
+sets must be used near the broadcasting stations, before the waves have been weakened by traveling
+any considerable distance.
+
+As a general rule, the radio-listener's first receiving set uses a crystal detector. Very often
+it is difficult to obtain good results with such a set, and a more elaborate set is obtained.
+Moreover, even if a crystal set does give good results, the owner of such a set soon hears
+of friends who are able to hear concerts sent out from distance stations. This gives him the
+desire to be able to hear such stations also and he then buys a receiving set which uses the
+"audion-bulb" for detecting, or rectifying the incoming waves.
+
+The audion-bulb resembles an ordinary incandescent lamp. It contains three elements:
+
+1. In the center of the bulb is a short tungsten filament, the ends of which are brought out
+to two terminals in the base of the bulb. This filament must be heated to incandescence, and
+a storage battery is required for this purpose, because it is necessary to have a very steady
+current in order to obtain clear sounds in the receiver. Lately plans have been suggested for
+using a direct current lighting line, and even an alternating current lighting line for heating
+the filament, but at present such plans have not been perfected, and the battery will undoubtedly
+continue to be used with the majority of sets.
+
+2. Surrounding the filament but not touching it is a helix of wire, only one end of which is
+brought out to a terminal in the base of the bulb. This helix is called the "grid." In some
+bulbs the grid is not made in the form of a helix, but is made of two flat gridlike structures,
+one on each side of the filament.
+
+3. Surrounding the "grid" is the "plate" which is sometimes in the shape of a hollow metallic
+cylinder. Some plates are not round, but may be oval, or they may be two flat plates joined
+together at some point, and one placed on either side of the grid. The plate has one terminal
+in the base of the bulb.
+
+  [Fig. 159 Illustrating the principle of the Audion Bulb]
+
+The action of an audion-bulb is quite complex, but a simpler explanation, though one which
+may not be exactly correct from a purely technical point of view, is as follows, referring
+to Figure 159:
+
+The "A" battery heats the filament, causing a stream of electrically charged particles to flow
+out from the filament in all directions. These electrons act as a conductor, and close the
+circuit which consists of the plate, the "B" battery, and the telephone receivers, one end
+of this circuit being connected to one side of the filament circuit. Current then flows from
+the positive terminal of the "B" battery to the plate, then to the filament by means of the
+stream of electrons emitted by the filament, along one side of the filament, through the wire
+connected to the positive terminal of the "A" battery to the telephone receivers, through the
+receivers to the negative terminal of the "B" battery.
+
+As long as the filament remains lighted a steady current flows through the above circuit. The
+"grid" is connected to the aerial wire to intercept the radio waves. These waves produce varying
+electrical charges on the grid. Since the stream of charged particles emitted by the filament
+must pass through the grid to reach the plate, the charges which the radio waves produce on
+the grid strengthen or weaken the stream of electrons emitted by the filament, and thus vary
+the current flowing in the telephone receiver circuit. The changes in this current cause the
+receiver diaphragm to vibrate, the vibrations causing sounds to be heard. Since the variation
+in the telephone receiver circuit is caused by electrical charges produced by the radio waves,
+and since the radio waves change according to the sounds made at the transmitting station,
+the variations in the telephone receiver current produces the same sounds that are sent out
+at the transmitting station. In this way concerts, speeches, etc., are reproduced in the receivers.
+
+The modern radio receiving set includes various devices, such as variable condensers, variocouplers,
+loose-couplers, variometers, the purpose of which is to "tune" or adjust the receiving set
+to be capable of receiving the radio waves. An explanation of such devices is not within the
+scope of this book, but there are numerous reasonably priced books and pamphlets on the market
+which describes in a simple manner all the component parts of a radio-receiving set.
+
+From the foregoing remarks it is seen that a six-volt storage battery is required with each
+receiving set which uses the audionbulb type detector. The filament current of an audion-bulb
+averages about one ampere. If additional bulbs are used to obtain louder sounds, each such
+bulb also draws one ampere from the storage battery. The standard audion-bulb receiving set
+does not use more than three bulbs, and hence the maximum current drawn from the battery does
+not exceed three amperes.
+
+The automobile battery manufacturers have built special radio batteries which have thick plates
+and thick separators to give longer life. The thick plates are much stronger and more durable
+than the thin plates used in starting and lighting work, but do not have the heavy current
+capacity that the starting and lighting battery plates have. A high current capacity is, of
+course, not necessary for radio work, and hence thick plates are used.
+
+Batteries used for radio work do not operate under the severe conditions which exist on automobiles,
+and trouble is much less likely to develop. However, the owner of the radio set rarely has
+any means of keeping his battery charged, and his battery gradually discharges and must then
+be recharged. It is in the sale of batteries for radio work and in the recharging of them that
+the battery man can "cash-in" on the radio phone "craze."
+
+This business rightfully belongs to the automobile battery man and he should go after it as
+hard as he can. A little advertising by the service station man, stating that he sells radio
+batteries, and also recharges them should bring in: very profitable business. The battery man
+who calls for and delivers the radio batteries which need recharging and leaves rental batteries
+in their place so that there is no interruption in the reception of the evening concerts is
+the one who will get the business.
+
+As already stated, radio storage batteries have thick plates and thick separators. Perforated
+rubber sheets are also used in addition to the separators. Large sediment spaces are also generally
+provided to allow a considerable amount of sediment to accumulate without causing short-circuits.
+The cases are made of wood or hard rubber. Since radio batteries are used in homes and are,
+therefore, used with handsomely finished cabinets containing the radio apparatus, the manufacturers
+give the cases of some of their radio batteries a pleasing varnished or mahogany finish. Before
+returning radio batteries which have been recharged, the entire batteries should be cleaned
+and the cases polished. Returning radio batteries in a dirty condition, when they were received
+clean, and polished, will drive the radio recharging business to some other service station.
+
+VESTA RADIO BATTERIES
+
+The Vesta Battery Corporation manufacturers three special types of "A" batteries for radio
+work, as follows:
+
+1. The 6EA battery, made in capacities of 60, 80, and 100 ampere hours. Fig. 160.
+
+2. The V6EA7 battery, having a capacity of 80 ampere hours. Fig. 161.
+
+3. The R6EA battery, having a capacity of 100 ampere hours. Fig. 162.
+
+  [Fig. 160, 161, 162, 163 Various Vesta Radio batteries]
+
+Vesta Radio Batteries. Fig. 160 shows the 6EA Series, "A" Battery. Fig. 161 shows the V6EA
+Series, "A" Battery. Fig. 162 shows the R6EA (Rubber Case) Series, "A" Battery. Fig. 163 shows
+the "B" Battery.
+

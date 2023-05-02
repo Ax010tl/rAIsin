@@ -1,0 +1,403 @@
+﻿FLUES.--Flues have been generally used in heating for many years, and although the method is
+rude, imperfect and unsatisfactory, they possess certain advantages on the score of economy,
+which will prevent their total supercedure until some equally cheap and effective method shall
+be found, to take their place. It cannot be questioned that houses of moderate extent can be
+heated at much less expense for the original cost of apparatus by the flue system than by any
+other now before the public. Flues have the advantage over steam or hot water in their power
+to generate heat and supply it to the green or hot house in a very short space of time, and
+with this apparatus, the fires may be allowed to go out on mild and bright days in winter,
+with the certainty that heat can be easily and quickly commanded at nightfall. Steam cannot
+be generated quickly, and the hot water apparatus requires considerable time to get into full
+operation, with the usual amount of fuel.
+
+Among the serious objections to the use of flues, is the unequal distribution of heat throughout
+the house; the parts near the furnace being overheated, while at the chimney it is scarcely
+warm. This difficulty can be partially obviated by the use of materials in the construction
+of the flues, of different thicknesses,--being made thick and heavy at the furnace, and gradually
+becoming thinner and lighter as it extends towards the chimney. Again, flues generally require
+more fuel than a hot water apparatus, and moreover, they are unsightly in an ornamental house,
+and with the best care in their construction and management, they do not give entirely satisfactory
+results.
+
+Earthenware drain-pipe is frequently employed for flues, and when care is taken to prevent
+their cracking by the excessive heat near the furnace, they answer the purpose very well. When
+properly secured at their joints they prevent the escape of gaseous matter more perfectly than
+brick flues.
+
+Flues should be elevated a few inches above the floor, and supported by bricks, to allow all
+the radiating surface to act upon the atmosphere of the house, and should have, in order to
+secure sufficient draft, a gradual rise through their whole length from the furnace to the
+entrance into the chimney.
+
+The furnace should be built inside the house at one end, with the fire and ash-pit doors opening
+into a shed outside, to prevent any escape of gas into the house while replenishing the fire.
+It will be necessary to place the furnace low enough to allow a proper rise to the flue. If
+the flue be made to rise immediately from the furnace about one foot, it may then be carried
+fifty feet, with a rise of not more than six inches, and the draft will then be sufficient.
+
+The dimensions of the flue may vary from 8 to 12 inches in width, and from 12 to 18 inches
+in height, according to the space required to be heated. The usual mode of construction, when
+bricks are used, is to lay them crosswise and flat for the bottom and top, and to set them
+edgewise for the sides. Tiles for the bottom and covering are an improvement upon bricks: being
+thinner, the heat passes through them more readily, while they still retain the heat sufficiently
+to equalize the temperature. Tiles used for the top covering are sometimes made with circular
+depressions for holding water for evaporation.
+
+STEAM.--The employment of steam for heating green houses, graperies, &c., is almost entirely
+superceded by the hot water method. It will, therefore, be necessary only to allude briefly
+to this part of our subject. It occasionally happens that a conservatory attached to a dwelling
+is heated by the same steam apparatus employed to heat the latter, but we believe that a person
+who should advocate, at the present day, the general adoption of steam as a means of heating
+horticultural structures, would be regarded as belonging to a generation which has now passed away.
+
+Steam travels through pipes with great rapidity, and parting with its heat rapidly, it becomes
+quickly condensed, unless the boiler is of large capacity and capable of furnishing a full
+supply. It is, at best, an unsatisfactory mode of heating plant houses, for if from any cause
+the water in the boiler is reduced below the boiling point, the steam in the pipes is instantly
+condensed, and with it all heat, except that remaining in the iron of the pipes, and the condensed
+steam, is withdrawn.
+
+Hood, an English author on heating, quoted by McIntosh in his valuable work the "Book of the
+Garden," thus compares the merits of steam and hot water. "The weight of steam at the temperature
+of 212° compared with the weight of water at 212°, is about as 1 to 1694, so that a pipe that
+is filled with water at 212°, contains 1694 times as much matter as one of equal size filled
+with steam. If the source of heat be withdrawn from the steam pipes, the temperature will soon
+fall below 212° and the steam immediately in contact with the pipes will condense: but in condensing,
+the steam parts with its latent heat and this heat in passing from the latent to the sensible
+state, will again raise the temperature of pipes. But as soon as they are a second time cooled
+down below 212° a further portion of steam will condense, and a further quantity of latent
+heat will pass into the state of heat of temperature, and so on until the whole quantity of
+latent heat has been abstracted and the whole of the steam condensed, in which state it will
+possess just as much heating power as a similar bulk of water at the like temperature; that
+is, the same as a quantity of water occupying 1-1694th part of the space that the steam originally
+did.
+
+By experiments made by the above authority, it has been proved that a given bulk of steam will
+lose as much of its heat in one minute as the same bulk of hot water would in three hours and
+three quarters. And further admitting that the heat of cast iron is nearly the same as that
+of water, if two pipes of the the same calibre and thickness be filled, the one with water
+and the other with steam each at 212° of temperature, the former will contain 4.68 times as
+much heat as the latter; therefore if the steam pipe cools down to 60° in one hour, the water
+pipe will take four hours and a half to cool down to the same point. In a hot water apparatus
+we have in addition to the above, the heat from the water in the boiler, and of the heated
+material in and about the furnace, which continues to give out heat for a long time after the
+fire is totally extinguished; whereas in a steam apparatus, under the same circumstances we
+have no source of heat except the pipes by which it is conveyed--giving an advantage in favor
+of hot water over steam as regards its power of heating hot houses, and maintaining heat after
+the fire ceased to burn, in nearly the proportion of 1 to 7--that is, hot water will circulate
+from six to eight times longer than steam under the above circumstances."
+
+TANKS.--This mode of heating horticultural buildings has been used in England for some years,
+and has, of late, obtained considerable popularity in this country; mainly, however, for the
+purpose of obtaining bottom heat. The tank method is more steady and reliable in its operations
+in this respect, than heating by flues or pipes, but even its most strenuous advocates must
+admit that for atmospheric heat hot water pipes or flues must be employed in some shape or
+other, where the tanks are covered with earth or sand beds for propagating purposes. With slate
+or metallic covering they are sometimes used solely for atmospheric heat, and are found to
+answer well. But if tanks are constructed of substantial and enduring materials, they possess
+little if any advantage, on the score of expense, over hot water pipes, while they occupy much
+more room and are unsightly objects in a well ordered green-house.
+
+Wooden tanks are frequently used where the heat is required to rise perpendicularly from them.
+If constructed of good pine plank, well put together with white lead, and thoroughly painted
+inside and out, they will last for several years. Scarcely any heat will be radiated from the
+sides and bottom of a wooden tank. Tanks of brick and cement would answer better than those
+made of wood, if it were possible to make them water-tight when supported by piers above the
+ground, as they are usually built. But however carefully constructed, these materials are so
+unyielding to the expansion and contraction they are subjected to, that it is nearly impossible
+to prevent leakage for any length of time. A large number of brick and cement tanks have come
+under our notice, and we cannot call to mind a single one of them all that has not been a continual
+source of vexation and expense to its owner, since its first construction.
+
+The principle objections to tank heating, as usually employed, are an excess of bottom heat
+and a deficiency of atmospheric heat, with a superabundance of moisture when the vapor from
+the tank is not properly excluded from the house. Tanks should be covered with some good radiating
+material, as slate or metal. If slate is employed, the joints should be carefully and effectually
+cemented. Boards are sometimes used as a covering, but their radiating power is slight, and
+their decay rapid.
+
+Soil or sand, to the depth of six to ten inches, is usually placed upon the tanks, and used
+as a plunging bed for pots containing cuttings; or the cuttings are sometimes inserted in the
+bed itself.
+
+Any arrangement by which vapor from the tanks is admitted to the roots of plants is to be avoided,
+for however desirable a moist bottom heat may be, it is found from experience that the soil
+is frequently rendered a mass of puddle, in which no living roots can exist.
+
+A portion of the covering of the tank may be made moveable to allow moisture to escape into
+the house when required.
+
+By means of the tank, bottom heat for propagating or other purposes, can be very steadily and
+uniformly maintained, more so than by other modes, and the changes of temperature of the outer
+air do not materially affect it. But the case is different with regard to the air of the house,
+which is frequently reduced below the freezing point, in severe weather. If the bottom heat
+is of the required temperature, any attempt to counteract the coldness of the air of the house
+by increasing the fire, would produce an injurious excess of bottom heat. It is evident that
+while the required supply of heat for the bottom is uniform, and that for the top exceedingly
+irregular, both objects cannot be properly secured except by a separate supply of heat for
+each. For these reasons we would employ a hot water pipe or pipes, passing around the house,
+on the same level with the tanks, supplied with a valve to regulate the heat at pleasure, or
+a brick smoke flue constructed in the usual manner.
+
+Tanks are usually divided in the centre, thus forming channels for the flow and return circulation
+side by side, equalizing the temperature throughout their whole length. This form is sometimes
+departed from by carrying the tank around the house, and connecting each end with the boiler,
+but in this case, except in small houses, a uniform temperature cannot be maintained, as the
+water will have lost several degrees of heat before it has accomplished its circuit. Another
+arrangement is to connect the remote end of the tank by an iron pipe for the return circulation,
+passing under the tank the whole distance to the boiler. This is not as perfect and effective
+an arrangement of pipes and tanks as that before referred to, as in this case we do not have
+the heat from the pipe under control.
+
+A writer in a late number of the "Gardeners' Monthly," gives the following description of tanks
+erected by him to obviate excessive moisture and radiate a portion of their heat into the atmosphere
+of the house.
+
+"In the winter of 1863-4, I finished two span-roof houses, each 60 feet in length, with water
+tanks three feet in width, running entirely around on both sides of each house, and heated
+by a single furnace. The tanks were made with wooden bottoms and sides, and covered with slate
+carefully cemented. My design was to heat the houses entirely by the tanks, by far the larger
+portion of the heat being given off from the slate covering, and as a bottom heat for plants.
+As I understand the various writers upon this subject, this is the approved plan. But I have
+found considerable difficulty, and have been obliged to modify my plan in various respects:
+
+In the first place, wooden tanks, with the top covered with sand, will not give off heat sufficiently
+to keep up growth in houses of this size during extremely cold weather. By protecting the houses
+with shutters, this difficulty may be obviated. Crowding the fire, and raising the water in
+the tanks to a high temperature, is a more objectionable remedy. In this way the bottom heat
+is too strong. But my most serious difficulty has arisen from excessive humidity. I put three
+inches of sand over the whole slate surface of the tanks, using a part for cuttings, and the
+rest, (say 100 running feet of the three feet wide table), for standing pot plants upon the
+surface of the sand. The plants dried rapidly, and required watering every morning. The result
+was, that in watering the plants, and of course the sand on which they stood, to some extent,
+it was like pouring water upon a flue, or upon hot pipes: a constant steam was given off; all
+the moisture in the sand was rapidly converted into steam; so, also the water in the pots was
+quickly expelled. In order to heat the house sufficiently, the bottom heat became too strong,
+and the plants were in too direct contact with it. In cold days the house was in a perfect
+fog. It was ruinous to the plants. The remedy was simple: more heat must be allowed to escape
+from the tank into the house, without coming in contact with the sand-bed, and the moist earth
+of the plants. Another slate floor was laid, an inch above the tank slate, on which to put
+the sand and stand the plants. This hot air chamber opens into the house on the back and front
+side of the tank. Thus the whole radiating surface of the top of the tank may be directed into
+the house, or may be confined as bottom heat, as may be found necessary. By this plan, excessive
+humidity may be entirely obviated, and the heat completely controlled, as wanted."
+
+HOT WATER PIPES.--It is generally conceded, among practical men, that the circulation of hot
+water in iron pipes is the best known method of heating plant houses. The property which heated
+water possesses of retaining for a considerable length of time its heat and transmitting it
+to the pipes at long distances from the boiler, renders it a most effective agency for such
+purposes: A perfect control of the moisture of the atmosphere, by means of evaporating pans
+attached to the pipes; entire freedom from deleterious gases, sometimes escaping from flues,
+and the substantial character and enduring qualities of the apparatus, are important considerations
+in favor of this method of heating which are not to be overlooked or underrated.
+
+It is true that a house of a given size cannot as soon be brought to the required temperature
+after the fire is first lighted, as by other modes of heating, but when once in full operation
+greater regularity is maintained, and if the fire should by any neglect go out, heat is still
+radiated, often for several hours, before the pipes become entirely cold.
+
+For heating ornamental houses of glass, pipes are also to be recommended on account of the
+little room they occupy and the neatness of their appearance compared with the unsightly flues
+or tank. If properly put up, the pipes never leak at the joints, as is the case frequently
+with tanks, and scarcely need any repairs for years. The first cost of apparatus for heating
+by hot water pipes exceeds that of the other methods which we have named, but when we take
+into account its great durability, economy of fuel, and the satisfactory results produced in
+the growth of plants in houses heated in this manner, it must be evident that this method is
+the cheapest in the end.
+
+It is generally supposed that the heat obtained from steam or hot water pipes necessarily contains
+moisture. For those who have had any experience in the use of these methods of heating, it
+is needless to say that such is not the case. To obtain moisture evaporation of water in some
+manner in the atmosphere must be effected. This is provided for by attaching to the pipes evaporating
+pans filled with water, by which the moisture can be perfectly regulated and controlled. The
+capacity of the boiler and the length of the pipes should be in proportion to the size of the
+house to be heated, bearing in mind that it is better to have a reserve of heating power for
+extraordinary occasions. In such cases economy in fuel will be secured, as the fires will not
+be required to be kept constantly burning brightly.
+
+Fault is sometimes found with the apparatus when it lies entirely with the proprietor of the
+establishment, who in his short-sighted economy, has restricted the builder in the amount of
+pipe put into the apparatus.
+
+CONSTRUCTION, &c.
+
+The general plan of Horticultural structures may be as perfect as possible, but if the details
+are not well carried out, and especially if the workmanship be not good, they will prove a
+source of never-ending vexation and expense. Insecure foundations, ill-fitting doors and ventilators,
+imperfect glazing, and inferior workmanship of every description, are evils that skillful gardeners
+have to contend with, and upon whom the consequences of such defects usually fall, when they
+should be placed upon the shoulders of the constructor.
+
+Methods for building cheap Graperies and Green houses have often been described, and we find
+many of these imperfect and temporary structures scattered through the country. Such buildings
+may be cheap as respects their first cost, but their durability is a question which should
+enter into the calculations of their builders, as well as the consideration of the original
+outlay. After a year or two we find them with open joints, leaky roofs, and decaying foundations.
+The inferior and temporary character of materials and workmanship is often a source of serious
+loss to their owners, and every building of this description demonstrates the mistaken and
+short-sighted economy of its projector. It is much wiser and truer economy to expend at the
+outset, a sufficient amount of money and care to make the structure permanent, and to obviate
+the necessity of constant repairs. Experience has taught us that if they are well and substantially
+built, these structures will endure for twenty years with very few repairs except an occasional
+coat of paint. It need not be demonstrated that the profit and gratification to be derived
+from a well-built house far exceed those accruing from a cheap and imperfect one, with escapes
+for the heat in winter, and inlets for cold air and driving snow and rain.
+
+The foundations of Horticultural buildings should be of stone or brick, both below and above
+the ground, if they are to be of a permanent character. The superstructure should be of the
+best white pine and thoroughly painted. In building curvilinear roofs the rafters and sash
+bars should be sawed out in pieces to the regular curve. The rafters being put together in
+sections, breaking joints are thus equally strong throughout their length. The advantages of
+sawed bars over those bent in the usual manner, are very great. The thrust of the roof is but
+slight, and the house always remains in shape. With the bent bars the strain is enormous, as
+may be seen in the settling of such houses at the ridge, and expansion at the sides, besides
+the liability of breaking the glass by the constantly varying strain of the bars.
+
+Iron has been frequently and strongly recommended in the construction of horticultural buildings.
+It has been used, with very satisfactory results in England, and doubtless it may there be
+found to be the best and most economical material for such purposes. It has been tried also
+in this country, but the experiment has not resulted so favorably. The main difficulty is that,
+in this climate, the expansion and contraction of the iron rafters and bars are so great that
+the glass is continually and badly breaking, and it is very difficult to keep the joints tight
+enough to repel the rain and the cold air. There can be no doubt that in this country, wood
+is a better material than iron for these purposes.
+
+Thick and double thick glass has heretofore been used almost exclusively for first class houses,
+but the high price of glass has of late, compelled the use of a thinner article. It is generally
+believed that thick glass will resist hail storms better than thin, but on this question practical
+men differ in their opinions. It is contended, on the other hand, that the elasticity of the
+thin panes resist a blow better than the unyielding thick one, also that the latter is more
+likely to be broken by the accumulation of water between the laps of the glass.
+
+We have found that the 8 by 10 size of single thick French window glass, second or third quality,
+is sufficiently good for Horticultural buildings, and we do not use any other, unless especially
+called for by the proprietor.
+
+Glazing is often badly executed, half an inch lap, and sometimes more, being often allowed
+to the glass, from the mistaken idea that rain, in a driving storm, will find its way through.
+A lap of one-eighth of an inch is amply sufficient in any case. The glass should be well "bedded"
+down to the sash bar, in putty containing a portion of white lead, and well secured with small
+iron nails or glaziers points. All putty should be removed from the outside when the work is
+finished, and the sash bars should then be painted with a heavy coat of thick paint which will
+close up the joints and render them water tight.
+
+Ample ventilation should be provided both at the top and bottom of houses, so that large quantities
+of air may be supplied when necessary, as in ripening the wood of vines in graperies, and in
+"hardening off" plants in green houses before removal to the open air.
+
+By reference to the numerous designs given in this work, the manner of arranging the interior
+details, such as shelving, tables, walks, hot water pipes, and the general features of construction
+and adaptation, will be understood.
+
+HOT-BEDS.
+
+The most simple form of Horticultural structures, and one known in almost every garden, is
+the Hot-bed. To persons of experience in their construction and management, we cannot hope
+to give any important information, but having seen in many instances the operations of these
+beds imperfectly performed, we offer a few simple suggestions and directions which will be
+of advantage to the novice.
+
+The location of the bed should be, if possible, a sheltered one, especially on the north side,
+while towards the east and south it should be open. This shelter or protection is needed chiefly
+to prevent an undue radiation of heat from the glass, and the entrance of a strong, cold current
+of air when the sashes are lifted for ventilation. This radiation is not only hurtful to the
+plants by causing sudden and extreme changes of temperature, but, if allowed to proceed too
+far, will cause the heat of the bed to "run out." Let the shelter, therefore, be as thorough
+as possible.
+
+We have found the south side of a barn, or a tight board fence a good location. The barn would
+be preferable, on account of its proximity to the materials that furnish the source of heat--the
+manure pile.
+
+If the soil is wet, or of a heavy nature, it would be better that the bed be made entirely
+upon the surface. If the situation is a dry one, and the soil gravelly or sandy, then a pit
+may be excavated, of the size of the intended frame, and three feet in depth. A hollow brick
+wall should be built up from the bottom, six inches above the surface, if it is intended that
+the bed should be permanent; otherwise the excavation may be lined with boards, or if designed
+for only a season's use, it may be left without any support. Hot-beds made under ground require
+less material, are more lasting in their heat, and require less attention than those built
+on the surface. On the contrary, should the heat fail from any cause, beds built up on the
+surface possess the advantage of being more easily renewed by the application of fresh fermenting
+materials, or "linings" as they are usually termed.
+
+About the 20th of February is early enough, in this latitude, to gather and prepare materials
+for the hot-bed. Fresh stable manure alone may be used, though preference is generally given
+to a mixture, in equal proportions, of manure and forest leaves. Place on the ground, (under
+a shed if possible,) a layer of leaves one foot thick, and on this a foot of manure, then leaves
+and manure alternately until the required quantity is obtained. Let this heap remain four or
+five days, or until it begins to heat, then turn over and thoroughly mix the leaves and manure
+together, and throw them up into a compact, conical heap. In four or five days more your materials
+will be ready for your bed. Mark off your intended site, running as nearly east and west as
+practicable. Your frame should be about six feet wide and of any required length. The manure
+bed should extend a foot outside the frame on the sides and ends. See Figure 1, in which a
+is the manure heap.
+
+Build up the manure square and level, shaking, mixing, and beating it with the back of the
+fork, to the height of about four feet, making the centre somewhat higher than the sides, to
+allow for settling. The frame should be of 1-1/4 inch pine, twenty inches high at the back,
+and seventeen inches in front, and may be put together with hooks and staples, so as to be
+removed and stored, when not in use. The sashes should be six by three and a half feet, and
+the frame should have cross-bars at every sash for support. It is well to have the frame divided
+by partitions into two or three compartments, that one section may receive more or less ventilation
+as the plants grown in them may require. In three or four days the heat will be up in the bed,
+and then it should be covered with six inches of fine garden mould, which should be raked off
+level. When the soil is heated through, the seeds may be sown. Ventilation should be given
+to let off the steam and vitiated air, but with caution to avoid the loss of heat. Straw mats
+will be required to cover the sashes at night, and should be regularly put on. If the weather
+is very cold, shutters or boards in addition are necessary. If care is exercised in the management,
+the heat will be maintained as long as is desirable.
+
+Figure 2 represents the hot-bed partly beneath the surface.
+
+The frame in this case will be fifteen inches in height at the back, and twelve inches in front,
+constructed in the same manner as that before described. The materials and the general preparation
+of the bed is also the same. A space of about eight inches should be left between the surface
+of the mould and the glass, to allow for the growth of plants before the sashes can be removed.
+Coarse litter should be put around the frame, and up even with the top of it, to confine the
+heat. Beds should be well covered before the sun has left them in the afternoon, and not opened
+in the morning until the sun is well up. Seeds of vegetables for early planting, and those
+of annual flowers may be sown, and cuttings of green-house and bedding plants started in pots.
+Such a bed will also be a favorable place for the propagation of grape eyes, in which an experienced
+person will often succeed better by this humble means, than with the best designed and most
+conveniently arranged propagating house.
+
+THE COLD PIT.
+
+Many who have not the advantage of a green-house, wish to preserve over the winter their half-hardy
+plants which have ornamented their garden during the summer. These are generally consigned
+to the cellar to dry up and be forgotten. In the darkness they loose their leaves, and when
+in spring they are again brought to light many are dried up and dead. Properly constructed
+cold pits offer superior advantages for the protection of many plants of a half-hardy nature,
+and indeed some that are usually considered tender here find a congenial location. Such a pit
+should be permanent in its character, and located in a spot easy of access to the house, that
+it may receive proper attention during the winter. A convenient size, and one sufficient for
+an ordinary garden would be ten feet long by five wide, varied somewhat from these dimensions
+to suit size of glass in sashes. The pit should be excavated four feet and a half below the
+surface, and a hollow wall of brick built up to one foot above the surface. Six inches in depth
+of coarse gravel should be placed in the bottom on which the pots containing the plants rest.
+Shelves may be also placed around the sides for the smaller plants. The wall above the ground
+should be "banked up" to within three inches of the top and sodded.
+
+Double sashes we have found give great protection and save attention in covering the pit. The
+bars of these sashes are "rabbited" on both sides and double glazed, thus enclosing a stratum
+of air affording a good non-conductor of heat from within, or cold from without the pit. The
+plants when first put in the pit will require to be watered and the sashes opened during the
+day, until cold weather. But little water is required during winter, as the plants are in a
+state of rest, and partial dryness at the roots is of advantage. In very severe weather straw
+mats would be required, but the double glass would keep out 10 to 15 degrees of frost. Some
+ventilation must be given on mild days when the sun is bright to carry off the dampness, but
+in dull cold weather all should be kept closed up. Camellias and Azaleas do admirably in such
+quarters, and can be brought into the dwelling and flowered at any time during the winter.
+Many plants grow with surprising luxuriance after remaining dormant in such quarters all winter.
+As the season advances in the spring ventilation must be given during the day, closing the
+sashes at night until the weather becomes mild when they may be gradually removed altogether.
+
+PROPAGATING HOUSES.
+
+Cheap and effective propagating and plant houses, for Nurserymen, have become of late years
+a necessity from the great increase of the trade in flowering plants for the decoration of
+our gardens and green-houses, and the very extensive demand for the new and superior varieties
+of the native grape. PETER HENDERSON, Esq., of Jersey City, long known as an extensive and
+successful propagator, in an article written for the HORTICULTURIST, thus speaks of his house
+and management:
+

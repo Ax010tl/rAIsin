@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10703.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Two Guardians or, Home in This World" lang="en" />
+  <feature name="md5Hash" value="f795dd06cad1a273a99c0515ea620d3c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="1807" source_reference="source-document01212.txt" source_language="en" source_offset="143265" source_length="1836" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2544" this_length="10962" source_reference="source-document01212.txt" source_language="en" source_offset="72389" source_length="22537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13908" this_length="2232" source_reference="source-document01212.txt" source_language="en" source_offset="17315" source_length="2395" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16141" this_length="1618" source_reference="source-document01212.txt" source_language="en" source_offset="475738" source_length="1727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18014" this_length="3991" source_reference="source-document01212.txt" source_language="en" source_offset="26040" source_length="4211" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22122" this_length="3865" source_reference="source-document01212.txt" source_language="en" source_offset="516565" source_length="3972" />
+</document>
+

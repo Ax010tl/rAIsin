@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10690.txt">
+  <feature name="about" authors="Taine, Hippolyte" title="The French Revolution - Volume 2" lang="en" />
+  <feature name="md5Hash" value="3e20ada6e7c2d25d6efc285e40bbb5a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2349" this_length="24105" source_reference="source-document04984.txt" source_language="en" source_offset="101832" source_length="22777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28163" this_length="2507" source_reference="source-document04984.txt" source_language="en" source_offset="270917" source_length="2528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31153" this_length="242" source_reference="source-document04984.txt" source_language="en" source_offset="136747" source_length="232" />
+</document>
+

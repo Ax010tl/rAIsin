@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03282.txt">
+  <feature name="about" authors="Vasari, Giorgio" title="Lives of the Most Eminent Painters Sculptors and Architects Vol. 01 (of 10), Cimabue to Agnolo Gaddi" lang="en" />
+  <feature name="md5Hash" value="548072f7f5bd4e7ce432cda1e934890c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2507" this_length="1355" source_reference="source-document08973.txt" source_language="en" source_offset="1175" source_length="1412" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7056" this_length="2276" source_reference="source-document02735.txt" source_language="en" source_offset="37852" source_length="2309" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14624" this_length="2062" source_reference="source-document02735.txt" source_language="en" source_offset="58149" source_length="2085" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23787" this_length="3231" source_reference="source-document02735.txt" source_language="en" source_offset="209336" source_length="3280" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27801" this_length="696" source_reference="source-document02735.txt" source_language="en" source_offset="127700" source_length="714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28893" this_length="703" source_reference="source-document08973.txt" source_language="en" source_offset="215" source_length="714" />
+</document>
+

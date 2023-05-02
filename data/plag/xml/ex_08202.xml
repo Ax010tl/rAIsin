@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08202.txt">
+  <feature name="about" authors="Van Dyke, Henry" title="The Americanism of Washington" lang="en" />
+  <feature name="md5Hash" value="c0305b5c3e135f771724d745f097a6ba" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1504" this_length="16121" source_reference="source-document09277.txt" source_language="en" source_offset="9180" source_length="17436" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21582" this_length="3446" source_reference="source-document09277.txt" source_language="en" source_offset="2482" source_length="3511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25307" this_length="2542" source_reference="source-document09277.txt" source_language="en" source_offset="27567" source_length="2478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28782" this_length="3260" source_reference="source-document10687.txt" source_language="en" source_offset="24942" source_length="3524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32594" this_length="480" source_reference="source-document10471.txt" source_language="en" source_offset="187993" source_length="473" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10642.txt">
+  <feature name="about" authors="Talbot, Henry P." title="An Introductory Course of Quantitative Chemical Analysis With Explanatory Notes" lang="en" />
+  <feature name="md5Hash" value="8eb59892de8c3142fbd81a87d6822495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="534" this_length="20846" source_reference="source-document06536.txt" source_language="en" source_offset="221738" source_length="21201" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22147" this_length="3664" source_reference="source-document06669.txt" source_language="en" source_offset="8526" source_length="3757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26413" this_length="227" source_reference="source-document06669.txt" source_language="en" source_offset="8246" source_length="234" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07168.txt">
+  <feature name="about" authors="Tomlinson, Abraham" title="The Military Journals of Two Private Soldiers, 1758-1775 With Numerous Illustrative Notes" lang="en" />
+  <feature name="md5Hash" value="dfb0807820e63369a0a77726abddf1c4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1115" this_length="767" source_reference="source-document04686.txt" source_language="en" source_offset="13111" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4495" this_length="298" source_reference="source-document04686.txt" source_language="en" source_offset="17170" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6743" this_length="289" source_reference="source-document04686.txt" source_language="en" source_offset="9980" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8207" this_length="343" source_reference="source-document04686.txt" source_language="en" source_offset="8993" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10629" this_length="468" source_reference="source-document04686.txt" source_language="en" source_offset="7578" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14249" this_length="302" source_reference="source-document04686.txt" source_language="en" source_offset="16725" source_length="273" />
+</document>
+

@@ -1,0 +1,385 @@
+﻿"It was a standard joke in the old time," said an experienced operator recently, "to find out
+what numbers a man had played, and then to volunteer to stop at the City Hall and take a copy
+of the numbers drawn. A false slip was invariably brought back, and when the player examined
+it, seeing all the numbers he had bought, he generally dropped his work and went to collect
+the winning. When the lottery was driven from New York, interested persons used to cross over
+to New Jersey to witness the drawing, and the numbers were taken from the wheel amid the greatest
+noise and excitement. Some numbers were received with derisive hoots and howls, and others
+applauded; and all through the drawing certain favorites would be loudly and continually called
+for, and if they failed to appear curses filled the air. After being driven out of New Jersey,
+the lottery men found refuge in several other places, notably Delaware, Maryland, and other
+Southern States. The principal drawings now take place at Covington, Ky., opposite Cincinnati.
+The numbers from 1 to 78 inclusive are put into glass globes and placed in a wheel. This wheel
+is turned until the numbers are well mixed, when a trap in the wheel is opened and a boy, with
+his eyes tightly bandaged and arm bare, draws forth one of the globes, which is unscrewed and
+the number in it called. From ten to fourteen numbers are thus drawn, according to the size
+of the lottery. The drawing is immediately telegraphed on to New York in cipher, certain words
+standing for certain numbers. After the drawing is translated the runners are furnished with
+a list of the numbers on a 'running slip,' as it is called, which they immediately take to
+the various policy shops. No 'hits' are paid on the running slips, as some of the numbers are
+invariably wrong. About an hour or so after the drawings are received in New York, a printed
+slip is sent to every office, and then all claims are promptly settled. The managers, being
+in an unlawful business in this State, have the opportunity to swindle as they please. The
+players have no redress. Ten thousand dollar 'hits' have been made, according to tradition,
+and 'hits' of from $500 to $1,500 are known of sometimes. Three-number lottery tickets are
+sold on every drawing, and constitute a very lucrative branch of the business. Prizes are supposed
+to range from $30,000 down, and any ticket with one draw-number on it entitles the holder to
+the price originally paid for it. The first three drawn numbers constitute the first prize,
+and that ticket nobody ever gets."
+
+The most of the money spent in policy is on "gigs" and "combinations." A "gig" is composed
+of three numbers, and they must all come out of the same lottery to entitle the player to win.
+Besides "gigs," there are "saddles," "capitals," "horses," "cross-plays," and "station numbers."
+In fact there are almost as many ways of playing policy as there are numbers in the wheel.
+As an old gambler explained it:
+
+"You see there are placed in the wheel 78 numbers, from which are drawn 12, 13, 14, or 15,
+as the case may be. The latter number will not be drawn but once a week. Suppose 13 to be drawn.
+The rates--that is, the sum the player will receive if he wins--are as follows: For day numbers,
+5 for 1; for station or first numbers, 60 for l; for saddles, 32 for 1; for gigs, 200 for 1;
+for capital saddles, 500 for 1; for horses, 680 for 1; and for station saddles 800 for 1. Cross
+plays--the numbers to come in either lottery--may be made at the same rate, subject to a deduction
+of 20 per cent. You see that some of these offer a remarkable margin for profit. The station
+saddle, with its 800 for 1, seems to offer unequaled facilities for making a fortune. But since
+the game was started, no one has ever been known to hit one. To get a station saddle you must
+not only guess two of the thirteen numbers drawn, but you must also guess the position they
+will occupy in the slip. The chances of this is so very remote that the policy-player, sanguine
+as he generally is, very seldom attempts it. The next in order is the capital saddle, with
+its 500 for 1. A capital is two of the first three numbers drawn. Of course there must be a
+first, second, and third number, and either two of these three constitute a capital saddle."
+
+The chances of playing a "capital saddle," "gig" or "horse" in policy are easily determined
+by the following formulæ, well known to all students of the advanced branches of Algebra:
+
+The number of combinations that can be formed of n things, taken two and two together, is
+
+n * [(n – 1)/2]
+
+For n things, taken three and three together, the number is
+
+n * [(n – 1)/2] * [(n – 2)/3]
+
+For n things, taken four and four together, the number is
+
+n * [(n – 1)/2] * [(n – 2)/3] * [(n – 3)/4]
+
+Applying these formulæ to policy, it will be seen that to ascertain the number of "saddles"
+in any combination you multiply by the next number under and divide by 2; for "gigs," multiply
+by the next two numbers under and divide by 6; while for "horses" you multiply the next three
+numbers under and divide by 24. Thus,
+
+78 X [(78 – 1)/2] = 3,003 "saddles."
+
+78 X [(78 – 1)/2] X [(78 – 2)/3] = 76,076 "gigs."
+
+78 X [(78 – 1)/2] X [(78 – 2)/3] X [(78 – 3)/4] = 1,426,425 "horses."
+
+In other words, there are 3,003 "saddles" in 78 numbers, and it follows that any person playing
+a capital has two chances in his favor and 3,001 against him.
+
+There is a joke among policy-players that the game is the best in the world, because so many
+can play it at once. Different players have various ways of picking out the numbers they think
+will come out. Some go by dreams exclusively, some play chance numbers they run across in the
+streets, or signs or express wagons, while others make a study of the game and play by fixed rules.
+
+As we have already hinted, the business of policy-playing is insignificant in comparison to
+what it used to be. Still we are assured that New York City is still spending a good many thousand
+dollars a day in "policy," two-thirds of which professedly, and really more, goes to the managers
+and agents. If policy-players would stop awhile and think seriously of their ways, they would
+cease playing; or if they would keep an account of all the money spent on the game for a month
+or two, they would discover that they had chosen a wrong road to fortune.
+
+Pool gambling at the various race-courses in the suburbs of New York is now under stern interdict
+of the law. This feature is greatly deplored by those who are in the habit of patronizing this
+exciting pastime. Of course the business is carried on sub rasa in the city, in a sort of sporadic
+form. No doubt, if we are to reason from analogy, the pool-fever, emboldened by being "winked
+at" and tolerated, will, by and by, assume its noisy, epidemic manifestations.
+
+It is hardly necessary to dwell on the familiar auction pool, with its close, stifling, dingy
+room; its crowd of solemn, stupid, wide-awake gentlemen seated in chairs before a platform,
+backed with a blackboard, on which are inscribed the names of the horses expected to start;
+and its alert, chattering auctioneer, gay as a sparrow, and equally active, fishing for bids,
+with strident voice and reassuring manner. A few words, however, may be spared to touch lightly
+on what is designated the "Mutuel" system, which was invented by M. Joseph Oller, an ingenious
+Frenchman, about 1866. Those who had the good fortune to attend Paris in 1867 may remember
+that M. Oller's indicators were prominent race-course features during the Great Exposition.
+They are now familiar to all frequenters of our American race-courses, and their mode of operation
+needs no explanation. The pool-seller's profit is safe as in all big gambling schemes. He subtracts
+a commission of five per cent., and thus makes a handsome profit when business is at all brisk.
+
+The "Paris Mutuel" would appear to be a pretty square arrangement, but, according to those
+acquainted with its true inwardness, it has been "easily manipulated by those in control."
+There are two ways of cheating, according to one authority, and "both are practicable during
+the last moments of the race, when the horses are coming up the home-stretch. At this time
+everybody is anxiously intent upon the contest and nothing else, so that it is an easy matter
+for the operator to see what horse is ahead, and then quietly add five or ten tickets to his
+record on the indicator; or, on the other hand, if the horse favored by the 'ring' is away
+behind, he can quietly take off some of his tickets and so save $50 or $100 out of the five.
+The former, however, is the easier method and can be with difficulty detected, for very few
+people keep transcripts of the French pools, more particularly that before they are closed
+everybody is off trying to secure a good place to see the race."
+
+The prohibition placed upon pool selling naturally renders the book-maker's occupation to be
+at a premium. Book-making is reckoned a "science," and is based upon the principle of the operator
+betting up to a certain limit, "play or pay," against every horse entered. Despite all statements,
+official or otherwise, to the contrary, there are a large number of "hells" or gambling houses
+in New York city, in which millions of dollars are lost every year by unwary persons. The New
+York Herald of June 14, 1886, contains a synopsis of the experiences of an educated and high-toned
+young man belonging to a good family, who had descended from gambling to the practices of a
+sneak thief. According to the story he told Inspector Byrnes, he was in love and at the same time
+
+"became infatuated with the gambling craze. I wanted to make my sweetheart some presents, and
+hoped to make enough at the gaming table to purchase what I wanted. My game was rouge el noir--"red
+and black"--and the establishments that I visited were on Sixth avenue, between Twenty-eighth
+and Twenty-ninth streets, and in Thirty-second street, near Jerry McAuley's Mission House.
+Instead of winning I lost. I bucked the game and it 'bucked' me. Then I was penniless and became
+desperate. By honest ways I knew it would take a long time to pay my debts, and as I was in
+desperate straits I determined to steal. As I did not associate with professional thieves I
+had no reason to fear betrayal, so I became a rogue again."
+
+There is this insuperable difficulty with the born gambler that he is unteachable. The fool
+who ruins himself at Homburg or Monte Carlo belongs to the same type as the young man above,
+whose identity was betrayed by a love-letter. Gamblers are always discovering some infallible
+system of beating the bank. The first word in La Bruyére's famous work--"Tout est dit" "Everything
+has been said,"--is true of gambling against the bank's system, which is to take a positive
+advantage which must win in the long run. Not only has everything been said, but everything
+has been done to beat the bank. Every move has been tried, and the result is evident to all
+but those who are given over to "a reprobate mind" and will not be convinced. "To gamble against
+the bank," said an eminent authority, "whether recklessly or systematically, is to gamble against
+a rock."
+
+If the odds are so much against the insane gambler who, secure in an infallible system, hastens
+to place his foot on the neck of chance in what is called a "square" game, how must he inevitably
+fare in a "skin" operation. And the stranger who comes within our gates, bent on backing his
+methods by a wager, is almost sure to be beguiled into the "skin" game; for he is likely to
+meet, lounging around his hotel, some fashionably dressed young man who spends money freely,
+and who, by and by, kindly offers to show him around. He has run across a "roper-in," as he
+is well named, whose business it is to track the footsteps of travelers visiting the metropolis
+for business or pleasure. It is the engaging mission of those suave and persuasive gentlemen
+to worm themselves into the confidence of strangers, with or without an infallible system of
+beating the game, and introduce them to their employers, the gambling-hell proprietors. And
+when the poor, misguided pigeon is plucked, the adroit "roper-in" receives his commission on
+the profits realized. This hunting after pecunious strangers is so systematically carried on
+that it might be dignified by the name of a science. Keepers of gambling-houses are necessarily
+particularly wide-awake. They take care to be regularly informed of everything transpiring
+in the city that may be of interest to their business, and their agents and emissaries leave
+nothing to chance. They are not impetuous.
+
+The reader, among other of Gotham's gambling devices, may have heard of what is aptly designated
+"Skin Faro," but it is altogether unlikely that he may be acquainted with the modus operandi
+of the game. Skin faro is not played at a regular establishment in which the player against
+the bank is fleeced. The game is liable to drift against the stranger in his journey to New
+York, or indeed on any railroad or steamboat, and the "point" is to get the unsophisticated
+countryman to be banker. In this "racket" it is the banker who is to be skinned. According
+to a recent authority the ordinary process is something like this:
+
+"After the topic has been adroitly introduced and the party worked up to the desire to play,
+it is proposed that the man with the most money shall act as banker. Now, in an ordinary square
+game, few would be unwilling to stand in this position, for though the risk is considerable,
+the profit is generally slow but certain. At this point the question rises as to who has a
+pack of cards. The question is soon answered; there always is a pack handy, and the swindlers
+have it; and this pack, if examined, will be found to contain a neat round pin-hole through
+the center of the pack. The object of this pin-hole is as follows: the player against the bank
+makes his boldest play on the turn, that is, at the end of the game, when there are only three
+cards out, tarry; five, nine and all the aces, except spades, can be guessed with almost uniform
+certainty by any one looking on the dealer's hand just before he is about to turn the last
+two cards (excluding the one left in hoc). As the bank pays four for one 'on the turn,' it
+is a very good thing for the player, and the faro banker, for the nonce the would-be sport,
+soon finds himself cleaned out."
+
+The following timely article on the newest racket in gambling in the City of New York is from
+the Sunday Mercury of June 20, 1886:
+
+"Since the gambling houses in the upper part of the city, where night games flourished, have
+been closed and their business almost entirely suspended, a new method of operations has been
+introduced. A Mercury reporter a few days ago was hurrying down Broadway, near Wall street,
+when he was tapped on the shoulder by a young man not yet of age, whom he recognized as a clerk
+in a prominent banking house, and whose father is also well known in financial circles. After
+interchanging the usual courtesies the young clerk pulled a card-case from his pocket, and,
+asking if the Mercury man liked to play poker, presented a neat little piece of white Bristol
+board which read:
+
+        HARRY R . . . . N,
+      First Flat, No. -- Sixth Avenue.
+
+"'If you want to play a nice quiet game,' remarked the promising clerk, 'you can take that
+card and go up there any evening, or come with me to-night and see how the whole thing is done,
+but whatever you do don't lose that card, for you can't get in without it.'
+
+"Suspecting the nature of this 'quiet little game,' the reporter agreed to meet the banking
+clerk that evening.
+
+"'You will find a very nice set of fellows in this party,' remarked the clerk. 'There's none
+of those toughs or men you see in regular gambling houses there, but young men like myself
+and some of the best business men in this town. Why, I have seen young fellows there whose
+fathers have got loads of rocks. They lose a good pile once in a while, but don't mind that,
+because a fellow's no blood who cries just because he drops from ten to fifty dollars of a night.'
+
+"The house was one of a row of French flat buildings, the ground floor of which is occupied
+by stores. The clerk, on entering the vestibule, gave an electric button a familiar push with
+the index finger and almost immediately the hall door swung itself open. As soon as the head
+of the first flight of stairs was reached, a colored man, wearing a white tie, was met standing
+near a door. To him the clerk gave a card, and the reporter following the example, both were
+ushered into what happened to be a reception-room. Two heavy and rich Turkish curtains at one
+end of this room were quickly pushed aside and the front or card parlor was then entered. There
+were five round and oblong baize-covered tables in different parts of the elegantly furnished
+apartment. A number of costly oil paintings hung on the frescoed walls and a well-stocked buffet
+at one side completed the furniture. The adjoining rooms consisted of two sleeping apartments
+and a rear connecting kitchen, in which a colored cook seemed quite busy.
+
+"At the center table, where a game of draw poker was in full blast, was noticed two celebrated
+professionals, a couple of race-horse owners and two clerks in a public department office down-town.
+At a side table were the sons of a prominent Hebrew merchant and property owner, two college
+students and several young men whose appearance would indicate they were employed in mercantile
+houses. Another side table was surrounded by a gathering of Broadway statues and gambling house
+hangers-on, who were engaged in a game called 'hide the heart,' and the last table had a circle
+of big, heavy-bodied and solid-looking men about it who were putting up on a game known as
+'stud-horse poker.' The reporter and the clerk were quickly accommodated with seats at the
+center table, where 'draw poker' was in operation. The colored attendant with the white tie
+was at hand, and pulling out a ten-dollar bill the clerk gave it to the negro with the request
+to get him that amount of chips in return. The reporter followed suit with a crisp five-dollar
+bill. The colored man went away with the money to the further end of the room, where he passed
+it over to a clean-shaven and well-dressed young man with a big diamond in his shirt front.
+This, the clerk informed him, was the proprietor of the place, who sat at a separate table,
+and, after receiving the cash, handed out to the waiter several stacks of white and red ivory
+chips, which were then brought back for the money. The play or 'ante' to the game was fifty
+cents, with no limit. The white chips represented half a dollar each and the red ones just
+double that sum. In the first two hands of cards the clerk lost his ten dollars, while the
+reporter made a profit. A short time convinced the reporter the two professionals were hard
+to beat.
+
+"While an extremely close game was carried on, the house was certainly sure never to lose,
+as it put up no money and as 'banker' reaped a steady percentage deducted from the chips of
+all winners who cashed in.
+
+"The clerk was broke in two hours' sitting and confessed he had lost sixty dollars, more than
+three weeks' salary, and while he wore a gold chain over his vest, he had left his watch in
+pledge with the game-owner for twenty dollars' worth of chips besides. As the reporter and
+his guide reached the sidewalk, one of the young men who had been in the place was asked what
+he thought of the place. Not suspecting the reporter's motive, the player answered glibly:
+'Oh, that racket in French flats is getting to be all the go now, and I tell you it's immense.
+The police can't get on to it, and now as all the faro games are closed or not making expenses,
+and afraid to open, it is doing well. Then there is such a better class of people that go to
+these places, people who would not care to be seen or caught in a regular concern. Now up in
+Harry's you see how nice it is. There's your parlor to play in. Then if it's an all-night play
+you can sleep in turns or lay off during the day, and get anything you want to eat right there.
+'Get pulled?' Why, there ain't the ghost of a show for that in those flats. In the first place,
+no one is let in without he is known or has a card; then a 'copper' can 't go in without forcing
+an entrance or a warrant, and if he does, what evidence can be produced to show the place is
+a gambling house? Why, gambling in the Fifth Avenue clubs is no better protected. No one in
+the house up-stairs suspects what's going on. The halls are all carpeted and so are the stairs,
+and you never can hear any one pass up and down. Then if any raid is made, can't a man swear
+he was only having a game of cards in his own house with a party of friends?' In society, next
+to progressive euchre, poker comes the highest.
+
+"'Are there many of these private flat games?' asked the reporter. 'Oh, yes; there's at least
+half a dozen I know of. There's one on Fifty-ninth street, one on Forty-fifth street, and several
+more on Sixth Avenue and Broadway, and any quantity now in other private houses run as social
+club rooms. You see, no games but poker--draw, stud-horse and straight, and hide the heart--are
+allowed to be run. Now if you never was in Harry's before, and you were seen to be all right,
+you would be given some cards to pass around to your friends confidentially, which would tell
+them where to go for play and would get them in without bother."
+
+The following from the Cincinnati Enquirer tells its own story:
+
+"Slumming in New York always begins with a trip to Billy McGlory's. It is a Hester street dive.
+What The. Allen was thought to be in the days when he was paraded as 'the wickedest man in
+New York,' and what Harry Hill was thought to be in the days when the good old deacons from
+the West used to frequent his dance hall, Billy McGlory is in New York to-day. The. Allen and
+Harry Hill are both alive, but Billy McGlory bears off the palm of wickedness amid the wickedest
+of Gotham. If you want to see his place, two things are necessary, a prize-fighter for a protector
+and a late start. I had both when I went there the other night. My companions were half a dozen
+Western men, stopping at an up-town hotel, and our guide was a little 'tough' who has fought
+half a dozen prize fights and would fight at the drop of the hat. We had pooled issues and
+one man had all the money in the party. Our wallets and watches and jewelry were left behind.
+It was nearly midnight when we started, and half an hour later when the carriage drove us up
+in front of a dingy-looking double doorway, from which the light was streaming. The walls around
+were black; no light anywhere except that which came out of the open door. The entrance was
+a long hall, with nothing visible at the further end from the outside. It might have served
+for a picture of Milton's description of the 'Cavernous Entrance to Hell.'
+
+"There was a policeman outside, and down the street a score of shadowy forms flitted in and
+out of the shadows--prostitutes lying in wait for victims, our guide told us. McGlory's place
+is a huge dance hall, which is approached by devious ways through a bar-room. There is a balcony
+fitted up with tables and seats. There are tables and seats under the balcony. There are little
+boxes partitioned off in the balcony for the best customers--that is the sight-seers--and we
+got one of them. A piano is being vigorously thumped by a black-haired genius, who is accompanied
+by a violinist and a cornet player. 'Don't shoot the pianist; he is doing his best,' the motto
+a Western theater man hung up in his place, would be a good thing here. Yet the pianist of
+one of these dance halls is by no means to be despised. It was from a position like this that
+Counselor Disbecker rose within a few years to a legal standing that enabled him to get $70,000
+out of Jake Sharpe for lawyer's fees. Transpositions are rapid in New York, and Billy McGlory,
+who was on the Island a few months ago for selling liquor without license, may be an excise
+commissioner himself before he dies.
+
+"These side thoughts have crowded in while we are looking around. There are five hundred men
+in the immense hall. There are a hundred females--it would be mockery to call them women. The
+first we hear from them is when half a dozen invade our box, plump themselves in our laps,
+and begin to beg that we put quarters in their stockings for luck. There are some shapely limbs
+generously and immodestly shown in connection with this invitation. One young woman startles
+the crowd by announcing that she will dance the cancan for half a dollar. The music starts
+up just then, and she determines to do the cancan and risk the collection afterward. She seizes
+her skirts between her limbs with one hand, kicks away a chair or two, and is soon throwing
+her feet in the air in a way that endangers every hat in the box. The men about the hall are
+all craning their necks to get a sight of what is going on in the box, as they hear the cries
+of 'Hoop-la' from the girls there. There is a waltz going on down on the floor. I look over
+the female faces. There is one little girl, who looks as innocent as a babe. She has a pretty
+face, and I remark to a companion that she seems out of place among the other poor wretches--for
+there is not an honest woman in the hall. Before we leave the place it has been demonstrated
+that the little girl with the innocent face is one of the most depraved of all the habitues
+of the place.
+
+"The dance is over, and a song is being sung by a man on crutches with only one leg. 'He is
+an honest fellow, is the Major,' says one of the girls. 'Poor fellow, he has a wife and six
+children. He sticks to them like a good fellow and works hard to get a living. He sells pencils
+in the day-time and works here at night.' A generous shower of coin goes on to the floor when
+the Major finishes. I begin to notice the atmosphere of tobacco smoke. It is frightfully oppressive.
+The 'champagne' that it has been necessary to order so as to retain the box has not been drank
+very freely. The girls have been welcome to it the visitors having discovered that it is bottled
+cider, with a treatment of whisky to give it a biting tang and taste. It costs three dollars
+a bottle. It would cost a man more to drink it. There was a young business man of Cincinnati
+here three or four weeks ago who filled himself up on it at a cost of $300. He had been foolish
+enough to go to McGlory's alone. He was found on the Bowery at five o'clock the next morning
+without any hat or overcoat. His pocket-book, watch and jewelry were gone. His only recollection
+was that he had taken three or four drinks of McGlory's 'champagne.' He went to the hotel where
+he was a guest and was wise enough to take the advice of the clerk. By paying $100 and no questions
+asked he got back his watch and jewelry. He also got his pocket-book and papers, but not the
+$200 that was in the book when he started out on his spree. In the intervals of the dance his
+story has been told me as a sample of the nightly occurrence.
+
+"What is this that has come out for a song? It has the form of a young man, but the simpering
+silliness of a school girl. Half idiot, it jabbers out a lot of words that can not be understood,
+but which are wildly applauded by the crowd on the floor, who 'pat juba' while the creature
+dances. The girl who has been hanging around me to get a quarter, whispers something like 'Oh,
+the beast!' in my ear. I hear the other girls uttering similar remarks and epithets. So I look
+closer at the young man on the floor--for young man it is. He has a long head and smooth face,
+with a deathly white pallor over it, big mouth and lips as thick as a negro, a conical shaped
+forehead, and eyes that glitter with excitement like a courtesan's, but from which at times
+all signs of intelligence have apparently fled. He has a companion whose general appearance
+is like his own, but whose head is large and round, with a high forehead and full moon face.
+Who are they? Well, they are part of Billy McGlory's outfit, and that is all I can say about
+them. There are four more of them in female dress, who have been serving drinks to the customers
+at the tables, all the while leering at the men and practicing the arts of the basest of women.
+
+"Some of my companions have been drawn into one of the little boxes adjoining ours. They come
+back now to tell of what depravity was exhibited to them for a fee. 'Great heavens!' exclaims
+one of them. 'I feel sick. Get me out of this if you can. It is damnable.' No wonder they are
+sick. The sights they have seen would sicken all humanity. Editor Stead, of London, could find
+a bonanza every night for a week right here in New-York City at Billy McGlory's Assembly Hall.
+'Hist!' says our guide. We look up and find three or four toughs around. They do not allow
+any adverse criticisms to be passed aloud at Billy's. If you begin to talk aloud what you think,
+out you go. There have been more round dances. There has been more indifferent singing and
+some clog dancing. It is getting late. The fumes of tobacco and of stale beer are stifling.
+Four-fifths of the men have not moved from the tables since we came in. Here and there one
+is lopped over asleep. But the waiter in female clothing comes along to wake him up and induce
+him to order more beer. Your glass must always be before you if you want to stay at McGlory's.
+
+"'What are they all waiting for?' I ask. But no one will tell me. Across the balcony a girl
+is hugging her fellow in a maudlin and hysterical manner. Another girl is hanging with her
+arms around the neck of one of the creatures I described some time ago. She is pressing her
+lips to his as if in ecstasy. He takes it all as a matter of course, like an indifferent young
+husband after the honeymoon is over. His companion joins him--the moon-faced fellow--and they
+come around to our box and ogle us. They talk in simpering, dudish tones, and bestow the most
+lackadaisical glances on different members of our party. The girls shrink back as if contamination
+itself had come among them. 'We are pretty hard,' says one of them, 'but not so hard as they.'
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06564.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Trial" lang="en" />
+  <feature name="md5Hash" value="e1848809c5324d726dd840412e3a1e36" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3742" this_length="523" source_reference="source-document06919.txt" source_language="en" source_offset="494974" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15632" this_length="511" source_reference="source-document06919.txt" source_language="en" source_offset="176261" source_length="494" />
+</document>
+

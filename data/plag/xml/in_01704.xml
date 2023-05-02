@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01704.txt">
+  <feature name="about" authors="Stretton, Hesba" title="The Christmas Child" lang="en" />
+  <feature name="md5Hash" value="8bbac9cf305086ea3a57faf98496cb8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8312" this_length="550" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19708" this_length="471" />
+</document>
+

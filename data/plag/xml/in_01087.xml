@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01087.txt">
+  <feature name="about" authors="Wetmore, Helen Cody" title="Last of the Great Scouts : the life story of Col. William F. Cody, &quot;Buffalo Bill&quot; as told by his sister" lang="en" />
+  <feature name="md5Hash" value="6c87991772b9e8c923475917039f00c9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9390" this_length="3102" />
+</document>
+

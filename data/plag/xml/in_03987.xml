@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03987.txt">
+  <feature name="about" authors="Terry, Ellen" title="The Story of My Life Recollections and Reflections" lang="en" />
+  <feature name="md5Hash" value="5bf3249589ef769e7e17a8ce73d359d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15194" this_length="704" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26609" this_length="239" />
+</document>
+

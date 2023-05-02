@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03870.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Prose Works of Jonathan Swift, D.D. — Volume 03 Swift's Writings on Religion and the Church — Volume 1" lang="en" />
+  <feature name="md5Hash" value="9f6a5a28f2aba0537647482121ca692e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6979" this_length="15296" source_reference="source-document00473.txt" source_language="en" source_offset="56721" source_length="19780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23761" this_length="796" source_reference="source-document00473.txt" source_language="en" source_offset="264692" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24992" this_length="709" source_reference="source-document00473.txt" source_language="en" source_offset="23467" source_length="703" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25702" this_length="259" source_reference="source-document00473.txt" source_language="en" source_offset="155571" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25962" this_length="224" source_reference="source-document00473.txt" source_language="en" source_offset="235376" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26187" this_length="248" source_reference="source-document00473.txt" source_language="en" source_offset="266173" source_length="255" />
+</document>
+

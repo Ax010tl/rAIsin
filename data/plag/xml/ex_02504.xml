@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02504.txt">
+  <feature name="about" authors="Shaler, Nathaniel Southgate" title="Domesticated Animals Their Relation to Man and to his Advancement in Civilization" lang="en" />
+  <feature name="md5Hash" value="1d08e2aca9db43cbd28f7ce2d96db16a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="15026" source_reference="source-document09931.txt" source_language="en" source_offset="10847" source_length="19221" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22545" this_length="3173" source_reference="source-document09931.txt" source_language="en" source_offset="882" source_length="3175" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26244" this_length="3341" source_reference="source-document09931.txt" source_language="en" source_offset="4373" source_length="3282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30495" this_length="2013" source_reference="source-document09931.txt" source_language="en" source_offset="7655" source_length="2049" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33042" this_length="231" source_reference="source-document09931.txt" source_language="en" source_offset="10001" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33274" this_length="268" source_reference="source-document09931.txt" source_language="en" source_offset="4057" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33543" this_length="229" source_reference="source-document09931.txt" source_language="en" source_offset="10445" source_length="242" />
+</document>
+

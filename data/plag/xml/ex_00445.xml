@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00445.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Antiquary — Volume 01" lang="en" />
+  <feature name="md5Hash" value="0b89c6122be061f74725520d899550c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6941" this_length="17096" source_reference="source-document02399.txt" source_language="en" source_offset="364069" source_length="17767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25448" this_length="2104" source_reference="source-document02399.txt" source_language="en" source_offset="201886" source_length="2071" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27853" this_length="259" source_reference="source-document02399.txt" source_language="en" source_offset="117730" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28867" this_length="3451" source_reference="source-document02399.txt" source_language="en" source_offset="65295" source_length="3574" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33162" this_length="736" source_reference="source-document02399.txt" source_language="en" source_offset="206154" source_length="709" />
+</document>
+

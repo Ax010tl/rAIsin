@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07364.txt">
+  <feature name="about" authors="Taylor, Robert L." title="Gov. Bob. Taylor's Tales" lang="en" />
+  <feature name="md5Hash" value="fa05a5baeb4f30e02215cd00b1165fd6" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2384" this_length="4404" source_reference="source-document09478.txt" source_language="de" source_offset="7646" source_length="4763" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="8058" this_length="1623" source_reference="source-document11089.txt" source_language="de" source_offset="0" source_length="1591" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10775" this_length="3301" source_reference="source-document09478.txt" source_language="de" source_offset="15998" source_length="3423" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16303" this_length="1497" source_reference="source-document11089.txt" source_language="de" source_offset="1929" source_length="1647" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18668" this_length="472" source_reference="source-document09478.txt" source_language="de" source_offset="4733" source_length="499" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="19555" this_length="3329" source_reference="source-document09478.txt" source_language="de" source_offset="157" source_length="3664" />
+</document>
+

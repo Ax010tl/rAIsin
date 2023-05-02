@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09741.txt">
+  <feature name="about" authors="Shelley, Mary Wollstonecraft" title="The Last Man" lang="en" />
+  <feature name="md5Hash" value="a8945b39384b3103340d9ef8381386dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="773" this_length="3245" source_reference="source-document08063.txt" source_language="en" source_offset="4839" source_length="3255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8786" this_length="1548" source_reference="source-document08063.txt" source_language="en" source_offset="60" source_length="1690" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14537" this_length="2091" source_reference="source-document08103.txt" source_language="en" source_offset="197605" source_length="3238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19254" this_length="2298" source_reference="source-document02887.txt" source_language="en" source_offset="156947" source_length="2133" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22722" this_length="799" source_reference="source-document02887.txt" source_language="en" source_offset="148955" source_length="805" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24108" this_length="232" source_reference="source-document02887.txt" source_language="en" source_offset="21258" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26231" this_length="2453" source_reference="source-document02887.txt" source_language="en" source_offset="146574" source_length="2381" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29495" this_length="253" source_reference="source-document08545.txt" source_language="en" source_offset="406" source_length="253" />
+</document>
+

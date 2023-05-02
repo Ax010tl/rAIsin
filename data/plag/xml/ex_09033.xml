@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09033.txt">
+  <feature name="about" authors="Stidger, William Le Roy" title="Soldier Silhouettes on our Front" lang="en" />
+  <feature name="md5Hash" value="a761343e090f17deb40cad2d1863bfaa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9014" this_length="711" source_reference="source-document02189.txt" source_language="en" source_offset="5131" source_length="771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23253" this_length="473" source_reference="source-document06908.txt" source_language="en" source_offset="3359" source_length="484" />
+</document>
+

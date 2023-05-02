@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03191.txt">
+  <feature name="about" authors="Huxley, Thomas Henry" title="The Darwinian Hypothesis" lang="en" />
+  <feature name="md5Hash" value="062ba482243729832a6a77f4eed4df90" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="902" this_length="2424" source_reference="source-document05880.txt" source_language="en" source_offset="0" source_length="2482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6297" this_length="15731" source_reference="source-document02806.txt" source_language="en" source_offset="158641" source_length="16193" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26625" this_length="544" source_reference="source-document09452.txt" source_language="en" source_offset="1249" source_length="529" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04134.txt">
+  <feature name="about" authors="Twain, Mark" title="The Prince and the Pauper, Part 9." lang="en" />
+  <feature name="md5Hash" value="68b6ebc274958b36b68591660539e1fd" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="955" this_length="3430" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13560" this_length="209" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14352" this_length="254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14893" this_length="247" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18556" this_length="1528" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22339" this_length="459" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25465" this_length="759" />
+</document>
+

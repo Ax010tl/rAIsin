@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05762.txt">
+  <feature name="about" authors="Wylie, Ida Alexa Ross" title="The Dark House" lang="en" />
+  <feature name="md5Hash" value="c6c2ea4c8801fe96f1cab52aec8f5493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10832" this_length="796" source_reference="source-document02265.txt" source_language="en" source_offset="15102" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18294" this_length="267" source_reference="source-document02265.txt" source_language="en" source_offset="15935" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21126" this_length="232" source_reference="source-document02265.txt" source_language="en" source_offset="8096" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30437" this_length="256" source_reference="source-document02265.txt" source_language="en" source_offset="20474" source_length="256" />
+</document>
+

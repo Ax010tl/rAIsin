@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09231.txt">
+  <feature name="about" authors="Blythe, Samuel George" title="Cutting It Out How to get on the waterwagon and stay there" lang="en" />
+  <feature name="md5Hash" value="0fd17eaa6f76355adc5a26c751664b76" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16353" this_length="2737" source_reference="source-document10701.txt" source_language="en" source_offset="3376" source_length="2740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29132" this_length="258" source_reference="source-document09716.txt" source_language="en" source_offset="17760" source_length="262" />
+</document>
+

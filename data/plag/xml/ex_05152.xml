@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05152.txt">
+  <feature name="about" authors="Becke, Louis" title="The Brothers-In-Law: A Tale Of The Equatorial Islands; and The Brass Gun Of The Buccaneers 1901" lang="en" />
+  <feature name="md5Hash" value="85de4373390835673923133aeaf3c3af" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="778" this_length="21512" source_reference="source-document05171.txt" source_language="es" source_offset="2931" source_length="23446" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25962" this_length="2370" source_reference="source-document05171.txt" source_language="es" source_offset="150" source_length="2540" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28750" this_length="406" source_reference="source-document05515.txt" source_language="es" source_offset="303363" source_length="480" />
+</document>
+

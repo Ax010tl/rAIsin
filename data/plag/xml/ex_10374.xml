@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10374.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="For Whom Shakespeare Wrote" lang="en" />
+  <feature name="md5Hash" value="5df79d155693e0444aa9b787f7547b85" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="403" this_length="3570" source_reference="source-document02315.txt" source_language="en" source_offset="119314" source_length="3719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7424" this_length="3674" source_reference="source-document01868.txt" source_language="en" source_offset="8662" source_length="3674" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13575" this_length="1888" source_reference="source-document02315.txt" source_language="en" source_offset="152159" source_length="1837" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16894" this_length="4120" source_reference="source-document01868.txt" source_language="en" source_offset="1715" source_length="4137" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23226" this_length="2013" source_reference="source-document02315.txt" source_language="en" source_offset="25587" source_length="2640" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27125" this_length="1702" source_reference="source-document02315.txt" source_language="en" source_offset="141452" source_length="1685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29172" this_length="253" source_reference="source-document02315.txt" source_language="en" source_offset="35082" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29668" this_length="218" source_reference="source-document01868.txt" source_language="en" source_offset="6308" source_length="231" />
+</document>
+

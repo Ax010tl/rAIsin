@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04460.txt">
+  <feature name="about" authors="Bartol, Cyrus Augustus" title="Senatorial Character A Sermon in West Church, Boston, Sunday, 15th of March, After the Decease of Charles Sumner." lang="en" />
+  <feature name="md5Hash" value="db5cbe99e8f14286f9c5bbfe996c417c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3281" this_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8608" this_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16176" this_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22993" this_length="712" />
+</document>
+

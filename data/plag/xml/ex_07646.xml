@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07646.txt">
+  <feature name="about" authors="Saintsbury, George" title="Political Pamphlets" lang="en" />
+  <feature name="md5Hash" value="2ffcdb74059475f01cb083b1cb847577" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="415" this_length="3687" source_reference="source-document10715.txt" source_language="es" source_offset="114967" source_length="4246" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10516" this_length="16207" source_reference="source-document10715.txt" source_language="es" source_offset="6761" source_length="17771" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29710" this_length="704" source_reference="source-document10715.txt" source_language="es" source_offset="51706" source_length="716" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30474" this_length="239" source_reference="source-document10715.txt" source_language="es" source_offset="71528" source_length="270" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30974" this_length="418" source_reference="source-document10715.txt" source_language="es" source_offset="58583" source_length="480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31550" this_length="214" source_reference="source-document10715.txt" source_language="es" source_offset="126187" source_length="264" />
+</document>
+

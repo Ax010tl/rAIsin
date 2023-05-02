@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02727.txt">
+  <feature name="about" authors="Terhune, Albert Payson" title="His Dog" lang="en" />
+  <feature name="md5Hash" value="fa03062f3f1668abff7d6d55fcdffc07" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="420" this_length="14136" source_reference="source-document01895.txt" source_language="en" source_offset="164435" source_length="16707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18716" this_length="3702" source_reference="source-document01895.txt" source_language="en" source_offset="129505" source_length="3762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23183" this_length="2424" source_reference="source-document01895.txt" source_language="en" source_offset="395929" source_length="2442" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26212" this_length="484" source_reference="source-document01895.txt" source_language="en" source_offset="59179" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27013" this_length="671" source_reference="source-document01895.txt" source_language="en" source_offset="513342" source_length="688" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27828" this_length="229" source_reference="source-document01895.txt" source_language="en" source_offset="64997" source_length="236" />
+</document>
+

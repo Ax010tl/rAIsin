@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04044.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Intelligence Office (From &quot;Mosses from an Old Manse&quot;)" lang="en" />
+  <feature name="md5Hash" value="0f435e686d8278ce9e90d7005162d36a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2682" this_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15110" this_length="675" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29192" this_length="255" />
+</document>
+

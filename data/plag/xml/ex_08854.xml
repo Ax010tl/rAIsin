@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08854.txt">
+  <feature name="about" authors="Zangwill, Israel" title="Dreamers of the Ghetto" lang="en" />
+  <feature name="md5Hash" value="aed70badabcc21901183ae7f209cc44e" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2115" this_length="4036" source_reference="source-document09087.txt" source_language="es" source_offset="562767" source_length="4526" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7377" this_length="723" source_reference="source-document09087.txt" source_language="es" source_offset="251965" source_length="790" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8288" this_length="2759" source_reference="source-document08676.txt" source_language="es" source_offset="169" source_length="2999" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13299" this_length="633" source_reference="source-document09087.txt" source_language="es" source_offset="496022" source_length="723" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="15135" this_length="1852" source_reference="source-document09087.txt" source_language="es" source_offset="246279" source_length="1704" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17994" this_length="4033" source_reference="source-document09087.txt" source_language="es" source_offset="409308" source_length="4547" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26462" this_length="2837" source_reference="source-document09087.txt" source_language="es" source_offset="357803" source_length="3144" />
+</document>
+

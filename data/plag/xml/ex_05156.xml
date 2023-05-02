@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05156.txt">
+  <feature name="about" authors="Thomson, Mrs." title="Memoirs of the Jacobites of 1715 and 1745. Volume I." lang="en" />
+  <feature name="md5Hash" value="770ba78f166b30c8a5845b6ac06799d2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3152" this_length="1677" source_reference="source-document06881.txt" source_language="en" source_offset="76136" source_length="1603" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17204" this_length="801" source_reference="source-document06881.txt" source_language="en" source_offset="229592" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24021" this_length="509" source_reference="source-document06881.txt" source_language="en" source_offset="92405" source_length="485" />
+</document>
+

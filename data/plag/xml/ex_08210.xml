@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08210.txt">
+  <feature name="about" authors="Venable, William Henry" title="A Dream of Empire Or, The House of Blennerhassett" lang="en" />
+  <feature name="md5Hash" value="5c1ee1c47062a9b1d1fcfe3b074e809f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2069" this_length="497" source_reference="source-document05993.txt" source_language="en" source_offset="230146" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15372" this_length="800" source_reference="source-document00074.txt" source_language="en" source_offset="34325" source_length="777" />
+</document>
+

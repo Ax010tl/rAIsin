@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02802.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Prose Works of Jonathan Swift, D.D. - Volume 07 Historical and Political Tracts-Irish" lang="en" />
+  <feature name="md5Hash" value="8b62e4963a1cb065ec03c4a8a28e2be2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1933" this_length="1572" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10763" this_length="697" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14109" this_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17377" this_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18737" this_length="276" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25372" this_length="1496" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28660" this_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30332" this_length="504" />
+</document>
+

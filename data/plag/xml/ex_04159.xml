@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04159.txt">
+  <feature name="about" authors="Lang, Allen Kim" title="The Great Potlatch Riots" lang="en" />
+  <feature name="md5Hash" value="ca98506f8d304adec8c1c7252a83ffec" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1946" this_length="12241" source_reference="source-document06537.txt" source_language="en" source_offset="236726" source_length="22102" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29300" this_length="3451" source_reference="source-document05146.txt" source_language="en" source_offset="244" source_length="3532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33240" this_length="238" source_reference="source-document06537.txt" source_language="en" source_offset="453925" source_length="247" />
+</document>
+

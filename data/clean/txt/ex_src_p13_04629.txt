@@ -1,0 +1,505 @@
+﻿In general, all major transportation modes would be affected--highways, streets, overpasses
+and bridges, mass transit systems, railroads, airports, pipelines, and ocean terminals, although
+major variances in losses are expected among the modes. From a purely structural standpoint,
+the more rigid or elevated systems (such as railroads and pipelines) which cross major faults
+on an east-west axis would incur the heaviest damage, with initial losses approaching 100 percent.
+Other major systems (such as highways, airports, and pile-supported piers at water terminals)
+have better survivability characteristics and therefore would fare much better, with damage
+generally in the moderate range of 15 to 30 percent. These transportation facility loss estimates
+are stated in terms of immediate post-quake effects. They do not reflect the impact of priority
+emergency recovery efforts and expedient alternatives that are available, some within hours,
+to aid in restoration of transportation capacity. In addition, transportation systems generally
+have an inherently significant degree of redundancy and flexibility. Consequently, an unquantified
+but significant movement capability in all transport modes is expected to survive. Finally,
+these loss estimates do not take into account the question of availability of essential supporting
+resources, particularly petroleum fuels, electricity, and communications. In the initial response
+phase, these could prove to be the most limiting factors in the capability of the transportation
+system.
+
+Business and industry would be affected by damage to office buildings, plants, and other support
+facilities. Although the 1971 San Fernando earthquake occurred on the margin of a largely suburban
+area, industrial facilities incurred significant damage. For example, several buildings of
+the kind commonly used for light industry or warehouses suffered from collapsed roofs or walls.
+Generally, building codes do not apply to special industrial facilities, and the ability of
+these structures to resist earthquake shaking will depend largely on the foresight of the design
+engineer. For example, a major electrical power switching yard and a water filtration plant
+were seriously damaged in the 1971 San Fernando earthquake.
+
+About 10 percent of the population and industrial resources of the Nation are located in California.
+Over 85 percent of these resources (or about 8.5 percent of the Nation's total) are located
+in the 21 California counties that are subject to the possibility of damage from a major earthquake.
+Much of the aerospace and electronics industry is centered in California. For example, about
+56 percent of the guided missiles and space vehicles, 40 percent of the semiconductors, 25
+percent of the electronic computer equipment, and approximately 21 percent of the optical instruments
+and lenses manufactured in the Nation are manufactured in these 21 counties. The probability
+that all these counties would be affected by one earthquake is extremely remote; yet the significant
+concentration of key industries remains a concern. For example, about 25 percent of the Nation's
+semiconductors are manufactured in Santa Clara County, an area along the Northern San Andres
+fault that suffered very heavy damage in the 1906 San Francisco earthquake. Estimates of damage
+to these industrial facilities and the resulting loss of production have not been made. Similarly,
+the resulting impact of possible damage to national production has not been adequately analyzed.
+
+Federally regulated financial institutions were generically analyzed to determine their ability
+to continue to promote essential services in the event of a major earthquake like those that
+have been postulated for this assessment. The conclusion reached thus far is that large-magnitude
+earthquakes pose no significant or unanticipated problems of solvency and liquidity for such
+institutions. The Federal Reserve System and other regulatory entities have procedures in place
+that are designed--and have been tested--specifically to provide for the continued operation
+of financial institutions immediately following an earthquake or other emergency. The potential
+for disaster, however, does not occur suddenly. The degree of preparedness and commitment to
+comprehensive planning and mitigation programs for the inevitable event will largely determine
+the degree of hardship to be experienced through loss of life, human suffering, property destruction,
+and the other related economic, social, and psychological aspects of disruption to day-to-day
+community activities. The impacts can be reduced substantially from current expected levels
+through the development and implementation of improved and more widely practiced earthquake
+hazards reduction measures. These include coordinated emergency preparedness plans and procedures,
+earthquake prediction and warning systems, improved construction techniques, and effective
+public education and information programs.
+
+The State of California Office of Emergency Services (OES) and FEMA conducted an analysis of
+the readiness capability for potential catastrophic earthquakes in California at the Federal,
+State, and local government levels. The planning of 22 counties and 38 cities, of 34 State
+agencies, and of 17 Federal organizations were reviewed with the following objectives: (a)
+identify opportunities for improvement; (b) provide a basis for making decisions that would
+strengthen program direction and planning efforts; and (c) specify resource needs and potential
+legislative initiatives. Annex 2 summarizes current Federal and California earthquake planning.
+
+The environment in which preparedness planning in California occurs is characterized by the
+following observations of public expectations and attitudes:
+
+        » There is widespread public support for government
+          action.
+
+        » Most people have some ideas as to what government should
+          be doing.
+
+        » There is understanding of the need for hazard reduction
+          as well as emergency response planning.
+
+        » People are willing, in the abstract, to have government
+          funds spent for hazard mitigation.
+
+        » The public is not very satisfied with what government
+          officials have done.
+
+        » Public officials perceive that current preparedness
+          plans and response are inadequate at best.
+
+As discussed below, the review indicates that all is not well in earthquake plans and preparedness.
+Current plans and preparedness are judged to be adequate for the "moderate" earthquakes most
+likely to occur frequently in California. For a catastrophic earthquake, current plans and
+preparedness are clearly inadequate, leading to a high likelihood that Federal, State, and
+local response activities would become disorganized and largely fail to perform effectively
+for an extended period of time.
+
+B. STATE AND LOCAL RESPONSE
+
+Although there are widely differing approaches, local emergency planning in California generally
+consists of a basic plan and a series of contingency plans. The basic plan establishes the
+authority, sets forth references, addresses hazard vulnerability, states the planning assumptions,
+establishes an emergency services organization, assigns tasks, formulates a mutual aid system,
+and directs the development of specific support annexes. For those hazards identified in the
+basic plan, a separate contingency plan is then developed to address the unique nature of the
+hazardous event. The contingency plan contains service support plans for each of the functional
+operations, including detailed standard operating procedures. The planning efforts of local
+jurisdictions are coordinated with adjacent jurisdictions and the California OES for consistency.
+
+A plan is not considered complete without the support annexes which make the plan operational.
+The survey undertaken for this assessment disclosed that approximately 93 percent of the jurisdictions
+examined have existing, basic plans; 50 percent have completed annexes; 28 percent of the basic
+plans addressed an earthquake hazard vulnerability; 35 percent have planned for earthquake
+contingency; and only 1 percent (one city) has a plan to respond to an earthquake prediction.
+
+At the State level, the California OES, as an integral part of the Governor's Office, functions
+as his immediate staff and coordinating organization in carrying out the State's emergency
+responsibilities. Specific emergency assignments have been made to 34 State agencies by the
+OES Director through a series of Administrative Orders. During emergencies the activities of
+these agencies and departments are coordinated by the California OES.
+
+The State OES is also responsible for maintaining and updating the California Emergency Plan
+(CEP) and associated readiness plans. As in the case of local plans, the basic document is
+supported by operational annexes as listed below:
+
+    CONTINGENCY                       MUTUAL AID
+
+    Earthquake                        Fire and Rescue
+    Earthquake Prediction             Law Enforcement
+    Oil Spill                         Medical
+    Nuclear Blackmail                 Utilities
+    Reactor Accident                  Military Support
+    Radioactive Material Incident
+    Flood
+
+    SUPPORTING SYSTEMS                EMERGENCY RESOURCES
+                                      MANAGEMENT
+
+    Warning                           Construction and Housing
+    Emergency Broadcast System        Economic Stabilization
+    Emergency Public Information      Food
+    Intelligence Operations           Health
+    Radiological Defense              Industrial Production
+                                      Manpower
+                                      Petroleum
+                                      Telecommunications
+                                      Transportation
+                                      Utilities
+
+Based on this planning concept, the review assessed quantitatively the preparedness activities
+of the 34 State agencies that have preparedness responsibilities in accordance with the CEP.
+The quantitative data are listed in the following table.
+
+TABLE 4
+
+QUANTITATIVE ASSESSMENT OF STATE PREPAREDNESS ACTIVITIES
+
+-----------------------------------------------------------------
+                                     Number of   Percent of
+  Preparedness Element               Agencies    34 Agencies
+-----------------------------------------------------------------
+Existence of Plan                       22            65
+Conduct of Exercises                    27            79
+Public Education Activities             10            29
+Public Information Activities            9            26
+Operational Capability                  32            94
+-----------------------------------------------------------------
+
+The quality of the plans, activities, and operational capabilities were then evaluated on a
+scale of 1 (expected to fail/inadequate) to 5 (expected to succeed well/adequate). The qualitative
+results are shown below.
+
+TABLE 5
+
+QUALITATIVE ASSESSMENT OF STATE PREPAREDNESS ACTIVITIES
+
+----------------------------------------------------------
+  Preparedness Element        Capability Rating
+----------------------------------------------------------
+  Planning                           2.67
+  Exercises                          2.64
+  Public Education                   1.44
+  Public Information                 1.50
+  Operational Capability             2.91
+----------------------------------------------------------
+
+It should be emphasized that these ratings apply to the State's present level of planning and
+preparedness for response to a major destructive earthquake (magnitude 8), not a moderate (San
+Fernando-type) event.
+
+C. FEDERAL RESPONSE
+
+At the Federal level the principal capability to respond to a catastrophic earthquake in California
+resides in FEMA, the agency responsible by law to coordinate Federal activities in all emergencies.
+FEMA has developed a basic plan for supplemental Federal assistance for a major earthquake
+in the San Francisco Bay area. This plan, however, covers only the emergency phase of response
+(first few days of efforts to save lives and protect property). In addition, FEMA is participating
+in a broader effort concentrating in Southern California. This cooperative effort is getting
+under way with State and local governments, other Federal departments, voluntary agencies,
+practicing professions, business and commercial interests, labor, educators, and researchers.
+It is expected to develop an effective program to respond to an earthquake or a credible earthquake
+prediction in that part of the State. The emphasis is being placed on public safety, reduction
+of property damage, self-help on the part of individuals, socioeconomic impacts, improved response
+and long-range recovery planning, mitigation activities, and public participation for both
+the post-prediction and immediate post-earthquake periods. This pilot effort is expected to
+be usable in other highly seismic areas of California as well as in other States.
+
+In the event of a catastrophic earthquake, a substantial number of Federal agencies would provide
+support to and be coordinated by FEMA. Illustrative are the following:
+
+   1. Department of Defense (DOD)
+
+      Initially, local military commanders may provide necessary
+support to save lives, alleviate suffering, or mitigate property
+damage. Normally, additional DOD resources would not be committed
+until a presidential declaration of an emergency or major disaster.
+When this occurs, the Secretary of the Army is DOD Executive Agent for
+military support. The Commander, Sixth U.S. Army, at the Presidio, San
+Francisco, has been further delegated authority to coordinate disaster
+relief operations in the western portion of the United States.
+Extensive planning and coordination have taken place between the Sixth
+U.S. Army and FEMA Region IX. DOD emergency functions include: damage
+survey, search and rescue, emergency medical care,
+identification and disposition of dead, emergency debris
+clearance, emergency roads and bridge construction, airfield
+repair, and identification and demolition of unsafe structures.
+Specific units have been identified to respond to an earthquake in any
+of the major population centers of California. For example, at this
+time the following units would be prepared for commitment within 8
+hours after a disaster is declared by the President:
+
+        » Six medical units with a 1,320 bed capacity
+
+        » Seven helicopter units with 90 utility helicopters and
+          36 medium helicopters
+
+        » One Infantry brigade of 1,500 personnel
+
+        » Two engineer units with 78 pieces of heavy equipment
+
+        » Two transportation units with 124 cargo trucks and
+          trailers
+
+These as well as additional DOD assets could be made available, contingent on defense priorities.
+
+   2. The National Communication System
+
+      This Agency's plan, the "National Plan for Communications Support
+in Emergencies and Major Disasters," provides for planning and using
+national telecommunications assets and resources during presidentially
+declared emergencies and major disasters. The plan, which has been
+exercised repeatedly in past disasters, provides the management
+structure and the communications staff to support FEMA. Restoration
+priorities have been assigned to all critical circuits.
+
+   3. Department of Transportation (DOT)
+
+      DOT has established an Office of Emergency Transportation. This
+office has developed and maintains comprehensive emergency plans and
+procedural manuals for natural disasters and other civil crises. It
+constantly monitors the civil transportation system for indications of
+potential adverse impacts from all hazards. It conducts scheduled
+periodic training and readiness exercises for DOT emergency personnel
+and maintains quick response cells and emergency operating facilities
+at DOT headquarters and in the field to provide an immediate reaction
+capability. The system has been activated several times in the recent
+past (e.g., Three Mile Island, 1979 Energy/Fuel Crisis, Independent
+Truckers' Strike, and the Mt. St. Helens eruption).
+
+D. CONSIDERATIONS FOR IMPROVING RESPONSE CAPABILITY
+
+Earthquake prediction has not been incorporated into existing plans. Response to predictions
+in the current environment, if given, would be ad hoc. The State of California has only a rudimentary
+plan and the Federal Government none. The City of Los Angeles has examined the problem extensively,
+but only considers its own jurisdiction and has not produced an actionable plan. Current planning
+for the recovery period is incomplete, uncoordinated, and not functional. State and local governments
+have done little to plan for the recovery period when, following the emergency lifesaving phase,
+efforts and resources are concentrated on restoring the functioning of the community. They
+presume that the Federal Government will "step in" after a presidential declaration. The Federal
+Government has an untested draft plan for the San Francisco area that is not fully coordinated
+with the State plans. Current Federal plans are geared to the provision of assistance on the
+order of a few hundred million dollars. Thus, there is little confidence that they would function
+under the requirements for tens-of-billions-of-dollars and concomitant service demands.
+
+Both Federal and State agencies need to commit the financial resources and assignment of personnel
+to maintain and enhance earthquake plans and preparedness. Earthquake preparedness, although
+responding to high damage expectation, is still based upon a relatively low probability occurrence.
+When it is in competition with pressing social needs for a portion of limited resources, social
+needs tend to prevail at all levels of government. Without a clear commitment, future development
+of earthquake preparedness, as in the past, is problematic and its implementation is in considerable
+doubt. The Federal earthquake preparedness effort needs to focus on a high state of readiness.
+
+History in the area of natural hazard mitigation suggests that assignment of responsibility,
+even by the President, when not followed by leadership and regular oversight over the allocation
+of financial resources, seldom leads to programs which can be expected to function. The same
+weakness is evidenced at the State and local government levels with few exceptions. The stresses
+likely to occur in emergency response programs after a catastrophic earthquake will be such
+that effective response will require a cooperative, integrated effort among different jurisdictions
+and levels of government.
+
+Experience in other areas of planning and preparedness, particularly for civil defense, indicates
+that damage to existing programs occurs when the Federal Government raises expectations of
+the public and of other levels of government and then fails to follow through with implementation
+and funding. It is better to maintain the status quo with minor changes at the margin than
+to announce substantial program initiatives and not meet their requirements.
+
+CHAPTER V
+
+AN ASSESSMENT OF THE SOCIAL IMPACTS
+
+Often, it is assumed that disasters leave masses of the population in the impacted areas dazed
+and helpless and unable to cope with the new conditions, or that those not so immobilized panic
+or display antisocial behavior. The widespread sharing of danger, loss, and deprivation produces
+an intimate cooperativeness among the survivors, which overcomes social isolation and provides
+a channel for very close communication and expression and a major source of physical and emotional
+support and reassurance. This capacity seems to account for the resiliency of personality and
+social organization in dealing with threat and danger. It is also at the base of the ability
+of social life to regenerate.
+
+In addition, a good case can be made in that community systems experiencing impact may be more
+efficient and rational than they are in "normal" circumstances. Normal (pre-disaster) community
+life traditionally operates at a low level of effectiveness and efficiency. Activities are
+directed toward a very diffuse set of goals, just as human resources within the community are
+inadequately utilized. Upon disaster impact, certain community goals--care for victims and
+the restoration of essential services--develop a high priority while others are ignored or
+held in abeyance. Thus, the entire range of community resources, even taking into account "losses,"
+can be allocated to the accomplishment of the more critical goals. Also, human resources are
+better utilized. Many women, older persons, younger persons, and members of minorities now
+become "productive;" the "labor" market after impact is open to those underutilized resources.
+In effect, then, disasters create the conditions for the more efficient utilization of material
+resources and the more effective mobilization of human resources.
+
+To accomplish this, certain modifications have to occur in the normal community structure,
+since the usual decision-making structures are designed for a different range and type of problem.
+Outsiders see this restructuring process as disorganized, chaotic, and creating the necessity
+for the imposition of some strong outside authority. On the contrary, this restructuring process
+is functional and adaptive. Its consequences are seen in communities and societies that rebound
+dramatically from the disruption and destruction to levels of integration, productivity, and
+growth capacity far beyond the pre-disaster state.
+
+In summary, the picture drawn points to the capacity of individuals and institutions to deal
+with difficult problems created by disaster impact. It also points to the adaptive capacity
+of social organization within communities to deal with unique and dramatic problems. These
+findings are not an argument against planning nor against "outside" assistance, but they should
+condition both the nature of planning and the direction of assistance.
+
+ANNEX 1
+
+LETTERS OF CORRESPONDENCE
+
+THE WHITE HOUSE
+
+WASHINGTON
+
+  September 19, 1980
+
+  To Governor Jerry Brown
+
+As you know, following my trip to view the destructive impacts of the volcanic eruption of
+Mt. St. Helens in the State of Washington, I directed that an assessment be undertaken of the
+consequences and state of preparedness for a major earthquake in California. This review, chaired
+by my Science and Technology Advisor, Frank Press, is now complete. We are grateful for the
+assistance provided by your staff and the other State, and local officials in this effort.
+Prudence requires, therefore, that we take steps to improve our preparedness.
+
+While the primary responsibility for preparedness rests with the State of California, its local
+governments and its people, the magnitude of human suffering and loss of life that might occur
+and the importance of California to the rest of the Nation require increased Federal attention
+to this important issue. Accordingly, I have directed that the Federal government increase
+its work with you to supplement your efforts. The Federal efforts will be led by the Federal
+Emergency Management Agency and include the Department of Defense and other Departments and
+agencies as appropriate.
+
+As a Nation, we must reduce the adverse impacts of a catastrophic earthquake to the extent
+humanly possible by increasing our preparedness for this potential eventuality.
+
+  Sincerely,
+
+  [signed] Jimmy Carter
+
+  The Honorable Edmund G. Brown, Jr.
+  Governor of California
+  Sacramento, California 95814
+
+  September 26, 1980
+
+  The Honorable Jimmy Carter
+  The President
+  The White House
+  Washington, D.C. 20500
+
+  Dear Mr. President:
+
+Let me take this opportunity to review our conversations over the last few months regarding
+increased seismic activity in California.
+
+When we met in Oakland on July 4 I raised the issue of seismic hazards. I was concerned then
+with the steady increase in seismic activity in California since 1978. Sharing my concern,
+you directed that the National Security Council join with my staff and certain local experts
+to conduct a quick study on the potential for a great earthquake in California.
+
+As you know, significant theoretical and public policy research had already been completed
+by our Seismic Safety Commission, State Geologist, Earthquake Prediction Evaluation Council
+and the Office of Emergency Services. Together with the U.S. Geological Survey and the Federal
+Emergency Management Agency (FEMA), they had clearly been keeping abreast of the state of the
+art of earthquake prediction. Indeed, combined state and federal efforts, founded on major
+theoretical advances in American, Russian and Chinese seismic and geological theory since the
+early 1970s, had shifted the language of earthquake prediction in California from "if" to "when"!
+
+In light of my personal interest in this subject, I have signed into law Assemblyman Frank
+Vicencia's AB 2202, a jointly funded state-federal project to design a comprehensive earthquake
+prediction-response plan. It is the state's intention to prepare a plan for the greater Los
+Angeles area as quickly as feasible. In my view, such a fullscale prediction-response program
+had become possible only after the research findings of both physical and policy scientists
+during the past five years. It is my conviction that such a plan is now timely--neither too
+early nor too late.
+
+In this context, your recognition of this issue in our conversation of September 22 in Los
+Angeles was a welcome personal reinforcement of our state and local efforts. I am also grateful
+for the September 3 briefing in Sacramento by Mr. John Macy, Director of FEMA, regarding the
+latest U.S. Geological Survey interpretations of anomalies around California's system of geological
+faults. As soon as we have received the final FEMA report on the details of those anomalies,
+I will ask the state geologist to evaluate the report, confer with colleagues in the Geological
+Survey and have all state and local officials fully briefed.
+
+At that time, I would be grateful for an early opportunity to meet with you and explore next
+steps. I am confident that a heightened state of awareness among my fellow Californians will
+so deploy the resources of the state, plus available federal supplementary assistance, as to
+minimize the loss of life and property in the event of a great earthquake.
+
+  Sincerely,
+
+  /s/
+
+  Edmund G. Brown, Jr.
+  Governor
+
+ANNEX 2
+
+CURRENT CALIFORNIA AND FEDERAL EARTHQUAKE RESPONSE PLANNING
+
+A. NATURE OF EMERGENCY PLANNING
+
+An emergency, as used in this report, is defined as an unexpected, sudden or out-of-the-ordinary
+event or series of events adversely affecting lives and property which, because of its magnitude,
+cannot be handled by normal governmental processes. Emergency response planning is the process
+that addresses preparedness for and response to an emergency.
+
+Emergency response planning is an evolutionary, ongoing process and is prerequisite to all
+other emergency readiness activities. It is a comprehensive process that identifies the potential
+hazardous events, and the vulnerability to such hazards, estimates expected losses, and assesses
+impacts of such events. The development of written plans is followed by placement of capabilities
+to implement the response plan and by the conduct of periodic tests and exercises. The most
+difficult task in the development of an emergency plan is to anticipate as many of the problems
+and complications resulting from a given disaster situation as possible and to provide a basis
+for response to those not anticipated.
+
+The objective of emergency planning is to create the capacity for government to:
+
+        » Save the maximum number of lives in the event of an
+          emergency
+
+        » Minimize injuries and protect property
+
+        » Preserve the functions of civil government
+
+        » Maintain and support economic and social activities
+          essential for response and the eventual long-term
+          recovery from the disaster
+
+Emergency planning is a logical and necessary pre-emergency activity for governmental (and
+other organizational) entities likely to be affected by a disaster's occurrence. To be successful,
+such planning must be accomplished within the framework of the day-to-day governmental structure
+and activity but at the same time provide for response to the extraordinary circumstances and
+requirements inherent in disaster situations.
+
+Emergency plans include the preparation of guidelines, policy directives, and procedures to
+be utilized in preparing for and conducting disaster operations, training, and test exercises.
+They should also contain clear statements of authorities, responsibilities, organizational
+relationships, and operating procedures necessary for the accomplishment of disaster response
+and recovery activities. Further, they should address the four elements of mitigation, preparedness,
+response, and recovery (immediate and long-term).
+
+Once plans are established they must be periodically updated as conditions change. Updating
+may become necessary for a number of reasons: increased scientific, technical, and managerial
+knowledge; feedback from evaluation of exercises; better understanding of vulnerability; shifts
+in population and economic activities; construction of new critical facilities; and changes
+in personnel, organization, and legislation.
+
+Emergency planning is a shared responsibility at all levels--in this case from the Federal
+through the State and local jurisdictional levels. It should include business, industry, research
+and scientific institutions, practicing professions, and the individuals. By involving all
+functions of government, the planning process enhances the capability for implementing the
+plans through the realistic consideration of available capabilities and elimination of conflicts
+and inconsistencies of roles and task assignments.
+
+Further, by being a part of the planning decision-making process and having identified the
+needs and areas of consideration, individuals, organizations, and officials responsible for
+emergency operations are better able to relate to the expected impact and the operational environment.
+The written plans also serve valuable purposes for training and familiarization of new organizations,
+individuals, and public officials. Experience has shown repeatedly that when emergency operations
+are conducted in accordance with existing plans, reaction time is reduced and coordination
+improved, with fewer casualties, less property damage, and a higher surviving socioeconomic
+capability to undertake recovery. Other benefits that accrue from planning include the enhancement
+of hazard awareness.
+
+B. CALIFORNIA EMERGENCY PLANNING RESPONSE
+

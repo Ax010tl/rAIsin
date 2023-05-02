@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08745.txt">
+  <feature name="about" authors="Weiss, George Henry" title="The Heads of Apex" lang="en" />
+  <feature name="md5Hash" value="7b5a531d6c412ed5959c749504b4a55c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="395" this_length="2135" source_reference="source-document04462.txt" source_language="en" source_offset="1740927" source_length="2034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5441" this_length="15195" source_reference="source-document04462.txt" source_language="en" source_offset="1897799" source_length="23630" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22072" this_length="1344" source_reference="source-document04462.txt" source_language="en" source_offset="1116067" source_length="1434" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23649" this_length="510" source_reference="source-document00801.txt" source_language="en" source_offset="23318" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24360" this_length="1733" source_reference="source-document00801.txt" source_language="en" source_offset="5259" source_length="1733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26252" this_length="548" source_reference="source-document00801.txt" source_language="en" source_offset="22071" source_length="540" />
+</document>
+

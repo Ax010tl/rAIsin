@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00394.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="From Jest to Earnest" lang="en" />
+  <feature name="md5Hash" value="039971e4d714e6497959a031b654db3e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="610" this_length="2933" source_reference="source-document08567.txt" source_language="en" source_offset="25866" source_length="3131" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13958" this_length="729" source_reference="source-document04658.txt" source_language="en" source_offset="2114" source_length="727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16745" this_length="2327" source_reference="source-document08567.txt" source_language="en" source_offset="48541" source_length="2313" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26397" this_length="522" source_reference="source-document08567.txt" source_language="en" source_offset="68242" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27890" this_length="273" source_reference="source-document08567.txt" source_language="en" source_offset="67028" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29182" this_length="262" source_reference="source-document04658.txt" source_language="en" source_offset="2841" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30069" this_length="254" source_reference="source-document04658.txt" source_language="en" source_offset="1843" source_length="254" />
+</document>
+

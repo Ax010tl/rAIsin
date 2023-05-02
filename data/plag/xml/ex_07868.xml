@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07868.txt">
+  <feature name="about" authors="Williamson, Mabel" title="Have We No Rights? A frank discussion of the &quot;rights&quot; of missionaries" lang="en" />
+  <feature name="md5Hash" value="ccd85cc22940f1605071fc8e541377f9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13541" this_length="1278" source_reference="source-document10416.txt" source_language="en" source_offset="7348" source_length="1394" />
+</document>
+

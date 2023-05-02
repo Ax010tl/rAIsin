@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09692.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="The Parthenon By Way Of Papendrecht" lang="en" />
+  <feature name="md5Hash" value="78b810f832877b7c9fda38cad5bdd0bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="412" this_length="248" source_reference="source-document10943.txt" source_language="en" source_offset="22713" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3447" this_length="2161" source_reference="source-document10943.txt" source_language="en" source_offset="15497" source_length="2251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8543" this_length="3936" source_reference="source-document10943.txt" source_language="en" source_offset="23730" source_length="3836" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16787" this_length="767" source_reference="source-document10943.txt" source_language="en" source_offset="12778" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21901" this_length="2319" source_reference="source-document10943.txt" source_language="en" source_offset="35779" source_length="2477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24737" this_length="705" source_reference="source-document10943.txt" source_language="en" source_offset="5647" source_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26498" this_length="259" source_reference="source-document10943.txt" source_language="en" source_offset="14064" source_length="237" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05658.txt">
+  <feature name="about" authors="Verne, Jules" title="All Around the Moon" lang="en" />
+  <feature name="md5Hash" value="c438536ce77aafb3ecfaf8aa0182918d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3734" this_length="483" source_reference="source-document09600.txt" source_language="en" source_offset="306544" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5373" this_length="745" source_reference="source-document09600.txt" source_language="en" source_offset="206251" source_length="710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15826" this_length="474" source_reference="source-document09600.txt" source_language="en" source_offset="13155" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20636" this_length="235" source_reference="source-document09600.txt" source_language="en" source_offset="170434" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23631" this_length="252" source_reference="source-document09600.txt" source_language="en" source_offset="297640" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26214" this_length="233" source_reference="source-document09600.txt" source_language="en" source_offset="178960" source_length="232" />
+</document>
+

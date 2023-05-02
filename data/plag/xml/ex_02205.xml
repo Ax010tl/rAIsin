@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02205.txt">
+  <feature name="about" authors="Theuriet, André" title="A Woodland Queen — Volume 1" lang="en" />
+  <feature name="md5Hash" value="8be8ab216189bf71d5c0df795f76a906" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1516" this_length="2187" source_reference="source-document01476.txt" source_language="es" source_offset="5396" source_length="2380" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12611" this_length="3729" source_reference="source-document01476.txt" source_language="es" source_offset="207" source_length="4084" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="19198" this_length="2528" source_reference="source-document01476.txt" source_language="es" source_offset="7776" source_length="2720" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="26688" this_length="679" source_reference="source-document01476.txt" source_language="es" source_offset="4291" source_length="740" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="30169" this_length="1356" source_reference="source-document00172.txt" source_language="es" source_offset="326722" source_length="1464" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="32286" this_length="453" source_reference="source-document02359.txt" source_language="es" source_offset="930" source_length="489" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="32881" this_length="202" source_reference="source-document02359.txt" source_language="es" source_offset="17617" source_length="228" />
+</document>
+

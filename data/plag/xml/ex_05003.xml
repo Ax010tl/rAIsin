@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05003.txt">
+  <feature name="about" authors="Springer, Norman" title="Fire Mountain A Thrilling Sea Story" lang="en" />
+  <feature name="md5Hash" value="9861711e994007cf4135866924cb938d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1013" this_length="14760" source_reference="source-document00946.txt" source_language="en" source_offset="75268" source_length="23933" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16055" this_length="1981" source_reference="source-document06781.txt" source_language="en" source_offset="174595" source_length="3470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18380" this_length="2349" source_reference="source-document10222.txt" source_language="en" source_offset="5221" source_length="2424" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20844" this_length="1704" source_reference="source-document06781.txt" source_language="en" source_offset="347139" source_length="1741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22585" this_length="244" source_reference="source-document00946.txt" source_language="en" source_offset="259775" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22893" this_length="1512" source_reference="source-document10222.txt" source_language="en" source_offset="3208" source_length="1506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24569" this_length="2834" source_reference="source-document10222.txt" source_language="en" source_offset="7645" source_length="2941" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27510" this_length="1293" source_reference="source-document06781.txt" source_language="en" source_offset="179543" source_length="2523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29008" this_length="1710" source_reference="source-document00946.txt" source_language="en" source_offset="6218" source_length="1803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30790" this_length="1492" source_reference="source-document00946.txt" source_language="en" source_offset="125148" source_length="1675" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32360" this_length="224" source_reference="source-document06781.txt" source_language="en" source_offset="71462" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32585" this_length="277" source_reference="source-document06781.txt" source_language="en" source_offset="226406" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32943" this_length="435" source_reference="source-document00946.txt" source_language="en" source_offset="3483" source_length="471" />
+</document>
+

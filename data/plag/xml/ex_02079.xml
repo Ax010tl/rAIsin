@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02079.txt">
+  <feature name="about" authors="Twain, Mark" title="The Innocents Abroad — Volume 04" lang="en" />
+  <feature name="md5Hash" value="cfbba4bd0c08f78e8eb11d0abda0327e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8586" this_length="4040" source_reference="source-document01555.txt" source_language="en" source_offset="100440" source_length="4002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26246" this_length="1491" source_reference="source-document01555.txt" source_language="en" source_offset="130347" source_length="1504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29090" this_length="227" source_reference="source-document10386.txt" source_language="en" source_offset="18901" source_length="229" />
+</document>
+

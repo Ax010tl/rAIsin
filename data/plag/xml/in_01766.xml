@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01766.txt">
+  <feature name="about" authors="Whyte-Melville, G.J." title="M. or N. &quot;Similia similibus curantur.&quot;" lang="en" />
+  <feature name="md5Hash" value="790f214263d2a6a85f918a45094c70b6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2211" this_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11970" this_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22218" this_length="250" />
+</document>
+

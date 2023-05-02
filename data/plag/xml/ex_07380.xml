@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07380.txt">
+  <feature name="about" authors="Voltaire" title="Candide" lang="en" />
+  <feature name="md5Hash" value="e107cd196dfbbd4266ec5fa0773790fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1476" this_length="2402" source_reference="source-document08047.txt" source_language="en" source_offset="1546" source_length="2501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5906" this_length="3045" source_reference="source-document03362.txt" source_language="en" source_offset="5212" source_length="3306" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18051" this_length="4324" source_reference="source-document03362.txt" source_language="en" source_offset="0" source_length="4523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24891" this_length="256" source_reference="source-document03362.txt" source_language="en" source_offset="10438" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26620" this_length="1560" source_reference="source-document08047.txt" source_language="en" source_offset="4579" source_length="1556" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29633" this_length="459" source_reference="source-document08047.txt" source_language="en" source_offset="935" source_length="476" />
+</document>
+

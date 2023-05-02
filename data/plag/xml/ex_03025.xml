@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03025.txt">
+  <feature name="about" authors="U.S. Arms Control and Disarmament Agency" title="Worldwide Effects of Nuclear War: Some Perspectives" lang="en" />
+  <feature name="md5Hash" value="471acb1bc44115594ce817c7cd3f88fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3026" this_length="17669" source_reference="source-document10606.txt" source_language="en" source_offset="697752" source_length="20014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25897" this_length="4706" source_reference="source-document10606.txt" source_language="en" source_offset="112394" source_length="4778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30789" this_length="480" source_reference="source-document10606.txt" source_language="en" source_offset="367143" source_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31467" this_length="756" source_reference="source-document10606.txt" source_language="en" source_offset="261250" source_length="733" />
+</document>
+

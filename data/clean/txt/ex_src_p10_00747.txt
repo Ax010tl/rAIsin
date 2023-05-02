@@ -1,0 +1,506 @@
+﻿I. GENEALOGY                                     1
+
+       II. IN SEARCH OF A CAREER (1552-1581)             6
+
+      III. ROYAL FAVOUR (1581-1582)                     22
+
+       IV. OFFICES AND ENDOWMENTS (1582-1587)           32
+
+        V. VIRGINIA (1583-1587)                         42
+
+       VI. PATRON AND COURTIER (1583-1590)              53
+
+      VII. ESSEX. THE ARMADA (1587-1589)                60
+
+     VIII. THE POET (1589-1593)                         69
+
+       IX. THE REVENGE (September, 1591)                82
+
+        X. IN THE TOWER. THE GREAT CARACK (1592)        88
+
+       XI. AT HOME; AND IN PARLIAMENT (1592-1594)      100
+
+      XII. GUIANA (1594-1595)                          108
+
+     XIII. CADIZ. THE ISLANDS VOYAGE (1596-1597)       125
+
+      XIV. FINAL FEUD WITH ESSEX (1597-1601)           141
+
+       XV. THE ZENITH (1601-1603)                      155
+
+      XVI. COBHAM AND CECIL (1601-1603)                168
+
+     XVII. THE FALL (April-June, 1603)                 180
+
+    XVIII. AWAITING TRIAL (July-November, 1603)        186
+
+      XIX. THE TRIAL (November 17)                     207
+
+       XX. ITS JUSTICE AND EQUITY                      222
+
+      XXI. REPRIEVE (December 10, 1603)                232
+
+     XXII. A PRISONER (1604-1612)                      241
+
+    XXIII. SCIENCE AND LITERATURE (1604-1615)          265
+
+     XXIV. THE RELEASE (March, 1616)                   287
+
+      XXV. PREPARING FOR GUIANA (1616-1617)            298
+
+     XXVI. THE EXPEDITION (May, 1617-June, 1618)       313
+
+    XXVII. RETURN TO THE TOWER (June-August, 1618)     331
+
+   XXVIII. A MORAL RACK (August 10-October 15)         343
+
+     XXIX. A SUBSTITUTE FOR A TRIAL (October 22, 1618) 359
+
+      XXX. RALEGH'S TRIUMPH (October 28-29, 1618)      371
+
+     XXXI. SPOILS AND PENALTIES                        380
+
+    XXXII. CONTEMPORARY AND FINAL JUDGMENTS            394
+
+           INDEX                                       401
+
+PREFACE
+
+Students of Ralegh's career cannot complain of a dearth of materials. For thirty-seven years
+he lived in the full glare of publicity. The social and political literature of more than a
+generation abounds in allusions to him. He appears and reappears continually in the correspondence
+of Burleigh, Robert Cecil, Christopher Hatton, Essex, Anthony Bacon, Henry Sidney, Richard
+Boyle, Ralph Winwood, Dudley Carleton, George Carew, Henry Howard, and King James. His is a
+very familiar name in the Calendars of Domestic State Papers. It holds its place in the archives
+of Venice and Simancas. No family muniment room can be explored without traces of him. Successive
+reports of the Historical Manuscripts Commission testify to the vigilance with which his doings
+were noted. No personage in two reigns was more a centre for anecdotes and fables. They were
+eagerly imbibed, treasured, and circulated alike by contemporary, or all but contemporary,
+statesmen and wits, and by the feeblest scandal-mongers. A list comprising the names of Francis
+Bacon, Sir John Harington, Sir Robert Naunton, Drummond of Hawthornden, Thomas Fuller, Sir
+Anthony Welldon, Bishop Goodman, Francis Osborn, Sir Edward Peyton, Sir Henry Wotton, John
+Aubrey, Sir William Sanderson, David Lloyd, and James Howell, is far from exhausting the number
+of the very miscellaneous purveyors and chroniclers.
+
+Antiquaries, from the days of John Hooker of Exeter, the continuer of Holinshed, Sir William
+Pole, Anthony à Wood, and John Prince, to those of Lysons, Polwhele, Isaac D'Israeli, Payne
+Collier, and Dr. Brushfield, have found boundless hunting-ground in his habits, acts, and motives.
+Sir John Hawles, Mr. Justice Foster, David Jardine, Lord Campbell, and Spedding have discussed
+the technical justice of his trials and sentences. No historian, from Camden and de Thou, to
+Hume, Lingard, Hallam, and Gardiner, has been able to abstain from debating his merits and
+demerits. From his own age to the present the fascination of his career, and at once the copiousness
+of information on it, and its mysteries, have attracted a multitude of commentators. His character
+has been repeatedly analysed by essayists, subtle as Macvey Napier, eloquent as Charles Kingsley.
+There has been no more favourite theme for biographers. Since the earliest and trivial account
+compiled by William Winstanley in 1660, followed by the anonymous and tolerably industrious
+narrative attributed variously to John, Benjamin, and James, Shirley in 1677, and Lewis Theobald's
+meagre sketch in 1719, a dozen or more lives with larger pretensions to critical research have
+been printed, by William Oldys in 1736, Thomas Birch in 1751, Arthur Cayley in 1805, Sir Samuel
+Egerton Brydges in 1813, Mrs. A.T. Thomson in 1830, Patrick Fraser Tytler in 1833, Robert Southey
+in 1837, Sir Robert Hermann Schomburgk in 1848, C. Whitehead in 1854, S.G. Drake, of Boston,
+U.S., in 1862, J.A. St. John in 1868, Edward Edwards in the same year, Mrs. Creighton in 1877,
+and Edmund Gosse in 1886.
+
+Almost every one of this numerous company, down even to bookmaking Winstanley the barber, has
+shed light, much or little, upon dark recesses. By four, Oldys, Cayley, Tytler, and Edwards,
+the whole learning of the subject, so far as it was for their respective periods available,
+must be admitted to have been most diligently accumulated. Yet it will scarcely be denied that
+there has always been room for a new presentment of Ralegh's personality. That the want has
+remained unsatisfied after all the efforts made to supply it is to be imputed less to defects
+in the writers, than to the intrinsic difficulties of the subject. Ralegh's multifarious activity,
+with the width of the area in which it operated, is itself a disturbing element. It is confusing
+for a biographer to be required to keep at once independent and in unison the poet, statesman,
+courtier, schemer, patriot, soldier, sailor, freebooter, discoverer, colonist, castle-builder,
+historian, philosopher, chemist, prisoner, and visionary. The variety of Ralegh's powers and
+tendencies, and of their exercise, is the distinctive note of him, and of the epoch which needed,
+fashioned, and used him. A whole band of faculties stood ready in him at any moment for action.
+Several generally were at work simultaneously. For the man to be properly visible, he should
+be shown flashing from more facets than a brilliant. Few are the pens which can vividly reflect
+versatility like his. The temptation to diffuseness and irrelevancy is as embarrassing and
+dangerous. At every turn Ralegh's restless vitality involved him in a web of other men's fortunes,
+and in national crises. A biographer is constantly being beguiled into describing an era as
+well as its representative, into writing history instead of a life. Within an author's legitimate
+province the perplexities are numberless and distracting. Never surely was there a career more
+beset with insoluble riddles and unmanageable dilemmas. At each step, in the relation of the
+most ordinary incidents, exactness of dates, or precision of events, appears unattainable.
+Fiction is ever elbowing fact, so that it might be supposed contemporaries had with one accord
+been conspiring to disguise the truth from posterity. The uncertainty is deepened tenfold when
+motives have to be measured and appraised. Ralegh was the best hated personage in the kingdom.
+On a conscientious biographer is laid the burden of allowing just enough, and not too much,
+for the gall of private, political, and popular enmity. He is equally bound to remember and
+account, often on the adverse side, for inherent contradictions in his hero's own moral nature.
+While he knows it would be absurdly unjust to accept the verdict of Ralegh's jealous and envious
+world on his intentions, he has to beware of construing malicious persecution as equivalent
+to proof of angelic innocence.
+
+One main duty of a biographer of Ralegh is to be strenuously on the guard against degenerating
+into an apologist. But, above all, he ought to be versed in the art of standing aside. While
+explanations of obscurities must necessarily be offered, readers should be put into a position
+to judge for themselves of their sufficiency, and to substitute, if they will, others of their
+own. Commonly they want not so much arguments, however unegotistical and dispassionate, as
+a narrative. They wish to view and hear Ralegh himself; to attend him on his quick course from
+one field of fruitful energy to another; to see him as his age saw him, in his exuberant vitality;
+not among the few greatest, but of all great, Englishmen the most universally capable. They
+desire facts, stated as such, simply, in chronological sequence, and, when it is at all practicable,
+in the actor's own words, not artificially carved, coloured, digested, and classified. As for
+failings and infirmities, they are more equitable and less liable to unreasonable disgusts
+than a biographer is inclined to fancy. They are content that a great man's faults, real or
+apparent, should be left to be justified, excused, or at all events harmonized, in the mass
+of good and ill.
+
+No biographer of Ralegh need for lack of occupation stray from the direct path of telling his
+readers the plain story of an eventful life. The rightful demands on his resources are enough
+to absorb the most plentiful stores of leisure, patience, and self-denial. He should be willing
+to spend weeks or months on loosing a knot visible to students alone, which others have not
+noticed, and, if they had, would think might as profitably have been left tied. He should collect,
+and weigh, and have the courage to refuse to use, piles of matter which do not enlighten. He
+should be prepared to devote years to the search for a clue to a career with a bewildering
+capacity for sudden transformation scenes. He should have the courage, when he has lost the
+trace, to acknowledge that he has wandered. He should feel an interest so supreme in his subject,
+in its shadows as in its lights, as neither to count the cost of labour in its service, nor
+to find affection for the man incompatible with the condemnation of his errors. Finally, after
+having arrived at a clear perception of the true method to be pursued, and ends to be aimed
+at, he should be able to recognize how very imperfectly he has succeeded in acting up to his
+theory.
+
+                                     W.S.
+
+    LONDON:
+  September, 1891.
+
+AUTHORITIES
+
+Not a few readers and critics, who have been so kind as to speak otherwise only too favourably
+of the book, have intimated that its value would be increased by references to the authorities.
+
+In compliance with the suggestion, the author now prints the list--a formidable one. He has
+drawn it up in a form which, he hopes, may enable students without much difficulty to trace
+the sources of the statements in the text.
+
+The figures in the parentheses () after the title of each authority are the date of the original
+edition, where that is not the one cited. The figures which follow give the date of the edition
+actually referred to. The brackets [] after the pages of the Life contain the pages, or volumes
+and pages, of the cited works.
+
+  Example--
+
+    D'ISRAELI, ISAAC, Cur. Lit.
+    (1791-1834), date of original edition.
+    ed. B. Disraeli, 1849, date of edition referred to.
+    79, page of Life.
+    [iii. 140], volume and page of Cur. Lit.
+
+  A.
+
+  ARBER, EDWARD, English Reprints: p. 83 [No. 29, xiv. 13-22].
+
+  Archaeologia (Transactions of the Society of Antiquaries): pp. 130
+    [xxii. 175], 299 [xii. 271], 368 [xliv. 394]. See also Collier, Monson.
+
+  Ashmolean MSS. (Bodleian Library): pp. 368 [DCCLXXXVI, fol. 101], 386.
+
+  AUBREY, JOHN, Letters by Eminent Persons and Lives of Eminent Men,
+    1813: pp. 8, 13, 25, 28, 35, 49, 57, 58, 100, 104, 105, 164, 180, 181,
+    192, 209, 249, 273, 282, 283, 300 [ii. 416 and 494, and 509-21].
+
+  Aulicus Coquinarius (published in Secret History of James I,
+    1811)--'supposed to have been compiled from Bishop Goodman's materials
+    by William Sanderson': p. 210 [173].
+
+  B.
+
+  BACON, ANTHONY, Correspondence (MSS. Tenison, at Lambeth, and
+    Catalogue, Lambeth Palace MSS.): pp. 89 [Cat. 162], 108 [Cat. 166].
+
+  BACON, FRANCIS, LORD, Works, Letters, and Life, ed. James Spedding,
+    R.E. Ellis, and D.D. Heath, 1858-1874.
+
+  -- Apophthegms: pp. 8 [ii. 163], 89 [ii. 129], 155 [ii. 124], 302
+    [ii. 168].
+
+  -- Life: pp. 359 [vi. 360-2], 361 [vi. 356, 364-5].
+
+  BAYLEY, JOHN, History and Antiquities of the Tower of London, 1821:
+    p. 250 [Appendix, vol. ii. ch. x].
+
+  BEATSON, ROBERT, Political Index to the Histories of Great Britain and
+    Ireland (1786), 3rd ed. 1806: pp. 35 [i. 448], 108 [i. 448].
+
+  BEAUMONT, CHRISTOPHER DE HARLAY DE, Lettres à Henri IV (transcripts
+    by E. Edwards from MSS. Bibliothèque Nationale, Paris):
+    pp. 182, 195, 201, 227, 237, 239, 240.
+
+  Biographia Britannica, 1747-1766 (Art. W. Ralegh): pp. 39, 49.
+
+  BIRCH, REV. THOMAS, D.D., Memoirs of Queen Elizabeth, 1754: pp. 89
+    [i. 79], 147 [ii. 418].
+
+  -- Life of Sir Walter Ralegh (Oxford ed. of Ralegh's Works): pp. 89
+    [i. 593], 300 [i. 613].
+
+  BLACKSTONE, MR. JUSTICE SIR WILLIAM, Commentaries on the Laws of
+    England (1765-1769). Revised by Serjeant Henry John Stephen, 3rd
+    ed. 1853: p. 285 [ii. 475].
+
+  BOLINGBROKE, HENRY ST. JOHN, VISCOUNT ('The Craftsman, by Caleb
+    D'Anvers, Esq.' 1731-1737. Nos. 160, 163, 164, 175, 274): p. 269.
+
+  BRAY. See Manning.
+
+  BRAYLEY, EDWARD WEDLAKE, and JOHN BRITTON, History of Surrey,
+    1850: p. 380 [ii. 93-4].
+
+  BRUCE, REV. JOHN, Correspondence of King James VI of Scotland with
+    Sir R. Cecil and others in England (Camden Society), 1861: pp. 58
+    [67], 148 [Appendix 82-3, 90], 172 [15], 173 [67], 175 [43], 176
+    [18-9], 177 [ibid.], 254 [140-60, 219].
+
+  BRUSHFIELD, THOMAS NADAULD, M.D., Raleghana (Burial-place of
+    Walter and Katherine Ralegh), 1896: p. 5 (Devon Assoc. Trans.
+    xxviii. 291-4).
+
+  -- -- (Birthplace of Sir Walter Ralegh), 1889: pp. 6, 101 (Devon Assoc.
+    Trans. xxi. 319-21).
+
+  -- -- (Children of), 1896: p. 197 (Devon Assoc. Trans. xxviii. 310-12).
+
+  -- London and Suburban Residences of Sir Walter Ralegh: pp. 103-5
+    (Western Antiquary, iv. 82-7, 109-12).
+
+  -- Bibliography of Sir Walter Ralegh (reprinted from Western
+    Antiquary), 1886: pp. 265-76.
+
+  -- (Tobacco and Potatoes): p. 49 (Devon Assoc. Trans. xxx. 158-97).
+    Builder, The, Sept. 17, 1864: p. 105.
+
+  BULLEN, A.H. (Poetical Rhapsody, ed. Francis Davison, 1602), 1890:
+    pp. 78 [i. 116, and Introd. 83, 84], 79 [i. 28, and Introd. 86].
+
+  BULLEN, A.H. (England's Helicon, 1600), 1887: p. 80 [Introd. 22, 23].
+
+  BURGHLEY, WILLIAM CECIL, LORD, State Papers at Hatfield House,
+    Vol. ii, 1571-1596, ed. Rev. Wm. Murdin: pp. 93 [ii. 657], 95 [ii.
+    658], 102 [ii. 675], 152 [ii. 811].
+
+  C.
+
+  Calendar, Carew MSS. 1515-1624, Lambeth Palace Library, ed. Rev.
+    John S. Brewer and William Bullen, 1868: pp. 38, 49, 71, 91, 126,
+    148, 149, 156, 158, 162, 169, 330.
+
+  -- State Papers, Domestic Series, Elizabeth and James I, 1585-1618:
+    pp. 34, 35, 36, 37, 43, 45, 51, 54, 55, 58, 59, 64, 69, 82, 84, 87, 89,
+    96, 98, 101, 102, 117, 125, 134, 135, 142, 146, 147, 164, 169, 180,
+    182, 201, 208, 241, 242, 243, 247, 249, 252, 254, 257, 260, 262, 263,
+    264, 266, 288, 297, 298, 300, 301, 302, 307, 313, 316, 332, 333, 337,
+    346, 347, 348, 349, 352, 358, 366, 369, 372, 375, 381, 384, 385, 386,
+    387, 393, 394, 396.
+
+  -- Venetian State Papers, 1581-1591: pp. 50, 64.
+
+  CAMDEN, WILLIAM, Annales, etc. regnante Elizabethâ (Part I, to 1589,
+    1615; Part II, 1627), ed. Thomas Hearne, 1717: pp. 9 [i. 198], 66
+    [ii. 574-5], 89 [iii. 697], 109 [iii. 697], 137 [iii. 741-2].
+
+  -- Annales Regni Jacobi I: p. 275 [9].
+
+  -- Epistolae (containing in appendix the Annales Jacobi I), ed.
+    Thomas Smith, 1691: pp. 325 [256], 333 [243].
+
+  CAMPBELL, JOHN, LORD, Lives of the Chief Justices of England,
+    1849-1857: p. 209 [i. 210-11].
+
+  CAREW, RICHARD, Survey of Cornwall (1602), ed. Lord de Dunstanville,
+    1811: p. 168 [xxv-xxvi].
+
+  CARLYLE, THOMAS: p. 279 (see Cromwell).
+
+  CARTE, THOMAS, General History of England, 1747-1755: p. 205 [iii.
+    719].
+    1685, 185-202): p. 145 [190].
+
+  COKE, SIR EDWARD, Third Institute (1644), 1797: p. 214 [24-5].
+
+  COLLIER, JOHN PAYNE (Notes and Queries, 3rd Series, vol. v): pp. 244
+    [7], 246 [7].
+
+  -- Archaeologia (Society of Antiquaries) 1852-1853: pp. 11 [xxxiv.
+    139], 15 [xxxiv. 139], 21 [xxxiv. 141], 36 [xxxv. 368-71], 42 [xxxiii.
+    199, and xxxiv. 151], 89 [xxxiv. 160], 90 [xxxiv. 161], 91 [xxxiv.
+    165], 133 [xxxiv. 168], 164 [xxxiv. 163-4], 165 [xxxv. 214], 244
+    [xxxv. 217-8], 252 [xxxv. 219-20].
+
+  CORNEY, BOLTON, 'Curiosities of Literature, by I. D'Israeli, Esq.,
+    Illustrated by Bolton Corney, Esq.,' 1837: p. 274.
+
+  COSTELLO, LOUISA STUART, Memoirs of Eminent Englishwomen, 1844:
+    p. 63 [i. 209-10].
+
+  Cotton. Library MSS., British Museum: pp. 57 [Galba, C. 9, fol. 157],
+    132 [Vespas. C. 13, fol. 290], 149 [Julius, F. 6, p. 433], 272 [Julius,
+    C. 3, fol. 311], 316 [Titus, B. 8, fol. 155], 351 [Vitell. C. 17, foll.
+    439-40], 373 [Titus, C. 6, fol. 93].
+
+  Craftsman. See Bolingbroke.
+
+  CROMWELL, OLIVER, Letters and Speeches, ed. Thomas Carlyle, 1870:
+    p. 279 [ii. 293].
+
+  -- Memoirs of the Protector Oliver Cromwell, and of his sons, Richard
+    and Henry, by Oliver Cromwell, Esq. (1820), 3rd ed. 1822: p. 279
+    [i. 369-70].
+
+  D.
+
+  Declaration of the Demeanour and Carriage of Sir Walter Raleigh, as well
+    in his Voyage, as in and since his Return, printed by the King's
+    Printers, 1618; reprinted Harleian Miscellany, iii, 1809; Somers
+    Collect, ii, 1809: pp. 301 [Harl. iii. 20-3], 389-93 [Harl. iii. 18,
+    et seq.].
+
+  DEE, DR. JOHN, Private Diary, ed. J.O. Halliwell (Camden Society),
+    1842: p. 104 [54].
+
+  DEVEREUX, WALTER B., Lives and Letters of the Devereux, Earls of
+    Essex, 1853: pp. 61 [i. 86], 62 [i. 186-8], 130 [i. 376-7], 138 [i.
+    457].
+
+  Devonshire Association for the Advancement of Science, Literature, and
+    Art, Transactions of the (see also Brushfield): pp. 2 [xv. 163-79],
+    313 [xv. 459].
+
+  D'EWES, SIR SIMONDS, Journals of all the Parliaments during the Reign
+    of Queen Elizabeth, ed. Paul Bowes (1682), 1862: pp. 105 [478, 492],
+    106 [508-9], 158 [674-6], 159 [629-33].
+
+  D'ISRAELI, ISAAC, Curiosities of Literature (1791-1834), ed. B.
+    Disraeli, 1849: pp. 79 [iii. 140], 274 [iii. 145-7], 334 [iii. 127],
+    375 [iii. 141].
+
+  -- 'Amenities of Literature (Psychological History of Rawleigh
+    (1840)),' 1841: pp. 59 [iii. 152], 181 [iii. 166-7], 274 [iii. 172-84].
+
+  DIXON, WILLIAM HEPWORTH, Her Majesty's Tower, 1869-71: pp. 198
+    [i. 351-4], 266 [i. 369-70].
+
+  DREXELIUS, JEREMIAH (Trismegistus Christianus), Antwerp, 1643:
+    p. 40 [469].
+
+  DRUMMOND, WILLIAM, of Hawthornden, 'Notes of Ben Jonson's Conversations
+    with--January, 1619' (Shakespeare Society), ed. David
+    Laing, 1842: pp. 13 [21], 270 [15], 274 [15], 301 [21].
+
+  E.
+
+  ECHARD, ARCHDEACON LAURENCE, History of England, 1711: p. 186
+    [i. 911].
+
+  EDWARDS, EDWARD, Life of Sir Walter Ralegh, 1868: p. 26 [i. 54-5].
+
+  Egerton Papers--from MSS. belonging to Lord Francis Egerton, ed.
+    J. Payne Collier (for Camden Society), 1840: pp. 36 [94], 183 [377].
+
+  ELIOT, SIR JOHN, Monarchy of Man, MSS. Harleian, 2228, Brit. Mus.
+    (cf. Forster's Life of Eliot [i. 34, 604]): pp. 375, 397.
+
+  EVELYN, JOHN, Diary and Correspondence, ed. William Bray (1818-1819),
+    1872: p. 267 [i. 391].
+
+  F.
+
+  FEBRE, NICHOLAS LE, Discours sur le Grand Cordial de Sir Walter
+    Ralegh, 1664: p. 266.
+
+  Flying Chudleigh, Chaplain of the, MSS. Corpus Christi, Oxford: p. 326.
+
+  FORSTER, JOHN, Life of John Eliot, 1864. See Eliot.
+
+  Fortescue Papers; collected by John Packer, Secretary to George
+    Villiers, Duke of Buckingham, ed. S.R. Gardiner, 1871: pp. 332 [40],
+    386 [80], 387 [67], 395 [143].
+
+  FOSS, EDWARD, Judges of England, 1857: pp. 209 [vi. 179], 231
+    [vi. 159].
+
+  FOSTER, MR. JUSTICE SIR MICHAEL, Trial of the Rebels in 1746, and
+    other Crown Cases (1st ed. 1762), new ed. 1809: pp. 214, 222 [234].
+
+  FOX (or FOXE), JOHN, Acts and Monuments (1554-1562), 1684: p. 5 [iii.
+    748].
+
+  FROUDE, JAMES ANTHONY, History of England, 1856-1870: p. 4
+    [vi. 149].
+
+  FULLER, REV. THOMAS, Church History of Britain, 1655: p. 7 [170].
+
+  -- History of the Worthies of England (1662), 1811: pp. 24 [i. 287],
+    166 [ii. 286], 394 [ii. 336].
+
+  G.
+
+  GAINSFORD, CAPTAIN THOMAS, Vox Spiritus, or Sir Walter Rawleigh's
+    Ghost, 1620: p. 395 [Fortescue Papers, 143]. 1863:
+    pp. 190 [i. 102], 193 [i. 89], 226 [i. 58-9], 263 [i. 29-32].
+
+  -- Prince Charles and the Spanish Marriage, 1617-1623. 1869: pp. 238
+    [i. 151], 309 [i. 57-64], 324 [i. 125, 130], 332 [i. 134], 337
+    [i. 140].
+
+  -- The Case against Sir Walter Ralegh (Fortnightly Review, vol. vii;
+    New Series, vol. i), 1867: pp. 305 [613], 318 [602-14].
+
+  GASCOIGNE, GEORGE, The Glasse of Gouernment (1576), ed. W.C. Hazlitt
+    (Roxburghe Library), 1870: p. 12 [ii. 178].
+
+  GERARD, JOHN, Herbal, or General History of Plants, 1597, with
+    dedication to Sir Walter Raleigh: p. 105 [546].
+
+  GIBBON, EDWARD, Life and Works, ed. John Lord Sheffield (1799),
+    new ed. 1814: pp. 102 [i. 152], 281 [i. 151], 309 [i. 152-3], 398
+    [i. 153].
+
+  Gibson MSS., Lambeth Palace Library: p. 345 [viii. fol. 21].
+
+  GIFFORD, WILLIAM, Ben Jonson's Works, with Memoir by, 1860:
+    p. 157 [19].
+
+  GOODMAN, GODFREY, EX-BISHOP OF GLOUCESTER, Court of King James
+    the First, ed. John S. Brewer, 1839: pp. 195 [ii. 93-7], 381 [i. 69].
+
+  GORGES, SIR ARTHUR, A larger Relation of the said Island Voyage
+    (1607), iv. Purchas, 1938-1969: pp. 136 [iv. 1950], 139 [iv. 1965],
+    140 [iv. 1938-69].
+
+  GOSSE, EDMUND, Athenaeum, January 2 and 9, 1886: p. 73.
+
+  GUTCH, REV. J., Collectanea Curiosa, 1781: pp. 368 [i. 94-5], 367, 372,
+    373, 374, 376 [ii. 421-4].
+
+  H.
+
+  HAILES, LORD, Secret Correspondence of Sir Robert Cecil with James VI,
+    ed. Lord Hailes, 1766: pp. 171 [116], 174 [9], 175 [29], 176 [68],
+    180 [231], 182 [107], 254 [140-60, 290].
+
+  HAKLUYT, RICHARD, Voyages, Navigations, Traffics, and Discoveries of
+    the English Nation (1600). New ed. 1810: pp. 11 [iii. 364], 15 [iii.
+    186], 44 [iii. 301-6], 45 [iii. 324-40], 47 [iii. 365], 50 [iii. 366],
+    53 [iii. 364], 67 [ii. 169], 84 [ii. 663-70], 119 [iv. 66].
+
+  HALL, BISHOP JOSEPH, Balm of Gilead (1660), Works, 1837: p. 279
+    [vii. 171].
+
+  HALLAM, HENRY, Constitutional History of England, Henry VII--George
+    II (1827), 1850: pp. 183 [i. 354], 199 [i. 353], 204 [i. 354],
+    225 [i. 353], 285 [i. 277], 293 [i. 352-3], 303 [i. 354].
+
+  -- Introduction to the Literature of Europe (1838-1839), 1847: pp. 79
+    [ii. 126], 277 [iii. 149].
+
+  Hampshire, History of, by Richard Warner, 1795, Woodward, Wilks, and
+    Lockhart (undated) 209 [i. 298-302], Murray's Handbook, 5th ed.
+    1898: p. 209 [98-9].
+
+  HANNAH, ARCHDEACON JOHN, The Courtly Poets, from Raleigh to
+    Montrose, 1870: pp. 56 [56], 73 [Introd. xiv-xv], 367 [52-3].
+

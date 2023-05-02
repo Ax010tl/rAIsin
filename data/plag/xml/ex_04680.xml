@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04680.txt">
+  <feature name="about" authors="Spence, Catherine Helen" title="Mr. Hogarth's Will" lang="en" />
+  <feature name="md5Hash" value="13d0a5b57120b0a72ea9b5e2a0c200ff" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3322" this_length="15451" source_reference="source-document01607.txt" source_language="en" source_offset="144834" source_length="15498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19874" this_length="2644" source_reference="source-document06893.txt" source_language="en" source_offset="29757" source_length="2693" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23279" this_length="3211" source_reference="source-document06893.txt" source_language="en" source_offset="55668" source_length="3239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26816" this_length="808" source_reference="source-document01607.txt" source_language="en" source_offset="171552" source_length="813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27625" this_length="1962" source_reference="source-document01607.txt" source_language="en" source_offset="401780" source_length="1957" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30068" this_length="224" source_reference="source-document06893.txt" source_language="en" source_offset="212173" source_length="230" />
+</document>
+

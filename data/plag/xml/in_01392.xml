@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01392.txt">
+  <feature name="about" authors="France, Anatole" title="Putois 1907" lang="en" />
+  <feature name="md5Hash" value="e54227f59ae2bcf5953a4fc21553e42b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15728" this_length="807" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22332" this_length="241" />
+</document>
+

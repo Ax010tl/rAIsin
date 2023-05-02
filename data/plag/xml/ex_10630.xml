@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10630.txt">
+  <feature name="about" authors="Synge, Margaret Bertha" title="A Book of Discovery The History of the World's Exploration, From the Earliest Times to the Finding of the South Pole" lang="en" />
+  <feature name="md5Hash" value="0accc5d71e592d6616f274dd2c94a777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1113" this_length="467" source_reference="source-document01601.txt" source_language="en" source_offset="11299" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2545" this_length="546" source_reference="source-document01601.txt" source_language="en" source_offset="134819" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4671" this_length="3206" source_reference="source-document04962.txt" source_language="en" source_offset="190731" source_length="4785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23308" this_length="764" source_reference="source-document04962.txt" source_language="en" source_offset="55475" source_length="759" />
+</document>
+

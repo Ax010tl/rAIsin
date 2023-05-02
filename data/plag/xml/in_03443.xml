@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03443.txt">
+  <feature name="about" authors="Smiles, Samuel" title="A Publisher and His Friends Memoir and Correspondence of John Murray; with an Account of the Origin and Progress of the House, 1768-1843" lang="en" />
+  <feature name="md5Hash" value="f96ebdfff2f70302af67756288f0a7ab" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="864" this_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10732" this_length="2758" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23686" this_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30219" this_length="263" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08448.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Early Short Fiction of Edith Wharton — Part 1" lang="en" />
+  <feature name="md5Hash" value="cb68e84db89018e7e5633615fc8f5032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2053" this_length="2346" source_reference="source-document02033.txt" source_language="en" source_offset="156151" source_length="4123" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21573" this_length="1676" source_reference="source-document02033.txt" source_language="en" source_offset="133289" source_length="1712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28902" this_length="506" source_reference="source-document02033.txt" source_language="en" source_offset="275882" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31189" this_length="231" source_reference="source-document02033.txt" source_language="en" source_offset="228228" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32151" this_length="219" source_reference="source-document08997.txt" source_language="en" source_offset="12794" source_length="238" />
+</document>
+

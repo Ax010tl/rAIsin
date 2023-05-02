@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03478.txt">
+  <feature name="about" authors="Surtees, Robert Smith" title="Jorrocks' Jaunts and Jollities" lang="en" />
+  <feature name="md5Hash" value="260ca063bf317b5250c0fbfeafff24cd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16612" this_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21339" this_length="241" />
+</document>
+

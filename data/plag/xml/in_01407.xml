@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01407.txt">
+  <feature name="about" authors="Byron, May Clarissa Gillington" title="A Day with Keats" lang="en" />
+  <feature name="md5Hash" value="342ce437dc3027ea12491227003a3675" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="380" this_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8567" this_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21333" this_length="235" />
+</document>
+

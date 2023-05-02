@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01183.txt">
+  <feature name="about" authors="Seton, Ernest Thompson" title="The Biography of a Grizzly" lang="en" />
+  <feature name="md5Hash" value="9b304b5f09fe6dc3bc942640b6259ae4" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6435" this_length="3175" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20963" this_length="697" />
+</document>
+

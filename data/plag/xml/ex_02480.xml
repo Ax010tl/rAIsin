@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02480.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Memories and Portraits" lang="en" />
+  <feature name="md5Hash" value="36b75359ffed94e802e73c53ad541c8c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="583" this_length="1493" source_reference="source-document09341.txt" source_language="en" source_offset="5797" source_length="1506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11965" this_length="2399" source_reference="source-document09341.txt" source_language="en" source_offset="14085" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17373" this_length="708" source_reference="source-document05873.txt" source_language="en" source_offset="382676" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20294" this_length="749" source_reference="source-document05873.txt" source_language="en" source_offset="16889" source_length="713" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22812" this_length="489" source_reference="source-document05873.txt" source_language="en" source_offset="222360" source_length="481" />
+</document>
+

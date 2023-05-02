@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01142.txt">
+  <feature name="about" authors="Wairy, Louis Constant" title="Recollections of the Private Life of Napoleon — Volume 11" lang="en" />
+  <feature name="md5Hash" value="eb480eeb2426c83b0bb2d1707d54777a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="181" this_length="2339" source_reference="source-document01321.txt" source_language="es" source_offset="20185" source_length="2543" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2851" this_length="13491" source_reference="source-document01321.txt" source_language="es" source_offset="4850" source_length="15335" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17166" this_length="2366" source_reference="source-document01321.txt" source_language="es" source_offset="27093" source_length="2553" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19533" this_length="2089" source_reference="source-document01321.txt" source_language="es" source_offset="24788" source_length="2305" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21950" this_length="3116" source_reference="source-document01321.txt" source_language="es" source_offset="29646" source_length="3527" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25067" this_length="250" source_reference="source-document04416.txt" source_language="es" source_offset="2055" source_length="250" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25318" this_length="660" source_reference="source-document01321.txt" source_language="es" source_offset="22728" source_length="728" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25979" this_length="1625" source_reference="source-document04416.txt" source_language="es" source_offset="0" source_length="1849" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27605" this_length="2564" source_reference="source-document01321.txt" source_language="es" source_offset="34665" source_length="2877" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30479" this_length="221" source_reference="source-document04416.txt" source_language="es" source_offset="3359" source_length="265" />
+</document>
+

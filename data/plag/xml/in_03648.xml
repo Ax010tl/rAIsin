@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03648.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="The Fortunes of the Farrells" lang="en" />
+  <feature name="md5Hash" value="bfc7d201e2416b92f4699c05f862c43c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2732" this_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9385" this_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14402" this_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23625" this_length="233" />
+</document>
+

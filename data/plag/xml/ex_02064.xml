@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02064.txt">
+  <feature name="about" authors="Twain, Mark" title="The 30,000 Dollar Bequest and Other Stories" lang="en" />
+  <feature name="md5Hash" value="8b42844988719c05ad9e8f4c7ea52a17" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183" this_length="15322" source_reference="source-document09149.txt" source_language="en" source_offset="7889" source_length="15538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22820" this_length="1928" source_reference="source-document09149.txt" source_language="en" source_offset="4138" source_length="1927" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24900" this_length="2334" source_reference="source-document09149.txt" source_language="en" source_offset="25583" source_length="2539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28160" this_length="1478" source_reference="source-document09149.txt" source_language="en" source_offset="2273" source_length="1509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30020" this_length="276" source_reference="source-document09149.txt" source_language="en" source_offset="30011" source_length="261" />
+</document>
+

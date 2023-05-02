@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03005.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Bertrams" lang="en" />
+  <feature name="md5Hash" value="ae6ef2dc69bb481282ab48ccbbb54e30" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15139" this_length="4482" source_reference="source-document06165.txt" source_language="en" source_offset="187603" source_length="4308" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24077" this_length="712" source_reference="source-document06165.txt" source_language="en" source_offset="27961" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26026" this_length="234" source_reference="source-document06165.txt" source_language="en" source_offset="199827" source_length="229" />
+</document>
+

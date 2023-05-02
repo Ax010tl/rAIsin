@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02516.txt">
+  <feature name="about" authors="Tappan, Eva March" title="The Little Book of the Flag" lang="en" />
+  <feature name="md5Hash" value="4d06d52c1d30d9e703778acdc7ae1084" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="634" this_length="684" source_reference="source-document01722.txt" source_language="en" source_offset="29622" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10005" this_length="545" source_reference="source-document01722.txt" source_language="en" source_offset="99734" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17552" this_length="721" source_reference="source-document01722.txt" source_language="en" source_offset="289192" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23289" this_length="525" source_reference="source-document01095.txt" source_language="en" source_offset="29291" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26724" this_length="263" source_reference="source-document01722.txt" source_language="en" source_offset="52362" source_length="266" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05614.txt">
+  <feature name="about" authors="White, Andrew Dickson" title="Autobiography of Andrew Dickson White — Volume 1" lang="en" />
+  <feature name="md5Hash" value="9302faeaa28556e4d0c9292492063c3f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2347" this_length="17298" source_reference="source-document02260.txt" source_language="de" source_offset="44154" source_length="19493" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22838" this_length="1210" source_reference="source-document02260.txt" source_language="de" source_offset="10694" source_length="1436" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24049" this_length="212" source_reference="source-document01319.txt" source_language="de" source_offset="90449" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24488" this_length="2708" source_reference="source-document02260.txt" source_language="de" source_offset="26316" source_length="2975" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28032" this_length="1751" source_reference="source-document02260.txt" source_language="de" source_offset="72320" source_length="1965" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30317" this_length="1266" source_reference="source-document01319.txt" source_language="de" source_offset="238585" source_length="1429" />
+</document>
+

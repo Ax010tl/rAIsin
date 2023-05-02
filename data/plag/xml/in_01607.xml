@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01607.txt">
+  <feature name="about" authors="Santayana, George" title="Some Turns of Thought in Modern Philosophy Five Essays" lang="en" />
+  <feature name="md5Hash" value="e054d0b95271a45dd519b5c8d27af394" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2088" this_length="4108" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23262" this_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25647" this_length="526" />
+</document>
+

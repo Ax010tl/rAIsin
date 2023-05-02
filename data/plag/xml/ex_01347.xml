@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01347.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="As We Were Saying" lang="en" />
+  <feature name="md5Hash" value="5d02c7c540740fb1f371bce66d7a322c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4679" this_length="2677" source_reference="source-document10685.txt" source_language="en" source_offset="569815" source_length="2948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9700" this_length="3175" source_reference="source-document10685.txt" source_language="en" source_offset="120016" source_length="3124" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18317" this_length="715" source_reference="source-document10685.txt" source_language="en" source_offset="89585" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21226" this_length="1401" source_reference="source-document10685.txt" source_language="en" source_offset="393967" source_length="1411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24822" this_length="493" source_reference="source-document10685.txt" source_language="en" source_offset="362618" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25726" this_length="271" source_reference="source-document10685.txt" source_language="en" source_offset="215806" source_length="262" />
+</document>
+

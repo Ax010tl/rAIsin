@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08345.txt">
+  <feature name="about" authors="Tennant, John A." title="Bromide Printing and Enlarging A Practical Guide to the Making of Bromide Prints by Contact and Bromide Enlarging by Daylight and Artificial Light, With the Toning of Bromide Prints and Enlargements" lang="en" />
+  <feature name="md5Hash" value="ccf7f54febd62f7191d5959dbef91635" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2445" source_reference="source-document09565.txt" source_language="en" source_offset="27220" source_length="2436" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4876" this_length="18469" source_reference="source-document09565.txt" source_language="en" source_offset="747816" source_length="19319" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23537" this_length="261" source_reference="source-document09565.txt" source_language="en" source_offset="313602" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24147" this_length="1450" source_reference="source-document09565.txt" source_language="en" source_offset="42596" source_length="1494" />
+</document>
+

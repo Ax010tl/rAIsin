@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00286.txt">
+  <feature name="about" authors="Bunyan, John" title="Works of John Bunyan — Volume 01" lang="en" />
+  <feature name="md5Hash" value="67ff055dd1463b6e20328327f63587cd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2062" this_length="16661" source_reference="source-document08394.txt" source_language="en" source_offset="4920" source_length="19447" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21608" this_length="263" source_reference="source-document08394.txt" source_language="en" source_offset="2401" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22362" this_length="1936" source_reference="source-document10191.txt" source_language="en" source_offset="11199" source_length="1965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24990" this_length="2431" source_reference="source-document10191.txt" source_language="en" source_offset="7984" source_length="2470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27658" this_length="247" source_reference="source-document10191.txt" source_language="en" source_offset="6569" source_length="243" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02083.txt">
+  <feature name="about" authors="Taft, William H." title="The South and the National Government" lang="en" />
+  <feature name="md5Hash" value="b72b749140e6cc39092b66e862e8bd6c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8758" this_length="2142" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23235" this_length="473" />
+</document>
+

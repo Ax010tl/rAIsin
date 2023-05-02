@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10685.txt">
+  <feature name="about" authors="Wilson, Woodrow" title="When a Man Comes to Himself" lang="en" />
+  <feature name="md5Hash" value="956b11dbfdd49811f61c8e8af1154028" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2027" this_length="3532" source_reference="source-document09846.txt" source_language="es" source_offset="165986" source_length="4179" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9177" this_length="3131" source_reference="source-document09846.txt" source_language="es" source_offset="140897" source_length="3731" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="15024" this_length="1661" source_reference="source-document09846.txt" source_language="es" source_offset="133890" source_length="1762" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17723" this_length="1300" source_reference="source-document09846.txt" source_language="es" source_offset="195600" source_length="1474" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="19803" this_length="316" source_reference="source-document09846.txt" source_language="es" source_offset="178560" source_length="491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="20616" this_length="690" source_reference="source-document09846.txt" source_language="es" source_offset="73502" source_length="702" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22466" this_length="1305" source_reference="source-document09846.txt" source_language="es" source_offset="83086" source_length="1473" />
+</document>
+

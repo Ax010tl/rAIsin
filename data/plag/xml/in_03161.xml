@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03161.txt">
+  <feature name="about" authors="Becke, Louis" title="&quot;The Gallant, Good Riou&quot;, and Jack Renton 1901" lang="en" />
+  <feature name="md5Hash" value="e1be63135c744cd4a0b46f7432838f0e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7386" this_length="4346" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23946" this_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27473" this_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30196" this_length="517" />
+</document>
+

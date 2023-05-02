@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03013.txt">
+  <feature name="about" authors="Serviss, Garrett Putman" title="The Moon Metal" lang="en" />
+  <feature name="md5Hash" value="e28a0422a9cd4519c986d00ed3d1c76f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3850" this_length="16592" source_reference="source-document00123.txt" source_language="en" source_offset="204417" source_length="22513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21018" this_length="2595" source_reference="source-document06837.txt" source_language="en" source_offset="217650" source_length="2444" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24035" this_length="3294" source_reference="source-document00123.txt" source_language="en" source_offset="191335" source_length="3091" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27685" this_length="561" source_reference="source-document06837.txt" source_language="en" source_offset="31053" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28716" this_length="2769" source_reference="source-document00123.txt" source_language="en" source_offset="97415" source_length="2829" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31702" this_length="243" source_reference="source-document00123.txt" source_language="en" source_offset="299637" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31946" this_length="520" source_reference="source-document06837.txt" source_language="en" source_offset="26351" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32673" this_length="450" source_reference="source-document00123.txt" source_language="en" source_offset="315151" source_length="463" />
+</document>
+

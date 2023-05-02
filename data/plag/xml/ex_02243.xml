@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02243.txt">
+  <feature name="about" authors="Senior, William" title="Lines in Pleasant Places Being the Aftermath of an Old Angler" lang="en" />
+  <feature name="md5Hash" value="86f36e1bee82e6bc4795c2a2c9bfd880" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2576" this_length="18765" source_reference="source-document01054.txt" source_language="en" source_offset="108387" source_length="19525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23594" this_length="269" source_reference="source-document09854.txt" source_language="en" source_offset="2066" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24032" this_length="2537" source_reference="source-document05041.txt" source_language="en" source_offset="2933" source_length="2490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27506" this_length="2054" source_reference="source-document09854.txt" source_language="en" source_offset="3096" source_length="2117" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30212" this_length="2300" source_reference="source-document05041.txt" source_language="en" source_offset="0" source_length="2844" />
+</document>
+

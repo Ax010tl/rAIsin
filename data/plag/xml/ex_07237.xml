@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07237.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="The Romance of a Christmas Card" lang="en" />
+  <feature name="md5Hash" value="3a33213c5311be14fbbe1f300bff9d25" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="373" this_length="1328" source_reference="source-document06636.txt" source_language="en" source_offset="21845" source_length="1441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4936" this_length="3953" source_reference="source-document06636.txt" source_language="en" source_offset="3470" source_length="4739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9832" this_length="4339" source_reference="source-document06636.txt" source_language="en" source_offset="15385" source_length="4446" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17003" this_length="548" source_reference="source-document06636.txt" source_language="en" source_offset="2479" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20168" this_length="2786" source_reference="source-document06636.txt" source_language="en" source_offset="27468" source_length="3992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23569" this_length="1476" source_reference="source-document06636.txt" source_language="en" source_offset="36484" source_length="1475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25948" this_length="1801" source_reference="source-document06636.txt" source_language="en" source_offset="20047" source_length="1798" />
+</document>
+

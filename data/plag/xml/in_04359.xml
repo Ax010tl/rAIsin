@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04359.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Travels with a Donkey in the Cevennes" lang="en" />
+  <feature name="md5Hash" value="fd5426cc3a236f7a1c9b9e17a846537d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1001" this_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27858" this_length="507" />
+</document>
+

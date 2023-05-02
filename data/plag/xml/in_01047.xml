@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01047.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Vicar of Bullhampton" lang="en" />
+  <feature name="md5Hash" value="49fa7b55bc6738dcfe54cd8cb1daf3f8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1434" this_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6391" this_length="3201" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24423" this_length="530" />
+</document>
+

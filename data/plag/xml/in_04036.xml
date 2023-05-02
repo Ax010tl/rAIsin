@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04036.txt">
+  <feature name="about" authors="Twain, Mark" title="Adventures of Huckleberry Finn, Chapters 06 to 10" lang="en" />
+  <feature name="md5Hash" value="3124fcdfac58ff14f221171df154b489" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2551" this_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7336" this_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13213" this_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19038" this_length="274" />
+</document>
+

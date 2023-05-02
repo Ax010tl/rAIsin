@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06701.txt">
+  <feature name="about" authors="Blythe, Samuel George" title="The Old Game A Retrospect after Three and a Half Years on the Water-wagon" lang="en" />
+  <feature name="md5Hash" value="2552820643e81995b0023248e465d72a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124" this_length="2603" source_reference="source-document06002.txt" source_language="en" source_offset="14456" source_length="2556" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3970" this_length="3340" source_reference="source-document06104.txt" source_language="en" source_offset="34708" source_length="3530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8562" this_length="17055" source_reference="source-document06104.txt" source_language="en" source_offset="6074" source_length="17758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28958" this_length="2140" source_reference="source-document06002.txt" source_language="en" source_offset="20747" source_length="2290" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31845" this_length="722" source_reference="source-document06104.txt" source_language="en" source_offset="44379" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32652" this_length="492" source_reference="source-document06104.txt" source_language="en" source_offset="2968" source_length="482" />
+</document>
+

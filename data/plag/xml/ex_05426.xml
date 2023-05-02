@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05426.txt">
+  <feature name="about" authors="Van Dyke, Henry" title="Fighting For Peace" lang="en" />
+  <feature name="md5Hash" value="4a028c0b5664a814d0d249cde37e1826" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4426" this_length="433" source_reference="source-document02666.txt" source_language="en" source_offset="120704" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24085" this_length="790" source_reference="source-document02666.txt" source_language="en" source_offset="69167" source_length="809" />
+</document>
+

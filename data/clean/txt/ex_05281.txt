@@ -1,0 +1,374 @@
+﻿THE ENGLISH NOVEL
+
+BY
+
+GEORGE SAINTSBURY
+
+PROFESSOR OF ENGLISH LITERATURE IN THE UNIVERSITY OF EDINBURGH
+
+LONDON: J.M. DENT & SONS LTD. BEDFORD STREET, STRAND  1913 NEW YORK: E.P. BUTTON & CO.
+
+PREFACE
+
+It is somewhat curious that there is, so far as I know, no complete handling in English of
+the subject of this volume, popular and important though that subject has been. Dunlop's History
+of Fiction, an excellent book, dealt with a much wider matter, and perforce ceased its dealing
+just at the beginning of the most abundant and brilliant development of the English division.
+Sir Walter Raleigh's English Novel, a book of the highest value for acute criticism and grace
+of style, stops short at Miss Austen, and only glances, by a sort of anticipation, at Scott.
+The late Mr. Sidney Lanier's English Novel and the Principle of its Development is really nothing
+but a laudatory study of "George Eliot," with glances at other writers, including violent denunciations
+of the great eighteenth-century men. There are numerous monographs on parts of the subject:
+but nothing else that I know even attempting the whole. I should, of course, have liked to
+deal with so large a matter in a larger space: but one may and should "cultivate the garden"
+even if it is not a garden of many acres in extent. I need only add that I have endeavoured,
+not so much to give "reviews" of individual books and authors, as to indicate what Mr. Lanier
+took for the second part of his title, but did not, I think, handle very satisfactorily in
+his text.
+
+I may perhaps add, without impropriety, that the composition of this book has not been hurried,
+and that I have taken all the pains I could, by revision and addition as it proceeded, to make
+it a complete survey of the Novel, as it has come from the hands of all the more important
+novelists, not now alive, up to the end of the nineteenth century.
+
+GEORGE SAINTSBURY.
+
+Christmas, 1912.
+
+    CONTENTS
+
+    CHAP.
+
+       I. THE FOUNDATION IN ROMANCE
+      II. FROM LYLY TO SWIFT
+     III. THE FOUR WHEELS OF THE NOVEL WAIN
+      IV. THE MINOR AND LATER EIGHTEENTH-CENTURY NOVEL
+       V. SCOTT AND MISS AUSTEN
+      VI. THE SUCCESSORS--TO THACKERAY
+     VII. THE MID-VICTORIAN NOVEL
+    VIII. THE FICTION OF YESTERDAY--CONCLUSION
+
+          INDEX
+
+THE ENGLISH NOVEL
+
+CHAPTER I
+
+THE FOUNDATION IN ROMANCE
+
+One of the best known, and one of the least intelligible, facts of literary history is the
+lateness, in Western European Literature at any rate, of prose fiction, and the comparative
+absence, in the two great classical languages, of what we call by that name. It might be an
+accident, though a rather improbable one, that we have no Greek prose fiction till a time long
+subsequent to the Christian era, and nothing in Latin at all except the fragments of Petronius
+and the romance of Apuleius. But it can be no accident, and it is a very momentous fact, that,
+from the foundation of Greek criticism, "Imitation," that is to say "Fiction" (for it is neither
+more nor less), was regarded as not merely the inseparable but the constituent property of
+poetry, even though those who held this were doubtful whether poetry must necessarily be in
+verse. It is another fact of the greatest importance that the ancients who, in other forms
+than deliberate prose fiction, try to "tell a story," do not seem to know very well how to do it.
+
+The Odyssey is, indeed, one of the greatest of all stories, it is the original romance of the
+West; but the Iliad, though a magnificent poem, is not much of a story. Herodotus can tell
+one, if anybody can, and Plato (or Socrates) evidently could have done so if it had lain in
+his way: while the Anabasis, though hardly the Cyropædia, shows glimmerings in Xenophon. But
+otherwise we must come down to Lucian and the East before we find the faculty. So, too, in
+Latin before the two late writers named above, Ovid is about the only person who is a real
+story-teller. Virgil makes very little of his story in verse: and it is shocking to think how
+Livy throws away his chances in prose. No: putting the Petronian fragments aside, Lucian and
+Apuleius are the only two novelists in the classical languages before about 400 A.D.: and putting
+aside their odd coincidence of subject, it has to be remembered that Lucian was a Syrian Greek
+and Apuleius an African Latin. The conquered world was to conquer not only its conqueror, but
+its conqueror's teacher, in this youngest accomplishment of literary art.
+
+It was probably in all cases, if not certainly, mixed blood that produced the curious development
+generally called Greek Romance. It is no part of our business to survey, in any detail, the
+not very numerous but distinctly interesting compositions which range in point of authorship
+from Longus and Heliodorus, probably at the meeting of the fourth and fifth centuries, to Eustathius
+in the twelfth. At one time indeed, when we may return to them a little, we shall find them
+exercising direct and powerful influence on modern European fiction, and so both directly and
+indirectly on English: but that is a time a good way removed from the actual beginning of our
+journey. Still, Apollonius of Tyre, which is probably the oldest piece of English prose fiction
+that we have, is beyond all doubt derived ultimately from a Greek original of this very class:
+and the class itself is an immense advance, in the novel direction, upon anything that we have
+before. It is on the one hand essentially a "romance of adventure," and on the other essentially
+a "love-story"--in senses to which we find little in classical literature to correspond in
+the one case and still less in the other. Instead of being, like Lucius and the Golden Ass,
+a tissue of stories essentially unconnected and little more than framed by the main tale, it
+is, though it may have a few episodes, an example of at least romantic unity throughout, with
+definite hero and definite heroine, the prominence and importance of the latter being specially
+noteworthy. It is in fact the first division of literature in which the heroine assumes the
+position of a protagonist. If it falls short in character, so do even later romances to a great
+extent: if dialogue is not very accomplished, that also was hardly to be thoroughly developed
+till the novel proper came into being. In the other two great divisions, incident and description,
+it is abundantly furnished. And, above all, the two great Romantic motives, Adventure and Love,
+are quite maturely present in it.
+
+To pass to the deluge, and beyond it, and to come to close quarters with our proper division,
+the origin of Romance itself is a very debatable subject, or rather it is a subject which the
+wiser mind will hardly care to debate much. The opinion of the present writer--the result,
+at least, of many years' reading and thought--is that it is a result of the marriage of the
+older East and the newer (non-classical) West through the agency of the spread of Christianity
+and the growth and diffusion of the "Saint's Life." The beginnings of Hagiology itself are
+very uncertain: but what is certain is that they are very early: and that as the amalgamation
+or leavening of the Roman world with barbarian material proceeded, the spread of Christianity
+proceeded likewise. The Vision of St. Paul--one of the earliest examples and the starter it
+would seem, if not of the whole class of sacred Romances, at any rate of the large subsection
+devoted to Things after Death--has been put as early as "before 400 A.D." It would probably
+be difficult to date such legends as those of St. Margaret and St. Catherine too early, having
+regard to their intrinsic indications: and the vast cycle of Our Lady, though probably later,
+must have begun long before the modern languages were ready for it, while that of the Cross
+should be earlier still. And let it be remembered that these Saints' Lives, which are still
+infinitely good reading, are not in the least confined to homiletic necessities. The jejuneness
+and woodenness from which the modern religious story too often suffers are in no way chargeable
+upon all, or even many, of them. They have the widest range of incident--natural as well as
+supernatural: their touches of nature are indeed extended far beyond mere incident. Purely
+comic episodes are by no means wanting: and these, like the parallel passages in the dramatising
+of these very legends, were sure to lead to isolation of them, and to a secular continuation.
+
+But, once more, we must contract the sweep, and quicken the pace to deal not with possible
+origins, but with actual results--not with Ancient or Transition literature, but with the literature
+of English in the department first of fiction generally and then, with a third and last narrowing,
+to the main subject of English fiction in prose.
+
+The very small surviving amount, and the almost completely second-hand character, of Anglo-Saxon
+literature have combined to frustrate what might have been expected from another characteristic
+of it--the unusual equality of its verse and prose departments. We have only one--not quite
+entire but substantive--prose tale in Anglo-Saxon, the version of the famous story of Apollonius
+of Tyre, which was to be afterwards declined by Chaucer, but attempted by his friend and contemporary
+Gower, and to be enshrined in the most certain of the Shakespearean "doubtfuls," Pericles.
+It most honestly gives itself out as a translation (no doubt from the Latin though there was
+an early Greek original) and it deals briefly with the subject. But as an example of narrative
+style it is very far indeed from being contemptible: and in passages such as Apollonius' escape
+from shipwreck, and his wooing of the daughter of Arcestrates, there is something which is
+different from style, and with which style is not always found in company--that faculty of
+telling a story which has been already referred to. Nor does this fail in the narrative portions
+of the prose Saints' Lives and Homilies, especially Aelfric's, which we possess; in fact it
+is in these last distinctly remarkable--as where Aelfric tells the tale of the monk who spied
+on St. Cuthbert's seaside devotions. The same faculty is observable in Latin work, not least
+in Bede's still more famous telling of the Caedmon story, and of the vision of the other world.
+
+But these faculties have better chance of exhibiting themselves in the verse division of our
+Anglo-Saxon wreckage. Beowulf itself consists of one first-rate story and one second-rate but
+not despicable tale, hitched together more or less anyhow. The second, with good points, is,
+for us, negligible: the first is a "yarn" of the primest character. One may look back to the
+Odyssey itself without finding anything so good, except the adventures of the Golden Ass which
+had all the story-work of two mightiest literatures behind them. As literature on the other
+hand, Beowulf may be overpraised: it has been so frequently. But let anybody with the slightest
+faculty of "conveyance" tell the first part of the story to a tolerably receptive audience,
+and he will not doubt (unless he is fool enough to set the effect down to his own gifts and
+graces) about its excellence as such. There is character--not much, but enough to make it more
+than a mere story of adventure--and adventure enough for anything; there is by no means ineffectual
+speech--even dialogue--of a kind: and there is some effective and picturesque description.
+The same faculties reappear in such mere fragments as that of Waldhere and the "Finnsburgh"
+fight: but they are shown much more fully in the Saints' Lives--best of all in the Andreas,
+no doubt, but remarkably also (especially considering the slender amount of "happenings") in
+the Guthlac and the Juliana. In fact the very fragments of Anglo-Saxon poetry, by a sort of
+approximation which they show to dramatic narrative and which with a few exceptions is far
+less present in the classics, foretell much more clearly and certainly than in the case of
+some other foretellings which have been detected in them, the future achievements of English
+literature in the department of fiction. The Ruin (the finest thing perhaps in all Anglo-Saxon)
+is a sort of background study for something that might have been much better than The Last
+Days of Pompeii: and The Complaint of Deor, in its allusion to the adventures of the smith
+Weland and others, makes one sorry that some one more like the historian of a later and decadent
+though agreeable Wayland the Smith, had not told us the tale that is now left untold. A crowd
+of fantastic imaginings or additions, to supply the main substance, and a certain common-sense
+grasp of actual conditions and circumstances to set them upon, and contrast them with--these
+are the great requirements of Fiction in life and character. You must mix prose and poetry
+to get a good romance or even novel. The consciences of the ancients revolted from this mixture
+of kinds; but there was no such revolt in the earlier moderns, and least of all in our own
+mediæval forefathers.
+
+So few people are really acquainted with the whole range of Romance (even in English), or with
+any large part of it, that one may without undue presumption set down in part, if not in whole,
+to ignorance, a doctrine and position which we must now attack. This is that romance and novel
+are widely separated from each other; and that the historian of the novel is really straying
+out of his ground if he meddles with Romance. These are they who would make our proper subject
+begin with Marivaux and Richardson, or at earliest with Madame de La Fayette, who exclude Bunyan
+altogether, and sometimes go so far as to question the right of entry to Defoe. But the counter-arguments
+are numerous: and any one of them would almost suffice by itself. In the first place the idea
+of the novel arising so late is unnatural and unhistorical: these Melchisedecs without father
+or mother are not known in literature. In the second a pedantic insistence on the exclusive
+definition of the novel involves one practical inconvenience which no one, even among those
+who believe in it, has yet dared to face. You must carry your wall of partition along the road
+as well as across it: and write separate histories of Novel and Romance for the last two centuries.
+The present writer can only say that, though he has dared some tough adventures in literary
+history, he would altogether decline this. Without the help of the ants that succoured Psyche
+against Venus that heap would indeed be ill to sort.
+
+But there is a third argument, less practical in appearance but bolder and deeper, which is
+really decisive of the matter, though few seem to have seen it or at least taken it up. The
+separation of romance and novel--of the story of incident and the story of character and motive--is
+a mistake logically and psychologically. It is a very old mistake, and it has deceived some
+of the elect: but a mistake it is. It made even Dr. Johnson think Fielding shallower than Richardson;
+and it has made people very different from Dr. Johnson think that Count Tolstoi is a greater
+analyst and master of a more developed humanity than Fielding. As a matter of fact, when you
+have excogitated two or more human beings out of your own head and have set them to work in
+the narrative (not the dramatic) way, you have made the novel in posse, if not in esse, from
+its apparently simplest development, such as Daphnis and Chloe, to its apparently most complex,
+such as the Kreutzer Sonata or the triumphs of Mr. Meredith. You have started the "Imitation"--the
+"fiction"--and tout est là. The ancients could do this in the dramatic way admirably, though
+on few patterns; in the poetical way as admirably, but again not on many. The Middle Ages lost
+the dramatic way almost entirely, but they actually improved the poetical on its narrative
+side, and the result was Romance. In every romance there is the germ of a novel and more; there
+is at least the suggestion and possibility of romance in every novel that deserves the name.
+In the Tristram story and the Lancelot cycle there are most of the things that the romancer
+of incident and the novelist of character and motive can want or can use, till the end of the
+world; and Malory (that "mere compiler" as some pleasantly call him) has put the possibilities
+of the latter and greater creation so that no one who has eyes can miss them. Nor in the beginning
+does it much or at all matter whether the vehicle was prose or verse. In fact they mostly wrote
+in verse because prose was not ready.
+
+In the minor romances and tales (taking English versions only) from Havelok to Beryn there
+is a whole universe of situation, scenario, opportunity for "business." That they have the
+dress and the scene-backing of one particular period can matter to no one who has eyes for
+anything beyond dress and scene-backing. And when we are told that they are apt to run too
+much into grooves and families, it is sufficient to answer that it really does not lie in the
+mouth of an age which produces grime-novels, problem-novels, and so forth, as if they had been
+struck off on a hectograph, possessing the not very exalted gift of varying names and places--to
+reproach any other age on this score. But we have only limited room here for generalities and
+still less for controversy; let us turn to our proper work and survey the actual turn-out in
+fiction--mostly as a result of mere fashion, verse, but partly prose--which the Middle Ages
+has left us as a contribution to this department of English literature.
+
+It has been said that few people know the treasures of English romance, yet there is little
+excuse for ignorance of them. It is some century since Ellis's extremely amusing, if sometimes
+rather prosaic, book put much of the matter before those who will not read originals; to be
+followed in the same path by Dunlop later, and much later still by the invaluable and delightful
+Catalogue of [British Museum] Romances by Mr. Ward. It is nearly as long since the collections
+of Ritson and Weber, soon supplemented by others, and enlarged for the last forty years by
+the publications of the Early English Text Society, put these originals themselves within the
+reach of everybody who is not so lazy or so timid as to be disgusted or daunted by a very few
+actually obsolete words and a rather large proportion of obsolete spellings, which will yield
+to even the minimum of intelligent attention. Only a very small number (not perhaps including
+a single one of importance) remain unprinted, though no doubt a few are out of print or difficult
+to obtain. The quality and variety of the stories told in them are both very considerable,
+even without making allowance for what has been called the stock character of mediæval composition.
+That almost all are directly imitated from the French is probable enough, that most are is
+certain: but this matters, for our purpose, nothing at all. That the imitation was not haphazard
+or indiscriminate is obvious. Thus, though we have some, we have not very many representatives
+of the class which was the most numerous of all in France--the chansons de geste or stories
+of French legendary history, national or family. Except as far as the Saracens are concerned,
+they would naturally have less interest for English hearers. The Matière de Rome, again--the
+legends of antiquity--though represented, is not very abundant outside of the universally popular
+Tale of Troy; and the almost equally popular Alexander legend does not occupy a very large
+part of them. What is perhaps more remarkable is that until Malory exercised his genius upon
+"the French book," the more poetical parts of the "matter of Britain" itself do not seem to
+have been very much written about in English. The preliminary stuff about Merlin and Vortigern
+exists in several handlings; the foreign campaigns of Arthur seem always (perhaps from national
+vanity) to have been popular. The "off"-branches of Tristram and Percivale, and not a few of
+the still more episodic romances of adventures concerning Gawain, Iwain, and other knights,
+receive attention. The execrable Lonelich or Lovelich, who preceded Malory a little, had of
+course predecessors in handling the other parts of the Graal story. But the crown and flower
+of the whole--the inspiration which connected the Round Table and the Graal and the love of
+Lancelot and Guinevere--though, so far as the present writer's reading and opinion are of any
+weight, the recent attempts to deprive the Englishman, Walter Map, of the honour of conceiving
+it are of no force--seems to have waited till the fifteenth century--that is to say the last
+part of three hundred years--before Englishmen took it up. Most popular of all perhaps, on
+the principle that in novels the flock "likes the savour of fresh grass," seem to have been
+the pure romans d'aventures--quite unconnected or nearly so with each other or with any of
+the larger cycles. Those adventures of particular heroes have sometimes a sort of Arthurian
+link, but they really have no more to do with the main Arthurian story than if Arthur were not.
+
+For the present purpose, however, filiation, origin, and such-like things are of much less
+importance than the actual stories that get themselves told to satisfy that demand which in
+due time is to produce the supply of the novel. Of these the two oldest, as regards the actual
+forms in which we have them, are capital examples of the more and less original handling of
+"common-form" stories or motives. They were not then, be it remembered, quite such common-form
+as now--the rightful heir kept out of his rights, the usurper of them, the princess gracious
+or scornful or both by turns, the quest, the adventure, the revolutions and discoveries and
+fights, the wedding bells and the poetical justice on the villain. Let it be remembered, too,
+if anybody is scornful of these as vieux jeu, that they have never been really improved upon
+except by the very obvious and unoriginal method common in clever-silly days, of simply reversing
+some of them, of "turning platitudes topsy-turvy," as not the least gifted, or most old-fashioned,
+of novelists, Tourguenief, has it. Perhaps the oldest of all, Havelok the Dane--a story the
+age of which from evidence both internal and external, is so great that people have not quite
+gratuitously imagined a still older Danish or even Anglo-Saxon original for the French romance
+from which our existing one is undoubtedly taken--is one of the most spirited of all. Both
+hero and heroine--Havelok, who should be King of Denmark and Goldborough, who should be Queen
+of England--are ousted by their treacherous guardian-viceroys as infants; and Havelok is doomed
+to drowning by his tutor, the greater or at least bolder villain of the two. But the fisherman
+Grim, who is chosen as his murderer, discovers that the child has, at night, a nimbus of flame
+round his head; renounces his crime and escapes by sea with the child and his own family to
+Grimsby. Havelok, growing up undistinguished from his foster-brethren, takes service as a scullion
+with the English usurper. This usurper is seeking how to rid himself of the princess without
+violence, but in some way that will make her succession to the crown impossible, and Havelok
+having shown prowess in sports is selected as the maiden's husband. She, too, discovers his
+royalty at night by the same token; and the pair regain their respective inheritances and take
+vengeance on their respective traitors, in a lively and adventurous fashion. There are all
+the elements of a good story in this: and they are by no means wasted or spoilt in the actual
+handling. It is not a mere sequence of incident; from the mixture of generosity and canniness
+in the fisherman who ascertains that he is to have traitor's wages before he finally decides
+to rescue Havelok, to the not unnatural repugnance of Goldborough at her forced wedding with
+a scullion, the points where character comes in are not neglected, though of course the author
+does not avail himself of them either in Shakespearean or in Richardsonian fashion. They are
+there, ready for development by any person who may take it into his head to develop them.
+
+So too is it in the less powerful and rather more cut and dried King Horn. Here the opening
+is not so very different; the hero's father is murdered by pirate invaders, and he himself
+set adrift in a boat. But in this the princess (daughter of course of the king who shelters
+him) herself falls in love with Horn, and there is even a scene of considerable comic capabilities
+in which she confides this affection by mistake to one of his companions (fortunately a faithful
+one) instead of to himself. But Horn has a faithless friend also; and rivals, and adventures,
+and journeys; and returns just in the nick of time, and recognitions by rings, and everything
+that can properly be desired occur. In these--even more perhaps than in Havelok's more masculine
+and less sentimental fortunes--there are openings not entirely neglected by the romancer (though,
+as has been said, he does not seem to have been one of the strongest of his kind) for digression,
+expatiation, embroidery. Transpose these two stories (as the slow kind years will teach novelists
+inevitably to do) into slightly different keys, introduce variations and episodes and codas,
+and you have the possibilities of a whole library of fiction, as big and as varied as any that
+has ever established itself for subscribers, and bigger than any that has ever offered itself
+as one collection to buyers.
+
+The love-stories of these two tales are what it is the fashion--exceedingly complimentary to
+the age referred to if not to the age of the fashion itself--to call "mid-Victorian" in their
+complete "propriety." Indeed, it is a Puritan lie, though it seems to possess the vivaciousness
+of its class, that the romances are distinguished by "bold bawdry." They are on the contrary
+rather singularly pure, and contrast, in that respect, remarkably with the more popular folk-tale.
+But fiction, no more than drama, could do without the [Greek: amarthia]--the human and not
+unpardonable frailty. This appears in, and complicates, the famous story of Tristram, which,
+though its present English form is probably younger than Havelok and Horn, is likely to have
+existed earlier: indeed must have done so if Thomas of Erceldoune wrote on the subject. Few
+can require to be told that beautiful and tragical history of "inauspicious stars" which hardly
+any man, of the many who have handled it in prose and verse, has been able to spoil. Our Middle
+English form is not consummate, and is in some places crude in manner and in sentiment. But
+it is notable that the exaggerated and inartistic repulsiveness of Mark, resorted to by later
+writers as a rather rudimentary means of exciting compassion for the lovers, is not to be found
+here; in fact, one of the most poetical touches in the piece is one of sympathy for the luckless
+husband, when he sees the face of his faithless queen slumbering by her lover's side with the
+sun on it. "And Mark rewed therefore." The story, especially in its completion with the "Iseult
+of Brittany" part and the death of Tristram, gives scope for every possible faculty and craftsmanship
+of the most analytic as of the most picturesque novelist of modern times. There is nothing
+in the least like it in ancient literature; and to get a single writer who would do it justice
+in modern times we should have to take the best notes of Charles Kingsley, and Mr. Blackmore,
+and Mr. Meredith, leaving out all their faults, and combine. It is not surprising that, in
+the very infancy of the art, nobody in German or French, any more than in English (though the
+German here is, as it happens, the best), should have done it full justice; but it is a wonder
+that a story of such capacities should have been sketched, and even worked out in considerable
+detail, so early.
+
+Of the far greater story of which Tristram is a mere episode and hardly even that--a chantry
+or out-lying chapel of the great cathedral--the Arthurian Legend, the earlier English versions,
+or rather the earlier versions in English, are, as has been said, not only fragmentary but
+disappointing. There is nothing in the least strange in this, even though (as the present writer,
+who can speak with indifferent knowledge, still firmly holds) the conception of the story itself
+in its greatest and unifying stage is probably if not certainly English. The original sources
+of the story of Arthur are no doubt Celtic; they give themselves out as being so, and there
+is absolutely no critical reason for disbelieving them. But in these earlier forms--the authority
+of the most learned Celticists who have any literary gift and any appreciation of evidence
+is decisive on this point--not only are the most characteristic unifying features--the Graal
+story and the love of Lancelot and Guinevere--completely wanting, but the great stroke of genius--the
+connection of these two and the subordination of all minor legends as to the dim national hero,
+Arthur, with those about him--is more conspicuously wanting still. Whether it was the Englishman
+Walter Map, the Norman Robert de Borron, or the Frenchman Chrestien de Troyes, to whom this
+flash of illumination came, has never been proved--will pretty certainly now never be proved.
+M. Gaston Paris failed to do it; and it is exceedingly unlikely that, where he failed, any
+one else will succeed, unless the thrice and thirty times sifted libraries of Europe yield
+some quite unexpected windfall. In the works commonly attributed to Chrestien, all of which
+are well known to the present writer, there is no sign of his having been able to conceive
+this, though he is a delightful romancer. Robert is a mere shadow; and his attributed works,
+as his works, are shadows too, though they are interesting enough in themselves. Walter not
+only has the greatest amount of traditional attribution, but is the undoubted author of De
+Nugis Curialium. And the author of De Nugis Curialium, different as it is from the Arthurian
+story, could have finally divined the latter.
+

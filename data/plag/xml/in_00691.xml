@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00691.txt">
+  <feature name="about" authors="Schmid, Christoph von" title="Blumenkörbchen. English - The Basket of Flowers" lang="en" />
+  <feature name="md5Hash" value="c70667e08878d41efb19b921da95fa4c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2248" this_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5883" this_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10915" this_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20151" this_length="818" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01518.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Diversities of American Life" lang="en" />
+  <feature name="md5Hash" value="89a097998bcc9149f7fde3b9699fd1d6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4193" this_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15956" this_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24403" this_length="233" />
+</document>
+

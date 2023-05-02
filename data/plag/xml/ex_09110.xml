@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09110.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="The Fatal Boots" lang="en" />
+  <feature name="md5Hash" value="1ffa67036b2d714f1ce25e9301e8f271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7351" this_length="1446" source_reference="source-document07203.txt" source_language="en" source_offset="112766" source_length="1456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22111" this_length="524" source_reference="source-document07203.txt" source_language="en" source_offset="44067" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24468" this_length="245" source_reference="source-document09198.txt" source_language="en" source_offset="174974" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28175" this_length="227" source_reference="source-document07203.txt" source_language="en" source_offset="33598" source_length="229" />
+</document>
+

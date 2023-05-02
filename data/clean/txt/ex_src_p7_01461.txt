@@ -1,0 +1,395 @@
+﻿ Harvey, however, admitted his inability clearly to trace
+the "true cause of this remarkable phenomenon," but at the same time suggested that "a taste
+for pure geometry, something like that for entomology among the weavers of Spitalfields, may
+have been transmitted from father to son; but who was the distinguished individual first to
+create it, in the peculiar race of men here adverted to, seems not to be known." However, as
+"the two great restorers of ancient geometry, Matthew Stewart and Robert Simson, it may be
+observed, lived in Scotland," he asks the important questions:--"Did their proximity encourage
+the growth of this spirit? Or were their writings cultivated by some teacher of a village school,
+who communicated by a method, which genius of a transcendental order knows so well how to employ,
+a taste for these sublime inquiries, so that at length they gradually worked their way to the
+anvil and the loom?"
+
+An attentive consideration of these questions in all their bearings has produced in the mind
+of the writer a full conviction that we must look to other sources for the revival of the study
+of the ancient geometry than either the writings of Stewart or Simson. It has been well observed
+by the most eminent geometer of our own times, Professor Davies--whose signature of PEN-AND-INK
+(Vol. ii., p. 8.) affords but a flimsy disguise for his well-known propria persona--that "it
+was a great mistake for these authors to have written their principal works in the Latin language,
+as it has done more than anything else to prevent their study among the only geometers of the
+eighteenth century who were competent to understand and value them;" and it is no less singular
+than true, as the same writer elsewhere observes, "that whilst Dr. Stewart's writings were
+of a kind calculated to render them peculiarly attractive to the non-academic school of English
+geometers, they remain to this day less generally known than the writings of any geometer of
+these kingdoms." The same remarks, in a slightly qualified form, may be applied to most of
+the writings of Simson; for although his edition of Euclid is now the almost universally adopted
+text-book of geometry in England, at the time of its first appearance in 1756 it did not differ
+so much from existing translations as to attract particular attention by the novelty of its
+contents. Moreover, at this time the impulse had already been given and was silently exerting
+its influence upon a class of students of whose existence Dr. Simson appears to have been completely
+ignorant. In one of his letters to Nourse (Phil. Mag., Sept. 1848, p. 204.) he regrets that
+"the taste for the ancient geometry, or indeed any geometry, seems to be quite worn out;" but
+had he instituted an examination of those contemporary periodicals either wholly or partially
+devoted to mathematics, he would have been furnished with ample reasons for entertaining a
+different opinion.
+
+We have every reason to believe that the publication of Newton's Principia had a powerful effect
+in diffusing a semi-geometrical taste amongst the academical class of students in this country,
+and it is equally certain that this diffusion became much more general, when Motte, in 1729,
+published his translation of that admirable work. The nature of the contents of the Principia,
+however, precluded the possibility of its being adapted to form the taste of novices in the
+study of geometry; it served rather to exhibit the ne plus ultra of the science, and produced
+its effect by inducing the student to master the rudimentary treatises thoroughly, in order
+to qualify himself for understanding its demonstrations, rather than by providing a series
+of models for his imitation. A powerful inducement to the study of pure geometry was therefore
+created by the publication of Motte's translation: ordinary students had here a desirable object
+to obtain by its careful cultivation, which hitherto had not existed, and hence when Professor
+Simpson, of Woolwich, published his Algebra and the Elements of Geometry in 1745 and 1747,
+a select reading public had been formed which hailed these excellent works as valuable accessions
+to the then scanty means of study. Nor must the labours of Simpson's talented associates, Rollinson
+and Turner, be forgotten when sketching the progress of this revival. The pages of the Ladies'
+Diary, the Mathematician, and the Mathematical Exercises, of which these gentlemen were severally
+editors and contributors, soon began to exhibit a goodly array of geometrical exercises, whilst
+their lists of correspondents evince a gradual increase in numbers and ability. The publication
+of Stewart's General Theorems and Simson's edition of Euclid, in 1746 and 1756, probably to
+some extent assisted the movement; but the most active elements at work were undoubtedly the
+mathematical periodicals of the time, aided by such powerful auxiliaries as Simpson's Select
+Exercises (1752) and his other treatises previously mentioned. It may further be observed that
+up to this period the mere English reader had few, if any means of obtaining access to the
+elegant remains of the ancient geometers. Dr. Halley had indeed given his restoration of Apollonius's
+De Sectione Rationis and Sectione Spatii in 1706. Dr. Simson had also issued his edition of
+the Locis Planis in 1749; but unfortunately the very language in which these valuable works
+were written, precluded the possibility of {59} these unlettered students being able to derive
+any material advantages from their publication: and hence arises another weighty reason why
+Simpson's writings were so eagerly studied, seeing they contained the leading propositions
+of some of the most interesting researches of the Alexandrian School.
+
+After the death of Simpson, the Rev. John Lawson, who appears to have inherited no small portion
+of the spirit of his predecessors, began to take the lead in geometrical speculations; and
+having himself carefully studied the principal writings of the ancient geometers, now formed
+the happy project of unfolding these treasures of antiquity to the general reader, by presenting
+him with English translations of most of these valuable remains. With this view he published
+a translation of Vieta's restoration of Apollonius on Tangencies, in 1764, and to this, in
+the second edition of 1771, was added the Treatise on Spherical Tangencies, by Fermat, which
+has since been reprinted in the Appendix to the Ladies' Diary for 1840. In 1767 appeared Emerson's
+Treatise on Conic Sections; a work which, notwithstanding its manifest defects, contributed
+not a little to aid the student in his approaches to the higher geometry, but whose publication
+would probably have been rendered unnecessary, had Dr. Simson so far loosened himself from
+the trammels of the age, as to have written his own admirable treatise in the English language.
+The frequency, however, with which Mr. Emerson's treatise has been quoted, almost up to the
+present date, would appear to justify the propriety of including it amongst the means by which
+the study of geometry was promoted during the last generation. The success which attended Mr.
+Lawson's first experiment induced him to proceed in his career of usefulness by the publication,
+in 1772, of the Treatise on Determinate Section; to which was appended an amended restoration
+of the same work by Mr. William Wales, the well-known geometer, who attended Captain Cook as
+astronomer, in one of his earlier voyages. In 1773 appeared the Synopsis of Data for the Construction
+of Triangles, which was followed in 1774 by his valuable Dissertations on the Geometrical Analysis
+of the Ancients; and although the author used an unjustifiable freedom with the writings of
+others, Dr. Stewart's more especially, it is nevertheless a work which probably did more to
+advance the study of the ancient geometry than any other separate treatise which could be named.
+As these publications became distributed amongst mathematicians, the Magazines, the Diaries,
+and various other periodicals, began to show the results of the activity which had thus been
+created; geometrical questions became much more abundant, and a numerous list of contributions
+appeared which afford ample proof that their able authors had entered deeply into the spirit
+of the ancient geometry. During the year 1777 Mr. Lawson issued the first portion of Dr. Simson's
+restoration of Euclid's Porisms, translated from the Opera Reliqua of that distinguished geometer;
+and though the work was not continued, sufficient had already been done to furnish the generality
+of students with a clue to the real nature of this celebrated enigma of antiquity. The last
+of these worthy benefactors to the non-academic geometers of the last century was Mr. Reuben
+Burrow, who by publishing in 1779 his Restitution of Apollonius Pergæus on Inclinations gave
+publicity to a valuable relic which would otherwise have remained buried in the Latin obscurity
+of Dr. Horsley's more elaborate production.
+
+During the greater portion of the time just reviewed, Mr. Jeremiah Ainsworth was resident in
+the neighbourhood of Manchester, and so early as 1761 was in correspondence with the editors
+of the Mathematical Magazine. He subsequently associated with Mr. George Taylor, a gentleman
+of kindred habits, then resident in the immediate vicinity, and these worthy veterans of science,
+as time wore on, collected around them a goodly array of pupils and admirers, and hence may
+truly be said not only to have laid the foundation of the "Oldham Society," but also to have
+been the fathers of the Lancashire school of geometers. Such then was the state of affairs
+in the mathematical world at the period of which we are speaking; all the works just enumerated
+were attracting the attention of all classes of students by their novelty or elegance; Dr.
+Hutton and the Rev. Charles Wildbore had the management of the Diaries, each vieing with the
+other in offering inducements for geometrical research; whilst both, in this respect, for a
+time, had to contend against the successful competition of Reuben Burrow, the talented editor
+of Carnan's Diary: correspondents consequently became numerous and widely extended, each collecting
+around him his own select circle of ardent inquirers; and thus it was, to use the words of
+Mr. Harvey, and answer the questions proposed, that inquiries which had hitherto been "locked
+up in the deep, and to them unapproachable recesses of Plato, Pappus, Apollonius and Euclid
+* * porisms and loci, sections of ratio and of space, inclinations and tangencies,--subjects
+confined among the ancients to the very greatest minds, (became) familiar to men whose condition
+in life was, to say the least, most unpropitious for the successful prosecution of such elevated
+and profound pursuits."
+
+The preceding sketch is respectfully submitted as an attempt to answer the queries of PEN-AND-INK,
+so far as Lancashire is concerned. It is not improbable that other reasons, equally cogent,
+or perhaps corrective of several of the preceding, may be advanced by some of your more learned
+correspondents, whose experience and means of reference are superior to my own. Should any
+such {60} be induced to offer additions or corrections to what is here attempted, and to extend
+the inquiry into other localities, your pages will afford a most desirable medium through which
+to compare notes on a very imperfectly understood but most important subject of inquiry.
+
+T. T. WILKINSON.
+
+Burnley, Lancashire, June 5. 1850.
+
+       *       *       *       *       *
+
+QUERIES ANSWERED, NO. 8.
+
+Passing over various queries of early date, on which it has been my intention to offer some
+suggestions, I have endeuoyred me, as Master Caxton expresses it, to illustrate three subjects
+recently mooted.
+
+Trianon (No. 27.).--The origin of this name is thus stated by M. Dolort, in his excellent work
+entitled Mes voyages aux environs de Paris, ii. 88.
+
+    "Le grand Trianon.--Appelé au 13^e siècle Triarmun, nom d'une
+    ancienne paroisse, qui était divisée en trois villages dépendant du
+    diocèse de Chartres. Cette terre, qui appartenait aux moines de
+    Sainte-Geneviève, fut achetée par Louis XIV. pour agrandir le parc de
+    Versailles, et plus tard il y fit coustruire le château."
+
+Wood paper (No. 32.).--At the close of the last century a patent was granted to Matthias Koops
+for the manufacture of paper from straw, wood, &c. In September 1800, he dedicated to the king
+a Historical account of the substances which have been used to describe events, in small folio.
+The volume is chiefly printed on paper made from straw; the appendix is on paper made from
+wood alone. Both descriptions of paper have borne the test of time extremely well. Murray,
+in his Practical remarks on modern paper, speaks of Koops and his inventions with much ignorance
+and unfairness.
+
+Tobacco in the East (No. 33.).--Relying on the testimony of Juan Fragoso, physician to Felipe
+II. of Spain, I venture to assert that tobacco is not indigenous to the East. To the same effect
+writes Monardes. Nevertheless, it was cultivated in Java as early as the year 1603. Edmund
+Scott, factor for the East India Company at Bantam, thus describes the luxuries of the Javans:--
+
+    "They are very great eaters--and they haue a certaine hearbe called
+    bettaile which they vsually have carryed with them wheresoeuer they
+    goe, in boxes, or wrapped vp in cloath like a suger loafe: and also a
+    nutt called pinange, which are both in operation very hott, and they
+    eate them continually to warme them within, and keepe them from the
+    fluxe. They doe likewise take much tabacco, and also opium."--An
+    exact discovrse etc. of the East Indians, London, 1606. 4^o. Sig. N.
+    2.
+
+BOLTON CORNEY.
+
+       *       *       *       *       *
+
+MEANING OF "BAWN."
+
+Bawn (Vol. i, p. 440.) has been explained as "the outer fortification, inclosing the court-yard
+of an Irish castle or mansion, and was generally composed of a wall with palisadoes, and sometimes
+flankers."
+
+The word bawn or bane (the a pronounced as in the English word hat) is still applied in the
+south of Ireland to the spot of ground used as a place for milking the cows of a farm, which,
+for obvious reasons, is generally close to the farm-house. Before the practice of housing cattle
+became general, every country gentleman's house had its bawn or bane. The necessity for having
+such a place well fenced, and indeed fortified, in a country and period when cattle formed
+the chief wealth of all parties, and when the country was infested by Creaghadores and Rapparees,
+is obvious; and hence the care taken in compelling the "undertakers in Ulster" to have at least
+"a good bawn after the Irish fashion." In Munster the word bane or bawn is used to express
+land that has been long in grass; tholluff bawn being used to signify grass land about to be
+brought into cultivation; and tholluff breagh, or red land, land which has been recently turned.
+To redden land is still used to express either to plough land, or, more generally, to turn
+land with the spade.
+
+Now the milking field was, and is always kept in grass, and necessarily receiving a good deal
+of manure, would usually be white from the growth of daisies and white clover. Hence such a
+field would be called the white field: and from this to the general application of the phrase
+to grass land the transition is easy and natural. It may be proper to add, that in Kerry, particularly,
+the word is pronounced bawn, in speaking Irish; but the same person will call it bane, if mentioning
+such land in English. The a in the latter word is, as I said before, pronounced like the a in hat.
+
+The Irish for a cow being bo, the phrase may have had its origin therefrom. On this matter,
+as on all relating to Irish antiquities, the readers of "NOTES AND QUERIES" may be glad to
+have a sure person to refer to; and they cannot refer to a more accomplished Irish scholar
+and antiquarian than "Eugene Curry". His address is, "Royal Irish Academy, Grafton Street, Dublin."
+
+KERRIENSIS.
+
+       *       *       *       *       *
+
+Replies To Minor Queries.
+
+Births, Marriages, &c., Taxes on (Vol. ii., p. 10.).--The first instance, that I am aware of,
+of a tax on marriages in this country, occurs in the 5 of Wm. and Mary, c. 21. The war in which
+William engaged soon rendered it necessary to tax other incidents of humanity; and accordingly
+the 6 & 7 Wm. III. c. 6. was passed, granting to his Majesty certain {61} rates and duties
+upon marriages, births, deaths, and burials, and upon bachelors and widowers (a widely-spread
+net), for the term of five years, "for carrying on the war against France with vigour." The
+taxes on births, marriages, and burials were continued indefinitely by the 7 & 8 Wm. III. c.
+35. I know not when this act was repealed; but by the 23 George III. c. 67., taxes were again
+imposed on burials, births, marriages, and christenings; and by 25 George III. c. 75. these
+taxes were extended to Dissenters. By the 34 George III. c. 11., the taxes were repealed, and
+they ceased on October 1st, 1794. The entries in the parish register noticed by ARUN, refer
+to these taxes. Query, Were our ancestors justified in boasting that they were "free-born"
+Englishmen as long as one of these taxes existed?
+
+C. ROSS.
+
+M. or N. (Vol. i., p. 415.).--These must, I think, be the initials of some words, and not originating
+in a corruption of nom, as suggested. We have in the marriage service:--
+
+  "'I publish the banns of marriage between M. of ---- and N. of ----.'
+  "The curate shall say unto the man,
+  "M. 'Wilt thou have this woman,' &c.
+  "The priest shall say unto the woman,
+  "N. 'Wilt thou have this man,' &c.
+  "The man says: 'I, M. take thee N. to my wedded wife,' &c.
+  "The woman says: 'I, N. take thee M. to my wedded husband,'" &c.
+  Again, "Forasmuch as M. and N. have consented together," &c.
+
+All these passages would go to show that the letters are initials either of some word by which
+the sex was denoted, or of some very common Christian names of each sex, which were formerly
+in use.
+
+I grant that, in the baptismal service, N. may possibly stand for nomen.
+
+THOS. COX.
+
+Preston.
+
+Arabic Numerals.--I am not entitled to question either the learning or the "acumen" of the
+Bishop of Rochester; but I am entitled to question the interpretation which E. S. T. tells
+us (Vol. ii., p.27.) he puts upon the Castleacre inscription. My title to do so is this:--that
+in the year of grace 1084 the Arabic numerals were not only of necessity unknown to the "plaisterers"
+of those walls, but even (as far as evidence has been yet adduced) to the most learned of England's
+learned men.
+
+As to the regular order in crossing himself, that will entirely depend upon whether the plaister
+was considered to be a knight's shield, and the figures the blazonry, or not. Is it not, indeed,
+stated in one of your former numbers, that this very inscription was to be read 1408, and not
+1048? I have already hinted at the necessity of caution in such cases; and Mr. Wilkinson of
+Burnley has given, in a recent number of your work, two exemplifications. The Bishop of Rochester
+certainly adds another; though, of course, undesignedly.
+
+T. S. D.
+
+Shooter's Hill, June 7.
+
+Comment. in Apocalypsin (Vol. i., p. 452.).--There was a copy of this volume in the library
+of the Duke of Brunswick; and in the hope that Sir F. Madden may succeed in obtaining extracts,
+or a sight of it, I intimate just as much, though not in this kingdom. (See Von der Hardt's
+Autographa Lutheri et Coætaneorum, tom. iii. 171.) You do not seem to have any copy whatever
+brought to your notice. This collection was, it appears from the Centifolium Lutheranum of
+Fabricius (p. 484.), bequeathed by the Duke to the library at Helmstad.
+
+NOVUS.
+
+Robert Deverell (Vol. i., p. 469.).--If my information is too scanty to deserve a place among
+the Replies, you may treat it as a supplement to Dr. Rimbault's Query. Mr. Deverell also published
+(according to Lowndes) A New View of the Classics and Ancient Arts, tending to show the invariable
+Connexion with the Sciences, 4to. Lond. 1806; and Discoveries in Hieroglyphics and other Antiquities,
+6 vols. 8vo. Lond. 1813,--which was suppressed by the author after a few copies had been sold.
+I have the second and third volumes, being all that relates to Shakspeare. They consist of
+an edition of Hamlet, Lear, Othello, Merchant of Venice, and the third satire of Horace, copiously
+illustrated with notes and woodcuts, intended to prove that in the works in question, in common
+with "all the classics and the different specimens of the arts which have come down to us from
+the ancients, no part of them is to be understood without supposing that they were mere vehicles
+of knowledge, not intended to meet the eye or the understanding on the first inspection or
+perusal;" in short, that all the phrases, characters, and incidents are merely allusions to
+the appearances of the moon! a representation of which, and of Shakspearian characters, &c.,
+bearing supposed resemblance to its lights and shadows, form the staple of the illustrations.
+I collect from passages in these volumes, that the first was devoted to a similar illustration
+of Hudibras. The whole affair seems to afford indications of insanity. In the Biographical
+Dictionary of Living Authors, 8vo., Lond. 1816, I find that in 1802 he was returned to Parliament
+by the borough of Saltash, in Cornwall: and from the same authority it also appears that, in
+addition to the works above noticed, he was the author of A Guide to the Knowledge of the Ancients,
+1803, and A letter to Mr. Whitbread on two Bills pending in Parliament, 8vo. 1807.
+
+J. F. M.
+
+{62} The Hippopotamus.--The Scotch Kilt.--I was on the point of addressing a Minor Query to
+you, when No. 33. arrived, and therein I saw a Major Query from L. (p.36.), which prompts an
+immediate answer. He asks, "Has there been a live hippopotamus in Europe since the reign of
+Commodus?" To be sure there has, and Capitolinus would have set him right. A goodly assemblage
+of animals of all sorts was collected by Gordianus Pius, but used by the elder Philip, for
+the celebration of the secular games on the 1000th anniversary of the building of Rome, or
+A.D. 248. Among them were 32 elephants, 10 tigers, 10 elks, 60 lions, 30 leopards, 10 hyænas,
+1 hippopotamus, 1 rhinoceros, 40 wild horses, 20 wild asses, and 10 giraffes, with a vast quantity
+of deer, goats, antelopes, and other beasts. "And," it is added in Captain Smyth's Roman Catalogue,
+"still further to increase the public hilarity, 2000 gladiators were matched in mortal affray."
+
+The portrait of the hippopotamus exhibited on that splendid occasion is well represented upon
+the large brass medals of Otacilia Severa, Philip's wife, and on those of their son, Philip
+Junior. That of Otacilia is described at length in Captain Smyth's work.
+
+Now for my Minor Query. Can you, Sir, or any of your intelligent correspondents, oblige me
+by saying who introduced the kilt into Scotland and when? However it may wound local prejudice,
+I fear our northern brethren will find its use to be much more recent than they seem willing
+to be aware of. At present I will not put a rider on the question, by asking, whether an Englishman
+first gave it them: but perhaps you, Sir, will sift it thoroughly, even although a whole corps
+of rabid MacNicolls should enter the field against you.
+
+[Sigma]
+
+Ashes to Ashes (Vol. ii., p. 22.).--The word is taken from Genesis, xviii. 27.:
+
+    "I have taken upon me to speak unto the LORD, which am but dust and
+    ashes."
+
+It is plain that this has nothing to do with the treatment of the corpse; but that whatever
+the exact meaning of the word in Hebrew may be, it is synonymous with dust. As to dust, this
+is perfectly plain in Genesis, iii.
+
+Here burial seems to be distinctly meant.
+
+The Latin word cinis, which denotes ashes produced by burning, is derived from the Greek, which
+denotes natural dust, I forget whether burnt ashes also.
+
+C. B.
+
+Dr. Maginn's Miscellanies (Vol. i., p. 470.).--Mr. Tucker Hunt (brother of Mr. F. Knight Hunt,
+author of The Fourth Estate, a History of Newspapers, &c. &c.) showed me some years since a
+collections of these papers from various sources, which he proposed to publish, and which I
+was very glad to learn, as I had always regretted that Dr. Maginn had left no memorial of his
+splendid talents in a seperate publication, but frittered away his genius in periodicals. As
+"J. M. B." appears very anxious to obtain an authentic reference to any article contributed
+by the Dr., I think if he could communicate with Mr. Tucker Hunt, it might be of great assistance.
+I have not the latter's address, but probably a note to the care of his brother's publisher,
+"D. Bogue, Fleet Street", might lead to a communication.
+
+W. H. LAMMIN.
+
+Fulham, June 5. 1850
+
+Living Dog better than a dead Lion.--For an answer to my Query at Vol. i., pp. 352. 371., where
+I asked for the authority upon which Baunez gave Homer credit for the expression (which is
+evidently none of his), "quod leoni mortuo etiam lepores insultant," a friend has referred
+me to Antholog. Græc.. 8vo. Lipsiæ, 1794, tom. iv. p. 112.; out of which you may, perhaps,
+think it not too late to insert the following Epigr. xi.
+
+  [Greek: "Hôs apo Hektoros titrôskomenou hupo Hellênôn,]
+  [Greek: Ballete nun meta potmon emon demas. hotti kai autai]
+  [Greek: Nekrou sôma leontos ephubrizousi lagôoi."]
+
+J. SANSOM.
+
+Gaol Chaplains (Vol. ii., p. 22.) were made universal by act of parliament in the fourth year
+of George IV. Before that they may have existed in some places. In Gloucestershire from 1786.
+
+C. B.
+
+Rome Ancient and Modern (Vol. ii., p. 21.)--Such a map as your correspondent A. B. M. describes,
+was at Rome in 1827. It was by Vasi. I got it, but never saw it in England.
+
+C. B.
+
+Trianon (Vol. ii., p. 47.).--In justice to myself, and in reply to your correspondent C., who
+believes I have "not the slightest authority" for my explanation of the word Trianon, I beg
+to refer him to the French dictionaries, in some of which, at all events, he will find it thus
+written: Trianon, subst. masc., a pavilion.
+
+J. K. R. W.
+
+       *       *       *       *       *
+
+Miscellanies
+
+Aboriginal Chambers near Tilbury (Vol. i., p. 462.).--Mr. Cook, of Abeley, Essex, having seen
+this Query, which had been kindly quoted into The Athenæum of the 25th ultimo, communicated
+to that journal on Saturday, June 1st, the following information respecting two of these caves,
+the result of a personal examination of them:--
+

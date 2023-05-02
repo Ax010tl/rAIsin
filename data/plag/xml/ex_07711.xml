@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07711.txt">
+  <feature name="about" authors="Wairy, Louis Constant" title="Recollections of the Private Life of Napoleon — Volume 04" lang="en" />
+  <feature name="md5Hash" value="a2e904d90f4b61cea91121ff7fce0e2d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1511" this_length="15372" source_reference="source-document01132.txt" source_language="en" source_offset="6583" source_length="18817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19715" this_length="4565" source_reference="source-document01132.txt" source_language="en" source_offset="890" source_length="4555" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24281" this_length="534" source_reference="source-document00163.txt" source_language="en" source_offset="189" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24901" this_length="510" source_reference="source-document01132.txt" source_language="en" source_offset="25400" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25646" this_length="528" source_reference="source-document01132.txt" source_language="en" source_offset="28110" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26559" this_length="237" source_reference="source-document00163.txt" source_language="en" source_offset="3204" source_length="246" />
+</document>
+

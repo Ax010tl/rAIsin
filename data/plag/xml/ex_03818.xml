@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03818.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Lady Byron Vindicated A history of the Byron controversy from its beginning in 1816 to the present time" lang="en" />
+  <feature name="md5Hash" value="d389717b1a463298fb57dc6a4d09d406" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11472" this_length="1823" source_reference="source-document04015.txt" source_language="en" source_offset="17851" source_length="1811" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22439" this_length="509" source_reference="source-document04015.txt" source_language="en" source_offset="7945" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23576" this_length="253" source_reference="source-document04015.txt" source_language="en" source_offset="17604" source_length="247" />
+</document>
+

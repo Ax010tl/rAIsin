@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00033.txt">
+  <feature name="about" authors="Wheeler, Candace" title="The Development of Embroidery in America" lang="en" />
+  <feature name="md5Hash" value="c7f7d50b0d70bc5c0db9a78901b3934a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7897" this_length="1899" source_reference="source-document03833.txt" source_language="en" source_offset="17058" source_length="1742" />
+</document>
+

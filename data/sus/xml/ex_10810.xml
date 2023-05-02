@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10810.txt">
+  <feature name="about" authors="Simms, William Gilmore" title="Confession, or, the Blind Heart; a Domestic Story" lang="en" />
+  <feature name="md5Hash" value="795c24d4c8bdc5d00904351aadede596" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="614" this_length="4339" source_reference="source-document09966.txt" source_language="de" source_offset="1266" source_length="4841" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6768" this_length="3961" source_reference="source-document09966.txt" source_language="de" source_offset="8407" source_length="4542" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12942" this_length="2629" source_reference="source-document06262.txt" source_language="de" source_offset="5637" source_length="2791" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="16473" this_length="1029" source_reference="source-document08640.txt" source_language="de" source_offset="90589" source_length="1938" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="18530" this_length="2552" source_reference="source-document08640.txt" source_language="de" source_offset="12174" source_length="2882" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="22192" this_length="445" source_reference="source-document08640.txt" source_language="de" source_offset="75285" source_length="497" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22698" this_length="209" source_reference="source-document09966.txt" source_language="de" source_offset="6156" source_length="248" />
+</document>
+

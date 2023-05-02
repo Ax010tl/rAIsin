@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09020.txt">
+  <feature name="about" authors="Vasari, Giorgio" title="The Lives of the Painters, Sculptors &amp; Architects, Volume 1 (of 8)" lang="en" />
+  <feature name="md5Hash" value="734e3f9dcef838f200c542c58bc2a1ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2319" this_length="20915" source_reference="source-document06915.txt" source_language="en" source_offset="7425" source_length="20518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23235" this_length="675" source_reference="source-document06915.txt" source_language="en" source_offset="4954" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24189" this_length="261" source_reference="source-document06915.txt" source_language="en" source_offset="392" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24676" this_length="1491" source_reference="source-document06915.txt" source_language="en" source_offset="5654" source_length="1484" />
+</document>
+

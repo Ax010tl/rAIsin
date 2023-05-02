@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03983.txt">
+  <feature name="about" authors="Stone, Barney" title="Love Letters of a Rookie to Julie" lang="en" />
+  <feature name="md5Hash" value="f68b8b513d9150941cc2c3a29ee4a427" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9632" this_length="740" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="20890" this_length="230" />
+</document>
+

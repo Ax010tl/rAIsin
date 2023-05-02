@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04022.txt">
+  <feature name="about" authors="Summerhayes, Martha" title="Vanished Arizona" lang="en" />
+  <feature name="md5Hash" value="ea5b93a0e4ffc12e5be8f2efa99731e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="328" this_length="14398" source_reference="source-document10698.txt" source_language="en" source_offset="201992" source_length="15138" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17142" this_length="1761" source_reference="source-document00192.txt" source_language="en" source_offset="7750" source_length="1827" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19232" this_length="2560" source_reference="source-document00192.txt" source_language="en" source_offset="413" source_length="2626" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22579" this_length="4447" source_reference="source-document05222.txt" source_language="en" source_offset="1120" source_length="4685" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27794" this_length="4506" source_reference="source-document00192.txt" source_language="en" source_offset="3039" source_length="4664" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32759" this_length="236" source_reference="source-document00192.txt" source_language="en" source_offset="9707" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33167" this_length="272" source_reference="source-document05222.txt" source_language="en" source_offset="637" source_length="275" />
+</document>
+

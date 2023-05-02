@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02835.txt">
+  <feature name="about" authors="Twain, Mark" title="The Adventures of Tom Sawyer, Part 1." lang="en" />
+  <feature name="md5Hash" value="e254e1394aaa9de8041e9e1ec533d2ca" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="712" this_length="15029" source_reference="source-document02306.txt" source_language="de" source_offset="3526" source_length="16720" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18173" this_length="2032" source_reference="source-document02306.txt" source_language="de" source_offset="22126" source_length="2278" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20481" this_length="567" source_reference="source-document02306.txt" source_language="de" source_offset="20368" source_length="675" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21198" this_length="3981" source_reference="source-document04665.txt" source_language="de" source_offset="390551" source_length="4505" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26643" this_length="3315" source_reference="source-document07902.txt" source_language="de" source_offset="2726" source_length="3734" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30110" this_length="442" source_reference="source-document07902.txt" source_language="de" source_offset="16" source_length="501" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30553" this_length="448" source_reference="source-document07902.txt" source_language="de" source_offset="2246" source_length="480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31242" this_length="603" source_reference="source-document07902.txt" source_language="de" source_offset="10412" source_length="706" />
+</document>
+

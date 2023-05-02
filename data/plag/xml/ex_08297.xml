@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08297.txt">
+  <feature name="about" authors="Sevcik, Al" title="Alien Offer" lang="en" />
+  <feature name="md5Hash" value="93c3660eb9c7c2af597df860336802d5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="810" this_length="23346" source_reference="source-document10350.txt" source_language="en" source_offset="113019" source_length="22776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29259" this_length="290" source_reference="source-document10350.txt" source_language="en" source_offset="49205" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29550" this_length="250" source_reference="source-document10350.txt" source_language="en" source_offset="277388" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29884" this_length="766" source_reference="source-document10350.txt" source_language="en" source_offset="196845" source_length="748" />
+</document>
+

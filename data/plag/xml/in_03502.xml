@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03502.txt">
+  <feature name="about" authors="Davis, Richard Harding" title="The Messengers" lang="en" />
+  <feature name="md5Hash" value="494f39d04d8851c40fad05f26a865ec5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23426" this_length="1879" />
+</document>
+

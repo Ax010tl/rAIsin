@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09005.txt">
+  <feature name="about" authors="Skinner, Charles Montgomery" title="Myths &amp; Legends of our New Possessions &amp; Protectorate" lang="en" />
+  <feature name="md5Hash" value="6f3f70d8360e9a6f9a63e72bcc5b6bb7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120" this_length="12646" source_reference="source-document01805.txt" source_language="en" source_offset="40423" source_length="19261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16689" this_length="4563" source_reference="source-document01805.txt" source_language="en" source_offset="79012" source_length="4505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21753" this_length="1873" source_reference="source-document01805.txt" source_language="en" source_offset="24814" source_length="1763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24004" this_length="1520" source_reference="source-document01805.txt" source_language="en" source_offset="114307" source_length="1596" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25525" this_length="2334" source_reference="source-document01805.txt" source_language="en" source_offset="137684" source_length="2426" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28585" this_length="3104" source_reference="source-document01805.txt" source_language="en" source_offset="126170" source_length="3071" />
+</document>
+

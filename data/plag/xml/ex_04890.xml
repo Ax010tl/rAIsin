@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04890.txt">
+  <feature name="about" authors="Wells, Hal K." title="Zehru of Xollar" lang="en" />
+  <feature name="md5Hash" value="25bbc8ab0dce37a11ecfb76cdf418566" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1246" this_length="271" source_reference="source-document00871.txt" source_language="en" source_offset="16342" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9449" this_length="240" source_reference="source-document00871.txt" source_language="en" source_offset="61497" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13487" this_length="270" source_reference="source-document02452.txt" source_language="en" source_offset="8982" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20677" this_length="233" source_reference="source-document02452.txt" source_language="en" source_offset="12653" source_length="232" />
+</document>
+

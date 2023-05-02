@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02221.txt">
+  <feature name="about" authors="Titcomb, Timothy" title="Lessons in Life A Series of Familiar Essays" lang="en" />
+  <feature name="md5Hash" value="7b65267db09f4ae53517d5af09bdb74c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4129" this_length="1713" source_reference="source-document03282.txt" source_language="en" source_offset="1198" source_length="1639" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13406" this_length="2276" source_reference="source-document11014.txt" source_language="en" source_offset="326817" source_length="2284" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21729" this_length="1414" source_reference="source-document06754.txt" source_language="en" source_offset="5245" source_length="1411" />
+</document>
+

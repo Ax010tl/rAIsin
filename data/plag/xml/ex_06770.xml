@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06770.txt">
+  <feature name="about" authors="Smith, Elmer Boyd" title="The Story of Pocahontas and Captain John Smith" lang="en" />
+  <feature name="md5Hash" value="dcaf003eb8e2e8f58bdfa21268341ae5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6051" this_length="1712" source_reference="source-document02945.txt" source_language="en" source_offset="53668" source_length="1735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21045" this_length="1514" source_reference="source-document03712.txt" source_language="en" source_offset="310430" source_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23841" this_length="248" source_reference="source-document02945.txt" source_language="en" source_offset="204564" source_length="241" />
+</document>
+

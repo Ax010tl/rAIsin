@@ -1,0 +1,430 @@
+﻿[Footnote 195: I have not seen Professor Cornu's paper itself, but only a notice of it by M.
+G. Paris in Romania, xxii. 153, and some additional annotations by the Professor himself at
+p. 531 of the same volume.]
+
+[Sidenote: Irregularity of line.]
+
+For there is no question but that at first sight, and not at first sight only, the Poema del
+Cid seems to be the most irregular production of its kind that can claim high rank in the poetry
+of Europe. It is not merely that it is "rough," as its great northern congener the Nibelungenlied
+is usually said to be, or that its lines vary in length from ten syllables to over twenty,
+as some lines of Anglo-Saxon verse do. It is that there is nothing like the regular cadence
+of the one, or (at least as yet discovered) the combined system of accent and alliteration
+which accounts for the other. Almost the only single feature which is invariable is the break
+in the middle of the line, which is much more than a mere cæsura, and coincides not merely
+with the end of a word, but with a distinct stop or at least pause in sense. Beyond this, except
+by the rather violent hypothesis of copyist misdeeds above referred to,[196] nobody has been
+able to get further in a generalisation of the metre than that the normal form is an eight
+and six (better a seven and seven) "fourteener," trochaically cadenced, but admitting contraction
+and extension with a liberality elsewhere unparalleled.
+
+[Footnote 196: It is perhaps fair to Professor Cornu to admit some weight in his argument that
+where proper names predominate--i.e., where the copyist was least likely to alter--his basis
+suggests itself most easily.]
+
+And the ends of the verses are as troublesome as their bodies. Not only is there no absolute
+system either of assonance or of rhyme; not only does the consideration that at a certain stage
+assonance and consonance[197] meet and blend help us little; but it is almost or quite impossible
+to discern any one system on which the one or the other, or both, can be thought to have been
+used. Sometimes, indeed frequently, something like the French laisses or continuous blocks
+of end-sound appear: sometimes the eye feels inclined to see quatrains--a form, as we shall
+see, agreeable to early Spain, and very common in all European nations at this stage of their
+development. But it is very seldom that either is clearly demonstrable except in parts, while
+neither maintains itself for long. Generally the pages present the spectacle of an intensely
+irregular mosaic, or rather conglomerate, of small blocks of assonance or consonance put together
+on no discoverable system whatever. It is, of course, fair to remember that Anglo-Saxon verse--now,
+according to the orthodox, to be ranked among the strictest prosodic kinds--was long thought
+to be as formless as this. But after the thorough ransacking and overhauling which almost all
+mediæval literature has had during the last century, it is certainly strange that the underlying
+system in the Spanish case, if it exists, should not have been discovered, or should have been
+discovered only by such an Alexandrine cutting of the knot as the supposition that the copyist
+has made "pie" of about seventy per cent at least of the whole.
+
+[Footnote 197: Some writers very inconveniently, and by a false transference from "consonant,"
+use "consonance" as if equivalent to "alliteration." It is much better kept for full rhyme,
+in which vowels and consonants both "sound with" each other.]
+
+Still the form, puzzling as it is, is extremely interesting, and very satisfactory to those
+who can be content with unsystematic enjoyment. The recurrent wave-sound which has been noted
+in the chansons is at least as noticeable, though less regular, here. Let us, for instance,
+open the poem in the double-columned edition of 1842 at random, and take the passage on the
+opening, pp. 66, 67, giving the best part of two hundred lines, from 3491 to 3641. The eye
+is first struck with the constant repetition of catch-endings--"Infantes de Carrion," "los
+del Campeador"--each of which occurs at a line-end some dozen times in the two pages. The second
+and still more striking thing is that almost all this long stretch of verse, though not in
+one single laisse, is carried upon an assonance in o, either plump (Infanzon, cort, Carrion,
+&c.), which continues with a break or two for at least fifty lines, or with another vowel in
+double assonance (taiadores, tendones, varones). But this sequence is broken incomprehensibly
+by such end-words as tomar; and the length of the lines defies all classification, though one
+suspects some confusion of arrangement. For instance, it is not clear why
+
+    "Colada e Tizon que non lidiasen con ellas los del Campeador"
+
+should be printed as one line, and
+
+    "Hybalos ver el Rey Alfonso.
+    Dixieron los del Campeador,"
+
+as two.
+
+If we then turn to the earlier part, that which comes before the Carrion story, we shall find
+the irregularity greater still. It is possible, no doubt, by making rules sufficiently elastic,
+to devise some sort of a system for five consecutive lines which end folgar, comer, acordar,
+grandes, and pan; but it will be a system so exceedingly elastic that it seems a superfluity
+of trouble to make it. On a general survey it may, I think, be said that either in double or
+single assonance a and o play a much larger part than the other vowels, whereas in the French
+analogues there is no predominance of this kind, or at least nothing like so much. And lastly,
+to conclude[198] these rather desultory remarks on a subject which deserves much more attention
+than it has yet had, it may be worth observing that by an odd coincidence the Poema del Cid
+concludes with a delusive personal mention very similar to, though even more precise than,
+that about "Turoldus" in the Chanson de Roland. For it ends--
+
+    "Per Abbat le escribio en el mes de maio
+    En era de mill e CC ... XLV. años,"
+
+there being, perhaps, something dropped between the second C and the X. Peter Abbat, however,
+has been less fortunate than Turoldus, in that no one, it seems, has asserted his authorship,
+though he may have been the copyist-malefactor of theory. And it may perhaps be added that
+if MCCXLV. is the correct date, this would correspond to 1207 of our chronology, the Spanish
+mediæval era starting thirty-eight years too early.
+
+[Footnote 198: I have not thought it necessary to give an abstract of the contents of the poem,
+because Southey's Chronicle of the Cid is accessible to everybody, and because no wise man
+will ever attempt to do over again what Southey has once done.]
+
+[Sidenote: Other poems.]
+
+The remaining literature before the end of the thirteenth century (immediately after that date
+there is a good deal, but most of it is imitated from France) may be dismissed more briefly.
+It is not very bulky, but it is noteworthy that it is collected in a manner by no means usual
+at the time, under two known names, those of Gonzalo Berceo, priest of St Elianus at Callahorra,
+and of King Alfonso X. For the Spanish Alexander of Juan Lorenzo Segura, though written before
+1300, is clearly but one of the numerous family of the French and French-Latin Alexandreids
+and Romans d'Alixandre. And certain poems on Apollonius of Tyre, St Mary of Egypt, and the
+Three Kings, while their date is rather uncertain, are also evidently "school poems" of the
+same kind.
+
+[Sidenote: Apollonius and Mary of Egypt.]
+
+The Spanish Apollonius,[199] however, is noteworthy, because it is written in a form which
+is also used by Berceo, and which has sometimes been thought to be spoken of in the poem itself
+as nueva maestria. This measure is the old fourteener, which struggles to appear in the Cid,
+regularly divided into hephthemimers, and now regularly arranged also in mono-rhymed quatrains.
+The "Life of St Mary of Egypt,"[200] on the other hand, is in octosyllabic couplets, treated
+with the same freedom that we find in contemporary German handlings of that metre, and varying
+from five syllables to at least eleven. The rhymes are good, with very rare lapses into assonance;
+one might suspect a pretty close adherence to a probably Provençal original, and perhaps not
+a very early date. Ticknor, whose Protestantism or whose prudery seems to have been shocked
+by this "coarse and indecent history"--he might surely have found politer language for a variant
+of the Magdalene story, which is beautiful in itself and has received especial ornament from
+art--thought it composed of "meagre monkish verse," and "hardly of importance" except as a
+monument of language. I should myself venture--with infinitely less competence in the particular
+language, but some knowledge of other things of the same kind and time--to call it a rather
+lively and accomplished performance of its class. The third piece[201] of those published,
+not by Sanchez himself, but as an appendix to the Paris edition, is the Adoracion de Los Santos
+Reyes, a poem shorter than the Santa Maria Egipciaca, but very similar in manner as well as
+in subject. I observe that Ticknor, in a note, seems himself to be of the opinion that these
+two pieces are not so old as the Apollonius; though his remarks about "the French fabliaux"
+are not to the point. The fabliaux, it is true, are in octosyllabic verse; but octosyllabic
+verse is certainly older than the fabliaux, which have nothing to do with the Lives of the
+Saints. But he could hardly have known this when he wrote.
+
+[Footnote 199: Sanchez-Ochoa, op. cit., pp. 525-561.]
+
+[Footnote 200: Ibid., pp. 561-576.]
+
+[Footnote 201: Sanchez-Ochoa, op. cit., pp. 577-579.]
+
+[Sidenote: Berceo.]
+
+Berceo, who appears to have written more than thirteen thousand lines, wrote nothing secular;
+and though the religious poetry of the Middle Ages is occasionally of the highest order, yet
+when it is of that rank it is almost invariably Latin, not vernacular, while its vernacular
+expression, even where not despicable, is apt to be very much of a piece, and to present very
+few features of literary as distinguished from philological interest. Historians have, however,
+very properly noted in him the occurrence of a short lyrical fragment in irregular octosyllabics,
+each rhymed in couplets and interspersed after every line with a refrain. The only certain
+fact of his life seems to be his ordination as deacon in 1221.
+
+[Sidenote: Alfonso el Sabio.]
+
+Of King Alfonso the Learned (for he does not seem to have been by any means very wise) much
+more is of course known, though the saying about the blessedness of having no history is not
+falsified in his case. But his titular enjoyment of the empire, his difficulties with his sons,
+his death, practically dethroned, and the rest, do not concern us: nor does even his famous
+and rather wickedly wrested saying (a favourite with Carlyle) about the creation of the world
+and the possibility of improvement therein had the Creator taken advice. Even the far more
+deservedly famous Siete Partidas, with that Fuero Juzgo in which, though it was issued in his
+father's time, he is supposed to have had a hand, are merely noteworthy here as early, curious,
+and, especially in the case of the Partidas, excellent specimens of Spanish prose in its earliest
+form. He could not have executed these or any great part of them himself: and the great bulk
+of the other work attributed to him must also have been really that of collaborators or secretaries.
+The verse part of this is not extensive, consisting of a collection of Cantigas or hymns, Provençal
+in style and (to the puzzlement of historians) Galician rather than Castilian in dialect, and
+an alchemical medley of verse and prose called the Tesoro. These, if they be his, he may have
+written for himself and by himself. But for his Astronomical Tables, a not unimportant point
+de repère in astronomical history, he must, as for the legal works already mentioned and others,
+have been largely indebted. There seems to be much doubt about a prose Trésor, which is or
+is not a translation of the famous work of Brunetto Latini (dates would here seem awkward).
+But the Cronica General de España, the Spanish Bible, the Universal History, and the Gran Conquesta
+de Ultramar (this last a History of the Crusades, based partly on William of Tyre, partly on
+the chanson cycle of the Crusades, fables and all) must necessarily be his only in the sense
+that he very likely commissioned, and not improbably assisted in them. The width and variety
+of the attributions, whether contestable in parts or not, prove quite sufficiently for our
+purpose this fact, that by his time (he died in 1284) literature of nearly all kinds was being
+pretty busily cultivated in the Spanish vernaculars, though in this case as in others it might
+chiefly occupy itself with translations or adaptations of Latin or of French.
+
+This fact in general, and the capital and interesting phenomenon of the Poema del Cid in particular,
+are the noticeable points in this division of our subject. It will be observed that Spain is
+at this time content, like Goethe's scholar, sich üben. Her one great literary achievement--admirable
+in some respects, incomparable in itself--is not a novelty in kind; she has no lessons in form
+to give, which, like some of Italy's, have not been improved upon to this day; she cannot,
+like Germany, boast a great quantity of work of equal accomplishment and inspiration; least
+of all has she the astonishing fertility and the unceasing maestria of France. But she has
+practice and promise, she is doing something more than "going to begin," and her one great
+achievement has (it cannot well be too often repeated) the inestimable and unmistakable quality
+of being itself and not something else, in spirit if not in scheme, in character if not quite
+in form. It would be no consolation for the loss of the Cid that we have Beowulf and Roland
+and the Nibelungen--they would not fill its place, they do not speak with its voice. The much-abused
+and nearly meaningless adjective "Homeric" is here, in so far as it has any meaning, once more
+appropriate. Of the form of Homer there is little: of the vigour, the freshness, the poetry,
+there is much.
+
+CHAPTER X.
+
+CONCLUSION.
+
+It is now time to sum up, as may best be done, the results of this attempt to survey the Literature
+of Europe during one, if not of its most accomplished, most enlightened, or most generally
+admired periods, yet assuredly one of the most momentous, the most interesting, the fullest
+of problem and of promise. Audacious as the attempt itself may seem to some, inadequate as
+the performance may be pronounced by others, it is needless to spend much more argument in
+urging its claim to be at least tried on the merits. All varieties of literary history have
+drawbacks almost inseparable from their schemes. The elaborate monograph, which is somewhat
+in favour just now, is exposed to the criticism, not quite carping, that it is practically
+useless without independent study of its subject, and practically superfluous with it. The
+history of separate literatures, whether in portion or in whole, is always liable to be charged
+with omissions or with disproportionate treatment within its subject, with want of perspective,
+with "blinking," as regards matters without. And so such a survey as this is liable to the
+charge of being superficial, or of attempting more than it can possibly cover, or of not keeping
+the due balance between its various provinces and compartments.
+
+It must be for others to say how such a charge, in the present case, is helped by laches or
+incompetence on the part of the surveyor. But enough has, I hope, been said to clear the scheme
+itself from the objection of uselessness or of impracticability. In one sense, no doubt, far
+more room than this volume, or a much larger, could provide, may seem to be required for the
+discussion and arrangement of so great and interesting a matter as the Literature of the Twelfth
+and Thirteenth Centuries. But to say this, is only saying that no such account in such a space
+could be exhaustive: and it so happens that an exhaustive account is for the purpose not required--would
+indeed go pretty far towards the defeat of that purpose. What is wanted is to secure that the
+reader, whether he pursues his studies in more detail with regard to any of these literatures
+or not, shall at any rate have in his head a fair general notion of what they were simultaneously
+or in succession, of the relation in which they stood to each other, of the division of literary
+labour between them.
+
+If, on the other hand, it be said, "You propose to give, according to your scheme, a volume
+apiece to the fourteenth and even the fifteenth centuries, the work of which was far less original
+and interesting than the work of these two! Why do you couple these?" the answer is not difficult.
+In the first place, the work of these two centuries--which is mainly though not wholly the
+work of the hundred years that form their centre period--is curiously inseparable. In only
+a few cases do we know precise dates, and in many the circa is of such a circuitous character
+that we can hardly tell whether the twelfth or the thirteenth century deserves the credit.
+In almost all the adoption of any intermediate date of severance would leave an awkward, raw,
+unreal division. We should leave off while the best of the chansons de geste were still being
+produced, in the very middle of the development of the Arthurian legend, with half the fabliaux
+yet to come and half the sagas unwritten, with the Minnesingers in full voice, with the tale
+of the Rose half told, with the Fox not yet broken up.
+
+And, in the second place, the singular combination of anonymity and school-character in the
+most characteristic mediæval literature makes it easier, vast as is its mass and in some cases
+conspicuous as is its merit, to handle in small space than later work. Only by a wild indulgence
+in guessing or a tedious minuteness of attention to Lautlehre and rhyme-lists is it possible
+to make a treatment of even a named person like Chrestien de Troyes on the scale of a notice
+of Dante or even Froissart, and this without reference to the comparative literary importance
+of the three. The million lines of the chansons de geste do not demand discussion in anything
+like direct proportion to their bulk. One fabliau, much more one minnesong or troubadour lyric,
+has a far greater resemblance of kind to its fellows than even one modern novel, even one nineteenth-century
+minor poem, to another. As the men write in schools, so they can be handled in them.
+
+Yet I should hope that it must have been already made apparent how very far the present writer
+is from undervaluing the period with which he has essayed to deal. He might perhaps be regarded
+as overvaluing it with more apparent reason--not, I think, with any reason that is more than
+apparent.
+
+For this was the time, if not of the Birth--the exact times and seasons of literary births
+no man knoweth--at any rate of the first appearance, full-blown or full-fledged, of Romance.
+Many praiseworthy folk have made many efforts to show that Romance was after all no such new
+thing--that there is Romance in the Odyssey, Romance in the choruses of Æschylus, Romance East
+and West, North and South, before the Middle Ages. They are only less unwise than the other
+good folk who endeavour to tie Romance down to a Teutonic origin, or a Celtic, or in the other
+sense a Romance one, to Chivalry (which was in truth rather its offspring than its parent),
+to this, and that, and the other. "All the best things in literature," it has been said, "are
+returns"; and this is perfectly true, just as it is perfectly true in another sense that all
+the best things in literature are novelties. In this particular growth, being as it was a product
+of the unchanging human mind, there were notes, doubtless, of Homer and of Æschylus, of Solomon
+the son of David and of Jesus the son of Sirach. But the constituents of the mixture were newly
+grouped; elements which had in the past been inconspicuous or dormant assumed prominence and
+activity; and the whole was new.
+
+It was even one of the few, the very few, permutations and combinations of the elements of
+literature, which are of such excellence, volume, durability, and charm, that they rank above
+all minor changes and groupings. An amabilis insania of the same general kind with those above
+noted has endeavoured again and again to mark off and define the chief constituents of the
+fact. The happiest result, if only a partial one, of such attempts has been the opposition
+between Classical precision and proportion and the Romantic vague; but no one would hold this
+out as a final or sufficient account of the matter. It may, indeed, be noted that that peculiar
+blended character which has been observed in the genesis of perhaps the greatest and most characteristic
+bloom of the whole garden--the Arthurian Legend--is to be found elsewhere also. The Greeks,
+if they owed part of the intensity, had undoubtedly owed nearly all the gaps and flaws of their
+production, as well as its extraordinarily short-lived character, to their lack alike of instructors
+and of fellow-pupils--to the defect in Comparison. Roman Literature, always more or less in
+statu pupillari, had wanted the fellow-pupils, if not the tutor. But the national divisions
+of mediæval Europe--saved from individual isolation by the great bond of the Church, saved
+from mutual lack of understanding by the other great bond of the Latin quasi-vernacular, shaken
+together by wars holy and profane, and while each exhibiting the fresh characteristics of national
+infancy, none of them case-hardened into national insularity--enjoyed a unique opportunity,
+an opportunity never likely to be again presented, of producing a literature common in essential
+characteristic, but richly coloured and fancifully shaded in each division by the genius of
+race and soil. And this literature was developed in the two centuries which have been the subject
+of our survey. It is true that not all the nations were equally contributors to the positive
+literary production of the time. England was apparently paying a heavy penalty for her unique
+early accomplishments, was making a large sacrifice for the better things to come. Between
+1100 and 1300 no single book that can be called great was produced in the English tongue, and
+hardly any single writer distinctly deserving the same adjective was an Englishman. But how
+mighty were the compensations! The language itself was undergoing a process of "inarching,"
+of blending, crossing, which left it the richest, both in positive vocabulary and in capacity
+for increasing that vocabulary at need, of any European speech; the possessor of a double prosody,
+quantitative and alliterative, which secured it from the slightest chance of poetic poverty
+or hide-boundness; relieved from the cumbrousness of synthetic accidence to all but the smallest
+extent, and in case to elaborate a syntax equally suitable for verse and prose, for exposition
+and narrative, for oratory and for argument. Moreover it was, as I have at least endeavoured
+to show, probably England which provided the groundwork and first literary treatment, it was
+certainly England that provided the subject, of the largest, the most enduring, the most varied
+single division of mediæval work; while the Isle of Britain furnished at least its quota to
+the general literature of Europe other than vernacular.
+
+Other countries, though their languages were not conquering their conqueror as English was
+doing with French, also displayed sufficient individuality in dealing with the models and the
+materials with which French activity supplied them. The best poetical work of Icelandic, like
+the best work of its cousin Anglo-Saxon, was indeed over before the period began, and the best
+prose work was done before it ended, the rapid and never fully explained exhaustion of Norse
+energy and enterprise preventing the literature which had been produced from having effect
+on other nations. The children of the vates of Grettir and Njal contented themselves, like
+others, with adapting French romances, and, unlike others, they did not make this adaptation
+the groundwork of new and original effort. But meanwhile they had made in the Sagas, greater
+and lesser, such a contribution as no literature has excelled in intensity and character, comparatively
+small as it is in bulk and comparatively undistinguished in form.
+
+"Unlike others," it has been said; for there can be no doubt that the Charlemagne Cycle from
+Northern, the troubadour lyric from Southern, France exercised upon Italy the same effect that
+was exercised in Germany by the romances of Arthur and of Antiquity, and by the trouvère poetry
+generally. But in these two countries, as also more doubtfully, but still with fair certainty,
+in Spain, the French models found, as they did also in England, literary capacities and tastes
+not jaded and outworn, but full of idiosyncrasy, and ready to develop each in its own way.
+Here however, by that extraordinary law of compensation which seems to be the most general
+law of the universe, the effects differed as much in quantity and time as in character--a remarkable
+efflorescence of literature in Germany being at once produced, to relapse shortly into a long
+sterility, a tardier but more constant growth following in England and Italy, while the effect
+in Spain was the most partial and obscure of all. The great names of Wolfram von Eschenbach
+and Walther von der Vogelweide hardly meet with any others in these literatures representing
+writers who are known abroad as well as at home. Only philologists out of England (and I fear
+not too many besides philologists in it) read Alisaunder and Richard Coeur de Lion, Arthour
+and Merlin, or the Brut; the early Italian poets shine but in the reflected light of Dante;
+and if any one knows the Cid, it is usually from Corneille, or Herder, or Southey, rather than
+from his own noble Poem. But no one who does study these forgotten if not disdained ones, no
+one who with a love for literature bestows even the most casual attention on them, can fail
+to see their meaning and their promise, their merit and their charm.
+
+That languages of such power should have remained without literatures is of course inconceivable;
+that any of them even needed the instruction they received from France cannot be said positively;
+but what is certain is that they all received it. In most cases the acknowledgment is direct,
+express, not capable of being evaded or misconstrued: in all it is incapable of being mistaken
+by those who have eyes, and who have trained them. To inquire into the cause were rather idle.
+The central position of France; the early notoriety and vogue of the schools of Paris; the
+curious position of the language, midway between the extremer Romance and the purely Teutonic
+tongues, which made it a sort of natural interpreter between them; perhaps most of all that
+inexplicable but undeniable formal talent of the French for literature, which is as undeniable
+and as inexplicable as the less formal genius of the English,--all these things, except the
+central position, only push the problem farther back, and are in need of being explained themselves.
+But the fact, the solid and certain fact, remains. And so it is that the greater part of this
+book has necessarily been occupied in expounding, first the different forms which the lessons
+of France took, and then the different ways in which other countries learnt those lessons and
+turned them to account.
+
+It is thus difficult to overestimate the importance of that wonderful literature which rises
+dominant among all these, imparting to all, borrowing from none, or borrowing only subjects,
+exhibiting finish of structure when all the rest were merely barbarian novices, exploring every
+literary form from history to drama, and from epic to song, while others were stammering their
+exercises, mostly learnt from her. The exact and just proportions of the share due to Southern
+and Northern France respectively none can now determine, and scholarship oscillates between
+extremes as usual. What is certain (perhaps it is the only thing that is certain) is that to
+Provençal belongs the credit of establishing for the first time a modern prosody of such a
+kind as to turn out verse of perfect form. Whether, if Pallas in her warlike capacity had been
+kinder to the Provençals, she could or would have inspired them with more varied kinds of literature
+than the exquisite lyric which as a fact is almost their sole title to fame, we cannot say.
+As a matter of fact, the kinds other than lyric, and some of the lyrical kinds themselves--the
+short tale, the epic, the romance, the play, the history, the sermon--all find their early
+home, if not their actual birthplace, north, not south, of the Limousin line. It was from Normandy
+and Poitou, from Anjou and the Orleannais, from the Isle of France and Champagne, that in language
+at least the patterns which were used by all Europe, the specifications, so to speak, which
+all Europe adapted and filled up, went forth, sometimes not to return.
+
+Yet it is not in the actual literature of France itself, except in those contributions to the
+Arthurian story which, as it has been pointed out, were importations, not indigenous growths,
+and in some touches of the Rose, that the spirit of Romance is most evident--the spirit which,
+to those who have come thoroughly to appreciate it, makes classical grace and finish seem thin
+and tame, Oriental exuberance tasteless and vulgar, modern scientific precision inexpressibly
+charmless and jejune.
+
+Different sides of this spirit display themselves, of course, in different productions of the
+time. There is the spirit of combat, in which the Chansons de geste show the way, anticipating
+in time, if not quite equalling in intensity, the Sagas and the Nibelungenlied. There is sometimes
+faintly mingled with this (as in the gabz of the Voyage à Constantinoble, and the exploits
+of Rainoart with the tinel) the spirit, half rough, half sly, of jesting, which by-and-by takes
+shape in the fabliaux. There is the immense and restless spirit of curiosity, which explores
+and refashions, to its own guise and fancy, the relics of the old world, the treasures of the
+East, the lessons of Scripture itself. Side by side with these there is that singular form
+of the religious spirit which has been so constantly misunderstood, and which, except in a
+very few persons, seems so rare nowadays--the faith which is implicit without being imbecile,
+childlike without being childish, devout with a fearless familiarity, the spirit to which the
+Dies Iræ and the sermons of St Francis were equally natural expressions, and which, if it could
+sometimes exasperate itself into the practices of the Inquisition, found a far commoner and
+more genuine expression in the kindly humanities of the Ancren Riwle. There is no lack of knowledge
+and none of inquiry; though in embarking on the enormous ocean of ignorance, it is inquiry
+not cabined and cribbed by our limits. In particular, there is an almost unparalleled, a certainly
+unsurpassed, activity in metaphysical speculation, a fence-play of thought astonishing in its
+accuracy and style. As Poetry slowly disintegrates and exfoliates itself into Prose, literary
+gifts for which verse was unsuited develop themselves in the vernaculars; and the chronicle--itself
+so lately an epic--becomes a history, or at least a memoir; the orator, sacred or profane,
+quits the school rhetoric and its familiar Latin vehicle for more direct means of persuasion;
+the jurist gives these vernaculars precision by adopting them.
+
+But with and through and above all these various spirits there is most of all that abstract
+spirit of poetry, which, though not possessed by the Middle Ages or by Romance alone, seems
+somehow to be a more inseparable and pervading familiar of Romance and of the Middle Ages than
+of any other time and any other kind of literature. The sense of mystery, which had rarely
+troubled the keen intellect of the Greek and the sturdy common-sense of the Roman, which was
+even a little degraded and impoverished (except in the Jewish prophets and in a few other places)
+by the busy activity of Oriental imagination, which we ourselves have banished, or think we
+have banished, to a few "poets' scrolls," was always present to the mediæval mind. In its broadest
+and coarsest jests, in its most laborious and (as we are pleased to call them) dullest expansions
+of stories, in its most wire-drawn and most lifeless allegory, in its most irritating admixture
+of science and fable, there is always hard by, always ready to break in, the sense of the great
+and wonderful things of Life, and Love, and Death, of the half-known God and the unknown Hereafter.
+It is this which gives to Romance, and to mediæval work generally, that "high seriousness,"
+the want of which was so strangely cast at it in reproach by a critic who, I cannot but think,
+was less intimately acquainted with its literature than with that either of classical or of
+modern times. Constantly in mediæval poetry, very commonly in mediæval prose, the great things
+appear greatly. There is in English verse romance perhaps no less felicitous sample of the
+kind as it stands, none which has received greater vituperation for dulness and commonplace,
+than Sir Amadas. Yet who could much better the two simple lines, when the hero is holding revel
+after his ghastly meeting with the unburied corse in the roadside chapel?--
+
+    "But the dead corse that lay on bier
+      Full mickle his thought was on."
+
+In Homer's Greek or Dante's Italian such a couplet (which, be it observed, is as good in rhythm
+and vowel contrast as in simple presentation of thought) could hardly lack general admiration.
+In the English poetry of the Middle Ages it is dismissed as a commonplace.
+

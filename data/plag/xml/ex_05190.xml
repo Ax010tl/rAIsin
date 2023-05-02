@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05190.txt">
+  <feature name="about" authors="Whitney, Adeline Dutton Train" title="Real Folks" lang="en" />
+  <feature name="md5Hash" value="4a167cd00d2d101cbbaca06642820b79" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1946" this_length="1502" source_reference="source-document07596.txt" source_language="en" source_offset="723" source_length="1499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5545" this_length="781" source_reference="source-document07596.txt" source_language="en" source_offset="5096" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8396" this_length="514" source_reference="source-document07596.txt" source_language="en" source_offset="4398" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9593" this_length="3239" source_reference="source-document10520.txt" source_language="en" source_offset="1921" source_length="3259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21162" this_length="758" source_reference="source-document09238.txt" source_language="en" source_offset="147597" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23391" this_length="2552" source_reference="source-document09238.txt" source_language="en" source_offset="107061" source_length="2501" />
+</document>
+

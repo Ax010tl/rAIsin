@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04083.txt">
+  <feature name="about" authors="United States. Presidents." title="State of the Union Address (1790-2001)" lang="en" />
+  <feature name="md5Hash" value="08be95234813d650b0679e5ee8a351cd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6986" this_length="709" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24858" this_length="470" />
+</document>
+

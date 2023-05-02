@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07448.txt">
+  <feature name="about" authors="Taylor, James Hudson" title="Separation and Service or Thoughts on Numbers VI, VII." lang="en" />
+  <feature name="md5Hash" value="eac434bb11c1f8ab569fb69c7c09aacd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3178" this_length="454" source_reference="source-document06834.txt" source_language="en" source_offset="6925" source_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6045" this_length="2577" source_reference="source-document06834.txt" source_language="en" source_offset="26526" source_length="2576" />
+</document>
+

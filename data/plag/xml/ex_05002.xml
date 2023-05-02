@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05002.txt">
+  <feature name="about" authors="Tagore, Rabindranath" title="Sadhana : the realisation of life" lang="en" />
+  <feature name="md5Hash" value="3aefa16937540c40e30f3ea47d5444fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6095" this_length="4408" source_reference="source-document06931.txt" source_language="en" source_offset="241632" source_length="4384" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19707" this_length="3927" source_reference="source-document06931.txt" source_language="en" source_offset="146432" source_length="3975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24545" this_length="458" source_reference="source-document06931.txt" source_language="en" source_offset="40608" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26256" this_length="485" source_reference="source-document06931.txt" source_language="en" source_offset="276916" source_length="489" />
+</document>
+

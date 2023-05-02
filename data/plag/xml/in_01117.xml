@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01117.txt">
+  <feature name="about" authors="Seton, Julia, M.D." title="Freedom Talks No. II" lang="en" />
+  <feature name="md5Hash" value="d8fb007320ce73ad2d4fcc0c464e0ef8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3821" this_length="2075" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8455" this_length="3761" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18786" this_length="3024" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28275" this_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29552" this_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30448" this_length="505" />
+</document>
+

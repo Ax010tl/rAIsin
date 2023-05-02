@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05173.txt">
+  <feature name="about" authors="Taine, Hippolyte" title="The French Revolution - Volume 3" lang="en" />
+  <feature name="md5Hash" value="40bc94fe4bdbae8ca6cd33b9ae64fc11" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3391" this_length="12045" source_reference="source-document08373.txt" source_language="en" source_offset="179878" source_length="20990" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17676" this_length="294" source_reference="source-document04499.txt" source_language="en" source_offset="94184" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17971" this_length="785" source_reference="source-document04499.txt" source_language="en" source_offset="108863" source_length="803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18757" this_length="4519" source_reference="source-document04499.txt" source_language="en" source_offset="236199" source_length="4491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24428" this_length="3728" source_reference="source-document04499.txt" source_language="en" source_offset="198895" source_length="3529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28418" this_length="217" source_reference="source-document04499.txt" source_language="en" source_offset="79092" source_length="226" />
+</document>
+

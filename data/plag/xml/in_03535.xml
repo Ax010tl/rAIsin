@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03535.txt">
+  <feature name="about" authors="Sheldon, Charles Monroe" title="In His Steps" lang="en" />
+  <feature name="md5Hash" value="5748f241a7e2b2a3cd4b70fc256847b5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="708" this_length="231" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4243" this_length="2511" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14125" this_length="491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17123" this_length="214" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17998" this_length="454" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21294" this_length="589" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23245" this_length="459" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25920" this_length="215" />
+</document>
+

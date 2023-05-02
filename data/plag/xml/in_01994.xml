@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01994.txt">
+  <feature name="about" authors="Stanton, Henry" title="Sex Avoided subjects Discussed in Plain English" lang="en" />
+  <feature name="md5Hash" value="151fa9233d637fb2f6dc4855509f5f45" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3438" this_length="1509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20362" this_length="894" />
+</document>
+

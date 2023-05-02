@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00680.txt">
+  <feature name="about" authors="Hershaw, Lafayette M." title="Peonage The American Negro Academy. Occasional Papers No. 15" lang="en" />
+  <feature name="md5Hash" value="62fc00512206786b9357c45eeddcf063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3492" this_length="712" source_reference="source-document00962.txt" source_language="en" source_offset="2034" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21502" this_length="516" source_reference="source-document00962.txt" source_language="en" source_offset="493686" source_length="503" />
+</document>
+

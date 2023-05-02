@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09972.txt">
+  <feature name="about" authors="Cooper, Grace Rogers" title="The Scholfield Wool-Carding Machines" lang="en" />
+  <feature name="md5Hash" value="fa3c36343a3f7deca69f5c41eb00d5d5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15977" this_length="2771" source_reference="source-document07057.txt" source_language="en" source_offset="3475" source_length="2724" />
+</document>
+

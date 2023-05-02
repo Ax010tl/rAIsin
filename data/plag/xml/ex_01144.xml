@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01144.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Waverley — Volume 2" lang="en" />
+  <feature name="md5Hash" value="fa284e51134a2692d3a959d517bcb1a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3809" this_length="1453" source_reference="source-document02312.txt" source_language="en" source_offset="194507" source_length="1470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17863" this_length="713" source_reference="source-document02312.txt" source_language="en" source_offset="205781" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24410" this_length="218" source_reference="source-document02312.txt" source_language="en" source_offset="87438" source_length="239" />
+</document>
+

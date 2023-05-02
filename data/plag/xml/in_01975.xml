@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01975.txt">
+  <feature name="about" authors="Smiles, Samuel" title="Thrift" lang="en" />
+  <feature name="md5Hash" value="f3d347005c24dc934e38637d63dcc1d0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4159" this_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26464" this_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30141" this_length="240" />
+</document>
+

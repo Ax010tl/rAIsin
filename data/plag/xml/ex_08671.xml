@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08671.txt">
+  <feature name="about" authors="Tocqueville, Alexis de" title="Democracy in America — Volume 2" lang="en" />
+  <feature name="md5Hash" value="afae7dacaacc7cec8fe629d38dcf0b61" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6522" this_length="18969" source_reference="source-document01244.txt" source_language="en" source_offset="37168" source_length="18432" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27061" this_length="532" source_reference="source-document01244.txt" source_language="en" source_offset="133060" source_length="492" />
+</document>
+

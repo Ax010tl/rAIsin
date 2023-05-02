@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01913.txt">
+  <feature name="about" authors="Wharton, Edith" title="Fighting France, from Dunkerque to Belfort" lang="en" />
+  <feature name="md5Hash" value="f4908e73242295c6c95b9ddc50e5df77" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14221" this_length="2361" source_reference="source-document01638.txt" source_language="en" source_offset="14391" source_length="2368" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25964" this_length="270" source_reference="source-document01638.txt" source_language="en" source_offset="20831" source_length="275" />
+</document>
+

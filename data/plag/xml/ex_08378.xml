@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08378.txt">
+  <feature name="about" authors="Stillman, William James" title="The Autobiography of a Journalist, Volume I" lang="en" />
+  <feature name="md5Hash" value="95f99ef03a1d2eaba08d0b8181f75794" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="965" this_length="16747" source_reference="source-document10370.txt" source_language="es" source_offset="356642" source_length="18759" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21930" this_length="4530" source_reference="source-document10370.txt" source_language="es" source_offset="333973" source_length="5033" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27577" this_length="201" source_reference="source-document10370.txt" source_language="es" source_offset="138571" source_length="263" />
+</document>
+

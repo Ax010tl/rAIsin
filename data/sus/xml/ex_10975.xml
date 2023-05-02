@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10975.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Prose Works of Jonathan Swift, D.D. — Volume 03 Swift's Writings on Religion and the Church — Volume 1" lang="en" />
+  <feature name="md5Hash" value="88374bc0d8ddcefb6eb39ca192fcbada" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5698" this_length="18246" source_reference="source-document04903.txt" source_language="en" source_offset="221143" source_length="18503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24690" this_length="473" source_reference="source-document06390.txt" source_language="en" source_offset="608" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25164" this_length="723" source_reference="source-document06390.txt" source_language="en" source_offset="6309" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26093" this_length="241" source_reference="source-document06390.txt" source_language="en" source_offset="3539" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26491" this_length="1544" source_reference="source-document06617.txt" source_language="en" source_offset="119740" source_length="1457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28524" this_length="694" source_reference="source-document06390.txt" source_language="en" source_offset="1073" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29256" this_length="256" source_reference="source-document06617.txt" source_language="en" source_offset="126101" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29513" this_length="242" source_reference="source-document06390.txt" source_language="en" source_offset="109" source_length="261" />
+</document>
+

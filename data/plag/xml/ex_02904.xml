@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02904.txt">
+  <feature name="about" authors="Tozer, Aiden Wilson" title="The Pursuit of God" lang="en" />
+  <feature name="md5Hash" value="3ad5c0bf30a4f32faf8305cde329474a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174" this_length="24508" source_reference="source-document09538.txt" source_language="en" source_offset="73025" source_length="23713" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27303" this_length="260" source_reference="source-document09538.txt" source_language="en" source_offset="56634" source_length="265" />
+</document>
+

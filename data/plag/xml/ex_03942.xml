@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03942.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="As We Go" lang="en" />
+  <feature name="md5Hash" value="a7a172346afe993a31cc6646db9dc379" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1298" this_length="20391" source_reference="source-document02741.txt" source_language="en" source_offset="3943" source_length="23458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24893" this_length="2231" source_reference="source-document06748.txt" source_language="en" source_offset="947" source_length="2520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27718" this_length="1704" source_reference="source-document06748.txt" source_language="en" source_offset="4031" source_length="1734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29423" this_length="224" source_reference="source-document06748.txt" source_language="en" source_offset="6567" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29648" this_length="229" source_reference="source-document06748.txt" source_language="en" source_offset="10562" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29994" this_length="271" source_reference="source-document01154.txt" source_language="en" source_offset="10939" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30266" this_length="720" source_reference="source-document05104.txt" source_language="en" source_offset="132364" source_length="737" />
+</document>
+

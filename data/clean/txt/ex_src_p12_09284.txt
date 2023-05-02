@@ -1,0 +1,342 @@
+﻿L. ANNAEUS SENECA, ON BENEFITS
+
+By Seneca
+
+Edited by Aubrey Stewart
+
+PREFACE
+
+Seneca, the favourite classic of the early fathers of the church and of the Middle Ages, whom
+Jerome, Tertullian, and Augustine speak of as "Seneca noster," who was believed to have corresponded
+with St. Paul, and upon whom [Footnote: On the "De Clementia," an odd subject for the man who
+burned Servetus alive for differing with him.] Calvin wrote a commentary, seems almost forgotten
+in modern times. Perhaps some of his popularity may have been due to his being supposed to
+be the author of those tragedies which the world has long ceased to read, but which delighted
+a period that preferred Euripides to Aeschylus: while casuists must have found congenial matter
+in an author whose fantastic cases of conscience are often worthy of Sanchez or Escobar. Yet
+Seneca's morality is always pure, and from him we gain, albeit at second hand, an insight into
+the doctrines of the Greek philosophers, Zeno, Epicurus, Chrysippus, &c., whose precepts and
+system of religious thought had in cultivated Roman society taken the place of the old worship
+of Jupiter and Quirinus.
+
+Since Lodge's edition (fol. 1614), no complete translation of Seneca has been published in
+England, though Sir Roger L'Estrange wrote paraphrases of several Dialogues, which seem to
+have been enormously popular, running through more than sixteen editions. I think we may conjecture
+that Shakespeare had seen Lodge's translation, from several allusions to philosophy, to that
+impossible conception "the wise man," and especially from a passage in "All's Well that ends
+Well," which seems to breathe the very spirit of "De Beneficiis."
+
+   "All's Well that ends Well," Act i. sc. 1.
+
+Though, if this will not fit the supposed date of that play, he may have taken the idea from
+"The Woorke of Lucius Annaeus Seneca concerning Benefyting, that is too say, the dooing, receyving,
+and requyting of good turnes, translated out of Latin by A. Golding. J. Day, London, 1578."
+And even during the Restoration, Pepys's ideal of virtuous and lettered seclusion is a country
+house in whose garden he might sit on summer afternoons with his friend, Sir W. Coventry, "it
+maybe, to read a chapter of Seneca." In sharp contrast to this is Vahlen's preface to the minor
+Dialogues, which he edited after the death of his friend Koch, who had begun that work, in
+which he remarks that "he has read much of this writer, in order to perfect his knowledge of
+Latin, for otherwise he neither admires his artificial subtleties of thought, nor his childish
+mannerisms of style" (Vahlen, preface, p. v., ed. 1879, Jena).
+
+Yet by the student of the history of Rome under the Caesars, Seneca is not to be neglected,
+because, whatever may be thought of the intrinsic merit of his speculations, he represents,
+more perhaps even than Tacitus, the intellectual characteristics of his age, and the tone of
+society in Rome--nor could we well spare the gossiping stories which we find imbedded in his
+graver dissertations. The following extract from Dean Merivale's "History of the Romans under
+the Empire" will show the estimate of him which has been formed by that accomplished writer:--
+
+"At Rome, we, have no reason, to suppose that Christianity was only the refuge of the afflicted
+and miserable; rather, if we may lay any stress on the documents above referred to, it was
+first embraced by persons in a certain grade of comfort and respectability; by persons approaching
+to what we should call the MIDDLE CLASSES in their condition, their education, and their moral
+views. Of this class Seneca himself was the idol, the oracle; he was, so to speak, the favourite
+preacher of the more intelligent and humane disciples of nature and virtue. Now the writings
+of Seneca show, in their way, a real anxiety among this class to raise the moral tone of mankind
+around them; a spirit of reform, a zeal for the conversion of souls, which, though it never
+rose, indeed, under the teaching of the philosophers, to boiling heat, still simmered with
+genial warmth on the surface of society. Far different as was their social standing-point,
+far different as were the foundations and the presumed sanctions of their teaching respectively,
+Seneca and St. Paul were both moral reformers; both, be it said with reverence, were fellow-workers
+in the cause of humanity, though the Christian could look beyond the proximate aims of morality
+and prepare men for a final development on which the Stoic could not venture to gaze. Hence
+there is so much in their principles, so much even in their language, which agrees together,
+so that the one has been thought, though it must be allowed without adequate reason, to have
+borrowed directly from the other. [Footnote: It is hardly necessary to refer to the pretended
+letters between St. Paul and Seneca. Besides the evidence from style, some of the dates they
+contain are quite sufficient to condemn them as clumsy forgeries. They are mentioned, but with
+no expression of belief in their genuineness, by Jerome and Augustine. See Jones, "On the Canon,"
+ii. 80.]
+
+"But the philosopher, be it remembered, discoursed to a large and not inattentive audience,
+and surely the soil was not all unfruitful on which his seed was scattered when he proclaimed
+that God dwells not in temples of wood and stone, nor wants the ministrations of human hands;[Footnote:
+Sen., Ep. 95, and in Lactantius, Inst. vi.] that He has no delight in the blood of victims:[Footnote:
+Ep. 116: "Colitur Deus non tauris sed pia et recta voluntate."] that He is near to all His
+creatures:[Footnote: Ep. 41, 73.] that His Spirit resides in men's hearts:[Footnote: Ep. 46:
+"Sacer intra nos spiritus sedet."] that all men are truly His offspring:[Footnote: "De Prov,"
+i.] that we are members of one body, which is God or Nature;[Footnote: Ep. 93, 95: "Membra
+sumus magni corporis."] that men must believe in God before they can approach Him:[Footnote:
+Ep. 95: "Primus Deorum cultus est Deos credere."] that the true service of God is to be like
+unto Him:[Footnote: Ep. 95: "Satis coluit quisquis imitatus est."] that all men have sinned,
+and none performed all the works of the law:[Footnote: Sen. de Ira. i. 14; ii. 27: "Quis est
+iste qui se profitetur omnibus legibus innocentem?"] that God is no respecter of nations, ranks,
+or conditions, but all, barbarian and Roman, bond and free, are alike under His all-seeing
+Providence.[Footnote: "De Benef.," iii. 18: "Virtus omnes admittit, libertinos, servos, reges."
+These and many other passages are collected by Champagny, ii. 546, after Fabricius and others,
+and compared with well-known texts of Scripture. The version of the Vulgate shows a great deal
+of verbal correspondence. M. Troplong remarks, after De Maistre, that Seneca has written a
+fine book on Providence, for which there was not even a name at Rome in the time of Cicero.--"L'Influence
+du Christianisme," &c., i., ch. 4.]
+
+"St. Paul enjoined submission and obedience even to the tyranny of Nero, and Seneca fosters
+no ideas subversive of political subjection. Endurance is the paramount virtue of the Stoic.
+To forms of government the wise man was wholly indifferent; they were among the external circumstances
+above which his spirit soared in serene self-contemplation. We trace in Seneca no yearning
+for a restoration of political freedom, nor does he even point to the senate, after the manner
+of the patriots of the day, as a legitimate check to the autocracy of the despot. The only
+mode, in his view, of tempering tyranny is to educate the tyrant himself in virtue. His was
+the self-denial of the Christians, but without their anticipated compensation. It seems impossible
+to doubt that in his highest flights of rhetoric--and no man ever recommended the unattainable
+with a finer grace--Seneca must have felt that he was labouring to build up a house without
+foundations; that his system, as Caius said of his style, was sand without lime. He was surely
+not unconscious of the inconsistency of his own position, as a public man and a minister, with
+the theories to which he had wedded himself; and of the impossibility of preserving in it the
+purity of his character as a philosopher or a man. He was aware that in the existing state
+of society at Rome, wealth was necessary to men high in station; wealth alone could retain
+influence, and a poor minister became at once contemptible. The distributor of the Imperial
+favours must have his banquets, his receptions, his slaves and freedmen; he must possess the
+means of attracting if not of bribing; he must not seem too virtuous, too austere, among an
+evil generation; in order to do good at all he must swim with the stream, however polluted
+it might be. All this inconsistency Seneca must have contemplated without blenching; and there
+is something touching in the serenity he preserved amidst the conflict that must have perpetually
+raged between his natural sense and his acquired principles. Both Cicero and Seneca were men
+of many weaknesses, and we remark them the more because both were pretenders to unusual strength
+of character; but while Cicero lapsed into political errors, Seneca cannot be absolved of actual
+crime. Nevertheless, if we may compare the greatest masters of Roman wisdom together, the Stoic
+will appear, I think, the more earnest of the two, the more anxious to do his duty for its
+own sake, the more sensible of the claims of mankind upon him for such precepts of virtuous
+living as he had to give. In an age of unbelief and compromise he taught that Truth was positive
+and Virtue objective. He conceived, what never entered Cicero's mind, the idea of improving
+his fellow-creatures; he had, what Cicero had not, a heart for conversion to Christianity."
+
+To this eloquent account of Seneca's position and of the tendency of his writings I have nothing
+to add. The main particulars of his life, his Spanish extraction (like that of Lacan and Martial),
+his father's treatises on Rhetoric, his mother Helvia, his brothers, his wealth, his exile
+in Corsica, his outrageous flattery of Claudius and his satiric poem on his death--"The Vision
+of Judgment," Merivale calls it, after Lord Byron--his position as Nero's tutor, and his death,
+worthy at once of a Roman and a Stoic, by the orders of that tyrant, may be read of in "The
+History of the Romans under the Empire," or in the article "Seneca" in the "Dictionary of Classical
+Biography," and need not be reproduced here: but I cannot resist pointing out how entirely
+Grote's view of the "Sophists" as a sort of established clergy, and Seneca's account of the
+various sects of philosophers as representing the religious thought of the time, is illustrated
+by his anecdote of Julia Augusta, the mother of Tiberius, better known to English readers as
+Livia the wife of Augustus, who in her first agony of grief at the loss of her first husband
+applied to his Greek philosopher, Areus, as to a kind of domestic chaplain, for spiritual consolation.
+("Ad Marciam de Consolatione," ch. iv.)
+
+I take this opportunity of expressing my gratitude to the Rev. J. E. B. Mayor, Professor of
+Latin in the University of Cambridge, for his kindness in finding time among his many and important
+literary labours for reading and correcting the proofs of this work.
+
+The text which I have followed for De Beneficiis is that of Gertz, Berlin (1876.).
+
+AUBREY STEWART
+
+London, March, 1887.
+
+CONTENTS
+
+BOOK I. The prevalence of ingratitude--How a benefit ought to be bestowed--The three Graces--Benefits
+are the chief bond of human society--What we owe in return for a benefit received--A benefit
+consists not of a thing but of the wish to do good--Socrates and Aeschines--What kinds of benefits
+should be bestowed, and in what manner--Alexander and the franchise of Corinth.
+
+BOOK II. Many men give through weakness of character--We ought to give before our friends ask--Many
+benefits are spoiled by the manner of the giver--Marius Nepos and Tiberius--Some benefits should
+be given secretly--We must not give what would harm the receiver--Alexander's gift of a city--Interchange
+of benefits like a game of ball--From whom ought one to receive a benefit?--Examples--How to
+receive a benefit--Ingratitude caused by self-love, by greed, or by jealousy--Gratitude and
+repayment not the same thing--Phidias and the statue.
+
+BOOK III. Ingratitude--Is it worse to be ungrateful for kindness or not even to remember it?--Should
+ingratitude be punished by law?--Can a slave bestow a benefit?--Can a son bestow a benefit
+upon his father?--Examples
+
+BOOK IV. Whether the bestowal of benefits and the return of gratitude for them are desirable
+objects in themselves? Does God bestow benefits?--How to choose the man to be benefited--We
+ought not to look for any return--True gratitude--Of keeping one's promise--Philip and the
+soldier--Zeno
+
+BOOK V. Of being worsted in a contest of benefits--Socrates and Archelaus--Whether a man can
+be grateful to himself, or can bestow a benefit upon himself--Examples of ingratitude--Dialogue
+on ingratitude--Whether one should remind one's friends of what one has done for them--Caesar
+and the soldier--Tiberius.
+
+BOOK VI. Whether a benefit can be taken from one by force--Benefits depend upon thought--We
+are not grateful for the advantages which we receive from inanimate Nature, or from dumb animals--In
+order to lay me under an obligation you must benefit me intentionally--Cleanthes's story of
+the two slaves--Of benefits given in a mercenary spirit--Physicians and teachers bestow enormous
+benefits, yet are sufficiently paid by a moderate fee--Plato and the ferryman--Are we under
+an obligation to the sun and moon?--Ought we to wish that evil may befall our benefactors,
+in order that we may show our gratitude by helping them?
+
+BOOK VII. The cynic Demetrius--his rules of conduct--Of the truly wise man--Whether one who
+has done everything in his power to return a benefit has returned it--Ought one to return a
+benefit to a bad man?--The Pythagorean, and the shoemaker--How one ought to bear with the ungrateful.
+
+L. A. SENECA
+
+ON BENEFITS.
+
+DEDICATED TO
+
+AEBUTIUS LIBERALIS.
+
+BOOK I.
+
+I.
+
+Among the numerous faults of those who pass their lives recklessly and without due reflexion,
+my good friend Liberalis, I should say that there is hardly any one so hurtful to society as
+this, that we neither know how to bestow or how to receive a benefit. It follows from this
+that benefits are badly invested, and become bad debts: in these cases it is too late to complain
+of their not being returned, for they were thrown away when we bestowed them. Nor need we wonder
+that while the greatest vices are common, none is more common than ingratitude: for this I
+see is brought about by various causes. The first of these is, that we do not choose worthy
+persons upon whom to bestow our bounty, but although when we are about to lend money we first
+make a careful enquiry into the means and habits of life of our debtor, and avoid sowing seed
+in a worn-out or unfruitful soil, yet without any discrimination we scatter our benefits at
+random rather than bestow them. It is hard to say whether it is more dishonourable for the
+receiver to disown a benefit, or for the giver to demand a return of it: for a benefit is a
+loan, the repayment of which depends merely upon the good feeling of the debtor. To misuse
+a benefit like a spendthrift is most shameful, because we do not need our wealth but only our
+intention to set us free from the obligation of it; for a benefit is repaid by being acknowledged.
+Yet while they are to blame who do not even show so much gratitude as to acknowledge their
+debt, we ourselves are to blame no less. We find many men ungrateful, yet we make more men
+so, because at one time we harshly and reproachfully demand some return for our bounty, at
+another we are fickle and regret what we have given, at another we are peevish and apt to find
+fault with trifles. By acting thus we destroy all sense of gratitude, not only after we have
+given anything, but while we are in the act of giving it. Who has ever thought it enough to
+be asked for anything in an off-hand manner, or to be asked only once? Who, when he suspected
+that he was going to be asked for any thing, has not frowned, turned away his face, pretended
+to be busy, or purposely talked without ceasing, in order not to give his suitor a chance of
+preferring his request, and avoided by various tricks having to help his friend in his pressing
+need? and when driven into a corner, has not either put the matter off, that is, given a cowardly
+refusal, or promised his help ungraciously, with a wry face, and with unkind words, of which
+he seemed to grudge the utterance. Yet no one is glad to owe what he has not so much received
+from his benefactor, as wrung out of him. Who can be grateful for what has been disdainfully
+flung to him, or angrily cast at him, or been given him out of weariness, to avoid further
+trouble? No one need expect any return from those whom he has tired out with delays, or sickened
+with expectation. A benefit is received in the same temper in which it is given, and ought
+not, therefore, to be given carelessly, for a man thanks himself for that which he receives
+without the knowledge of the giver. Neither ought we to give after long delay, because in all
+good offices the will of the giver counts for much, and he who gives tardily must long have
+been unwilling to give at all. Nor, assuredly, ought we to give in offensive manner, because
+human nature is so constituted that insults sink deeper than kindnesses; the remembrance of
+the latter soon passes away, while that of the former is treasured in the memory; so what can
+a man expect who insults while he obliges? All the gratitude which he deserves is to be forgiven
+for helping us. On the other hand, the number of the ungrateful ought not to deter us from
+earning men's gratitude; for, in the first place, their number is increased by our own acts.
+Secondly, the sacrilege and indifference to religion of some men does not prevent even the
+immortal gods from continuing to shower their benefits upon us: for they act according to their
+divine nature and help all alike, among them even those who so ill appreciate their bounty.
+Let us take them for our guides as far as the weakness of our mortal nature permits; let us
+bestow benefits, not put them out at interest. The man who while he gives thinks of what he
+will get in return, deserves to be deceived. But what if the benefit turns out ill? Why, our
+wives and our children often disappoint our hopes, yet we marry--and bring up children, and
+are so obstinate in the face of experience that we fight after we have been beaten, and put
+to sea after we have been shipwrecked. How much more constancy ought we to show in bestowing
+benefits! If a man does not bestow benefits because he has not received any, he must have bestowed
+them in order to receive them in return, and he justifies ingratitude, whose disgrace lies
+in not returning benefits when able to do so. How many are there who are unworthy of the light
+of day? and nevertheless the sun rises. How many complain because they have been born? yet
+Nature is ever renewing our race, and even suffers men to live who wish that they had never
+lived. It is the property of a great and good mind to covet, not the fruit of good deeds, but
+good deeds themselves, and to seek for a good man even after having met with bad men. If there
+were no rogues, what glory would there be in doing good to many? As it is, virtue consists
+in bestowing benefits for which we are not certain of meeting with any return, but whose fruit
+is at once enjoyed by noble minds. So little influence ought this to have in restraining us
+from doing good actions, that even though I were denied the hope of meeting with a grateful
+man, yet the fear of not having my benefits returned would not prevent my bestowing them, because
+he who does not give, forestalls the vice of him who is ungrateful. I will explain what I mean.
+He who does not repay a benefit, sins more, but he who does not bestow one, sins earlier.
+
+  "If thou at random dost thy bounties waste,
+   Much must be lost, for one that's rightly placed."
+
+II. In the former verse you may blame two things, for one should not cast them at random, and
+it is not right to waste anything, much less benefits; for unless they be given with judgement,
+they cease to be benefits, and, may be called by any other name you please. The meaning of
+the latter verse is admirable, that one benefit rightly bestowed makes amends for the loss
+of many that have been lost. See, I pray you, whether it be not truer and more worthy of the
+glory of the giver, that we should encourage him to give, even though none of his gifts should
+be worthily placed. "Much must be lost." Nothing is lost because he who loses had counted the
+cost before. The book-keeping of benefits is simple: it is all expenditure; if any one returns
+it, that is clear gain; if he does not return it, it is not lost, I gave it for the sake of
+giving. No one writes down his gifts in a ledger, or like a grasping creditor demands repayment
+to the day and hour. A good man never thinks of such matters, unless reminded of them by some
+one returning his gifts; otherwise they become like debts owing to him. It is a base usury
+to regard a benefit as an investment. Whatever may have been the result of your former benefits,
+persevere in bestowing others upon other men; they will be all the better placed in the hands
+of the ungrateful, whom shame, or a favourable opportunity, or imitation of others may some
+day cause to be grateful. Do not grow weary, perform your duty, and act as becomes a good man.
+Help one man with money, another with credit, another with your favour; this man with good
+advice, that one with sound maxims. Even wild beasts feel kindness, nor is there any animal
+so savage that good treatment will not tame it and win love from it. The mouths of lions are
+handled by their keepers with impunity; to obtain their food fierce elephants become as docile
+as slaves: so that constant unceasing kindness wins the hearts even of creatures who, by their
+nature, cannot comprehend or weigh the value of a benefit. Is a man ungrateful for one benefit?
+perhaps he will not be so after receiving a second. Has he forgotten two kindnesses? perhaps
+by a third he may be brought to remember the former ones also.
+
+III. He who is quick to believe that he has thrown away his benefits, does really throw them
+away; but he who presses on and adds new benefits to his former ones, forces out gratitude
+even from a hard and forgetful breast. In the face of many kindnesses, your friend will not
+dare to raise his eyes; let him see you whithersoever he turns himself to escape from his remembrance
+of you; encircle him with your benefits. As for the power and property of these, I will explain
+it to you if first you will allow me to glance at a matter which does not belong to our subject,
+as to why the Graces are three in number, why they are sisters, why hand in hand, and why they
+are smiling and young, with a loose and transparent dress. Some writers think that there is
+one who bestows a benefit, one who receives it, and a third who returns it; others say that
+they represent the three sorts of benefactors, those who bestow, those who repay, and those
+who both receive and repay them. But take whichever you please to be true; what will this knowledge
+profit us? What is the meaning of this dance of sisters in a circle, hand in hand? It means
+that the course of a benefit is from hand to hand, back to the giver; that the beauty of the
+whole chain is lost if a single link fails, and that it is fairest when it proceeds in unbroken
+regular order. In the dance there is one, esteemed beyond the others, who represents the givers
+of benefits. Their faces are cheerful, as those of men who give or receive benefits are wont
+to be. They are young, because the memory of benefits ought not to grow old. They are virgins,
+because benefits are pure and untainted, and held holy by all; in benefits there should be
+no strict or binding conditions, therefore the Graces wear loose flowing tunics, which are
+transparent, because benefits love to be seen. People who are not under the influence of Greek
+literature may say that all this is a matter of course; but there can be no one who would think
+that the names which Hesiod has given them bear upon our subject. He named the eldest Aglaia,
+the middle one Euphrosyne, the third Thalia. Every one, according to his own ideas, twists
+the meaning of these names, trying to reconcile them with some system, though Hesiod merely
+gave his maidens their names from his own fancy. So Homer altered the name of one of them,
+naming her Pasithea, and betrothed her to a husband, in order that you may know that they are
+not vestal virgins. [Footnote: i.e. not vowed to chastity.]
+
+I could find another poet, in whose writings they are girded, and wear thick or embroidered
+Phrygian robes. Mercury stands with them for the same reason, not because argument or eloquence
+commends benefits, but because the painter chose to do so. Also Chrysippus, that man of piercing
+intellect who saw to the very bottom of truth, who speaks only to the point, and makes use
+of no more words than are necessary to express his meaning, fills his whole treatise with these
+puerilities, insomuch that he says but very little about the duties of giving, receiving, and
+returning a benefit, and has not so much inserted fables among these subjects, as he has inserted
+these subjects among a mass of fables. For, not to mention what Hecaton borrows from him, Chrysippus
+tells us that the three Graces are the daughters of Jupiter and Eurynome, that they are younger
+than the Hours, and rather more beautiful, and that on that account they are assigned as companions
+to Venus. He also thinks that the name of their mother bears upon the subject, and that she
+is named Eurynome because to distribute benefits requires a wide inheritance; as if the mother
+usually received her name after her daughters, or as if the names given by poets were true.
+In truth, just as with a 'nomenclator' audacity supplies the place of memory, and he invents
+a name for every one whose name he cannot recollect, so the poets think that it is of no importance
+to speak the truth, but are either forced by the exigencies of metre, or attracted by sweetness
+of sound, into calling every one by whatever name runs neatly into verse. Nor do they suffer
+for it if they introduce another name into the list, for the next poet makes them bear what
+name he pleases. That you may know that this is so, for instance Thalia, our present subject
+of discourse, is one of the Graces in Hesiod's poems, while in those of Homer she is one of
+the Muses.
+

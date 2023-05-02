@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01918.txt">
+  <feature name="about" authors="Thompson, Charles" title="Biography of a Slave Being the Experiences of Rev. Charles Thompson" lang="en" />
+  <feature name="md5Hash" value="08def437aa2cdbb24e082d9845f0a96b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="760" this_length="21205" source_reference="source-document03707.txt" source_language="en" source_offset="3608" source_length="23094" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22728" this_length="753" source_reference="source-document03707.txt" source_language="en" source_offset="2559" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23482" this_length="2205" source_reference="source-document03707.txt" source_language="en" source_offset="177" source_length="2242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25721" this_length="718" source_reference="source-document08856.txt" source_language="en" source_offset="1986" source_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26573" this_length="756" source_reference="source-document08856.txt" source_language="en" source_offset="429" source_length="760" />
+</document>
+

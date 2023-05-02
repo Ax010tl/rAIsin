@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07135.txt">
+  <feature name="about" authors="Twain, Mark" title="A Tramp Abroad — Volume 01" lang="en" />
+  <feature name="md5Hash" value="80ec21380a704d2222ee9d06a10b60a9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="651" this_length="3073" source_reference="source-document09780.txt" source_language="en" source_offset="95837" source_length="5014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4087" this_length="3872" source_reference="source-document09780.txt" source_language="en" source_offset="263667" source_length="3808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8757" this_length="1345" source_reference="source-document03386.txt" source_language="en" source_offset="360442" source_length="1489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10856" this_length="3094" source_reference="source-document03386.txt" source_language="en" source_offset="218799" source_length="3473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13951" this_length="3578" source_reference="source-document09780.txt" source_language="en" source_offset="114396" source_length="3756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18421" this_length="4492" source_reference="source-document03386.txt" source_language="en" source_offset="267186" source_length="4537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23594" this_length="496" source_reference="source-document09780.txt" source_language="en" source_offset="377415" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24091" this_length="259" source_reference="source-document03386.txt" source_language="en" source_offset="450612" source_length="259" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05471.txt">
+  <feature name="about" authors="Nietzsche, Friedrich Wilhelm" title="Homer and Classical Philology" lang="en" />
+  <feature name="md5Hash" value="3c6e3ba3f876979d77e29d61e1578f98" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5079" this_length="9805" source_reference="source-document05403.txt" source_language="en" source_offset="1855" source_length="20986" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15035" this_length="3320" source_reference="source-document07948.txt" source_language="en" source_offset="6888" source_length="3247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19870" this_length="2505" source_reference="source-document06679.txt" source_language="en" source_offset="266216" source_length="2463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22376" this_length="476" source_reference="source-document05403.txt" source_language="en" source_offset="1277" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23042" this_length="3294" source_reference="source-document06679.txt" source_language="en" source_offset="275399" source_length="3354" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27225" this_length="824" source_reference="source-document06679.txt" source_language="en" source_offset="103174" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28050" this_length="228" source_reference="source-document05403.txt" source_language="en" source_offset="717" source_length="234" />
+</document>
+

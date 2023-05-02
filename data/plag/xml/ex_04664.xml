@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04664.txt">
+  <feature name="about" authors="Sharp, Dallas Lore" title="Roof and Meadow" lang="en" />
+  <feature name="md5Hash" value="97000d3fa7d0a619545349570a5d5847" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1495" this_length="6272" source_reference="source-document07133.txt" source_language="en" source_offset="13132" source_length="16729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12765" this_length="4023" source_reference="source-document08180.txt" source_language="en" source_offset="10070" source_length="3913" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17827" this_length="1841" source_reference="source-document08180.txt" source_language="en" source_offset="14278" source_length="1814" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20254" this_length="2067" source_reference="source-document07314.txt" source_language="en" source_offset="401392" source_length="2229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23503" this_length="2798" source_reference="source-document07314.txt" source_language="en" source_offset="255867" source_length="2943" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26857" this_length="474" source_reference="source-document08180.txt" source_language="en" source_offset="18116" source_length="523" />
+</document>
+

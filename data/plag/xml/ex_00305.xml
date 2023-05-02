@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00305.txt">
+  <feature name="about" authors="Twain, Mark" title="Fenimore Cooper's Literary Offences" lang="en" />
+  <feature name="md5Hash" value="f00bdad47e983c044f4c2e3536e412cb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2015" this_length="379" source_reference="source-document06815.txt" source_language="en" source_offset="293454" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12496" this_length="572" source_reference="source-document06815.txt" source_language="en" source_offset="359013" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22910" this_length="837" source_reference="source-document06815.txt" source_language="en" source_offset="364411" source_length="732" />
+</document>
+

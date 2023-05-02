@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02947.txt">
+  <feature name="about" authors="Kastle, Herbert D." title="The First One" lang="en" />
+  <feature name="md5Hash" value="bc98fbd65c50ded2fb09cb7965e2e962" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4674" this_length="524" source_reference="source-document07725.txt" source_language="en" source_offset="0" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21843" this_length="548" source_reference="source-document07725.txt" source_language="en" source_offset="2531" source_length="550" />
+</document>
+

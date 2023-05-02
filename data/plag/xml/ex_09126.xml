@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09126.txt">
+  <feature name="about" authors="Society of Friends" title="On Singing and Music" lang="en" />
+  <feature name="md5Hash" value="35f663b25eb8aeed860e49810c01d6ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199" this_length="2347" source_reference="source-document08943.txt" source_language="en" source_offset="14129" source_length="2212" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2547" this_length="776" source_reference="source-document08943.txt" source_language="en" source_offset="4384" source_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3629" this_length="2833" source_reference="source-document08943.txt" source_language="en" source_offset="29202" source_length="2763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6953" this_length="3388" source_reference="source-document08943.txt" source_language="en" source_offset="8865" source_length="3244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10920" this_length="2415" source_reference="source-document08943.txt" source_language="en" source_offset="20675" source_length="2248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13814" this_length="806" source_reference="source-document08943.txt" source_language="en" source_offset="18920" source_length="797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14621" this_length="2601" source_reference="source-document08943.txt" source_language="en" source_offset="23880" source_length="2467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17803" this_length="2354" source_reference="source-document08943.txt" source_language="en" source_offset="271" source_length="2147" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20450" this_length="1572" source_reference="source-document08943.txt" source_language="en" source_offset="32367" source_length="1496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22313" this_length="533" source_reference="source-document08943.txt" source_language="en" source_offset="6339" source_length="535" />
+</document>
+

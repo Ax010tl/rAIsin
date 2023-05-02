@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02311.txt">
+  <feature name="about" authors="Stretton, Hesba" title="The Doctor's Dilemma" lang="en" />
+  <feature name="md5Hash" value="a1d450b1e35c241e4e4facf209b4083c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10574" this_length="2221" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18525" this_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21934" this_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25367" this_length="244" />
+</document>
+

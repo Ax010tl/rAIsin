@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10178.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="The Land of the Blue Flower" lang="en" />
+  <feature name="md5Hash" value="3758a8794dd67dfdb61ccf867920f459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2173" this_length="6329" source_reference="source-document06583.txt" source_language="en" source_offset="115788" source_length="17200" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12366" this_length="14025" source_reference="source-document06583.txt" source_language="en" source_offset="139208" source_length="16120" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26703" this_length="421" source_reference="source-document06583.txt" source_language="en" source_offset="314953" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27125" this_length="249" source_reference="source-document04230.txt" source_language="en" source_offset="2713" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27375" this_length="209" source_reference="source-document02818.txt" source_language="en" source_offset="1110352" source_length="230" />
+</document>
+

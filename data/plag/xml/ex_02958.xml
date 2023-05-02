@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02958.txt">
+  <feature name="about" authors="Robinson, Mary" title="Beaux and Belles of England Mrs. Mary Robinson, Written by Herself, With the lives of the Duchesses of Gordon and Devonshire" lang="en" />
+  <feature name="md5Hash" value="de82ac8d15ca18ce5b9e701e36ab0e01" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="293" this_length="252" source_reference="source-document05715.txt" source_language="en" source_offset="4589" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14147" this_length="740" source_reference="source-document09671.txt" source_language="en" source_offset="367003" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25910" this_length="548" source_reference="source-document09671.txt" source_language="en" source_offset="651576" source_length="542" />
+</document>
+

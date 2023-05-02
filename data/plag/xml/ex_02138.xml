@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02138.txt">
+  <feature name="about" authors="Shute, Henry Augustus" title="The Real Diary of a Real Boy" lang="en" />
+  <feature name="md5Hash" value="264a45045a062874884a8ca7eaa8dadb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1305" this_length="13938" source_reference="source-document05710.txt" source_language="en" source_offset="659854" source_length="23723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22546" this_length="1639" source_reference="source-document05710.txt" source_language="en" source_offset="783847" source_length="1787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24186" this_length="1533" source_reference="source-document09265.txt" source_language="en" source_offset="0" source_length="1536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26143" this_length="1454" source_reference="source-document09265.txt" source_language="en" source_offset="1830" source_length="1521" />
+</document>
+

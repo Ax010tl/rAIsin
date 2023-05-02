@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04515.txt">
+  <feature name="about" authors="Wilson, Harry Leon" title="The Lions of the Lord A Tale of the Old West" lang="en" />
+  <feature name="md5Hash" value="58e8718b7053933b6fe8837aed233990" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16300" this_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25670" this_length="255" />
+</document>
+

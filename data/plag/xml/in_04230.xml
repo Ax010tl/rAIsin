@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04230.txt">
+  <feature name="about" authors="Semmes, Raphael" title="The Cruise of the Alabama and the Sumter" lang="en" />
+  <feature name="md5Hash" value="43df5d5677e33abb8b8510af7d332b32" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2861" this_length="3469" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15583" this_length="1669" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04737.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Missing" lang="en" />
+  <feature name="md5Hash" value="0b2264c87b1e4ec0ccdd03096390b9c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1781" this_length="10196" source_reference="source-document06046.txt" source_language="en" source_offset="81992" source_length="19076" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15947" this_length="4582" source_reference="source-document06046.txt" source_language="en" source_offset="66527" source_length="4763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21121" this_length="2178" source_reference="source-document10474.txt" source_language="en" source_offset="152692" source_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23737" this_length="1797" source_reference="source-document10474.txt" source_language="en" source_offset="186887" source_length="1807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26227" this_length="1733" source_reference="source-document06046.txt" source_language="en" source_offset="154280" source_length="1838" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27961" this_length="606" source_reference="source-document06046.txt" source_language="en" source_offset="123343" source_length="685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28618" this_length="486" source_reference="source-document06046.txt" source_language="en" source_offset="8887" source_length="476" />
+</document>
+

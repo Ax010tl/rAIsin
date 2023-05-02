@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02213.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The History of England in Three Volumes, Vol.II. From William and Mary to George II." lang="en" />
+  <feature name="md5Hash" value="6512cf1a3679cb5efd97baabbbd2b96e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3305" this_length="1851" source_reference="source-document02442.txt" source_language="en" source_offset="5442" source_length="1800" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14236" this_length="2228" source_reference="source-document00412.txt" source_language="en" source_offset="25912" source_length="3060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32204" this_length="255" source_reference="source-document00412.txt" source_language="en" source_offset="18148" source_length="234" />
+</document>
+

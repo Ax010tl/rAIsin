@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03072.txt">
+  <feature name="about" authors="Victor, Metta Victoria Fuller" title="The Bad Boy At Home And His Experiences In Trying To Become An Editor - 1885" lang="en" />
+  <feature name="md5Hash" value="f518a74b8c0485389dfdefc59238768a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1134" this_length="257" source_reference="source-document05549.txt" source_language="en" source_offset="34744" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7199" this_length="227" source_reference="source-document05549.txt" source_language="en" source_offset="233294" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11835" this_length="535" source_reference="source-document05549.txt" source_language="en" source_offset="128249" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22833" this_length="232" source_reference="source-document05549.txt" source_language="en" source_offset="219377" source_length="237" />
+</document>
+

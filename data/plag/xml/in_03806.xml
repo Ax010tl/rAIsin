@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03806.txt">
+  <feature name="about" authors="Sterne, Laurence" title="A Political Romance" lang="en" />
+  <feature name="md5Hash" value="50e8d9b8482225df8ad31fc81f7828cc" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="926" this_length="208" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7072" this_length="3344" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12561" this_length="474" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13036" this_length="1447" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16671" this_length="2470" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23838" this_length="708" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="26934" this_length="1261" />
+</document>
+

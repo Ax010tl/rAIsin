@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01298.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Harvest" lang="en" />
+  <feature name="md5Hash" value="cb8fba8585a312dd11f6be9270dbb81b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18269" this_length="1743" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23564" this_length="260" />
+</document>
+

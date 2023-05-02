@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08975.txt">
+  <feature name="about" authors="Stephens, Charles Asbury" title="A Busy Year at the Old Squire's" lang="en" />
+  <feature name="md5Hash" value="c824c10b30371de157e5afad31421531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2685" this_length="492" source_reference="source-document04659.txt" source_language="en" source_offset="86320" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7192" this_length="506" source_reference="source-document04659.txt" source_language="en" source_offset="424379" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10205" this_length="278" source_reference="source-document04659.txt" source_language="en" source_offset="87406" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15472" this_length="742" source_reference="source-document04659.txt" source_language="en" source_offset="45668" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21594" this_length="263" source_reference="source-document04659.txt" source_language="en" source_offset="418096" source_length="258" />
+</document>
+

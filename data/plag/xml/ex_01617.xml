@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01617.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Toni, the Little Woodcarver" lang="en" />
+  <feature name="md5Hash" value="f7e80d0a9eea0c933523cd0e85925e74" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1010" this_length="264" source_reference="source-document09683.txt" source_language="en" source_offset="14502" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8723" this_length="748" source_reference="source-document09683.txt" source_language="en" source_offset="3921" source_length="783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12584" this_length="250" source_reference="source-document09683.txt" source_language="en" source_offset="52001" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16428" this_length="535" source_reference="source-document09683.txt" source_language="en" source_offset="81472" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19516" this_length="249" source_reference="source-document09683.txt" source_language="en" source_offset="7540" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23606" this_length="455" source_reference="source-document09683.txt" source_language="en" source_offset="87868" source_length="489" />
+</document>
+

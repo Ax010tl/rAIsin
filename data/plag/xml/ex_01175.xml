@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01175.txt">
+  <feature name="about" authors="Three Initiates" title="The Kybalion A Study of The Hermetic Philosophy of Ancient Egypt and Greece" lang="en" />
+  <feature name="md5Hash" value="13a569635e69c67f55713875f223836b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="237" this_length="770" source_reference="source-document10142.txt" source_language="en" source_offset="62018" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3504" this_length="9099" source_reference="source-document10142.txt" source_language="en" source_offset="18821" source_length="16243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22100" this_length="2861" source_reference="source-document10142.txt" source_language="en" source_offset="227426" source_length="2740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27529" this_length="2136" source_reference="source-document10142.txt" source_language="en" source_offset="343193" source_length="2768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29974" this_length="282" source_reference="source-document10142.txt" source_language="en" source_offset="233046" source_length="273" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10247.txt">
+  <feature name="about" authors="Sinclair, Upton" title="Jimmie Higgins" lang="en" />
+  <feature name="md5Hash" value="23ad2139740a5dd6f5ced2a334265c33" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7505" this_length="485" source_reference="source-document00189.txt" source_language="en" source_offset="180756" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13230" this_length="225" source_reference="source-document00189.txt" source_language="en" source_offset="186185" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19164" this_length="483" source_reference="source-document00189.txt" source_language="en" source_offset="230875" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28732" this_length="265" source_reference="source-document00189.txt" source_language="en" source_offset="106302" source_length="257" />
+</document>
+

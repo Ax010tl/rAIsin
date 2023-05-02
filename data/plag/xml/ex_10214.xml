@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10214.txt">
+  <feature name="about" authors="Serviss, Garrett Putman" title="The Moon Metal" lang="en" />
+  <feature name="md5Hash" value="0a9e0a73ba6c62641e045348c303d3ff" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="900" this_length="219" source_reference="source-document06268.txt" source_language="en" source_offset="485605" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3390" this_length="2393" source_reference="source-document04595.txt" source_language="en" source_offset="400822" source_length="2487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28389" this_length="232" source_reference="source-document04595.txt" source_language="en" source_offset="289172" source_length="237" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07173.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Baddeck, and That Sort of Thing" lang="en" />
+  <feature name="md5Hash" value="1fbd46ea6a98d7c7cf007d957208cc21" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8168" this_length="3439" source_reference="source-document03479.txt" source_language="en" source_offset="788" source_length="3733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26636" this_length="252" source_reference="source-document03479.txt" source_language="en" source_offset="24698" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27921" this_length="266" source_reference="source-document03479.txt" source_language="en" source_offset="17910" source_length="241" />
+</document>
+

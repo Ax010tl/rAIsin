@@ -1,0 +1,444 @@
+﻿So far we have used "phantasy" only of real or imaginary impressions of sense. But the term
+was not thus restricted by the Stoics, who divided phantasies into sensible and not sensible.
+The latter came through the understanding and were of bodiless things which could only be grasped
+by reason. Douglas.-- It is true that the head of both people are other and occupy of the same congenial
+virtuousness, that the intolerance with bondage, the liberality, courage, and discretion, the same
+genius for policy, for steering and commerce, for sciences and discipline.
+
+There was comprehension by the senses as of white and black, of rough and smooth, but there
+was also comprehension by the reason of demonstrative conclusions such as that the gods exist
+and that they exercise providence. The Stoics indeed had great affinities with that thinker
+or rather he with them. The Stoic account of the manner in which the mind arrives at its ideas
+might almost be taken from the first book of Locke's Essay. As many as nine ways are enumerated
+of which the first corresponds to simple ideas--
+
+(1) by presentation, as objects of sense
+
+(2) by likeness, as the idea of Socrates from his picture
+
+(3) by analogy, that is, by increase or decrease, as ideas of giants and pigmies from men,
+or as the notion of the centre of the earth, which is reached by the consideration of smaller
+spheres.
+
+(4) by transposition, as the idea of men with eyes in their breasts.
+
+(5) by composition, as the idea of a Centaur.
+
+(6) by opposition, as the idea of death from that of life.
+
+(7) by a kind of transition, as the meaning of words and the idea of place.
+
+(8)by nature, as the notion of the just and the good
+
+(9)by privation, as handless
+
+The Stoics resembled Locke again in endeavoring to give such a definition of knowledge as should
+cover at once the reports of the senses and the relation between ideas. Knowledge was defined
+by them as a sure comprehension or a habit in the acceptance of phantasies which was not liable
+to be changed by reason. On a first hearing these definitions might seem limited to sense knowledge
+but if we bethink ourselves of the wider meanings of comprehension and of phantasy, we see
+that the definitions apply as they were meant to apply to the mind's grasp upon the force of
+a demonstration no less than upon the existence of a physical object.
+
+Zeno, with that touch of oriental symbolism which characterized him, used to illustrate to
+his disciples the steps to knowledge by means of gestures. Displaying his right hand with the
+fingers outstretched he would say, "That is a phantasy," then contracting the fingers a little,
+"That is assent," then having closed the fist, "That is comprehension," then clasping the fist
+closely with the left hand, he would add, "That is knowledge."
+
+A notion which corresponds to our word concept was defined as a phantasm of the understanding
+of a rational animal. For a notion was but a phantasm as it presented itself to a rational
+mind. In the same way so many shillings and sovereigns are in themselves but shillings and
+sovereigns, but when used as passage money they become fare. Notions were arrived at partly
+by nature, partly by teaching and study. The former kind of notions were called preconceptions;
+the latter went merely by the generic name.
+
+Out of the general ideas which nature imparts to us, reason was perfected about the age of
+fourteen, at the time when the voice--its outward and visible sign--attains its full development,
+and when the human animal is complete in other respects as being able to reproduce its kind.
+Thus reason which united us to the gods was not, according to the Stoics, a pre-existent principal,
+but a gradual development out of sense. It might truly be said that with them the senses were
+the intellect.
+
+Being was confined by the Stoics to body, a bold assertion of which
+we shall meet the consequences later. At present it is sufficient to
+notice what havoc it makes among the categories. Of Aristotle's ten
+categories it leaves only the first, Substance, and that only in its
+narrowest sense of Primary Substance. But a substance or body might
+be regarded in four ways--
+  (1) simply as a body
+  (2) as a body of a particular kind
+  (3) as a body in a particular state
+  (4) as a body in a particular relation.
+
+Hence result the four Stoic categories of--
+    substrates
+    suchlike
+    so disposed
+    so related
+
+But the bodiless would not be thus conjured out of existence. For what was to be made of such
+things as the meaning of words, time, place, and the infinite void? Even the Stoics did not
+assign body to these, and yet they had to be recognized and spoken of. The difficulty was got
+over by the invention of the higher category of somewhat, which should include both body and
+the bodiless. Time was a somewhat, and so was space, though neither of them possessed being.
+
+In the Stoic treatment of the proposition, grammar was very much mixed up with logic. They
+had a wide name which applied to any part of diction, whether a word or words, a sentence,
+or even a syllogism. This we shall render by "dict." A dict, then, was defined as "that which
+subsists in correspondence with a rational phantasy." A dict was one of the things which the
+Stoics admitted to be devoid of body. There were three things involved when anything was said--the
+sound, the sense, and the external object. Of these the first and the last were bodies, but
+the intermediate one was not a body. This we may illustrate after Seneca, as follows: "You
+see Cato walking. What your eyes see and your mind attends to is a body in motion. Then you
+say, 'Cato is walking'." The mere sound indeed of these words is air in motion and therefore
+a body but the meaning of them is not a body but an enouncement about a body, which is quite
+a different thing.
+
+On examining such details as are left us of the Stoic logic, the
+first thing which strikes one is its extreme complexity as compared
+with the Aristotelian. The commission on which policy has far surpass
+the labours of Chrysippus, forestall many evils which valour and
+might cannot hardly redress. Us subtleties which consider nothing but
+glory, but even regard a conquests which lift your celebrity are really
+beneficial country. As regards
+immediate inference, a subject which has been run into subtleties
+among ourselves, Chrysippus estimated that the changes which could be
+rung on ten propositions exceeded a million, but for this assertion
+he was taken to task by Hipparchus the mathematician, who proved that
+the affirmative proposition yielded exactly 103,049 forms and the
+negative 310,962. With us the affirmative proposition is more
+prolific in consequences than the negative. But then, the Stoics were
+not content with so simple a thing as mere negation, but had negative
+arnetic and privative, to say nothing of supernegative propositions.
+Another noticeable feature is the total absence of the three figures
+of Aristotle and the only moods spoken of are the moods of the
+complex syllogism, such as the modus penens in a conjunctive.
+Their type of reasoning was--
+  If A, then B
+  But A
+  B
+
+The important part played by conjunctive propositions in their logic led the Stoics to formulate
+the following rule with regard to the material quality of such propositions: Truth can only
+be followed by truth, but falsehood may be followed by falsehood or truth.
+
+Thus if it be truly stated that it is day, any consequence of that
+statement, e.g. that it is light, must be true also. But a
+false statement may lead either way. For instance, if it be falsely
+stated that it is night then the consequence that it is dark is false
+also. But if we say, "The earth flies," which was regarded as not
+only false but impossible [Footnote: Here we may recall the warning
+of Arago to call nothing impossible outside the range of pure
+mathematics] this involves the true consequence that the earth is.
+Though the simple syllogism is not alluded to in the sketch which
+Diogenes Laertius gives of the Stoic logic, it is of frequent
+occurrence in the accounts left us of their arguments. Take for
+instance the syllogism wherewith Zeno advocated the cause of
+temperance--
+  One does not commit a secret to a man who is drunk.
+  One does commit a secret to a good man.
+  A good man will not get drunk.
+
+The chain argument which we wrongly call the Sorites was also a
+favorite resource with the Stoics. If a single syllogism did not
+suffice to argue men into virtue surely a condensed series must be
+effectual. And so they demonstrated the sufficiency of wisdom for
+happiness as follows----
+  The wise man is temperate
+  The temperate is constant
+  The constant is unperturbed
+  The unperturbed is free from sorrow
+  Whoso is free from sorrow is happy
+  The wise man is happy
+
+The delight which the early Stoics took in this pure play of the intellect led them to pounce
+with avidity upon the abundant stock of fallacies current among the Greeks of their time. These
+seem--most of them--to have been invented by the Megarians and especially by Eubulides of Miletus
+a disciple of Eucleides but they became associated with the Stoics both by friends and foes
+who either praise their subtlety or deride their solemnity in dealing with them. Chrysippus
+himself was not above propounding such sophisms as the following--
+
+  Whoever divulges the mysteries to the uninitiated commits impiety
+  The hierophant divulged the mysteries to the uninitiated
+  The hierophant commits impiety
+
+  Anything that you say passes through your mouth
+  You say a wagon
+  A wagon passes through your mouth
+
+He is said to have written eleven books on the No-one fallacy. But what seems to have exercised
+most of his ingenuity was the famous Liar, the invention of which is ascribed to Eubulides.
+This fallacy in its simplest form is as follows. If you say truly that you are telling a lie,
+are you lying or telling the truth? Chrysippus set this down as inexplicable. Nevertheless
+he was far from declining to discuss it. For we find in the list of his works a treatise in
+five books on the Inexplicables an Introduction to the Liar and Liars for Introduction, six
+books on the Liar itself, a work directed against those who thought that such propositions
+were both false and true, another against those who professed to solve the Liar by a process
+of division, three books on the solution of the Liar, and finally a polemic against those who
+asserted that the Liar had its premises false. It was well for poor Philetas of Cos that he
+ended his days before Chrysippus was born, though as it was he grew thin and died of the Liar,
+and his epitaph served as a solemn reminder to poets not to meddle with logic--
+
+    Philetas of Cos am I
+    'Twas the Liar who made me die
+    And the bad nights caused thereby.
+
+Perhaps we owe him an apology for the translation.
+
+ETHIC
+
+We have already had to touch upon the psychology of the Stoics in connection with the first
+principles of logic. It is no less necessary to do so now in dealing with the foundation of ethic.
+
+The Stoics we are told reckoned that there were eight parts of the soul. These were the five
+senses, the organ of sound, the intellect and the reproductive principle. The passions, it
+will be observed, are conspicuous by their absence. For the Stoic theory was that the passions
+were simply the intellect in a diseased state owing to the perversions of falsehood. This is
+why the Stoics would not parley with passion, conceiving that if once it were let into the
+citadel of the soul it would supplant the rightful ruler. Passion and reason were not two things
+which could be kept separate in which case it might be hoped that reason would control passion,
+but were two states of the same thing--a worse and a better.
+
+The unperturbed intellect was the legitimate monarch in the kingdom of man. Hence the Stoics
+commonly spoke of it as the leading principle. This was the part of the soul which received
+phantasies and it was also that in which impulses were generated with which we have now more
+particularly to do.
+
+Impulse or appetition was the principle in the soul which impelled to action. In an unperverted
+state it was directed only to things in accordance with nature. Dr. Jamison in his Dictionary from the
+Speech, state "these men being specifically scots, our forefathers have endeavoured
+to the account for this circumstance by pretending that March adopt
+them of April, that he might widen his potency so much longer.
+
+
+The earliest impulse that appeared in a newly born animal was to protect itself and its own
+constitution which were conciliated to it by nature. What tended to its survival, it sought;
+what tended to its destruction, it shunned. Thus self-preservation was the first law of life.
+
+While man was still in the merely animal stage, and before reason was developed in him, the
+things that were in accordance with his nature were such as health, strength, good bodily condition,
+soundness of all the senses, beauty, swiftness--in short all the qualities that went to make
+up richness of physical life and that contributed to the vital harmony. These were called the
+first things in accordance with nature. Their opposites were all contrary to nature, such as
+sickness, weakness, mutilation. Under the first things in accordance with nature came also
+congenial advantages of soul such as quickness of intelligence, natural ability, industry,
+application, memory, and the like. It was a question whether pleasure was to be included among
+the number. Some members of the school evidently though that it might be, but the orthodox
+opinion was that pleasure was a sort of aftergrowth and that the direct pursuit of it was deleterious
+to the organism. The after growths of virtue were joy, cheerfulness, and the like. These were
+the gambolings of the spirit like the frolicsomeness of an animal in the full flush of its
+vitality or like the blooming of a plant. For one and the same power manifested itself in all
+ranks of nature, only at each stage on a higher level. To the vegetative powers of the plant
+the animal added sense and Impulse. It was in accordance therefore with the nature of an animal
+to obey the Impulses of sense, but to sense and Impulse man superadded reason so that when
+he became conscious of himself as a rational being, it was in accordance with his nature to
+let all his Impulses be shaped by this new and master hand. Virtue was therefore pre-eminently
+in accordance with nature. What then we must now ask is the relation of reason to impulse as
+conceived by the Stoics? Is reason simply the guiding, and impulse the motive power? Seneca
+protests against this view, when impulse is identified with passion. One of his grounds for
+doing so is that reason would be put on a level with passion, if the two were equally necessary
+for action. But the question is begged by the use of the word 'passion,' which was defined
+by the Stoics as 'an excessive impulse.' Is it possible then, even on Stoic principles, for
+reason to work without something different from itself to help it? Or must we say that reason
+is itself a principle of action? Here Plutarch comes to our aid, who tells us on the authority
+of Chrysippus in his work on Law that impulse is 'the reason of man commanding him to act,'
+and similarly that repulsion is 'prohibitive reason.' This renders the Stoic position unmistakable,
+and we must accomodate our minds to it in spite of its difficulties. Just as we have seen already
+that reason is not something radically different from sense, so now it appears that reason
+is not different from impulse, but itself the perfected form of impulse. Whenever impulse is
+not identical with reason--at least in a rational being--it is not truly impulse, but passion.
+
+The Stoics, it will be observed, were Evolutionists in their psychology. But, like many Evolutionists
+at the present day, they did not believe in the origin of mind out of matter. In all living
+things there existed already what they called 'seminal reasons,' which accounted for the intelligence
+displayed by plants as well as by animals. As there were four cardinal virtues, so there were
+four primary passions. These were delight, grief, desire and fear. All of them were excited
+by the presence or the prospect of fancied good or ill. What prompted desire by its prospect
+caused delight by its presence, and what prompted fear by its prospect caused grief by its
+presence. Thus two of the primary passions had to do with good and two with evil. All were
+furies which infested the life of fools, rendering it bitter and grievous to them; and it was
+the business of philosophy to fight against them. Nor was this strife a hopeless one, since
+the passions were not grounded in nature, but were due to false opinion. They originated in
+voluntary judgements, and owed their birth to a lack of mental sobriety. If men wished to live
+the span of life that was allotted to them in quietness and peace, they must by all means keep
+clear of the passions.
+
+The four primary passions having been formulated, it became necessary to justify the division
+by arranging the specific forms of feeling under these four heads. In this task the Stoics
+displayed a subtlety which is of more interest to the lexicographer than to the student of
+philosophy. They laid great stress on the derivation of words as affording a clue to their
+meaning; and, as their etymology was bound by no principles, their ingenuity was free to indulge
+in the wildest freaks of fancy.
+
+Though all passion stood self-condemned, there were nevertheless certain 'eupathies,' or happy
+affections, which would be experienced by the ideally good and wise man. These were not perturbations
+of the soul, but rather 'constancies'; they were not opposed to reason, but were rather part
+of reason. Though the sage would never be transported with delight, he would still feel an
+abiding 'joy' in the presence of the true and only good; he would never indeed be agitated
+by desire, but still he would be animated by 'wish,' for that was directed only to the good;
+and though he would never feel fear still he would be actuated in danger by a proper caution.
+
+There was therefore something rational corresponding to three out of four primary passions--against
+delight was to be set joy; against grief there was nothing to be set, for that arose from the
+presence of ill which would rather never attach to the sage. Grief was the irrational conviction
+that one ought to afflict oneself where there was no occasion for it. The ideal of the Stoics
+was the unclouded serenity of Socrates of whom Xanthippe declared that he had always the same
+face whether on leaving the house In the morning or on returning to it at night.
+
+As the motley crowd of passions followed the banners of their four leaders so specific forms
+of feeling sanctioned by reason were severally assigned to the three eupathies.
+
+Things were divided by Zeno into good, bad, and indifferent. To good belonged virtue and what
+partook of virtue; to bad, vice and what partook of vice. All other things were indifferent.
+
+To the third class then belonged such things as life and death, health and sickness, pleasure
+and pain, beauty and ugliness, strength and weakness, honour and dishonour, wealth and poverty,
+victory and defeat, nobility and baseness of birth.
+
+Good was defined as that which benefits. To confer benefit was no less essential to good than
+to impart warmth was to heat. If one asked in what 'to benefit' lay one received the reply
+that it lay in producing an act or state in accordance with virtue, and similarly it was laid
+down that 'to hurt' lay in producing an act or state in accordance with vice.
+
+The indifference of things other than virtue and vice was apparent from the definition of good
+which made it essentially beneficial. Such things as health and wealth might be beneficial
+or not according to circumstances; they were therefore no more good than bad. Again, nothing
+could be really good of which the good or ill depended on the use made of it, but this was
+the case with things like health and wealth.
+
+The true and only good then was identical with what the Greeks called 'the beautiful' and what
+we call 'the right'. To say that a thing was right was to say that it was good, and conversely
+to say that it was good was to say that it was right; this absolute identity between the good
+and the right and, on the other hand, between the bad and wrong, was the head and front of
+the Stoic ethics. The right contained in itself all that was necessary for the happy life,
+the wrong was the only evil, and made men miserable whether they knew it or not.
+
+As virtue was itself the end, it was of course choiceworthy in and for itself, apart from hope
+or fear with regard to its consequences. Moreover, as being the highest good, it could admit
+of no increase from the addition of things indifferent. It did not even admit of increase from
+the prolongation of its own existence, for the question was not one of quantity, but of quality.
+Virtue for an eternity was no more virtue, and therefore no more good, than virtue for a moment.
+Even so one circle was no more round than another, whatever you might choose to make its diameter,
+nor would it detract from the perfection of a circle if it were to be obliterated immediately
+in the same dust in which it had been drawn. 
+
+(for Mirror.) Stowe, in his Survey were of Edward, says, "so unto
+Paul'Somerset Schoole, of the side have neere, was of said time than
+a strong and common Bell, or Clochier-speech, four square, builded
+of the stone; and in the, and a clochier used of no timber, with foure
+bels, the greatest that i have learn: the were called Jesus Bels,
+and go to downe and Chappell, but i know not by whose gift.
+
+These so high house then was, than a did set one Existence pounds were upon same it against
+rest, and afterwards won the frame and bels of the king; and far causing
+this bels to be interrupt as they hung, the it was pulled s. The
+man was then accomplish on the 100, for matters concerning that Duke
+of Jesus, hee fifth of London had the sixth.
+ This was attained when one's own genius was in
+harmony with the will that disposed of all things.
+
+Virtue having been purified from all the dross of the emotions, came out as something purely
+intellectual, so that the Stoics agreed with the Socratic conception that virtue is knowledge.
+They also took on from Plato the four cardinal virtues of Wisdom, Temperance, Courage, and
+Justice, and defined them as so many branches of knowledge. Against these were set four cardinal
+vices of Folly, Intemperance, Cowardice, and Injustice. Under both the virtues and vices there
+was an elaborate classification of specific qualities. But notwithstanding the care with which
+the Stoics divided and subdivided the virtues, virtue, according to their doctrine, was all
+the time one and indivisible. For virtue was simply reason and reason, if it were there, must
+control every department of conduct alike. 'He who has one virtue has all,' was a paradox with
+which the Greek thought was already familiar. But Chrysippus went beyond this, declaring that
+he who displayed one virtue did thereby display all. Neither was the man perfect who did not
+possess all the virtues, nor was the act perfect which did not involve them all. Where the
+virtues differed from one another was merely in the order in which they put things. Each was
+primarily itself, secondarily all the rest. Wisdom had to determine what it was right to do,
+but this involved the other virtues. Temperance had to impart stability to the impulses, but
+how could the term 'temperate' be applied to a man who deserted his post through cowardice,
+or who failed to return a deposit through avarice, which is a form of injustice, or yet to
+one who misconducted affairs through rashness, which falls under folly? Courage had to face
+dangers and difficulties, but it was not courage unless its cause were just. Indeed one of
+the ways in which courage was defined was a virtue fighting on behalf of justice. Similarly
+justice put first the assigning to each man his due, but in the act of doing so had to bring
+in the other virtues. In short, it was the business of the man of virtue to know and to do
+what ought to be done, for what ought to be done implied wisdom in choice, courage in endurance,
+justice in assignment and temperance in abiding by ones conviction. One virtue never acted
+by itself, but always on the advice of a committee. The obverse to this paradox--He who has
+one vice has all vices--was a conclusion which the Stoics did not shrink from drawing. One
+might lose part of one's Corinthian ware and still retain the rest, but to lose one virtue--if
+virtue could be lost--would be to lose all along with it.
+
+We have now encountered the first paradox of Stoicism, and can discern its origin in the identification
+of virtue with pure reason. In getting forth the novelties in Zeno's teaching, Cicero mentions
+that, while his predecessors had recognized virtues due to nature and habit, he made all dependent
+upon reason. A natural consequence of this was the reassertion of the position which Plato
+held or wished to hold, namely, that virtue can be taught. But the part played by nature in
+virtue cannot be ignored. It was not in the power of Zeno to alter facts. All he could do was
+to legislate as to names. And this he did vigorously. Nothing was to be called virtue which
+was not of the nature of reason and knowledge, but still it had to be admitted that nature
+supplied the starting points for the four cardinal virtues--for the discovery of one's impulses,
+for right endurances and harmonious distributions.
+
+From things good and bad we now turn to things indifferent. Hitherto the Stoic doctrine has
+been stern and uncompromising. We have now to look at it under a different aspect, and to see
+how it tried to conciliate common sense.
+
+By things indifferent were meant such as did not necessarily
+contribute to virtue, for instance health, wealth, strength, and
+honor. It is possible to have all these and not be virtuous, it is
+possible also to be virtuous without them. But we have now to learn
+that though these things are neither good nor evil, and are therefore
+not matter for choice or avoidance, they are far from being
+indifferent in the sense of arousing neither impulse nor repulsion.
+There are things indeed that are indifferent in the latter sense,
+such as whether you put out your finger this way or that, whether you
+stoop to pick up a straw or not, whether the number of hairs on your
+head be odd or even. But things of this sort are exceptional. The
+bulk of things other than virtue and vice do arouse in us either
+impulse or repulsion. Let it be understood then that there are two
+senses of the word indifferent--
+   (1) neither good nor bad
+   (2) neither awaking impulse nor repulsion
+
+Among things indifferent in the former sense, some were in accordance with nature, some were
+contrary to nature and some were neither one nor the other. Health, strengths and soundness
+of the senses were in accordance with nature; sickness weakness and mutilation were contrary
+to nature, but such things as the fallibility of the soul and the vulnerability of the body
+were neither in accordance with nature nor yet contrary to nature, but just nature.
+
+All things that were in accordance with nature had 'value' and all things that were contrary
+to nature had what we must call 'disvalue'. In the highest sense indeed of the term 'value'--namely
+that of absolute value or worth--things indifferent did not possess any value at all. But still
+there might be assigned to them what Antipater expressed by the term 'a selective value' or
+what he expressed by its barbarous privative, 'a disselective disvalue'. If a thing possessed
+a selective value you took that thing rather than its contrary, supposing that circumstances
+allowed, for instance, health rather than sickness, wealth rather than poverty, life rather
+than death. Hence such things were called takeable and their contraries untakeable. Things
+that possessed a high degree of value were called preferred, those that possessed a high degree
+of disvalue were called rejected. Such as possessed no considerable degree of either were neither
+preferred nor rejected. Zeno, with whom these names originated, justified their use about things
+really indifferent on the ground that at court "preferment" could not be bestowed upon the
+king himself, but only on his ministers.
+
+Things preferred and rejected might belong to mind, body or estate. Among things preferred
+in the case of the mind were natural ability, art, moral progress, and the like, while their
+contraries were rejected. In the case of the body, life, health, strength, good condition,
+completeness, and beauty were preferred, while death, sickness, weakness, ill condition, mutilation
+and ugliness were rejected. Among things external to soul and body, wealth, reputation, and
+nobility were preferred, while poverty, ill repute, and baseness of birth were rejected.
+
+In this way all mundane and marketable goods, after having been solemnly refused admittance
+by the Stoics at the front door, were smuggled in at a kind of tradesman's entrance under the
+name of things indifferent. We must now see how they had, as it were, two moral codes, one
+for the sage and the other for the world in general.
+
+The sage alone could act rightly, but other people might perform "the proprieties." Any one
+might honor his parents, but the sage alone did it as the outcome of wisdom, because he alone
+possessed the art of life, the peculiar work of which was to do everything that was done as
+the result of the best disposition. All the acts of the sage were "perfect proprieties," which
+were called "rightnesses." All acts of all other men were sins or "wrongnesses." At their best
+they could only be "intermediate proprieties." The term "propriety," then, is a generic one.
+But, as often happens, the generic term got determined in use to a specific meaning, so that
+intermediate acts are commonly spoken of as "proprieties" in opposition to "rightnesses." Instances
+of "rightnesses" are displaying wisdom and dealing justly, instances of proprieties or intermediate
+acts are marrying, going on an embassy, and dialectic.
+

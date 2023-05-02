@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00855.txt">
+  <feature name="about" authors="Seaman, Augusta Huiell" title="The Boarded-Up House" lang="en" />
+  <feature name="md5Hash" value="f9a99e1627691d49cd74d82bbaf017fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5715" this_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21497" this_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26665" this_length="259" />
+</document>
+

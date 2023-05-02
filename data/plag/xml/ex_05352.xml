@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05352.txt">
+  <feature name="about" authors="Howells, William Dean" title="A Belated Guest (from Literary Friends and Acquaintance)" lang="en" />
+  <feature name="md5Hash" value="d02bab32e7637c2684a5930b49fb5df8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="324" this_length="3564" source_reference="source-document04881.txt" source_language="en" source_offset="43081" source_length="3511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21014" this_length="2028" source_reference="source-document03783.txt" source_language="en" source_offset="91262" source_length="2123" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27034" this_length="473" source_reference="source-document03783.txt" source_language="en" source_offset="49863" source_length="469" />
+</document>
+

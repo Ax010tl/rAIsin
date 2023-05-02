@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05386.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Chaplet of Pearls" lang="en" />
+  <feature name="md5Hash" value="f223df0a8567e80734de3841fcdfe386" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2724" this_length="3878" source_reference="source-document04665.txt" source_language="de" source_offset="67112" source_length="4433" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9823" this_length="3831" source_reference="source-document04665.txt" source_language="de" source_offset="101976" source_length="4237" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16599" this_length="232" source_reference="source-document04665.txt" source_language="de" source_offset="120670" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18132" this_length="1457" source_reference="source-document00918.txt" source_language="de" source_offset="1810" source_length="1720" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20599" this_length="1546" source_reference="source-document04665.txt" source_language="de" source_offset="127411" source_length="1687" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24170" this_length="673" source_reference="source-document04665.txt" source_language="de" source_offset="81688" source_length="744" />
+</document>
+

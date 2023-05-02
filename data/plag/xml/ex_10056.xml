@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10056.txt">
+  <feature name="about" authors="Sparks, William Henry" title="The Memories of Fifty Years Containing Brief Biographical Notices of Distinguished Americans, and Anecdotes of Remarkable Men; Interspersed with Scenes and Incidents Occurring during a Long Life of Observation Chiefly Spent in the Southwest" lang="en" />
+  <feature name="md5Hash" value="ada67b9c5dc11f8600f762102f504bc4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11168" this_length="2727" source_reference="source-document09618.txt" source_language="en" source_offset="127203" source_length="2800" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18306" this_length="505" source_reference="source-document09618.txt" source_language="en" source_offset="36448" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20328" this_length="210" source_reference="source-document01293.txt" source_language="en" source_offset="18122" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22667" this_length="822" source_reference="source-document01293.txt" source_language="en" source_offset="13679" source_length="810" />
+</document>
+

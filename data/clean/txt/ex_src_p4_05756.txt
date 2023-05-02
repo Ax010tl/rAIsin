@@ -1,0 +1,318 @@
+﻿Lord Minto, when out of office, was able to speak of the engine in more approving terms than
+he could adopt in his official capacity. "I need hardly say," he wrote on the 6th of September,
+1842, "that the report of continued success in your rotatory engine gives me great pleasure,
+not only upon your own account, but as promising a valuable addition to our naval power in
+its application to ships of war. As a high-pressure engine, the complete success of your plan
+has, I believe, been recognised by all who have attended to it, and it is in this form that
+I had contemplated its application in the first instance as an auxiliary and occasional power
+in some ships of war."
+
+At length, though not with all the energy that he desired, Lord Dundonald's engine was put
+to the test by the Admiralty during the Earl of Haddington's tenure of office in that department.
+In May, 1842, he was invited by the new First Lord, who, in common with all the world, was
+aware of the zeal and intelligence with which he had devoted himself to the consideration of
+every branch of naval science, to communicate his opinions thereupon. The first result of this
+invitation was a letter showing remarkable discernment of evils then existing, and curiously
+anticipating some later efforts to correct them.
+
+"The slow progress," wrote Lord Dundonald, on the 7th of June, "which the naval service has
+made towards its present ameliorated state--yet far from perfection--has not permitted any
+one Board of Admiralty in my time to stand pre-eminently distinguished for decisive improvements.
+These have rather been effected by the gradual changes which time occasions, or by following
+the example of America, or even of France, than by encouraging efforts of native genius. This
+has arisen from causes easily remedied; one of which is, that the rejection or adoption of
+proffered improvements has depended on the decision of several authorities, who consequently
+feel little individual responsibility, and imagine themselves liable to censure only for a
+change of system. Thus, my lord, a still heavier responsibility has, in fact, been incurred
+by continuing, long after the most superficial observation demanded a change, to construct
+small ships of the line, and little frigates, which the great practical skill and bravery of
+our countrymen were taxed to defend against the powerful eighty-gun ships of France and the
+large frigates of America. This timidity as to change caused many years to elapse, after the
+commercial use of steam-vessels, before the naval department possessed even a tug-boat. Hence
+the mischievous economy manifested by the purchase of worthless merchant steamers; hence the
+subsequent parsimonious project of building small steam-vessels fitted with engines immersed
+beyond their bearing, and deficient in every requisite for purposes of war. I am not one of
+those, my lord, who deem it advantageous to act on the belief that one Englishman can beat
+two Frenchmen. I am inclined to doubt whether a practical demonstration of that saying might
+not be attended with disastrous consequences. Long habitude reared experienced British officers,
+who are now replaced by others who possess less nautical skill, and are nearer on a par with
+those of France, in regard to whose education every pains has been taken by its Government.
+I do not presume to advise that your lordship should adopt changes precipitately, nor without
+consulting those who may be most competent to judge; no, nor even then that the best measures
+should be prematurely disclosed, so as to give intimation to other nations of the vast increase
+of power which may suddenly be rendered available. But I venture to suggest that you may quietly
+prepare the means of effecting purposes which neither the ordinary ships of war nor the present
+steam-ships in the navy can accomplish. Permanent blockades, my lord, are now quite out of
+the question; and so, in my opinion, are all our ordinary naval tactics. A couple of heavy
+line-of-battle ships, suddenly fitted, on the outbreak of war, with adequate steam-power, would
+decide the successful result of a general action; and I am assured that I could show your lordship
+how to fit a steam-ship which, in scouring the Channel or ranging the coast, could take or
+destroy every steam-ship belonging to France that came within view."
+
+That offer was accepted by the Earl of Haddington, who, being at Portsmouth in August, made
+personal inspection of some experiments in which Lord Dundonald was there engaging; and the
+result of that inspection was that he promptly arranged for the introduction, at the public
+expense, of the rotary engine in the Firefly, a small steam-vessel which, like many others,
+the Government had bought and found useless, by reason of its clumsy machinery. In her, with
+no more than the usual delay occasioned by the co-operation of official routine with private
+enterprise, in which Lord Dundonald had the assistance of Mr. Renton and Messrs. Bramah, the
+experiment was tried and found to answer so well, in spite of the difficulties incident to
+a first attempt, that it was resolved to develop it further in a frigate to be built throughout
+in accordance with his plans for the improved construction of shipping.
+
+To these he had lately made some valuable additions. On the 19th of January, 1843, a patent
+was granted to him for various improvements in engines and other machinery, one of which was
+an apparatus for propelling vessels. "This improved propeller," says a competent authority,
+"consists of an arrangement of propelling blades immerged beneath the water, in the manner
+now usual in screw vessels; but, instead of the blades being set at right angles with the propeller-shaft,
+they form an angle therewith. One important effect of this arrangement is that it corrects
+the centrifugal action of the screw; for whereas, in common screws, the water which is discharged
+backwards assumes a conical figure, enlarging as it recedes, in a screw formed on Lord Dundonald's
+plan the outline of the moving water will be cylindrical, the centrifugal action being counteracted
+by the convergent action due to the backward inclination of the propelling blades. It is found,
+practically, that screws constructed upon this principle give a better result than ordinary
+screws."[17]
+
+  [17] John Bourne. "A Treatise on the Screw Propeller, Screw Vessels,
+  and Screw Engines" (1867), p. 42.
+
+Another invention patented by Lord Dundonald at the same time was a modification of the boilers
+used for steam-engines. "These boilers," says the same critic, "are constructed with a double
+tier of furnaces and with upright tubes, the water being contained within the tubes and the
+smoke impinging upon them on its passage to the chimney. This species of boiler is found to
+be very efficient. A hanging bridge is introduced to retain the heat in the upper part of the
+flue in which the tubes are erected. By inserting a short piece of tube in the upper extremity
+of each tube within the boiler the upward circulation of the water within the tubes was increased
+as the length of the lighter column of water was augmented, while the length of the gravitating
+column remained without alteration."[18]
+
+  [18] John Bourne. "A Treatise on the Steam Engine" (1861), p. 233.
+  These boilers, extensively used in London, America, and elsewhere, and
+  now introduced in the Admiralty ship-building, have been greatly
+  improved by Lord Dundonald's son, Captain the Hon. A. A. Cochrane,
+  C.B.
+
+"I believe," he said in a letter to Lord Haddington dated the 22nd of May, 1843, "that all
+our old vessels of war, save the class of eighty-gun ships and a few first-rate and large frigates,
+are almost worthless; whilst our steam department is deficient in most of the properties which
+constitute effective vessels. No blockades worthy of the name can now be maintained by fleets
+of sailing ships; nor can accompanying steamships be kept for months and years even in 'approximate
+readiness,' awaiting the distant night when it may suit the enemy to attack our blockading
+force or quietly to slip out in the dark in order to assail our commerce in other quarters.
+I have, my lord, during the last twelve years actually disbursed, to the great inconvenience
+of my family, upwards of 16,000l. to promote nautical objects which appeared to me of importance.
+Your lordship knows their nature, and it is in no way difficult to ascertain their reality.
+I consider that several, if not all our line-of-battle ships, should have the benefit of mechanical
+power, say to the extent of a hundred horses--the machinery to be placed out of the reach of
+shot. The construction of new ships on the best lines that could be found would prove more
+judicious than repairing old ones, however apparently cheap such repairs may be; for a few
+powerful and quick-sailing ships are preferable to a multitude which can neither successfully
+chase, nor escape from, an enemy."
+
+That allusion to the "best lines" of ship-building, and some of Lord Dundonald's other views
+on naval architecture, will be explained by another letter written by him to Lord Haddington,
+three months before, on the 20th of February. "I have lately," he said, "submitted to the consideration
+of Sir George Cockburn an axiom for the uniform delineation of consecutive parabolic curves,
+forming a series of lines presenting the least resistance in the submerged portion of ships
+and vessels--an axiom never before so applied in naval architecture, as is manifest from the
+discrepant forms of our ships of war. I also offered to Sir George's attention a new propeller
+and method of adapting propellers to sailing ships in her Majesty's service, free from the
+disadvantages of paddle-wheels and from the injurious consequences of lessening the buoyancy
+and weakening the strength of the after part of ships by a prolongation of the 'dead wood,'
+and by cutting a large hole through it for the insertion of the Archimedean screw. The favourable
+impression made on the mind of Sir George, and my own deliberate conviction of the importance
+of these improvements, and of others then briefly touched on, lead me, by reason of the lamented
+indisposition of that talented officer, now personally, instead of through him, to offer them
+to your lordship's attention.
+
+"The French, as your lordship is well aware, are making great exertions to advance their steam
+department, especially in the Mediterranean, where calms are frequent and their coal is abundant--doubtless
+in the hope of thereby preventing the future blockade of Toulon, and of keeping open their
+intercourse with Algiers; which would be equivalent to possessing the dominion of the Mediterranean
+Sea, where a British blockading fleet of sailing ships must, under such circumstances, themselves
+be protected. In saying this, my lord, I beg to be understood as by no means depreciating the
+capabilities of our common ships of war, whilst they possess the power of motion, but as holding
+them to be quite unfit for blockades, and exposed to great peril where calms are of frequent
+occurrence and long duration. Indeed, it may be worthy of your lordship's serious consideration
+whether, in another point of view, it might not be judicious to place steam-engines in some,
+at least, of our line-of-battle ships, in order to divert the attention of foreign nations
+from the exclusive employment of mechanical propelling power to purposes of naval war, whereby
+British officers and seamen, deprived of the means of displaying their superior skill, become
+reduced to a par with the trained bands of Continental states.
+
+"I have prepared a model in bronze of a steam-frigate possessing peculiar properties, founded
+on the before-mentioned axiom, which, I do not hesitate to submit to your lordship, would save
+vast sums wasted in the construction of inferior ships and vessels, by enabling the Admiralty,
+on unerring data, to stereotype--if I may use the expression--every curve in every rate or
+class of ships, and so impose on constructors the undeviating task of adhering to the lines
+and models scientifically determined on by their lordships."[19]
+
+  [19] The following statement of Lord Dundonald's "axiom" accompanied
+  the model which was submitted to the Admiralty:--"It is universally
+  admitted that a sharp bow and a clear run contribute to the speed
+  of vessels; but what the consecutive lines ought to be, in order to
+  constitute a perfect bow, or what those to form the run, no
+  builder has yet exemplified by uniformity of practice, or
+  theoretically defined. Ship-delineators profess the art as a mystery,
+  and arbitrary forms are assumed as the result of science. These lines
+  ought to be, by an axiom, founded on a law imposed by Infinite Wisdom
+  for the perfect guidance of inanimate matter. Projectiles, thrown
+  obliquely, take their flight in convex parabolic curves, wherein
+  resistance is overcome by a minimum of force; and elastic surfaces
+  obey the converse of that law in opposing certain external influences.
+  It is a property of conic sections that a straight line, centred in
+  the apex, and caused to circumscribe the surface of the cone, will
+  apply itself continuously to all consecutive parabolic curves. Hence
+  curves similar to the flight of projectiles, and to those formed by
+  the flection of elastic surfaces, may be described on a large scale
+  simply by causing a straight line or beam to revolve as on the axis of
+  a cone, in contact with a parabolic or elliptical section. Thus a
+  consecutive series of convex parabolic or elliptical curves may be
+  substituted in ship-building for hollow fantastical lines. The
+  benefits from which application are, increased velocity, capacity,
+  strength, buoyancy, facility of steering, ease in hard seas, and
+  exemption from breaking or 'hogging.'" Diagrams and explanations
+  thereof accompanied this concise statement of the principle.
+
+Great interest attended the development of Lord Dundonald's inventions. "I need hardly assure
+you," wrote Lord Minto, on the 4th of October, "of the very great satisfaction I derive from
+the continued and increasing success of your rotatory engine; and I shall now look with no
+little impatience for further evidence of its merits in the new steam-frigate to which it is
+to be applied. I am glad, also, that you have turned your attention to the construction of
+steamers of war. I have never been satisfied with the properties of these vessels, much as
+their construction has undoubtedly been improved of late years. It is certainly a difficult
+subject, because some of the qualities essential to a vessel under sail can only be obtained
+by some deviation from the form calculated to give the greatest speed under steam; and I consider
+fair sailing powers, so as under all circumstances to keep company with a fleet, as not less
+important than speed and power as a steamer. The best combination of these very different qualities,
+or that which will upon the whole produce the most serviceable ship, is yet to be sought. I
+think, also, that sufficient consideration has not yet been given to the correction of that
+very grievous defect, the great uneasiness and excessive rolling of all these vessels, from
+the low position of the weights they carry. There is another object in connection with your
+engine which I had constantly in view: I mean its adaptation in the high-pressure form to our
+ships of war in general. It was my intention, had I remained in office, to have fitted a frigate
+with one of your high-pressure engines--not very high, however--with a view, if the experiment
+answered, to the introduction of an occasional steam power in all ships of the line. I believe
+you and I may probably differ as to the amount of steam power it might be advisable to give
+such ships, and that you would wish to steam the Vanguard or the Queen at the rate of ten miles
+an hour. My wishes are much more humble, and I should be perfectly satisfied with an amount
+of power sufficient to give steerage way under all circumstances, to carry the ship into or
+out of action, and to afford her some assistance in clearing off a lee-shore--something about
+equivalent to five knots--an amount of power that might probably be obtained, together with
+some fuel for occasional use, without encroaching too much upon the stowage of the ship. I
+shall be extremely glad if you can induce Lord Haddington to direct his attention to this object."
+
+Through the latter part of 1843 and the whole of 1844, Lord Dundonald was chiefly occupied
+with the construction of the Janus, the steam-frigate which was being built and fitted upon
+his plans. She was shaped in accordance with his "lines," and in her were introduced both his
+revolving engines and his improved boilers. "I have just returned from Chatham," he wrote to
+a friend on the 6th of April, 1844, "where everything regarding the Janus is going on very
+well indeed. And I have further good news to tell you. The Admiralty are so pleased with my
+parabolic lines for ship-building that they have ordered a drawing to be made immediately of
+a frigate of the first class, in order to have one constructed." Hopeful that at last his long-cherished
+ideas would bring benefit both to himself and to the nation, he had in these months much to
+encourage him. "All is going on as well as I could wish, or even as I could accomplish, were
+destiny at my command," he wrote on the 31st of May. "The Portsmouth engines now meet the approbation
+of all the authorities of the yard, and the Admiralty are so satisfied that they have given
+me the building of a steamship to put them in, in lieu of placing them in the old Firefly."
+"Nothing," he said in a letter written a week or two later, "can exceed the perfection of the
+work which the Bramahs have put into the Janus's engines." "The experimental engine at Portsmouth,"
+he wrote on the 3rd of July, "continues to perform admirably, beating all others in the yard
+in point of vacuum, which, you know, is the test of power." "The engines will commence being
+put together in ten or fourteen days," we read in another letter dated the 10th of July; "after
+that we shall make rapid progress. The Janus is now completing--that is, being coppered--and
+having the part of her deck laid down which was left off for the purpose of getting the boilers
+on board. My patent boilers will be tried by authority of the Admiralty about the 20th, and
+I hope for a favourable result." The trial, postponed till the 1st of August, was satisfactory.
+"We have tried the boilers of the Janus," he wrote on that day, "and the result is most triumphant,
+having, with slack firing, ten and a half pounds of water evaporated by each pound of coal."
+"I have just returned from Portsmouth," he had written five days before, "where I had the pleasure
+to find my engine exceeding even all that it had done before--the vacuum, with all the work
+on, being 28-1/2, two inches above that of any other engine in the dockyard. Mr. Taplin, the
+chief engineer, is quite delighted with it." "Sir George Cockburn and Sir John Barrow, permanent
+Secretary of the Admiralty, saw my engine yesterday," he wrote on the 24th of October, concerning
+the machine being built by the Bramahs for the Janus; "and so did Lord Brougham; all of whom
+were well pleased with my explanation of its principles and the appearance of the workmanship.
+It is now being pulled to pieces, in order to its being sent to Chatham and set up on board
+the Janus, whose boilers, by my request, are again to be officially tested as to their evaporative
+power, and that, too, by the Woolwich authorities, whose boilers have been beaten one-third
+by the evaporation of mine. This request must show the Admiralty my confidence in the correctness
+of the former trial; for there is no doubt the Woolwich people would condemn it if they could."
+This second and crucial trial took place on the 9th of November, and the result exceeded alike
+Lord Dundonald's expectations and those of the official judges, to whom failure would have
+been most pleasant. "All matters as regards my engines," he wrote on the 20th of November,
+"are going on well. I hope soon to hear something satisfactory from the Admiralty on the subject
+of the boilers, respecting which they have until now pursued the most profound silence, notwithstanding
+the triumphant result, which has surpassed the product of the far-famed Cornish boilers in
+evaporative power."
+
+Those extracts from Lord Dundonald's letters to the friend with whom he corresponded most freely
+will suffice to show in what temper he watched the progress of his inventions during 1844.
+At the close of the year he hoped that his labours to bring them into general use were now
+nearly at an end; but in this he was disappointed. The Woolwich authorities, who had at the
+time expressed their approval of the boilers, sent in an adverse report to the Admiralty, and
+Lord Dundonald had to wait several months before he could disprove the statements made against
+them; and opposition of the same sort--the common experience of nearly every inventor--encountered
+him at every turn, and had again and again to be overcome. His Portsmouth engine continued
+to work well; but in September, 1845, he learnt that a malicious trick had been resorted to,
+to prevent its working better. "On a recent examination of the pumps in the well," wrote Mr.
+Taplin, the engineer, "to our utter astonishment we found, in the middle suction pipe, an elm
+plug, driven in so tight that we were obliged to bore and cut it out. The plug stopped that
+suction pipe effectually, and from its appearance must have been there from the time the pumps
+were first put in motion. As proof of this, we never had such a supply of water as at present."
+And that is only an illustration of the obstacles, accidental or designed, that occurred to him.
+
+By them, the Janus was delayed for a whole year. She was to have been completed in 1844; but
+this was not done till the end of 1845. "I have just returned," Lord Dundonald was able to
+write on the 24th of December, "from a nine days' trip in the Janus, the result of which has
+been successful, both in regard to the properties of the engines and those of the 'lines' on
+which she has been constructed. Nothing can exceed the beauty of her passage through the water,
+without even a ripple, far less the wave which ordinary steamboats occasion." That success,
+however, was to be followed by a long series of disasters. The weight of the Janus had been
+miscalculated, and though she could proceed admirably in smooth water, she was found to lie
+so low that there was constant danger of her being wrecked in rough seas and bad weather. Other
+faults, incident to the bringing together for the first time of so much new workmanship, were
+also discovered. She had to be returned to dock, and fresh hindrances of every sort occurred
+during the two following years; each hindrance being attended by tedious correspondence or
+controversies with petty functionaries jealous of a stranger's interference, and only eager
+to bring discredit upon his work. Much discredit did result. Loud complaints were made concerning
+the waste of public money resulting from Lord Dundonald's experiments, and on him, of course,
+nearly all the blame was thrown. All this, added to his previous difficulties in securing for
+his boiler and engine any notice at all, was very grievous to him. Every complaint and every
+entreaty from him was met by a new excuse and a new reason for delay. "Ten days are always
+added," he said, in one letter, "and ten days yet are said to be required."
+
+The days became weeks and the weeks months, and still the Janus was incomplete. She was unfinished
+when Lord Dundonald left England for more than two years in order to fulfil the duties assigned
+to him as commander-in-chief of the North American and West Indian squadron, and his absence
+caused a final abandonment of the works.
+
+The tedious process of her construction, however, to which only sufficient reference has here
+been made to serve as illustration of one phase of Lord Dundonald's life, was attended by many
+good results. To himself she brought only trouble and expense; but the obstacles thrown in
+her way and in his did not deter private adventurers from acting upon some of the principles
+developed in abortive attempts at her completion by public functionaries. Lord Dundonald's
+inventions--his revolving engine, his screw-propeller, his boiler, and his "lines of ship-building,"--have
+all proved useful in themselves, and have been of yet greater use in their influence upon the
+improved mechanism of our own generation.
+
+To him must be attributed no slight share in the revolution that has been effected in the materials
+for naval warfare. Of the superiority of steamers to war-ships, he was one of the first advocates.
+His own rotatory engine was never extensively adopted, and was superseded by other engines
+which, lacking the great merit of direct action upon the paddles, that it was his object to
+attain, had other and greater merits of their own; but in their adoption his great object was
+realized, seeing that that object was not his own aggrandisement, but the development of the
+naval strength of England.
+
+CHAPTER XXV.
+
+[1833-1848.]
+
+Zealously as the Earl of Dundonald strove through nearly twenty years to perfect and to make
+generally useful his inventions in connection with steam shipping, he attached yet greater
+importance to another and an older invention or discovery, which, though its efficacy has been
+admitted by all to whom it has been explained, has never yet been adopted. This was the device
+known as his "secret war-plans," for capturing the fleets and forts of an enemy by an altogether
+novel process, attended by little cost or risk to the assailant, but of terrible effect upon
+the objects attacked.
+

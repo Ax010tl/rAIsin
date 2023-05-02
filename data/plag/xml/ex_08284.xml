@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08284.txt">
+  <feature name="about" authors="Tappan, Eva March" title="Diggers in the Earth" lang="en" />
+  <feature name="md5Hash" value="6ff0a208bab0cf50f473aa110dc6c476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="601" this_length="15664" source_reference="source-document06701.txt" source_language="en" source_offset="84858" source_length="23238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26006" this_length="505" source_reference="source-document06701.txt" source_language="en" source_offset="7301" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27643" this_length="2833" source_reference="source-document06701.txt" source_language="en" source_offset="246963" source_length="2735" />
+</document>
+

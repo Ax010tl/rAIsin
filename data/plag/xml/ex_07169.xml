@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07169.txt">
+  <feature name="about" authors="Howells, William Dean" title="A Psychological Counter-Current in Recent Fiction" lang="en" />
+  <feature name="md5Hash" value="668231b34c7e2715a2566fc5cfa91105" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="13473" source_reference="source-document04333.txt" source_language="en" source_offset="2503" source_length="20556" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17426" this_length="2700" source_reference="source-document04333.txt" source_language="en" source_offset="28599" source_length="2772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20729" this_length="1734" source_reference="source-document03445.txt" source_language="en" source_offset="18201" source_length="1991" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22829" this_length="2448" source_reference="source-document03445.txt" source_language="en" source_offset="6721" source_length="2494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25946" this_length="2818" source_reference="source-document04236.txt" source_language="en" source_offset="160022" source_length="3085" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29263" this_length="2077" source_reference="source-document04236.txt" source_language="en" source_offset="142763" source_length="2001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31341" this_length="247" source_reference="source-document04333.txt" source_language="en" source_offset="23645" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31799" this_length="569" source_reference="source-document04333.txt" source_language="en" source_offset="36917" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32434" this_length="262" source_reference="source-document04236.txt" source_language="en" source_offset="167336" source_length="271" />
+</document>
+

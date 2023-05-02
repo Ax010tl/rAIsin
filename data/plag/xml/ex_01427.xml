@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01427.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Familiar Studies of Men and Books" lang="en" />
+  <feature name="md5Hash" value="082fa7a9176e10c5617c2a8e9db7d332" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="15861" source_reference="source-document00994.txt" source_language="de" source_offset="125" source_length="17471" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16219" this_length="1609" source_reference="source-document02279.txt" source_language="de" source_offset="2203" source_length="1739" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17829" this_length="3205" source_reference="source-document02279.txt" source_language="de" source_offset="3942" source_length="3611" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21035" this_length="3267" source_reference="source-document00994.txt" source_language="de" source_offset="23790" source_length="3584" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24303" this_length="1781" source_reference="source-document00994.txt" source_language="de" source_offset="17596" source_length="2014" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26085" this_length="245" source_reference="source-document00994.txt" source_language="de" source_offset="23026" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26331" this_length="192" source_reference="source-document02279.txt" source_language="de" source_offset="8361" source_length="232" />
+</document>
+

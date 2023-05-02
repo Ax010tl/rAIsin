@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03119.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Oldtown Fireside Stories" lang="en" />
+  <feature name="md5Hash" value="c88b95bc975a65626a4d1390f39fe898" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6311" this_length="2282" source_reference="source-document00856.txt" source_language="en" source_offset="125119" source_length="2477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19757" this_length="598" source_reference="source-document00856.txt" source_language="en" source_offset="129268" source_length="681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23593" this_length="525" source_reference="source-document00856.txt" source_language="en" source_offset="119864" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25840" this_length="228" source_reference="source-document00856.txt" source_language="en" source_offset="233759" source_length="247" />
+</document>
+

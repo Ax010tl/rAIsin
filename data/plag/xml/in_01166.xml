@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01166.txt">
+  <feature name="about" authors="Warner, Agnes" title="'My Beloved Poilus'" lang="en" />
+  <feature name="md5Hash" value="a5e1caac41da307af9fab0380831cc94" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6878" this_length="654" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="11149" this_length="189" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18186" this_length="677" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24390" this_length="244" />
+</document>
+

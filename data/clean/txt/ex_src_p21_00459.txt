@@ -1,0 +1,329 @@
+﻿DEDICATION
+
+To Clifton College
+
+PREPARER'S NOTE
+
+This was typed from an Everyman's Library edition. It seems that Dakyns died before Cyropaedia
+could be included as the planned fourth and final volume of his series, "The Works of Xenophon,"
+published in the 1890s by Macmillan and Co. The works in that series can all be found in Project
+Gutenberg under their individual titles.
+
+INTRODUCTION
+
+A very few words may suffice by way of introduction to this translation of the Cyropaedia.
+
+These tests may be safely applied to the work of Mr. Dakyns. An accomplished Greek scholar,
+for many years a careful and sympathetic student of Xenophon, and possessing a rare mastery
+of English idiom, he was unusually well equipped for the work of a translator. And his version
+will, as I venture to think, be found to satisfy those requirements of an effective translation
+which Professor Jowett laid down. It is faithful to the tone and spirit of the original, and
+it has the literary quality of a good piece of original English writing. For these and other
+reasons it should prove attractive and interesting reading for the average Englishman.
+
+Xenophon, it must be admitted, is not, like Plato, Thucydides, or Demosthenes, one of the greatest
+of Greek writers, but there are several considerations which should commend him to the general
+reader. He is more representative of the type of man whom the ordinary Englishman specially
+admires and respects, than any other of the Greek authors usually read.
+
+An Athenian of good social position, endowed with a gift of eloquence and of literary style,
+a pupil of Socrates, a distinguished soldier, an historian, an essayist, a sportsman, and a
+lover of the country, he represents a type of country gentleman greatly honoured in English
+life, and this should ensure a favourable reception for one of his chief works admirably rendered
+into idiomatic English. And the substance of the Cyropaedia, which is in fact a political romance,
+describing the education of the ideal ruler, trained to rule as a benevolent despot over his
+admiring and willing subjects, should add a further element of enjoyment for the reader of
+this famous book in its English garb.
+
+                                                          J. HEREFORD.
+
+EDITOR'S NOTE
+
+In preparing this work for the press, I came upon some notes made by Mr. Dakyns on the margin
+of his Xenophon. These were evidently for his own private use, and are full of scholarly colloquialisms,
+impromptu words humorously invented for the need of the moment, and individual turns of phrase,
+such as the references to himself under his initials in small letters, "hgd." Though plainly
+not intended for publication, the notes are so vivid and illuminating as they stand that I
+have shrunk from putting them into a more formal dress, believing that here, as in the best
+letters, the personal element is bound up with what is most fresh and living in the comment,
+most characteristic of the writer, and most delightful both to those who knew him and to those
+who will wish they had. I have, therefore, only altered a word here and there, and added a
+note or two of my own (always in square brackets), where it seemed necessary for the sake of
+clearness.
+
+                                                              F. M. S.
+
+CYROPAEDIA
+
+THE EDUCATION OF CYRUS
+
+BOOK I
+
+[C.1] We have had occasion before now to reflect how often democracies have been overthrown
+by the desire for some other type of government, how often monarchies and oligarchies have
+been swept away by movements of the people, how often would-be despots have fallen in their
+turn, some at the outset by one stroke, while whose who have maintained their rule for ever
+so brief a season are looked upon with wonder as marvels of sagacity and success.
+
+The same lesson, we had little doubt, was to be learnt from the family: the household might
+be great or small--even the master of few could hardly count on the obedience of his little
+flock. [2] And so, one idea leading to another, we came to shape our reflexions thus: Drovers
+may certainly be called the rulers of their cattle and horse-breeders the rulers of their studs--all
+herdsmen, in short, may reasonably be considered the governors of the animals they guard. If,
+then, we were to believe the evidence of our senses, was it not obvious that flocks and herds
+were more ready to obey their keepers than men their rulers? Watch the cattle wending their
+way wherever their herdsmen guide them, see them grazing in the pastures where they are sent
+and abstaining from forbidden grounds, the fruit of their own bodies they yield to their master
+to use as he thinks best; nor have we ever seen one flock among them all combining against
+their guardian, either to disobey him or to refuse him the absolute control of their produce.
+On the contrary, they are more apt to show hostility against other animals than against the
+owner who derives advantage from them. But with man the rule is converse; men unite against
+none so readily as against those whom they see attempting to rule over them. [3] As long, therefore,
+as we followed these reflexions, we could not but conclude that man is by nature fitted to
+govern all creatures, except his fellow-man. But when we came to realise the character of Cyrus
+the Persian, we were led to a change of mind: here is a man, we said, who won for himself obedience
+from thousands of his fellows, from cities and tribes innumerable: we must ask ourselves whether
+the government of men is after all an impossible or even a difficult task, provided one set
+about it in the right way. Cyrus, we know, found the readiest obedience in his subjects, though
+some of them dwelt at a distance which it would take days and months to traverse, and among
+them were men who had never set eyes on him, and for the matter of that could never hope to
+do so, and yet they were willing to obey him. [4] Cyrus did indeed eclipse all other monarchs,
+before or since, and I include not only those who have inherited their power, but those who
+have won empire by their own exertions. How far he surpassed them all may be felt if we remember
+that no Scythian, although the Scythians are reckoned by their myriads, has ever succeeded
+in dominating a foreign nation; indeed the Scythian would be well content could he but keep
+his government unbroken over his own tribe and people. The same is true of the Thracians and
+the Illyrians, and indeed of all other nations within our ken; in Europe, at any rate, their
+condition is even now one of independence, and of such separation as would seem to be permanent.
+Now this was the state in which Cyrus found the tribes and peoples of Asia when, at the head
+of a small Persian force, he started on his career. The Medes and the Hyrcanians accepted his
+leadership willingly, but it was through conquest that he won Syria, Assyria, Arabia, Cappadocia,
+the two Phrygias, Lydia, Caria, Phoenicia, and Babylonia. Then he established his rule over
+the Bactrians, Indians, and Cilicians, over the Sakians, Paphlagonians, and Magadidians, over
+a host of other tribes the very names of which defy the memory of the chronicler; and last
+of all he brought the Hellenes in Asia beneath his sway, and by a descent on the seaboard Cyprus
+and Egypt also.
+
+[5] It is obvious that among this congeries of nations few, if any, could have spoken the same
+language as himself, or understood one another, but none the less Cyrus was able so to penetrate
+that vast extent of country by the sheer terror of his personality that the inhabitants were
+prostrate before him: not one of them dared lift hand against him. And yet he was able, at
+the same time, to inspire them all with so deep a desire to please him and win his favour that
+all they asked was to be guided by his judgment and his alone. Thus he knit to himself a complex
+of nationalities so vast that it would have taxed a man's endurance merely to traverse his
+empire in any one direction, east or west or south or north, from the palace which was its
+centre. For ourselves, considering his title to our admiration proved, we set ourselves to
+inquire what his parentage might have been and his natural parts, and how he was trained and
+brought up to attain so high a pitch of excellence in the government of men. And all we could
+learn from others about him or felt we might infer for ourselves we will here endeavour to
+set forth.
+
+[C.2] The father of Cyrus, so runs the story, was Cambyses, a king of the Persians, and one
+of the Perseidae, who look to Perseus as the founder of their race. His mother, it is agreed,
+was Mandane, the daughter of Astyages, king of the Medes. Of Cyrus himself, even now in the
+songs and stories of the East the record lives that nature made him most fair to look upon,
+and set in his heart the threefold love of man, of knowledge, and of honour. He would endure
+all labours, he would undergo all dangers, for the sake of glory. [2] Blest by nature with
+such gifts of soul and body, his memory lives to this day in the mindful heart of ages. It
+is true that he was brought up according to the laws and customs of the Persians, and of these
+laws it must be noted that while they aim, as laws elsewhere, at the common weal, their guiding
+principle is far other than that which most nations follow. Most states permit their citizens
+to bring up their own children at their own discretion, and allow the grown men to regulate
+their own lives at their own will, and then they lay down certain prohibitions, for example,
+not to pick and steal, not to break into another man's house, not to strike a man unjustly,
+not to commit adultery, not to disobey the magistrate, and so forth; and on the transgressor
+they impose a penalty. [3] But the Persian laws try, as it were, to steal a march on time,
+to make their citizens from the beginning incapable of setting their hearts on any wickedness
+or shameful conduct whatsoever. And this is how they set about their object.
+
+In their cities they have an open place or square dedicated to Freedom (Free Square they call
+it), where stand the palace and other public buildings. From this place all goods for sale
+are rigidly excluded, and all hawkers and hucksters with their yells and cries and vulgarities.
+They must go elsewhere, so that their clamour may not mingle with and mar the grace and orderliness
+of the educated classes. [4] This square, where the public buildings stand, is divided into
+four quarters which are assigned as follows: one for the boys, another for the youths, a third
+for the grown men, and the last for those who are past the age of military service. The law
+requires all the citizens to present themselves at certain times and seasons in their appointed
+places. The lads and the grown men must be there at daybreak; the elders may, as a rule, choose
+their own time, except on certain fixed days, when they too are expected to present themselves
+like the rest. Moreover, the young men are bound to sleep at night round the public buildings,
+with their arms at their side; only the married men among them are exempt, and need not be
+on duty at night unless notice has been given, though even in their case frequent absence is
+thought unseemly. [5] Over each of these divisions are placed twelve governors, twelve being
+the number of the Persian tribes. The governors of the boys are chosen from the elders, and
+those are appointed who are thought best fitted to make the best of their lads: the governors
+of the youths are selected from the grown men, and on the same principle; and for the grown
+men themselves and their own governors; the choice falls on those who will, it is hoped, make
+them most prompt to carry out their appointed duties, and fulfil the commands imposed by the
+supreme authority. Finally, the elders themselves have presidents of their own, chosen to see
+that they too perform their duty to the full.
+
+[6] We will now describe the services demanded from the different classes, and thus it will
+appear how the Persians endeavour to improve their citizens. The boys go to school and give
+their time to learning justice and righteousness: they will tell you they come for that purpose,
+and the phrase is as natural with them as it is for us to speak of lads learning their letters.
+The masters spend the chief part of the day in deciding cases for their pupils: for in this
+boy-world, as in the grown-up world without, occasions of indictment are never far to seek.
+There will be charges, we know, of picking and stealing, of violence, of fraud, of calumny,
+and so forth. The case is heard and the offender, if shown to be guilty, is punished. [7] Nor
+does he escape who is found to have accused one of his fellows unfairly. And there is one charge
+the judges do not hesitate to deal with, a charge which is the source of much hatred among
+grown men, but which they seldom press in the courts, the charge of ingratitude. The culprit
+convicted of refusing to repay a debt of kindness when it was fully in his power meets with
+severe chastisement. They reason that the ungrateful man is the most likely to forget his duty
+to the gods, to his parents, to his fatherland, and his friends. Shamelessness, they hold,
+treads close on the heels of ingratitude, and thus ingratitude is the ringleader and chief
+instigator to every kind of baseness. [8] Further, the boys are instructed in temperance and
+self-restraint, and they find the utmost help towards the attainment of this virtue in the
+self-respecting behaviour of their elders, shown them day by day. Then they are taught to obey
+their rulers, and here again nothing is of greater value than the studied obedience to authority
+manifested by their elders everywhere. Continence in meat and drink is another branch of instruction,
+and they have no better aid in this than, first, the example of their elders, who never withdraw
+to satisfy their carnal cravings until those in authority dismiss them, and next, the rule
+that the boys must take their food, not with their mother but with their master, and not till
+the governor gives the sign. They bring from home the staple of their meal, dry bread with
+nasturtium for a relish, and to slake their thirst they bring a drinking-cup, to dip in the
+running stream. In addition, they are taught to shoot with the bow and to fling the javelin.
+
+The lads follow their studies till the age of sixteen or seventeen, and then they take their
+places as young men.
+
+[9] After that they spend their time as follows. For ten years they are bound to sleep at night
+round the public buildings, as we said before, and this for two reasons, to guard the community
+and to practise self-restraint; because that season of life, the Persians conceive, stands
+most in need of care. During the day they present themselves before the governors for service
+to the state, and, whenever necessary, they remain in a body round the public buildings. Moreover,
+when the king goes out to hunt, which he will do several times a month, he takes half the company
+with him, and each man must carry bow and arrows, a sheathed dagger, or "sagaris," slung beside
+the quiver, a light shield, and two javelins, one to hurl and the other to use, if need be,
+at close quarters. [10] The reason of this public sanction for the chase is not far to seek;
+the king leads just as he does in war, hunting in person at the head of the field, and making
+his men follow, because it is felt that the exercise itself is the best possible training for
+the needs of war. It accustoms a man to early rising; it hardens him to endure head and cold;
+it teaches him to march and to run at the top of his speed; he must perforce learn to let fly
+arrow and javelin the moment the quarry is across his path; and, above all, the edge of his
+spirit must needs be sharpened by encountering any of the mightier beasts: he must deal his
+stroke when the creature closes, and stand on guard when it makes its rush: indeed, it would
+be hard to find a case in war that has not its parallel in the chase. [11] But to proceed:
+the young men set out with provisions that are ampler, naturally, than the boys' fare, but
+otherwise the same. During the chase itself they would not think of breaking their fast, but
+if a halt is called, to beat up the game, or for any hunter's reason, then they will make,
+as it were, a dinner of their breakfast, and, hunting again on the morrow till dinner-time,
+they will count the two days as one, because they have only eaten one day's food. This they
+do in order that, if the like necessity should arise in war, they may be found equal to it.
+As relish to their bread these young men have whatever they may kill in the chase, or failing
+that, nasturtium like the boys. And if one should ask how they can enjoy the meal with nasturtium
+for their only condiment and water for their only drink, let him bethink himself how sweet
+barley bread and wheaten can taste to the hungry man and water to the thirsty. [12] As for
+the young men who are left at home, they spend their time in shooting and hurling the javelin,
+and practising all they learnt as boys, in one long trial of skill. Beside this, public games
+are open to them and prizes are offered; and the tribe which can claim the greatest number
+of lads distinguished for skill and courage and faithfulness is given the meed of praise from
+all the citizens, who honour, not only their present governor, but the teacher who trained
+them when they were boys. Moreover, these young men are also employed by the magistrates if
+garrison work needs to be done or if malefactors are to be tracked or robbers run down, or
+indeed on any errand which calls for strength of limb and fleetness of foot. Such is the life
+of the youth. But when the ten years are accomplished they are classed as grown men. [13] And
+from this time forth for five-and-twenty years they live as follows.
+
+First they present themselves, as in youth, before the magistrates for service to the state
+wherever there is need for strength and sound sense combined. If an expedition be on foot the
+men of this grade march out, not armed with the bow or the light shield any longer, but equipped
+with what are called the close-combat arms, a breastplate up to the throat, a buckler on the
+left arm (just as the Persian warrior appears in pictures), and for the right hand a dagger
+or a sword. Lastly, it is from this grade that all the magistrates are appointed except the
+teachers for the boys. But when the five-and-twenty years are over and the men have reached
+the age of fifty years or more, then they take rank as elders, and the title is deserved. [14]
+These elders no longer go on military service beyond the frontier; they stay at home and decide
+all cases, public and private both. Even capital charges are left to their decision, and it
+is they who choose all the magistrates. If a youth or a grown man breaks the law he is brought
+into court by the governors of his tribe, who act as suitors in the case, aided by any other
+citizen who pleases. The cause is heard before the elders and they pronounce judgment; and
+the man who is condemned is disenfranchised for the rest of his days.
+
+[15] And now, to complete the picture of the whole Persian policy, I will go back a little.
+With the help of what has been said before, the account may now be brief; the Persians are
+said to number something like one hundred and twenty thousand men: and of these no one is by
+law debarred from honour or office. On the contrary, every Persian is entitled to send his
+children to the public schools of righteousness and justice. As a fact, all who can afford
+to bring up their children without working do send them there: those who cannot must forego
+the privilege. A lad who has passed through a public school has a right to go and take his
+place among the youths, but those who have not gone through the first course may not join them.
+In the same way the youths who have fulfilled the duties of their class are entitled eventually
+to rank with the men, and to share in office and honour: but they must first spend their full
+time among the youths; if not, they go no further. Finally, those who as grown men have lived
+without reproach may take their station at last among the elders. Thus these elders form a
+college, every member of which has passed through the full circle of noble learning; and this
+is that Persian polity and that Persian training which, in their belief, can win them the flower
+of excellence. [16] And even to this day signs are left bearing witness to that ancient temperance
+of theirs and the ancient discipline that preserved it. To this day it is still considered
+shameful for a Persian to spit in public, or wipe the nose, or show signs of wind, or be seen
+going apart for his natural needs. And they could not keep to this standard unless they were
+accustomed to a temperate diet, and were trained to exercise and toil, so that the humours
+of the body were drawn off in other ways. Hitherto we have spoken of the Persians as a whole:
+we will now go back to our starting-point and recount the deeds of Cyrus from his childhood.
+
+[C.3] Until he was twelve years old or more, Cyrus was brought up in the manner we have described,
+and showed himself to be above all his fellows in his aptitude for learning and in the noble
+and manly performance of every duty. But about this time, Astyages sent for his daughter and
+her son, desiring greatly to see him because he had heard how noble and fair he was. So it
+fell out that Mandane came to Astyages, bringing her son Cyrus with her. [2] And as soon as
+they met, the boy, when he heard that Astyages was his mother's father, fell on his neck and
+kissed him without more ado, like the loving lad nature had made him, as though he had been
+brought up at his grandfather's side from the first and the two of them had been playmates
+of old. Then he looked closer and saw that the king's eyes were stencilled and his cheeks painted,
+and that he wore false curls after the fashion of the Medes in those days (for these adornments,
+and the purple robes, the tunics, the necklaces, and the bracelets, they are all Median first
+and last, not Persian; the Persian, as you find him at home even now-a-days, still keeps to
+his plainer dress and his plainer style of living.) The boy, seeing his grandfather's splendour,
+kept his eyes fixed on him, and cried, "Oh, mother, how beautiful my grandfather is!" Then
+his mother asked him which he thought the handsomer, his father or his grandfather, and he
+answered at once, "My father is the handsomest of all the Persians, but my grandfather much
+the handsomest of all the Medes I ever set eyes on, at home or abroad." [3] At that Astyages
+drew the child to his heart, and gave him a beautiful robe and bracelets and necklaces in sign
+of honour, and when he rode out, the boy must ride beside him on a horse with a golden bridle,
+just like King Astyages himself. And Cyrus, who had a soul as sensitive to beauty as to honour,
+was pleased with the splendid robe, and overjoyed at learning to ride, for a horse is a rare
+sight in Persia, a mountainous country, and one little suited to the breed.
+
+[4] Now Cyrus and his mother sat at meat with the king, and Astyages, wishing the lad to enjoy
+the feast and not regret his home, plied him with dainties of every sort. At that, so says
+the story, Cyrus burst out, "Oh, grandfather, what trouble you must give yourself reaching
+for all these dishes and tasting all these wonderful foods!" "Ah, but," said Astyages, "is
+not this a far better meal than you ever had in Persia?" Thereupon, as the tale runs, Cyrus
+answered, "Our way, grandfather, is much shorter than yours, and much simpler. We are hungry
+and wish to be fed, and bread and meat brings us where we want to be at once, but you Medes,
+for all your haste, take so many turns and wind about so much it is a wonder if you ever find
+your way to the goal that we have reached long ago." [5] "Well, my lad," said his grandfather,
+"we are not at all averse to the length of the road: taste the dishes for yourself and see
+how good they are." "One thing I do see," the boy said, "and that is that you do not quite
+like them yourself." And when Astyages asked him how he felt so sure of that, Cyrus answered,
+"Because when you touch an honest bit of bread you never wipe your hands, but if you take one
+of these fine kickshaws you turn to your napkin at once, as if you were angry to find your
+fingers soiled." [6] "Well and good, my lad, well and good," said the king, "only feast away
+yourself and make good cheer, and we shall send you back to Persia a fine strong fellow." And
+with the word he had dishes of meat and game set before his grandson. The boy was taken aback
+by their profusion, and exclaimed, "Grandfather, do you give me all this for myself, to do
+what I like with it?" "Certainly I do," said the king. [7] Whereupon, without more ado, the
+boy Cyrus took first one dish and then another and gave them to the attendants who stood about
+his grandfather, and with each gift he made a little speech: "That is for you, for so kindly
+teaching me to ride;" "And that is for you, in return for the javelin you gave me, I have got
+it still;" "And this is for you, because you wait on my grandfather so prettily;" "And this
+for you, sir, because you honour my mother." And so on until he had got rid of all the meat
+he had been given. [8] "But you do not give a single piece to Sacas, my butler," quoth the
+grandfather, "and I honour him more than all the rest." Now this Sacas, as one may guess, was
+a handsome fellow, and he had the right to bring before the king all who desired audience,
+to keep them back if he thought the time unseasonable. But Cyrus, in answer to his grandfather's
+question retorted eagerly, like a lad who did not know what fear meant, "And why should you
+honour him so much, grandfather?" Then Astyages laughed and said, "Can you not see how prettily
+he mixes the cup, and with what a grace he serves the wine?" And indeed, these royal cup-bearers
+are neat-handed at their task, mixing the bowl with infinite elegance, and pouring the wine
+into the beakers without spilling a drop, and when they hand the goblet they poise it deftly
+between thumb and finger for the banqueter to take. [9] "Now, grandfather," said the boy, "tell
+Sacas to give me the bowl, and let me pour out the wine as prettily as he if I can, and win
+your favour." So the king bade the butler hand him the bowl, and Cyrus took it and mixed the
+wine just as he had seen Sacas do, and then, showing the utmost gravity and the greatest deftness
+and grace, he brought the goblet to his grandfather and offered it with such an air that his
+mother and Astyages, too, laughed outright, and then Cyrus burst out laughing also, and flung
+his arms round his grandfather and kissed him, crying, "Sacas, your day is done! I shall oust
+you from your office, you may be sure.

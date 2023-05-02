@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06266.txt">
+  <feature name="about" authors="Warner, Anne" title="Susan Clegg and Her Neighbors' Affairs" lang="en" />
+  <feature name="md5Hash" value="0332109b5e6ffc184de61ea1c94b6510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2999" this_length="8963" source_reference="source-document04713.txt" source_language="en" source_offset="12011" source_length="15738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17882" this_length="2491" source_reference="source-document00949.txt" source_language="en" source_offset="20612" source_length="3927" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22387" this_length="439" source_reference="source-document00949.txt" source_language="en" source_offset="33319" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22955" this_length="418" source_reference="source-document00949.txt" source_language="en" source_offset="190715" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23674" this_length="663" source_reference="source-document04713.txt" source_language="en" source_offset="382397" source_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24844" this_length="391" source_reference="source-document04713.txt" source_language="en" source_offset="150751" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25385" this_length="251" source_reference="source-document04713.txt" source_language="en" source_offset="423508" source_length="255" />
+</document>
+

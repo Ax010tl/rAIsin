@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09481.txt">
+  <feature name="about" authors="Taylor, Frederick Winslow" title="The Principles of Scientific Management" lang="en" />
+  <feature name="md5Hash" value="0a02098f56a7d6aaf4466430ef86f264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3988" this_length="3182" source_reference="source-document09088.txt" source_language="en" source_offset="551760" source_length="3324" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8914" this_length="2787" source_reference="source-document09088.txt" source_language="en" source_offset="712047" source_length="2749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18042" this_length="3172" source_reference="source-document09088.txt" source_language="en" source_offset="555461" source_length="3193" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24609" this_length="4209" source_reference="source-document09088.txt" source_language="en" source_offset="176841" source_length="4107" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33486" this_length="255" source_reference="source-document09088.txt" source_language="en" source_offset="268379" source_length="269" />
+</document>
+

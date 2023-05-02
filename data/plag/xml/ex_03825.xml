@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03825.txt">
+  <feature name="about" authors="Shaw, Wilfred" title="The University of Michigan" lang="en" />
+  <feature name="md5Hash" value="8c806fffa5ef0a3c2fa2921b41ff5008" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2293" this_length="1796" source_reference="source-document04271.txt" source_language="de" source_offset="176355" source_length="1962" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9769" this_length="3879" source_reference="source-document04271.txt" source_language="de" source_offset="95396" source_length="4273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16375" this_length="700" source_reference="source-document04271.txt" source_language="de" source_offset="147537" source_length="752" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17660" this_length="450" source_reference="source-document04271.txt" source_language="de" source_offset="151187" source_length="486" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20426" this_length="1488" source_reference="source-document01499.txt" source_language="de" source_offset="1112" source_length="1750" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22904" this_length="233" source_reference="source-document04271.txt" source_language="de" source_offset="16908" source_length="253" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="23683" this_length="431" source_reference="source-document04271.txt" source_language="de" source_offset="5625" source_length="479" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24593" this_length="191" source_reference="source-document04271.txt" source_language="de" source_offset="69327" source_length="257" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="25129" this_length="214" source_reference="source-document04271.txt" source_language="de" source_offset="15483" source_length="234" />
+</document>
+

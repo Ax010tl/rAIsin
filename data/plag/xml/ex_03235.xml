@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03235.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Bertrams" lang="en" />
+  <feature name="md5Hash" value="94a3912d56c699efdbac42559d19e9f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="879" this_length="4153" source_reference="source-document05980.txt" source_language="en" source_offset="831" source_length="4416" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5488" this_length="1884" source_reference="source-document05980.txt" source_language="en" source_offset="5845" source_length="1876" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7890" this_length="1796" source_reference="source-document05767.txt" source_language="en" source_offset="438351" source_length="1982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10582" this_length="3052" source_reference="source-document05767.txt" source_language="en" source_offset="411738" source_length="3356" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14101" this_length="2491" source_reference="source-document05767.txt" source_language="en" source_offset="308271" source_length="2937" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18044" this_length="3363" source_reference="source-document05767.txt" source_language="en" source_offset="60451" source_length="3392" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21715" this_length="2119" source_reference="source-document05767.txt" source_language="en" source_offset="222998" source_length="2248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24123" this_length="485" source_reference="source-document05767.txt" source_language="en" source_offset="112924" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24841" this_length="503" source_reference="source-document05767.txt" source_language="en" source_offset="240789" source_length="535" />
+</document>
+

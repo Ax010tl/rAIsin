@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06881.txt">
+  <feature name="about" authors="Twain, Mark" title="The Prince and the Pauper, Part 4." lang="en" />
+  <feature name="md5Hash" value="d54aa57f45d4191159adfc607e47a799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="464" this_length="4988" source_reference="source-document03729.txt" source_language="en" source_offset="45125" source_length="5047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8547" this_length="2459" source_reference="source-document03729.txt" source_language="en" source_offset="33257" source_length="2531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13086" this_length="2333" source_reference="source-document03729.txt" source_language="en" source_offset="3282" source_length="2344" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16704" this_length="2919" source_reference="source-document07385.txt" source_language="en" source_offset="276" source_length="2941" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21907" this_length="1440" source_reference="source-document03729.txt" source_language="en" source_offset="16109" source_length="1478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23749" this_length="792" source_reference="source-document03729.txt" source_language="en" source_offset="6827" source_length="807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24722" this_length="800" source_reference="source-document03729.txt" source_language="en" source_offset="36672" source_length="807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25829" this_length="276" source_reference="source-document03729.txt" source_language="en" source_offset="6410" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26374" this_length="212" source_reference="source-document03729.txt" source_language="en" source_offset="24401" source_length="247" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00113.txt">
+  <feature name="about" authors="Sabatini, Rafael" title="Bardelys the Magnificent; being an account of the strange wooing pursued by the Sieur Marcel de Saint-Pol, marquis of Bardelys..." lang="en" />
+  <feature name="md5Hash" value="a032413c9204225c84a06ccc9b66f1ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3067" this_length="1793" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18058" this_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20753" this_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24565" this_length="224" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25718" this_length="263" />
+</document>
+

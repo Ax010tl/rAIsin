@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00270.txt">
+  <feature name="about" authors="United States. Army. Corps of Engineers. Manhattan District" title="The Atomic Bombings of Hiroshima and Nagasaki" lang="en" />
+  <feature name="md5Hash" value="2f61221c491f99284951f4a53fe1f00d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3687" this_length="680" source_reference="source-document08553.txt" source_language="en" source_offset="488" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9531" this_length="485" source_reference="source-document08553.txt" source_language="en" source_offset="1534" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13721" this_length="245" source_reference="source-document08553.txt" source_language="en" source_offset="114" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17351" this_length="733" source_reference="source-document08553.txt" source_language="en" source_offset="5658" source_length="719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25628" this_length="264" source_reference="source-document08553.txt" source_language="en" source_offset="4964" source_length="261" />
+</document>
+

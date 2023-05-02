@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09790.txt">
+  <feature name="about" authors="Twain, Mark" title="Roughing It, Part 8." lang="en" />
+  <feature name="md5Hash" value="d78fb007ac1aabf81daebd7b1c2605a2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151" this_length="16502" source_reference="source-document06039.txt" source_language="en" source_offset="499074" source_length="18313" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17486" this_length="1985" source_reference="source-document05602.txt" source_language="en" source_offset="434" source_length="2236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19731" this_length="1670" source_reference="source-document05602.txt" source_language="en" source_offset="4272" source_length="1691" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21485" this_length="1352" source_reference="source-document05602.txt" source_language="en" source_offset="7305" source_length="1440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23062" this_length="3772" source_reference="source-document06039.txt" source_language="en" source_offset="84145" source_length="3969" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27034" this_length="2631" source_reference="source-document06039.txt" source_language="en" source_offset="451801" source_length="4179" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29666" this_length="689" source_reference="source-document06039.txt" source_language="en" source_offset="567325" source_length="694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30631" this_length="248" source_reference="source-document05602.txt" source_language="en" source_offset="10265" source_length="262" />
+</document>
+

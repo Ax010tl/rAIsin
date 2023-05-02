@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07777.txt">
+  <feature name="about" authors="Woolf, Virginia" title="Night and Day" lang="en" />
+  <feature name="md5Hash" value="e17634f2ac5907d7e5e50baba24d206c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3106" this_length="3901" source_reference="source-document03985.txt" source_language="en" source_offset="148770" source_length="4036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18099" this_length="4648" source_reference="source-document03985.txt" source_language="en" source_offset="50748" source_length="4721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29594" this_length="510" source_reference="source-document03985.txt" source_language="en" source_offset="177026" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31240" this_length="269" source_reference="source-document03985.txt" source_language="en" source_offset="44405" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32013" this_length="522" source_reference="source-document03985.txt" source_language="en" source_offset="191068" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33425" this_length="246" source_reference="source-document03985.txt" source_language="en" source_offset="183215" source_length="249" />
+</document>
+

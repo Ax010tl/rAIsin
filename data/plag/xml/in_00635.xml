@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00635.txt">
+  <feature name="about" authors="Tarbell, Ida M." title="The Business of Being a Woman" lang="en" />
+  <feature name="md5Hash" value="9afda06299bf4655e193e6efabe95b9b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6834" this_length="789" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21175" this_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21910" this_length="237" />
+</document>
+

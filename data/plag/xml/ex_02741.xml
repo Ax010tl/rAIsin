@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02741.txt">
+  <feature name="about" authors="Spearman, Frank Hamilton" title="Laramie Holds the Range" lang="en" />
+  <feature name="md5Hash" value="457ad6a865140ebda1fed2ade918c077" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3867" this_length="17779" source_reference="source-document11064.txt" source_language="en" source_offset="49612" source_length="20760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24031" this_length="3207" source_reference="source-document08041.txt" source_language="en" source_offset="124688" source_length="3460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27859" this_length="2495" source_reference="source-document03594.txt" source_language="en" source_offset="13050" source_length="2401" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30427" this_length="261" source_reference="source-document08041.txt" source_language="en" source_offset="336147" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30779" this_length="260" source_reference="source-document03594.txt" source_language="en" source_offset="27186" source_length="252" />
+</document>
+

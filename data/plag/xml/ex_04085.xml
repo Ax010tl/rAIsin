@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04085.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="Kate Bonnet The Romance of a Pirate's Daughter" lang="en" />
+  <feature name="md5Hash" value="bf5b234d7dc29929131d0e2cab317b0a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1749" this_length="15337" source_reference="source-document01120.txt" source_language="en" source_offset="470248" source_length="15543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19416" this_length="277" source_reference="source-document01120.txt" source_language="en" source_offset="400184" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19921" this_length="4011" source_reference="source-document01120.txt" source_language="en" source_offset="832571" source_length="4083" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24957" this_length="1663" source_reference="source-document01120.txt" source_language="en" source_offset="201854" source_length="1673" />
+</document>
+

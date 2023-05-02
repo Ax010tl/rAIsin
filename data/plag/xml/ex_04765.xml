@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04765.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="The Diary of a Goose Girl" lang="en" />
+  <feature name="md5Hash" value="fe841f92918ab9ae8223739056b67f12" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14175" this_length="3856" source_reference="source-document08169.txt" source_language="en" source_offset="718" source_length="3230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24461" this_length="777" source_reference="source-document04567.txt" source_language="en" source_offset="17519" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28099" this_length="559" source_reference="source-document08169.txt" source_language="en" source_offset="5390" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30369" this_length="253" source_reference="source-document04567.txt" source_language="en" source_offset="8804" source_length="263" />
+</document>
+

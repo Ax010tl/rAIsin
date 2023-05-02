@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01435.txt">
+  <feature name="about" authors="Wyss, Johann David" title="The Swiss Family Robinson; or Adventures in a Desert Island" lang="en" />
+  <feature name="md5Hash" value="86e0a8c94c68f763eaff9251f09652a0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1082" this_length="17973" source_reference="source-document08176.txt" source_language="en" source_offset="0" source_length="20498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23399" this_length="2068" source_reference="source-document10347.txt" source_language="en" source_offset="109131" source_length="3186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26127" this_length="260" source_reference="source-document08176.txt" source_language="en" source_offset="25477" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26538" this_length="262" source_reference="source-document08176.txt" source_language="en" source_offset="25212" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26801" this_length="231" source_reference="source-document08176.txt" source_language="en" source_offset="28632" source_length="229" />
+</document>
+

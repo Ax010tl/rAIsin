@@ -1,0 +1,438 @@
+﻿ CHAPTER XII
+
+THE USE AND ABUSE OF LEADERS, LETTERS AND OTHER INSERTS
+
+A full reel
+contains approximately one thousand feet of film.
+
+The ordinary five-reel feature is therefore somewhat less than five
+thousand feet in length.
+
+ 133
+
+[Serial I]
+
+July 5, 1960.--Committed to the Committee of the Whole House on the State of the Union and
+ordered to be printed
+
+UNITED STATES
+
+GOVERNMENT PRINTING OFFICE
+
+58231° WASHINGTON: 1960
+
+COMMITTEE ON SCIENCE AND ASTRONAUTICS
+
+  OVERTON BROOKS, Louisiana, Chairman
+
+  John W. McCormack, Massachusetts
+  George P. Miller, California
+  Olin E. Teague, Texas
+  Victor L. Anfuso, New York
+  B. F. Sisk, California
+  Erwin Mitchell, Georgia
+  James M. Quigley, Pennsylvania
+  Leonard G. Wolf, Iowa
+  Joseph E. Karth, Minnesota
+  Ken Hechler, West Virginia
+  Emilio Q. Daddario, Connecticut
+  Walter H. Moeller, Ohio
+  David S. King, Utah
+  J. Edward Roush, Indiana
+  Thomas G. Morris, New Mexico
+  Joseph W. Martin, JR. Massachusetts
+  James G. Fulton, Pennsylvania
+  Gordon L. McDonough, California
+  J. Edgar Chenoweth, Colorado
+  Frank C. Osmers, JR. New Jersey
+  William K. Van Pelt, Wisconsin
+  A. D. Baumhart, JR. Ohio
+  Perkins Bass, New Hampshire
+  R. Walter Riehlman, New York
+
+  CHARLES F. DUCANDER, Executive Director and Chief Counsel
+  DR. CHARLES S. SHELDON II, Technical Director
+  SPENCER M. BERESFORD, Special Counsel
+  PHILIP B. YEAGER, Special Consultant
+  JOHN A. CARSTARPHEN, Jr., Chief Clerk
+  FRANK R. HAMMILL, Jr., Counsel
+  RAYMOND WILCOVE, Staff Consultant
+  RICHARD P. HINES, Staff Consultant
+  Lt. Col. FRANCIS J. DILLON, Jr., Staff Consultant
+  Comdr. HOWARD J. SILBERSTEIN, Staff Consultant
+
+LETTER OF TRANSMITTAL
+
+  HOUSE OF REPRESENTATIVES,
+  COMMITTEE ON SCIENCE AND ASTRONAUTICS,
+  Washington, D.C., July 1, 1960.
+
+  Hon. OVERTON BROOKS,
+  Chairman, Committee on Science and Astronautics.
+
+DEAR MR. CHAIRMAN: I am forwarding herewith for your consideration a staff study, "The Practical
+Values of Space Exploration."
+
+This study was undertaken pursuant to your request for information covering the various utilities
+of the national space effort. The study has been prepared by Philip B. Yeager and reviewed
+by other members of the professional staff.
+
+  CHARLES F. DUCANDER,
+  Executive Director and Chief Counsel.
+
+LETTER OF SUBMITTAL
+
+  HOUSE OF REPRESENTATIVES,
+  COMMITTEE ON SCIENCE AND ASTRONAUTICS,
+  Washington, D.C., July 5, 1960.
+
+  Hon. SAM RAYBURN,
+  Speaker of the House of Representatives,
+  Washington, D.C.
+
+DEAR MR. SPEAKER: By direction of the Committee on Science and Astronautics, I submit the following
+report on "The Practical Values of Space Exploration" for the consideration of the 86th Congress.
+
+  OVERTON BROOKS, Chairman.
+
+  CONTENTS
+
+  Introduction                                                         1
+
+  I. The unseen values                                                 3
+    Some examples of the unexpected                                    3
+    The ultimate values                                                5
+    Steering a middle road                                             6
+    The time for space                                                 7
+
+  II. National security values                                         9
+    The military uses                                                  9
+    Our position in the international community                       12
+    Space as a substitute for war                                     15
+
+  III. The economic values                                            17
+    U.S. expenditures on space                                        17
+    The spread of economic benefits                                   18
+    Creation of new industries                                        19
+      Research                                                        19
+      New power sources                                               20
+      New water sources and uses                                      21
+      Noise and human engineering                                     22
+      High speed-light weight computers                               22
+      Solid state physics                                             23
+    Economic alliances                                                24
+    Private enterprise in space                                       24
+    Jobs                                                              27
+    Automation and disarmament                                        28
+
+  IV. 133]                                    |
+|                                                               |
++---------------------------------------------------------------+
+
+THE PRACTICAL VALUES OF SPACE EXPLORATION
+
+INTRODUCTION
+
+This report has been undertaken for a special reason. It is to explain to the taxpayer just
+why so many of his dollars are going into the American effort to explore space, and to indicate
+what he can expect in return which is of value to him.
+
+Such an explanation, even after 2 years of relatively high-geared activity in the space exploration
+field, appears to be warranted. There is still a segment of the U.S. population which has little,
+if any, notion of the values that the space program has for the average citizen. To these people
+the expenditure of billions of dollars on missiles, rockets, satellites, Moon probes, and other
+space activities remains something of a mystery--particularly when so many other worthy projects
+throughout the land may be slowed or stalled for lack of funds.
+
+If, therefore, the practical value of the American space program is being questioned, it is
+a question which needs to be answered.
+
+It is interesting to note that the problem is not unique to the United States. In the Soviet
+Union, which counts itself as the world's prime investigator of space, there is likewise an
+element of citizenry which finds itself puzzled over the U.S.S.R.'s penchant for the interplanetary
+reaches.
+
+"What do sputniks give to a person like me?" a Russian workman complained in a letter which
+Pravda published on its front page. "So much money is spent on sputniks it makes people gasp.
+If there were no sputniks the Government could cut the cost of cloth for an overcoat in half
+and put a few electric flatirons in the stores. Rockets, rockets, rockets. Who needs them now?"[1]
+
+It goes without saying that the workman was severely chastised by the Soviet newspaper, but
+his point was made.
+
+No matter where taxpayers live they want to know--and are entitled to know--what good a program
+of space exploration is to them.
+
+During the 1960's it is expected that the U.S. Government will spend anywhere from $30 to $50
+billion on space exploration for all purposes, civilian and military. It is the intent of this
+report to delineate in lay language, and in terms which will be meaningful to those who have
+not followed the American space program closely, the reasons for this great investment and
+the probable returns.
+
+FOOTNOTES:
+
+[1] Associated Press dispatch, dateline Moscow, June 12, 1960.
+
+I. The Unseen Values
+
+The United States has not embarked upon its formidable program of space exploration in order
+to make or perpetuate a gigantic astronautic boondoggle. There are good reasons, hard reasons
+for this program. But, in essence, they all boil down to the fact that the program is expected
+to produce a number of highly valuable payoffs. It not only is expected to do so, it is doing
+so right now.
+
+Many of the beneficial results can be identified.
+
+Those already showing up are detailed in the sections of this report which follow. They include
+the most urgent and precious of all commodities--national security. Beyond that, they also
+include a strengthened national economy, new jobs and job categories, better living, fresh
+consumer goods, improved education, increased health, stimulated business enterprise and a
+host of long-range values which may ultimately make the immediate benefits pale into relative
+insignificance.
+
+Practical uses such as those just listed mean the taxpayer is more than getting his money's
+worth from American space exploration--and getting a sizable chunk of it today.
+
+Nevertheless, if we can depend on the history of scientific adventure and progress, on its
+consistent tendencies of the past, then we can be reasonably sure that the greatest, finest
+benefits to come from our ventures into space are yet unseen.
+
+These are the unpredictable values, the ones which none of us has yet thought of.
+
+Inevitably they lag behind the basic research discoveries needed to make them possible, and
+often the discoveries are slow to be put to work after they are made. Investors, even governments,
+are human, and before they invest in something they normally want to know: What good is it?
+
+We can be sure that many American taxpayers of the future will be asking "what good is it?"
+in regard to various phases of the space program.
+
+There was an occasion when the great Scottish physicist, James Clerk Maxwell, was asked this
+question concerning one of his classic discoveries in electromagnetism. Maxwell replied: "What
+good is a baby?"
+
+Now, as then, it takes time for new knowledge to develop and become useful after its conception
+and birth.
+
+SOME EXAMPLES OF THE UNEXPECTED
+
+A graphic illustration of "unseen" benefits in regard to atomic energy has been expressed by
+an experienced researcher in this way:
+
+     I remember a conversation I had with one of our nuclear scientists
+     when I was a member of the Weapons Systems Evaluations Group almost
+     10 years ago. We were talking about the possible peaceful
+     applications of fission. We really could think of little that
+     could be done with it other than making fissionable material into a
+     form of destructive power. There had been some discussion about
+     harnessing the power of fission, but this seemed to us to be quite
+     remote. It seemed difficult to conceive of the atomic bomb as
+     anything but sheer power used for destructive purposes. Yet today
+     the products of fission applied to peaceful uses are many. The use
+     of isotopes in industry, medicine, agriculture are well known. Food
+     irradiation, nuclear power reactors, now reactors for shipboard
+     use, are with us, and it is hardly the beginning. The plants in the
+     three rows were exactly of the same age and had been subjected
+     to closely similar conditions, so that any difference in
+     their fertility must be attributed to their different origin; namely,
+to the one lot being derived from plants self-fertilised for four
+generations and then crossed with a fresh stock; to the second lot
+being derived from plants of the same old stock intercrossed for five
+generations; and to the third lot being derived from plants self-fertilised
+for five generations.
+
+
+The things we learn from our national space program will produce benefits in ways entirely
+unrelated to missiles or interplanetary travel. (See secs. III and IV.) The reverse is also
+true; knowledge gained in areas quite remote from outer space can have genuine value for the
+advance of space exploration.
+
+Investigation into the skin of a fish provides a good case in point.
+
+A German inventor who migrated to California after World War II had long been interested in
+ways to reduce the drag of friction produced by air or water on the surface of objects passing
+through them. One day, while watching a group of porpoises cavort past a speeding ship with
+the greatest of ease, it occurred to him that the skin of these animals, if closely studied,
+might shed light on ways of cutting surface friction. It was many years before the inventor
+was able to enlist the aid of aquarium managers in securing porpoise skins for study. In 1955,
+however, he obtained the necessary skins and found that dolphins, in fact, owe much of their
+great speed to a unique skin which markedly reduces the effect of turbulence against it. From
+this knowledge has come the recent development of a diaphragm-damping fluid surface which has
+real potential not only for underwater high-speed bodies, such as submarines, torpedoes and
+underwater missiles, but for any vehicle where fast-moving gases or fluids may cause drag.[3]
+
+The implications of this knowledge for satellites near Earth or for reentering spacecraft are
+obvious.
+
+Sometimes a reverse twist in reasoning by a speculative mind will result in enormous practical
+utility.
+
+In Cambridge, Mass., a sanitary engineer teaching at the Massachusetts Institute of Technology
+began to wonder about the principles of adhesion--why things stick to each other. Do they only
+stick together because some sticky substance is holding them, or are there other reasons? "If
+a person is sick," he asked himself, "is it because a cause of sickness is present or because
+a cause of health is absent? We now know that in infectious diseases the first alternative
+is true; the patient is ill because he harbors pathogenic germs. The opposite case prevails
+in deficiency diseases, where necessary vitamins are absent from food and illness is brought
+about by this absence. To which of the classes does adhesion belong? When we cannot produce
+a dependable bond, are we dealing with the lack of some adhesive force or with existence of
+an obstacle to sticking?"
+
+Operating on the theory that adhesion might result not only from the presence of a sticky agent
+but from the removal of all impediments to sticking, this scientist has now managed to produce
+strong adhesion between the least sticky of substances--polyethylene plastics. He has done
+it by studying the molecular structure of polyethylenes and removing all impurities which normally
+find their way into the manufacture of such material. The next step: "We hope to prepare adhesive
+joints in which a noble gas acts as an adhesive. Noble gases are the least active substances
+known to chemistry; if they can adhere, it is clear that no specific forces are needed for
+adhesiveness."[4]
+
+No great imagination is required to perceive the meaning which this new knowledge, if proved
+out, will have for our everyday lives--to say nothing of its usefulness in the making of astronautic
+equipment.
+
+THE ULTIMATE VALUES
+
+In any event, it is apparent that where research is concerned--and especially space research
+with its broad scale of inquiry--we cannot always see the value of scientific endeavor on the
+basis of its beginning. We cannot always account for what we have purchased with each research
+dollar.
+
+The Government stated this proposition when it first undertook to put the space program on
+a priority basis:
+
+     Scientific research has never been amenable to rigorous cost
+     accounting in advance. Nor, for that matter, has exploration of any
+     sort. But if we have learned one lesson, it is that research and
+     exploration have a remarkable way of paying off--quite apart from
+     the fact that they demonstrate that man is alive and insatiably
+     curious. And we all feel richer for knowing what explorers and
+     scientists have learned about the universe in which we live.[5]
+
+In this statement there is political support for what the historian, the anthropologist, the
+psychologist consider to be established fact--that some innate force in the human being makes
+him know, whatever his formal beliefs or whatever his unconscious philosophy, that he must
+progress. Progress is the core of his destiny.
+
+This is a concept which, in connection with space exploration, has been recognized for many
+years. One of the earliest and most perceptive of the space "buffs" stated it before the British
+Interplanetary Society in 1946 in these words: "* * * our civilization is no more than the
+sum of all the dreams that earlier ages have brought to fulfillment. And so it must always
+be, for if men cease to dream, if they turn their backs upon the wonder of the universe, the
+story of our race will be coming to an end".[6]
+
+STEERING A MIDDLE ROAD
+
+In any endeavor which is as futuristic as space exploration it is not difficult to become lost
+in the land of the starry-eyed prognosticators. Conversely, it is also easy to find oneself
+lining up with the debunkers and the champions of the status quo, for their arguments and views
+give the impression of being hard-headed, sensible.
+
+If one must err in either direction, however, it is probably safer, where space is concerned,
+to err in the direction of the enthusiasts. This is because (and subsequent parts of this report
+will show it) the Nation cannot afford not to be in the vanguard of the space explorers.
+
+Events today move with facility and lightning rapidity. Today, more than ever, time is on the
+side of the expeditious. We can no longer take the risk of giving much support to the scoffers--to
+that breed of unimaginative souls who thought Robert Fulton was a fool for harnessing a paddlewheel
+to a boiler, who thought Henry Ford was a fool for putting an internal combustion engine on
+wheels, who thought Samuel Langley was a fool for designing a contraption to fly through the air.
+
+There are always those who will say it cannot be done. Even in this era of sophisticated flight
+there have been those who said the sound barrier would never be broken. It was. Others said
+later that space vehicles would never get through the heat barrier. They have. Now, some say
+men will never overcome the radiation barrier in space. But we can be sure they will.
+
+It is undoubtedly wise for the layman, in terms of the benefits he can expect from the space
+program in the foreseeable future, to steer a reasonable course between the two extremes. Yet
+one cannot help remembering that the secret of taking practical energy from the atom, a secret
+which the human race had been trying to learn for thousands of years, was accomplished in less
+than a decade from the moment when men first determined that it was possible to split an atom.
+It is difficult to forget that even after World War II some of our most respected scientists
+sold short the idea of developing long-range missiles. Impractical, they said; visionary. But
+6 years after the United States went to work seriously on missiles, an operational ICBM with
+a 9,000-mile range was an accomplished fact.
+
+THE TIME FOR SPACE
+
+All of the glowing predictions being made on behalf of space exploration will not be here tomorrow
+or the next day. Yet this seems less important than that we recognize the significance of our
+moment of history.
+
+We may think of that moment as a new age--the age of space and the atom--to follow the historic
+ages of stone, bronze, and iron. We may think of it in terms of theories, of succeeding from
+those of Copernicus to those of Newton and thence to Freud and now Einstein. We may think of
+our time as the time of exploiting the new fourth state of matter: plasma, or the ion. Or we
+may think of it in terms of revolutions, as passing from the industrial cycle of steam through
+the railroad-steel cycle, through the electricity-automobile cycle, into the burgeoning technological
+revolution of today.
+
+However we think of it, it is a dawning period and one which--in its scope and potential--promises
+to dwarf much of what has gone before. Those who have given careful thought to the matter are
+convinced that while some caution is in order, the new era is not one to be approached with
+timidity, inhibited imagination or too much convention. Neither is there any point in trying
+to hold off the tempo of this oncoming age or, in any other way, to evade it.
+
+Mark Twain once listened to the complaints of an old riverboat pilot who was having trouble
+making the switch from sail to steam. The old pilot wanted no part of the newfangled steam
+contraptions. "Maybe so," replied Twain, "but when it's steamboat time, you steam."[7]
+
+Today is space time and man is going to explore it.
+
+FOOTNOTES:
+
+[2] Gavin, Lt. Gen. James M., U.S. Army (retired), speech to the American Rocket Society, New
+York City, Nov. 19, 1958.
+
+[3] Kramer, Max O., "The Dolphins' Secret," New Scientist, May 5, 1960, pp. 1118-1120.
+
+[4] Bikerman, Dr. Jacob J., reported in New Scientist, Mar. 3, 1960, p. 535.
+
+[5] "Introduction to Outer Space," a statement by the President, the White House, Mar. 26, 1958.
+
+[6] Clarke, Arthur C., "The Challenge of the Spaceships," Harper & Bros., New York, 1955, p. 15.
+
+[7] Related by T. Keith Glennan, Administrator, National Aeronautics and Space Administration,
+in an address before the Worcester (Mass.) Economic Club, Feb. 15, 1960.
+
+II. NATIONAL SECURITY VALUES
+
+There is no longer doubt that space exploration holds genuine significance for the security
+and well-being of the United States as a nation.
+
+It does so in at least three ways. One results from the uses which our Armed Forces can make
+of the knowledge gained from space exploration. A second results from the influence and prestige
+which America can exert within the world community because of her prowess in space exploration.
+A third results from the possibility that space exploration, eventually, may prove so immense
+and important a challenge that it will channel the prime energies of powerful nations toward
+its own end and thus reduce the current emphasis on developing means of destruction.
+
+The first two values definitely exist. The third seems to be a reasonable hope.
+
+THE MILITARY USES
+
+From the beginning it has been recognized that space exploration, the research connected therewith,
+and the ability to operate therein is of more than passing interest to the military.
+
+Congress recognized the fact when it passed the National Aeronautics and Space Act of 1958
+and directed that "activities peculiar to or primarily associated with the development of weapons
+systems, military operations, or the defense of the United States * * * shall be the responsibility
+of, and shall be directed by, the Department of Defense."[8] In the amendments to the Space
+Act proposed in 1960, this directive was strengthened: "The Department of Defense shall undertake
+such activities in space, and such research and development connected therewith, as may be
+necessary for the defense of the United States."[9]
+
+It is possible to argue, and indeed it has been argued, that ballistic missiles such as IRBM's
+and ICBM's are not really "space" weapons, that they are simply an extension of the traditional
+art of artillery. For the purposes of this report, however, the argument appears to be largely
+a semantic one. Such missiles do traverse space, they are guided through space, and they employ
+the same engines and principles which are presently used for purposes of scientific space exploration.
+While more advanced "space" weapons may evolve in the future, the missile as we know it today
+cannot very well be divorced from our thinking about space and its practical uses.
+
+Going on this assumption, and casting an eye in the direction of the Iron Curtain, it is obvious
+that the Soviet Union is going all-out to exploit space for military purposes.
+
+Military men have known for years that the tremendously powerful booster which the Soviets
+have been using to launch their massive sputniks was originally designed to carry the primitive
+heavy version of the A-bomb across continents.
+

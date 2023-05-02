@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04013.txt">
+  <feature name="about" authors="Skinner, Charles Montgomery" title="Myths and Legends of Our Own Land — Volume 06 : Central States and Great Lakes" lang="en" />
+  <feature name="md5Hash" value="6d487b78c42bda63baec38779ed65b65" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="1656" source_reference="source-document10905.txt" source_language="en" source_offset="6954" source_length="1651" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3254" this_length="2473" source_reference="source-document10905.txt" source_language="en" source_offset="24848" source_length="4410" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6663" this_length="1619" source_reference="source-document10905.txt" source_language="en" source_offset="9715" source_length="1631" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9985" this_length="4707" source_reference="source-document10905.txt" source_language="en" source_offset="14783" source_length="4966" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15489" this_length="3674" source_reference="source-document10905.txt" source_language="en" source_offset="0" source_length="3807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20100" this_length="2007" source_reference="source-document10905.txt" source_language="en" source_offset="21399" source_length="2029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22803" this_length="779" source_reference="source-document10905.txt" source_language="en" source_offset="32179" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23903" this_length="3123" source_reference="source-document10905.txt" source_language="en" source_offset="3807" source_length="3011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27755" this_length="469" source_reference="source-document10905.txt" source_language="en" source_offset="33007" source_length="498" />
+</document>
+

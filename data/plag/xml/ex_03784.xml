@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03784.txt">
+  <feature name="about" authors="Thomson, M. Pearson" title="Denmark" lang="en" />
+  <feature name="md5Hash" value="7e90c285c8bdf2d32fad3f30dfe113cb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="893" this_length="3848" source_reference="source-document09531.txt" source_language="en" source_offset="504" source_length="3746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6415" this_length="3084" source_reference="source-document09531.txt" source_language="en" source_offset="20599" source_length="3147" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10767" this_length="3050" source_reference="source-document09531.txt" source_language="en" source_offset="14185" source_length="3006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14880" this_length="1515" source_reference="source-document09531.txt" source_language="en" source_offset="5612" source_length="1533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17172" this_length="3452" source_reference="source-document09531.txt" source_language="en" source_offset="9270" source_length="3447" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21589" this_length="264" source_reference="source-document09531.txt" source_language="en" source_offset="5077" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22144" this_length="229" source_reference="source-document09531.txt" source_language="en" source_offset="7803" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23175" this_length="3630" source_reference="source-document10242.txt" source_language="en" source_offset="31898" source_length="3779" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27844" this_length="1631" source_reference="source-document09531.txt" source_language="en" source_offset="24043" source_length="1644" />
+</document>
+

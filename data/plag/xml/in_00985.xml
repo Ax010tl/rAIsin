@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00985.txt">
+  <feature name="about" authors="Weinbaum, Stanley Grauman" title="A Martian Odyssey" lang="en" />
+  <feature name="md5Hash" value="a66ec6cbfc41f2b41a5a3f520ee89df5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6573" this_length="1515" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12570" this_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15475" this_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20963" this_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23153" this_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24759" this_length="236" />
+</document>
+

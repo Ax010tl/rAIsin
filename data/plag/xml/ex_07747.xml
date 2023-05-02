@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07747.txt">
+  <feature name="about" authors="Troward, Thomas" title="The Edinburgh Lectures on Mental Science" lang="en" />
+  <feature name="md5Hash" value="f9ac0c608eef7dfc95a220904517fe6c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9144" this_length="5019" source_reference="source-document08559.txt" source_language="en" source_offset="933" source_length="5026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22056" this_length="1543" source_reference="source-document09724.txt" source_language="en" source_offset="531" source_length="1508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26650" this_length="482" source_reference="source-document08559.txt" source_language="en" source_offset="6209" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27675" this_length="664" source_reference="source-document09724.txt" source_language="en" source_offset="2039" source_length="695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30404" this_length="492" source_reference="source-document08559.txt" source_language="en" source_offset="6739" source_length="485" />
+</document>
+

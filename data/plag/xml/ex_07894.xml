@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07894.txt">
+  <feature name="about" authors="Thomson, M. Pearson" title="Denmark" lang="en" />
+  <feature name="md5Hash" value="e206abc3ebd87728396cf329777e2122" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12429" this_length="1478" source_reference="source-document01164.txt" source_language="en" source_offset="180957" source_length="2974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31336" this_length="249" source_reference="source-document01164.txt" source_language="en" source_offset="160151" source_length="242" />
+</document>
+

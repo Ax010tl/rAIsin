@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01785.txt">
+  <feature name="about" authors="Tufts, James Hayden" title="The Ethics of Coöperation" lang="en" />
+  <feature name="md5Hash" value="e65ff1d24a79d4ed7a2874acafc8a3df" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2634" this_length="677" source_reference="source-document03034.txt" source_language="en" source_offset="7532" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6150" this_length="2488" source_reference="source-document03034.txt" source_language="en" source_offset="1036" source_length="2985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26120" this_length="318" source_reference="source-document10333.txt" source_language="en" source_offset="13424" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26818" this_length="278" source_reference="source-document10333.txt" source_language="en" source_offset="21026" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29249" this_length="270" source_reference="source-document03034.txt" source_language="en" source_offset="11397" source_length="252" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03193.txt">
+  <feature name="about" authors="De la Mare, Walter" title="The Listeners and Other Poems" lang="en" />
+  <feature name="md5Hash" value="ed19afffba2a74f4442b94d2c6f322c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11227" this_length="7582" source_reference="source-document03913.txt" source_language="en" source_offset="50727" source_length="22505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21303" this_length="2816" source_reference="source-document09452.txt" source_language="en" source_offset="765" source_length="2979" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24120" this_length="543" source_reference="source-document03913.txt" source_language="en" source_offset="4698" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24785" this_length="257" source_reference="source-document03913.txt" source_language="en" source_offset="5803" source_length="274" />
+</document>
+

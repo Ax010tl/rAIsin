@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02243.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Prose Works of Jonathan Swift, D.D. — Volume 10 Historical Writings" lang="en" />
+  <feature name="md5Hash" value="7ce6441cb1d5cdd03dcf88ef338cbfca" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6158" this_length="1527" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17935" this_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22002" this_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27599" this_length="511" />
+</document>
+

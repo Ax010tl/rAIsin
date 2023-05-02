@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09190.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Unknown to History: a story of the captivity of Mary of Scotland" lang="en" />
+  <feature name="md5Hash" value="64a77c39075d43e668085d9819a2d13c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2474" this_length="215" source_reference="source-document01465.txt" source_language="en" source_offset="6025" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7498" this_length="190" source_reference="source-document01465.txt" source_language="en" source_offset="6256" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14350" this_length="406" source_reference="source-document01465.txt" source_language="en" source_offset="14460" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23670" this_length="234" source_reference="source-document01465.txt" source_language="en" source_offset="7141" source_length="252" />
+</document>
+

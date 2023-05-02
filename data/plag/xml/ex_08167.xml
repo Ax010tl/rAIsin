@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08167.txt">
+  <feature name="about" authors="Slosson, Edwin E." title="Creative Chemistry Descriptive of Recent Achievements in the Chemical Industries" lang="en" />
+  <feature name="md5Hash" value="c12b3a343544a0c899c6349206fed2f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3128" this_length="1411" source_reference="source-document03943.txt" source_language="en" source_offset="32700" source_length="1374" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5107" this_length="241" source_reference="source-document03943.txt" source_language="en" source_offset="27966" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6482" this_length="453" source_reference="source-document03943.txt" source_language="en" source_offset="362955" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11549" this_length="2153" source_reference="source-document03943.txt" source_language="en" source_offset="164825" source_length="2510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16373" this_length="1599" source_reference="source-document03943.txt" source_language="en" source_offset="360029" source_length="1745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22257" this_length="789" source_reference="source-document03943.txt" source_language="en" source_offset="123511" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23897" this_length="232" source_reference="source-document03943.txt" source_language="en" source_offset="326632" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25412" this_length="459" source_reference="source-document03943.txt" source_language="en" source_offset="52486" source_length="499" />
+</document>
+

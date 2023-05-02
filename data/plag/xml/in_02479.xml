@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02479.txt">
+  <feature name="about" authors="Twain, Mark" title="A Double Barrelled Detective Story" lang="en" />
+  <feature name="md5Hash" value="5fa7578944f5fa9afafaf50451b58aaa" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="327" this_length="250" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10491" this_length="4055" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="23255" this_length="1180" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="26083" this_length="238" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="27423" this_length="254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28291" this_length="237" />
+</document>
+

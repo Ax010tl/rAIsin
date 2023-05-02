@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06331.txt">
+  <feature name="about" authors="Youatt, William" title="The Dog" lang="en" />
+  <feature name="md5Hash" value="154ae2591bf282cab3b54824396850a5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="684" this_length="1587" source_reference="source-document08586.txt" source_language="en" source_offset="6687" source_length="1517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17210" this_length="257" source_reference="source-document08586.txt" source_language="en" source_offset="11506" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19942" this_length="500" source_reference="source-document08586.txt" source_language="en" source_offset="12886" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26252" this_length="236" source_reference="source-document08586.txt" source_language="en" source_offset="15026" source_length="246" />
+</document>
+

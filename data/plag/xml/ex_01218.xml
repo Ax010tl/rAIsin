@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01218.txt">
+  <feature name="about" authors="Sloane, Julia M." title="The Smiling Hill-Top And Other California Sketches" lang="en" />
+  <feature name="md5Hash" value="ecaa1edeb47a9159df9bb4f015eff105" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="14288" source_reference="source-document05292.txt" source_language="en" source_offset="127345" source_length="21182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15745" this_length="2439" source_reference="source-document05292.txt" source_language="en" source_offset="83810" source_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18217" this_length="3170" source_reference="source-document05292.txt" source_language="en" source_offset="188165" source_length="3251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21509" this_length="3805" source_reference="source-document05292.txt" source_language="en" source_offset="167317" source_length="3738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25416" this_length="239" source_reference="source-document05292.txt" source_language="en" source_offset="41579" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25698" this_length="518" source_reference="source-document05292.txt" source_language="en" source_offset="40698" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26369" this_length="283" source_reference="source-document05292.txt" source_language="en" source_offset="175207" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26653" this_length="250" source_reference="source-document05292.txt" source_language="en" source_offset="216240" source_length="273" />
+</document>
+

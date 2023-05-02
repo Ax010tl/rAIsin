@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03984.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Hall of Fantasy (From &quot;Mosses from an Old Manse&quot;)" lang="en" />
+  <feature name="md5Hash" value="3b4e41de9c392a888fddc8fdcb97d7d2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7350" this_length="2043" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16112" this_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22168" this_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24813" this_length="274" />
+</document>
+

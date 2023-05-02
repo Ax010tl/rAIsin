@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07753.txt">
+  <feature name="about" authors="Wilson, Jennie Lansley" title="Legal Status of Women in Iowa" lang="en" />
+  <feature name="md5Hash" value="17249263ee9860c956eab14e37babd24" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295" this_length="3788" source_reference="source-document02252.txt" source_language="en" source_offset="279104" source_length="4278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11046" this_length="3423" source_reference="source-document02252.txt" source_language="en" source_offset="630685" source_length="4511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21615" this_length="1794" source_reference="source-document02252.txt" source_language="en" source_offset="17801" source_length="1722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25539" this_length="448" source_reference="source-document10254.txt" source_language="en" source_offset="2193" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30496" this_length="2838" source_reference="source-document02252.txt" source_language="en" source_offset="31745" source_length="2893" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33335" this_length="225" source_reference="source-document02252.txt" source_language="en" source_offset="378094" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34257" this_length="845" source_reference="source-document10254.txt" source_language="en" source_offset="602" source_length="787" />
+</document>
+

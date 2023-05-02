@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00692.txt">
+  <feature name="about" authors="Stone, Barney" title="Love Letters of a Rookie to Julie" lang="en" />
+  <feature name="md5Hash" value="ab9a5f69f0287529a791dd59c91cb498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2720" this_length="474" source_reference="source-document11085.txt" source_language="en" source_offset="6045" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7056" this_length="539" source_reference="source-document11085.txt" source_language="en" source_offset="22686" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12760" this_length="517" source_reference="source-document11085.txt" source_language="en" source_offset="6517" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18383" this_length="431" source_reference="source-document11085.txt" source_language="en" source_offset="9083" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22292" this_length="255" source_reference="source-document11085.txt" source_language="en" source_offset="19523" source_length="252" />
+</document>
+

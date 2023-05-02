@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02440.txt">
+  <feature name="about" authors="Woodworth, Francis Channing" title="Mike Marble His Crotchets and Oddities." lang="en" />
+  <feature name="md5Hash" value="3b7a5f3758174a60ecacbfaf12ff70f5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10246" this_length="4115" />
+</document>
+

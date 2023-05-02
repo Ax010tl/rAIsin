@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00183.txt">
+  <feature name="about" authors="Cervantes Saavedra, Miguel de" title="The History of Don Quixote, Volume 2, Part 28" lang="en" />
+  <feature name="md5Hash" value="5c096970cbe222c9fa8e681111b4ab56" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7918" this_length="3090" source_reference="source-document10668.txt" source_language="en" source_offset="18001" source_length="3263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16471" this_length="1966" source_reference="source-document10668.txt" source_language="en" source_offset="195088" source_length="1958" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24552" this_length="1650" source_reference="source-document10668.txt" source_language="en" source_offset="616337" source_length="1680" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28132" this_length="506" source_reference="source-document10668.txt" source_language="en" source_offset="55275" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29384" this_length="248" source_reference="source-document10668.txt" source_language="en" source_offset="811375" source_length="255" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00679.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Custom of the Country" lang="en" />
+  <feature name="md5Hash" value="f8af14bf1fb55e76ed48ee5b4a6ab480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1261" this_length="20983" source_reference="source-document06373.txt" source_language="en" source_offset="305911" source_length="21450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28227" this_length="480" source_reference="source-document06373.txt" source_language="en" source_offset="138066" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28967" this_length="262" source_reference="source-document02607.txt" source_language="en" source_offset="1268" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29430" this_length="515" source_reference="source-document02607.txt" source_language="en" source_offset="6515" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30129" this_length="246" source_reference="source-document06373.txt" source_language="en" source_offset="153319" source_length="253" />
+</document>
+

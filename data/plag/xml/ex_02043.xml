@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02043.txt">
+  <feature name="about" authors="Steinmetz, Andrew" title="The Gaming Table: Its Votaries and Victims Volume II (of II)" lang="en" />
+  <feature name="md5Hash" value="30f537e5f72abeabafe7099dfe863c08" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3946" this_length="1798" source_reference="source-document09002.txt" source_language="en" source_offset="26791" source_length="1959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14515" this_length="721" source_reference="source-document09002.txt" source_language="en" source_offset="29800" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19531" this_length="276" source_reference="source-document00168.txt" source_language="en" source_offset="334750" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22656" this_length="460" source_reference="source-document09002.txt" source_language="en" source_offset="8619" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26070" this_length="250" source_reference="source-document00168.txt" source_language="en" source_offset="53199" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27131" this_length="233" source_reference="source-document00168.txt" source_language="en" source_offset="196154" source_length="239" />
+</document>
+

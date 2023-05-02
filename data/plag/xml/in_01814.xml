@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01814.txt">
+  <feature name="about" authors="Surtees, Robert Smith" title="Mr. Sponge's Sporting Tour" lang="en" />
+  <feature name="md5Hash" value="7001445127734c0a2b37583aee1e21c5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8297" this_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21039" this_length="530" />
+</document>
+

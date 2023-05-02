@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07487.txt">
+  <feature name="about" authors="Howells, William Dean" title="Editor's Relations with the Young Contributor (from Literature and Life)" lang="en" />
+  <feature name="md5Hash" value="02b4a234d8794cf9c5b690770786f805" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4624" this_length="2086" source_reference="source-document03570.txt" source_language="en" source_offset="9297" source_length="2086" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14661" this_length="2169" source_reference="source-document03570.txt" source_language="en" source_offset="0" source_length="2250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17999" this_length="241" source_reference="source-document03570.txt" source_language="en" source_offset="3248" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20321" this_length="1743" source_reference="source-document03570.txt" source_language="en" source_offset="11718" source_length="1662" />
+</document>
+

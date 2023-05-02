@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04125.txt">
+  <feature name="about" authors="Twain, Mark" title="The Curious Republic of Gondour, and Other Whimsical Sketches" lang="en" />
+  <feature name="md5Hash" value="0143c90c81c06a3a3addf507599fd0a0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3839" this_length="2678" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10485" this_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13428" this_length="3965" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20021" this_length="1553" />
+</document>
+

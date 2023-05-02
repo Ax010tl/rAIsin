@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01735.txt">
+  <feature name="about" authors="Volney, Constantin-François" title="The Ruins, or, Meditation on the Revolutions of Empires and the Law of Nature" lang="en" />
+  <feature name="md5Hash" value="39d1c2800a38b957bd1d4c545933d990" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9061" this_length="558" source_reference="source-document05939.txt" source_language="en" source_offset="524" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18035" this_length="537" source_reference="source-document09148.txt" source_language="en" source_offset="10014" source_length="507" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00362.txt">
+  <feature name="about" authors="Sloane, William Milligan" title="The Life of Napoleon Bonaparte Vol. I. (of IV.)" lang="en" />
+  <feature name="md5Hash" value="899ace9598b7bfa0e0f5303d1ca6b92d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="904" this_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3602" this_length="742" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16112" this_length="4038" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25412" this_length="2541" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33119" this_length="737" />
+</document>
+

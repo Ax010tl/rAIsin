@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00580.txt">
+  <feature name="about" authors="James, Henry" title="The Author Of Beltraffio" lang="en" />
+  <feature name="md5Hash" value="d43794e88ca8adf09d45598de4491ac2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4995" this_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7522" this_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16419" this_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22446" this_length="252" />
+</document>
+

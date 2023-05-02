@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06893.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Old Mortality, Volume 1." lang="en" />
+  <feature name="md5Hash" value="823ddc5519d6fca0bf61918eefff8ee2" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="699" this_length="3653" source_reference="source-document02466.txt" source_language="es" source_offset="1576" source_length="4192" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="11324" this_length="2256" source_reference="source-document09574.txt" source_language="es" source_offset="414904" source_length="2491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17082" this_length="481" source_reference="source-document02466.txt" source_language="es" source_offset="839" source_length="516" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="18531" this_length="2416" source_reference="source-document09574.txt" source_language="es" source_offset="106590" source_length="2625" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24697" this_length="277" source_reference="source-document09574.txt" source_language="es" source_offset="414071" source_length="259" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25210" this_length="259" source_reference="source-document09574.txt" source_language="es" source_offset="424226" source_length="269" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00665.txt">
+  <feature name="about" authors="Templeton, Timothy" title="The Adventures of My Cousin Smooth" lang="en" />
+  <feature name="md5Hash" value="c6faa2b14123164f3694a1ee087a9150" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5618" this_length="14792" source_reference="source-document10905.txt" source_language="en" source_offset="4044" source_length="15095" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21676" this_length="231" source_reference="source-document10905.txt" source_language="en" source_offset="28539" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22968" this_length="1486" source_reference="source-document10905.txt" source_language="en" source_offset="945" source_length="2710" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24808" this_length="2286" source_reference="source-document10905.txt" source_language="en" source_offset="30581" source_length="2104" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27960" this_length="249" source_reference="source-document10905.txt" source_language="en" source_offset="23940" source_length="260" />
+</document>
+

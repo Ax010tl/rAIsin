@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00059.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Lady Merton, Colonist" lang="en" />
+  <feature name="md5Hash" value="ec7d5a61bd5618a286ccf5cf912c8e86" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1342" this_length="10589" source_reference="source-document01289.txt" source_language="en" source_offset="17515" source_length="20772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19909" this_length="1161" source_reference="source-document01289.txt" source_language="en" source_offset="14544" source_length="1754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23392" this_length="4443" source_reference="source-document01289.txt" source_language="en" source_offset="6476" source_length="4494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28935" this_length="2687" source_reference="source-document01289.txt" source_language="en" source_offset="1741" source_length="2719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31942" this_length="240" source_reference="source-document08995.txt" source_language="en" source_offset="2439" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32818" this_length="1592" source_reference="source-document01289.txt" source_language="en" source_offset="64548" source_length="1607" />
+</document>
+

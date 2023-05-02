@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10009.txt">
+  <feature name="about" authors="Tyndale, William" title="The prophete Ionas with an introduccion before teachinge to vnderstonde him and the right vse also of all the scripture/ and why it was written/ and what is therin to be sought/ and shewenge wherewith the scripture is locked vpp that he which readeth it/ can not vnderstonde it/ though he studie therin neuer so moch: and agayne with what keyes it is so opened/ that the reader can be stopped out with no sotilte or false doctrine of man/ from the true sense and vnderstondynge therof." lang="en" />
+  <feature name="md5Hash" value="6344b969f2f34c56d284cdbfdd2a373f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="470" this_length="1664" source_reference="source-document02553.txt" source_language="en" source_offset="312622" source_length="1624" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2521" this_length="4113" source_reference="source-document02553.txt" source_language="en" source_offset="274994" source_length="4087" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7771" this_length="442" source_reference="source-document02553.txt" source_language="en" source_offset="74253" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9191" this_length="3475" source_reference="source-document02840.txt" source_language="en" source_offset="44" source_length="3500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13231" this_length="4290" source_reference="source-document02553.txt" source_language="en" source_offset="463232" source_length="4236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18767" this_length="1775" source_reference="source-document02840.txt" source_language="en" source_offset="10053" source_length="1755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21404" this_length="1429" source_reference="source-document02840.txt" source_language="en" source_offset="8244" source_length="1416" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23199" this_length="730" source_reference="source-document02553.txt" source_language="en" source_offset="111512" source_length="700" />
+</document>
+

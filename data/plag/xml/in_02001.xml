@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02001.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 2." lang="en" />
+  <feature name="md5Hash" value="869fbc1d91420043a3ea493139afb773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4458" this_length="2166" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9218" this_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15212" this_length="2219" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22722" this_length="1616" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26646" this_length="239" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04828.txt">
+  <feature name="about" authors="Tilden, Joe" title="Joe Tilden's Recipes for Epicures" lang="en" />
+  <feature name="md5Hash" value="196c044b7d96973ce7a1217c5bce4b5b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3901" this_length="207" source_reference="source-document03294.txt" source_language="en" source_offset="2681" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9430" this_length="488" source_reference="source-document01182.txt" source_language="en" source_offset="43708" source_length="478" />
+</document>
+

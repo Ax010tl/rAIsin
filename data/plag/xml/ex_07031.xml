@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07031.txt">
+  <feature name="about" authors="Streeter, John Williams" title="The Fat of the Land The Story of an American Farm" lang="en" />
+  <feature name="md5Hash" value="8c7fa3e550fd924067e03bd7ad3c77f6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2063" this_length="1525" source_reference="source-document04097.txt" source_language="en" source_offset="1249" source_length="1596" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12817" this_length="1530" source_reference="source-document04097.txt" source_language="en" source_offset="5144" source_length="1523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24061" this_length="2276" source_reference="source-document04097.txt" source_language="en" source_offset="2859" source_length="2285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29462" this_length="262" source_reference="source-document04097.txt" source_language="en" source_offset="82450" source_length="248" />
+</document>
+

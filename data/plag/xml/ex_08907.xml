@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08907.txt">
+  <feature name="about" authors="Field, David Dudley" title="The Vote That Made the President" lang="en" />
+  <feature name="md5Hash" value="d640d1cb29d4a53afd78530b58d6f185" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="436" this_length="9071" source_reference="source-document01848.txt" source_language="en" source_offset="257022" source_length="22003" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13305" this_length="3146" source_reference="source-document03592.txt" source_language="en" source_offset="0" source_length="3289" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17626" this_length="2651" source_reference="source-document04515.txt" source_language="en" source_offset="7956" source_length="3557" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20278" this_length="2865" source_reference="source-document04515.txt" source_language="en" source_offset="4396" source_length="2980" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23697" this_length="511" source_reference="source-document04515.txt" source_language="en" source_offset="12972" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24400" this_length="520" source_reference="source-document04515.txt" source_language="en" source_offset="2865" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25127" this_length="750" source_reference="source-document04515.txt" source_language="en" source_offset="3474" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25878" this_length="2007" source_reference="source-document04515.txt" source_language="en" source_offset="870" source_length="1995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27886" this_length="776" source_reference="source-document04515.txt" source_language="en" source_offset="14020" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28998" this_length="805" source_reference="source-document04515.txt" source_language="en" source_offset="12011" source_length="790" />
+</document>
+

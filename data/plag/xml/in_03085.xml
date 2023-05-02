@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03085.txt">
+  <feature name="about" authors="Twain, Mark" title="A Connecticut Yankee in King Arthur's Court, Part 6." lang="en" />
+  <feature name="md5Hash" value="c26e139bbb02ce10251b52cbe2a7068a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5460" this_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22053" this_length="496" />
+</document>
+

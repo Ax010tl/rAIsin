@@ -1,0 +1,371 @@
+﻿There were, in the list of aero engines compiled in 1910, five rotary engines included, all
+air-cooled. Three of these were Gnome engines, and two of the make known as 'International.'
+They ranged from 21.5 to 123 horse-power, the latter being rated at only 1.8 lbs. weight per
+brake horse-power, and having fourteen cylinders, 4.33 inches in diameter by 4.7 inches stroke.
+By 1914 forty-three different sizes and types of rotary engine were being constructed, and
+in 1913 five rotary type engines were entered for the series of aeroplane engine trials held
+in Germany. Minor defects ruled out four of these, and only the German Bayerischer Motoren
+Flugzeugwerke completed the seven-hour test prescribed for competing engines. Its large fuel
+consumption barred this engine from the final trials, the consumption being some 0.95 pints
+per horse-power per hour. The consumption of lubricating oil, also was excessive, standing
+at 0.123 pint per horse-power per hour. The engine gave 37.5 effective horse-power during its
+trial, and the loss due to air resistance was 4.6 horse-power, about 11 per cent. The accompanying
+drawing shows the construction of the engine, in which the seven cylinders are arranged radially
+on the crank case; the method of connecting the pistons to the crank pins can be seen. The
+mixture is drawn through the crank chamber, and to enter the cylinder it passes through the
+two automatic valves in the crown of the piston; the exhaust valves are situated in the tops
+of the cylinders, and are actuated by cams and push-rods. Cooling of the cylinder is assisted
+by the radial rings, and the diameter of these rings is increased round the hottest part of
+the cylinder. When long flights are undertaken the advantage of the light weight of this engine
+is more than counterbalanced by its high fuel and lubricating oil consumption, but there are
+other makes which are much better than this seven-cylinder German in respect of this.
+
+Rotation of the cylinders in engines of this type is produced by the side pressure of the pistons
+on the cylinder walls, and in order to prevent this pressure from becoming abnormally large
+it is necessary to keep the weight of the piston as low as possible, as the pressure is produced
+by the tangential acceleration and retardation of the piston. On the upward stroke the circumferential
+velocity of the piston is rapidly increased, which causes it to exert a considerable tangential
+pressure on the side of the cylinder, and on the return stroke there is a corresponding retarding
+effect due to the reduction of the circumferential velocity of the piston. These side pressures
+cause an appreciable increase in the temperatures of the cylinders and pistons, which makes
+it necessary to keep the power rating of the engines fairly low.
+
+Seguin designed his first Gnome rotary as a 34 horse-power engine when run at a speed of 1,300
+revolutions per minute. It had five cylinders, and the weight was 3.9 lbs. per horse-power.
+A seven-cylinder model soon displaced this first engine, and this latter, with a total weight
+of 165 lbs., gave 61.5 horse-power. The cylinders were machined out of solid nickel chrome-steel
+ingots, and the machining was carried out so that the cylinder walls were under 1/6 of an inch
+in thickness. The pistons were cast-iron, fitted each with two rings, and the automatic inlet
+valve to the cylinder was placed in the crown of the piston. The connecting rods, of 'H' section,
+were of nickel chrome-steel, and the large end of one rod, known as the 'master-rod' embraced
+the crank pin; on the end of this rod six hollow steel pins were carried, and to these the
+remaining six connecting-rods were attached. The crankshaft of the engine was made of nickel
+chrome-steel, and was in two parts connected together at the crank pin; these two parts, after
+the master-rod had been placed in position and the other connecting rods had been attached
+to it, were firmly secured. The steel crank case was made in five parts, the two central ones
+holding the cylinders in place, and on one side another of the five castings formed a cam-box,
+to the outside of which was secured the extension to which the air-screw was attached. On the
+other side of the crank case another casting carried the thrust-box, and the whole crank case,
+with its cylinders and gear, was carried on the fixed crank shaft by means of four ball-bearings,
+one of which also took the axial thrust of the air-screw.
+
+For these engines, castor oil is the lubricant usually adopted, and it is pumped to the crankshaft
+by means of a gear-driven oil pump; from this shaft the other parts of the engine are lubricated
+by means of centrifugal force, and in actual practice sufficient unburnt oil passes through
+the cylinders to lubricate the exhaust valve, which partly accounts for the high rate of consumption
+of lubricating oil. A very simple carburettor of the float less, single-spray type was used,
+and the mixture was passed along the hollow crankshaft to the interior of the crank case, thence
+through the automatic inlet valves in the tops of the pistons to the combustion chambers of
+the cylinders. Ignition was by means of a high-tension magneto specially geared to give the
+correct timing, and the working impulses occurred at equal angular intervals of 102.85 degrees.
+The ignition was timed so that the firing spark occurred when the cylinder was 26 degrees before
+the position in which the piston was at the outer end of its stroke, and this timing gave a
+maximum pressure in the cylinder just after the piston had passed this position.
+
+By 1913, eight different sizes of the Gnome engine were being constructed, ranging from 45
+to 180 brake horse-power; four of these were single-crank engines one having nine and the other
+three having seven cylinders. The remaining four were constructed with two cranks; three of
+them had fourteen cylinders apiece, ranged in groups of seven, acting on the cranks, and the
+one other had eighteen cylinders ranged in two groups of nine, acting on its two cranks. Cylinders
+of the two-crank engines are so arranged (in the fourteen-cylinder type) that fourteen equal
+angular impulses occur during each cycle; these engines are supported on bearings on both sides
+of the engine, the air-screw being placed outside the front support. In the eighteen-cylinder
+model the impulses occur at each 40 degrees of angular rotation of the cylinders, securing
+an extremely even rotation of the air-screw.
+
+In 1913 the Gnome Monosoupape engine was introduced, a model in which the inlet valve to the
+cylinder was omitted, while the piston was of the ordinary cast-iron type. A single exhaust
+valve in the cylinder head was operated in a manner similar to that on the previous Gnome engines,
+and the fact of this being the only valve on the cylinder gave the engine its name. Each cylinder
+contained ports at the bottom which communicated with the crank chamber, and were overrun by
+the piston when this was approaching the bottom end of its stroke. During the working cycle
+of the engine the exhaust valve was opened early to allow the exhaust gases to escape from
+the cylinder, so that by the time the piston overran the ports at the bottom the pressure within
+the cylinder was approximately equal to that in the crank case, and practically no flow of
+gas took place in either direction through the ports. The exhaust valve remained open as usual
+during the succeeding up-stroke of the piston, and the valve was held open until the piston
+had returned through about one-third of its downward stroke, thus permitting fresh air to enter
+the cylinder. The exhaust valve then closed, and the downward motion of the piston, continuing,
+caused a partial vacuum inside the cylinder; when the piston overran the ports, the rich mixture
+from the crank case immediately entered. The cylinder was then full of the mixture, and the
+next upward stroke of the piston compressed the charge; upon ignition the working cycle was
+repeated. The speed variation of this engine was obtained by varying the extent and duration
+of the opening of the exhaust valves, and was controlled by the pilot by hand-operated levers
+acting on the valve tappet rollers. The weight per horsepower of these engines was slightly
+less than that of the two-valve type, while the lubrication of the gudgeon pin and piston showed
+an improvement, so that a lower lubricating oil consumption was obtained. The 100 horse-power
+Gnome Monosoupape was built with nine cylinders, each 4.33 inches bore by 5.9 inches stroke,
+and it developed its rated power at 1,200 revolutions per minute.
+
+An engine of the rotary type, almost as well known as the Gnome, is the Clerget, in which both
+cylinders and crank case are made of steel, the former having the usual radial fins for cooling.
+In this type the inlet and exhaust valves are both located in the cylinder head, and mechanically
+operated by push-rods and rockers. Pipes are carried from the crank case to the inlet valve
+casings to convey the mixture to the cylinders, a carburettor of the central needle type being
+used. The carburetted mixture is taken into the crank case chamber in a manner similar to that
+of the Gnome engine. Pistons of aluminium alloy, with three cast-iron rings, are fitted, the
+top ring being of the obturator type. The large end of one of the nine connecting rods embraces
+the crank pin and the pressure is taken on two ball-bearings housed in the end of the rod.
+This carries eight pins, to which the other rods are attached, and the main rod being rigid
+between the crank pin and piston pin determines the position of the pistons. Hollow connecting-rods
+are used, and the lubricating oil for the piston pins passes from the crankshaft through the
+centres of the rods. Inlet and exhaust valves can be set quite independently of one another--a
+useful point, since the correct timing of the opening of these valves is of importance. The
+inlet valve opens 4 degrees from top centre and closes after the bottom dead centre of the
+piston; the exhaust valve opens 68 degrees before the bottom centre and closes 4 degrees after
+the top dead centre of the piston. The magnetos are set to give the spark in the cylinder at
+25 degrees before the end of the compression stroke--two high-tension magnetos are used: if
+desired, the second one can be adjusted to give a later spark for assisting the starting of
+the engine. The lubricating oil pump is of the valveless two-plunger type, so geared that it
+runs at seven revolutions to 100 revolutions of the engine; by counting the pulsations the
+speed of the engine can be quickly calculated by multiplying the pulsations by 100 and dividing
+by seven. In the 115 horse-power nine-cylinder Clerget the cylinders are 4.7 bore with a 6.3
+inches stroke, and the rated power of the engine is obtained at 1,200 revolutions per minute.
+The petrol consumption is 0.75 pint per horse-power per hour.
+
+A third rotary aero engine, equally well known with the foregoing two, is the Le Rhone, made
+in four different sizes with power outputs of from 50 to 160 horse-power; the two smaller sizes
+are single crank engines with seven and nine cylinders respectively, and the larger sizes are
+of double-crank design, being merely the two smaller sizes doubled--fourteen and eighteen-cylinder
+engines. The inlet and exhaust valves are located in the cylinder head, and both valves are
+mechanically operated by one push-rod and rocker, radial pipes from crank case to inlet valve
+casing taking the mixture to the cylinders. The exhaust valves are placed on the leading, or
+air-screw side, of the engine, in order to get the fullest possible cooling effect. The rated
+power of each type of engine is obtained at 1,200 revolutions per minute, and for all four
+sizes the cylinder bore is 4.13 inches, with a 5.5 inches piston stroke. Thin cast-iron liners
+are shrunk into the steel cylinders in order to reduce the amount of piston friction. Although
+the Le Rhone engines are constructed practically throughout of steel, the weight is only 2.9
+lbs. per horse-power in the eighteen-cylinder type.
+
+American enterprise in the construction of the rotary type is perhaps best illustrated in the
+'Gyro 'engine; this was first constructed with inlet valves in the heads of the pistons, after
+the Gnome pattern, the exhaust valves being in the heads of the cylinders. The inlet valve
+in the crown of each piston was mechanically operated in a very ingenious manner by the oscillation
+of the connecting-rod. The Gyro-Duplex engine superseded this original design, and a small
+cross-section illustration of this is appended. It is constructed in seven and nine-cylinder
+sizes, with a power range of from 50 to 100 horse-power; with the largest size the low weight
+of 2.5 lbs.. per horse-power is reached. The design is of considerable interest to the internal
+combustion engineer, for it embodies a piston valve for controlling auxiliary exhaust ports,
+which also acts as the inlet valve to the cylinder. The piston uncovers the auxiliary ports
+when it reaches the bottom of its stroke, and at the end of the power stroke the piston is
+in such a position that the exhaust can escape over the top of it. The exhaust valve in the
+cylinder head is then opened by means of the push-rod and rocker, and is held open until the
+piston has completed its upward stroke and returned through more than half its subsequent return
+stroke. When the exhaust valve closes, the cylinder has a charge of fresh air, drawn in through
+the exhaust valve, and the further motion of the piston causes a partial vacuum; by the time
+the piston reaches bottom dead centre the piston-valve has moved up to give communication between
+the cylinder and the crank case, therefore the mixture is drawn into the cylinder. Both the
+piston valve and exhaust valve are operated by cams formed on the one casting, which rotates
+at seven-eighths engine speed for the seven-cylinder type, and nine-tenths engine speed for
+the nine-cylinder engines. Each of these cams has four or five points respectively, to suit
+the number of cylinders.
+
+The steel cylinders are machined from solid forgings and provided with webs for air-cooling
+as shown. Cast-iron pistons are used, and are connected to the crankshaft in the same manner
+as with the Gnome and Le Rhone engines. Petrol is sprayed into the crank case by a small geared
+pump and the mixture is taken from there to the piston valves by radial pipes. Two separate
+pumps are used for lubrication, one forcing oil to the crank-pin bearing and the other spraying
+the cylinders.
+
+Among other designs of rotary aero engines the E.J.C. is noteworthy, in that the cylinders
+and crank case of this engine rotate in opposite directions, and two air-screws are used, one
+being attached to the end of the crankshaft, and the other to the crank case. Another interesting
+type is the Burlat rotary, in which both the cylinders and crankshaft rotate in the same direction,
+the rotation of the crankshaft being twice that of the cylinders as regards speed. This engine
+is arranged to work on the four-stroke cycle with the crankshaft making four, and the cylinders
+two, revolutions per cycle.
+
+It would appear that the rotary type of engine is capable of but little more improvement--save
+for such devices as these of the last two engines mentioned, there is little that Laurent Seguin
+has not already done in the Gnome type. The limitation of the rotary lies in its high fuel
+and lubricating oil consumption, which renders it unsuited for long-distance aero work; it
+was, in the war period, an admirable engine for such short runs as might be involved in patrol
+work 'over the lines,' and for similar purposes, but the watercooled Vee or even vertical,
+with its much lower fuel consumption, was and is to be preferred for distance work. The rotary
+air-cooled type has its uses, and for them it will probably remain among the range of current
+types for some time to come. Experience of matters aeronautical is sufficient to show, however,
+that prophecy in any direction is most unsafe.
+
+V. THE HORIZONTALLY-OPPOSED ENGINE
+
+Among the first internal combustion engines to be taken into use with aircraft were those of
+the horizontally-opposed four-stroke cycle type, and, in every case in which these engines
+were used, their excellent balance and extremely even torque rendered them ideal-until the
+tremendous increase in power requirements rendered the type too long and bulky for placing
+in the fuselage of an aeroplane. As power increased, there came a tendency toward placing cylinders
+radially round a central crankshaft, and, as in the case of the early Anzani, it may be said
+that the radial engine grew out of the horizontal opposed piston type. There were, in 1910--that
+is, in the early days of small power units, ten different sizes of the horizontally opposed
+engine listed for manufacture, but increase in power requirements practically ruled out the
+type for air work.
+
+The Darracq firm were the leading makers of these engines in 1910; their smallest size was
+a 24 horsepower engine, with two cylinders each of 5.1 inches bore by 4.7 inches stroke. This
+engine developed its rated power at 1,500 revolutions per minute, and worked out at a weight
+of 5 lbs. per horse-power. With these engines the cranks are so placed that two regular impulses
+are given to the crankshaft for each cycle of working, an arrangement which permits of very
+even balancing of the inertia forces of the engine. The Darracq firm also made a four-cylindered
+horizontal opposed piston engine, in which two revolutions were given to the crankshaft per
+revolution, at equal angular intervals.
+
+The Dutheil-Chambers was another engine of this type, and had the distinction of being the
+second largest constructed. At 1,000 revolutions per minute it developed 97 horse-power; its
+four cylinders were each of 4.93 inches bore by 11.8 inches stroke--an abnormally long stroke
+in comparison with the bore. The weight--which owing to the build of the engine and its length
+of stroke was bound to be rather high, actually amounted to 8.2 lbs. per horse-power. Water
+cooling was adopted, and the engine was, like the Darracq four-cylinder type, so arranged as
+to give two impulses per revolution at equal angular intervals of crankshaft rotation.
+
+One of the first engines of this type to be constructed in England was the Alvaston, a water-cooled
+model which was made in 20, 30, and 50 brake horse-power sizes, the largest being a four-cylinder
+engine. All three sizes were constructed to run at 1,200 revolutions per minute. In this make
+the cylinders were secured to the crank case by means of four long tie bolts passing through
+bridge pieces arranged across the cylinder heads, thus relieving the cylinder walls of all
+longitudinal explosion stresses. These bridge pieces were formed from chrome vanadium steel
+and milled to an 'H' section, and the bearings for the valve-tappet were forged solid with
+them. Special attention was given to the machining of the interiors of the cylinders and the
+combustion heads, with the result that the exceptionally high compression of 95 lbs. per square
+inch was obtained, giving a very flexible engine. The cylinder heads were completely water-jacketed,
+and copper water-jackets were also fitted round the cylinders. The mechanically operated valves
+were actuated by specially shaped cams, and were so arranged that only two cams were required
+for the set of eight valves. The inlet valves at both ends of the engine were connected by
+a single feed-pipe to which the carburettor was attached, the induction piping being arranged
+above the engine in an easily accessible position. Auxiliary air ports were provided in the
+cylinder walls so that the pistons overran them at the end of their stroke. A single vertical
+shaft running in ball-bearings operated the valves and water circulating pump, being driven
+by spiral gearing from the crankshaft at half speed. In addition to the excellent balance obtained
+with this engine, the makers claimed with justice that the number of working parts was reduced
+to an absolute minimum.
+
+In the two-cylinder Darracq, the steel cylinders were machined from solid, and auxiliary exhaust
+ports, overrun by the piston at the inner end of its stroke, were provided in the cylinder
+walls, consisting of a circular row of drilled holes--this arrangement was subsequently adopted
+on some of the Darracq racing car engines. The water jackets were of copper, soldered to the
+cylinder walls; both the inlet and exhaust valves were located in the cylinder heads, being
+operated by rockers and push-rods actuated by cams on the halftime shaft driven from one end
+of the crankshaft. Ignition was by means of a high-tension magneto, and long induction pipes
+connected the-ends of the cylinders to the carburettor, the latter being placed underneath
+the engine. Lubrication was effected by spraying oil into the crank case by means of a pump,
+and a second pump circulated the cooling water.
+
+Another good example of this type of engine was the Eole, which had eight opposed pistons,
+each pair of which was actuated by a common combustion chamber at the centre of the engine,
+two crankshafts being placed at the outer ends of the engine. This reversal of the ordinary
+arrangement had two advantages; it simplified induction, and further obviated the need for
+cylinder heads, since the explosion drove at two piston heads instead of at one piston head
+and the top of the cylinder; against this, however, the engine had to be constructed strongly
+enough to withstand the longitudinal stresses due to the explosions, as the cranks are placed
+on the outer ends and the cylinders and crank-cases take the full force of each explosion.
+Each crankshaft drove a separate air-screw.
+
+This pattern of engine was taken up by the Dutheil-Chambers firm in the pioneer days of aircraft,
+when the firm in question produced seven different sizes of horizontal engines. The Demoiselle
+monoplane used by Santos-Dumont in 1909 was fitted with a two-cylinder, horizontally-opposed
+Dutheil-Chambers engine, which developed 25 brake horse-power at a speed of 1,100 revolutions
+per minute, the cylinders being of 5 inches bore by 5.1 inches stroke, and the total weight
+of the engine being some 120 lbs. The crankshafts of these engines were usually fitted with
+steel flywheels in order to give a very even torque, the wheels being specially constructed
+with wire spokes. In all the Dutheil-Chambers engines water cooling was adopted, and the cylinders
+were attached to the crank cases by means of long bolts passing through the combustion heads.
+
+For their earliest machines, the Clement-Bayard firm constructed horizontal engines of the
+opposed piston type. The best known of these was the 30 horse-power size, which had cylinders
+of 4.7 inches diameter by 5.1 inches stroke, and gave its rated power at 1,200 revolutions
+per minute. In this engine the steel cylinders were secured to the crank case by flanges, and
+radiating ribs were formed around the barrel to assist the air-cooling. Inlet and exhaust valves
+were actuated by push-rods and rockers actuated from the second motion shaft mounted above
+the crank case; this shaft also drove the high-tension magneto with which the engine was fitted.
+A ring of holes drilled round each cylinder constituted auxiliary ports which the piston uncovered
+at the inner end of its stroke, and these were of considerable assistance not only in expelling
+exhaust gases, but also in moderating the temperature of the cylinder and of the main exhaust
+valve fitted in the cylinder head. A water-cooled Clement-Bayard horizontal engine was also
+made, and in this the auxiliary exhaust ports were not embodied; except in this particular,
+the engine was very similar to the water-cooled Darracq.
+
+The American Ashmusen horizontal engine, developing 100 horse-power, is probably the largest
+example of this type constructed. It was made with six cylinders arranged on each side of a
+common crank case, with long bolts passing through the cylinder heads to assist in holding
+them down. The induction piping and valve-operating gear were arranged below the engine, and
+the half-speed shaft carried the air-screw.
+
+Messrs Palons and Beuse, Germans, constructed a light-weight, air-cooled, horizontally-opposed
+engine, two-cylindered. In this the cast-iron cylinders were made very thin, and were secured
+to the crank case by bolts passing through lugs cast on the outer ends of the cylinders; the
+crankshaft was made hollow, and holes were drilled through the webs of the connecting-rods
+in order to reduce the weight. The valves were fitted to the cylinder heads, the inlet valves
+being of the automatic type, while the exhaust valves were mechanically operated from the cam-shaft
+by means of rockers and push-rods. Two carburettors were fitted, to reduce the induction piping
+to a minimum; one was attached to each combustion chamber, and ignition was by the normal high-tension
+magneto driven from the halftime shaft.
+
+There was also a Nieuport two-cylinder air-cooled horizontal engine, developing 35 horse-power
+when running at 1,300 revolutions per minute, and being built at a weight of 5.1 lbs. per horse-power.
+The cylinders were of 5.3 inches diameter by 5.9 inches stroke; the engine followed the lines
+of the Darracq and Dutheil-Chambers pretty closely, and thus calls for no special description.
+
+The French Kolb-Danvin engine of the horizontal type, first constructed in 1905, was probably
+the first two-stroke cycle engine designed to be applied to the propulsion of aircraft; it
+never got beyond the experimental stage, although its trials gave very good results. Stepped
+pistons were adopted, and the charging pump at one end was used to scavenge the power cylinder
+at the other ends of the engine, the transfer ports being formed in the main casting. The openings
+of these ports were controlled at both ends by the pistons, and the location of the ports appears
+to have made it necessary to take the exhaust from the bottom of one cylinder and from the
+top of the other. The carburetted mixture was drawn into the scavenging cylinders, and the
+usual deflectors were cast on the piston heads to assist in the scavenging and to prevent the
+fresh gas from passing out of the exhaust ports.
+
+VI. THE TWO-STROKE CYCLE ENGINE
+
+Although it has been little used for aircraft propulsion, the possibilities of the two-stroke
+cycle engine render some study of it desirable in this brief review of the various types of
+internal combustion engine applicable both to aeroplanes and airships. Theoretically the two-stroke
+cycle engine--or as it is more commonly termed, the 'two-stroke,' is the ideal power producer;
+the doubling of impulses per revolution of the crankshaft should render it of very much more
+even torque than the four-stroke cycle types, while, theoretically, there should be a considerable
+saving of fuel, owing to the doubling of the number of power strokes per total of piston strokes.
+In practice, however, the inefficient scavenging of virtually every two-stroke cycle engine
+produced nullifies or more than nullifies its advantages over the four-stroke cycle engine;
+in many types, too, there is a waste of fuel gases through the exhaust ports, and much has
+yet to be done in the way of experiment and resulting design before the two-stroke cycle engine
+can be regarded as equally reliable, economical, and powerful with its elder brother.
+
+The first commercially successful engine operating on the two-stroke cycle was invented by
+Mr Dugald Clerk, who in 1881 proved the design feasible. As is more or less generally understood,
+the exhaust gases of this engine are discharged from the cylinder during the time that the
+piston is passing the inner dead centre, and the compression, combustion, and expansion of
+the charge take place in similar manner to that of the four-stroke cycle engine. The exhaust
+period is usually controlled by the piston overrunning ports in the cylinder at the end of
+its working stroke, these ports communicating direct with the outer air--the complication of
+an exhaust valve is thus obviated; immediately after the escape of the exhaust gases, charging
+of the cylinder occurs, and the fresh gas may be introduced either through a valve in the cylinder
+head or through ports situated diametrically opposite to the exhaust ports. The continuation
+of the outward stroke of the piston, after the exhaust ports have been closed, compresses the
+charge into the combustion chamber of the cylinder, and the ignition of the mixture produces
+a recurrence of the working stroke.
+
+Thus, theoretically, is obtained the maximum of energy with the minimum of expenditure; in
+practice, however, the scavenging of the power cylinder, a matter of great importance in all
+internal combustion engines, is often imperfect, owing to the opening of the exhaust ports
+being of relatively short duration; clearing the exhaust gases out of the cylinder is not fully
+accomplished, and these gases mix with the fresh charge and detract from its efficiency. Similarly,
+owing to the shorter space of time allowed, the charging of the cylinder with the fresh mixture
+is not so efficient as in the four-stroke cycle type; the fresh charge is usually compressed
+slightly in a separate chamber--crank case, independent cylinder, or charging pump, and is
+delivered to the working cylinder during the beginning of the return stroke of the piston,
+while in engines working on the four-stroke cycle principle a complete stroke is devoted to
+the expulsion of the waste gases of the exhaust, and another full stroke to recharging the
+cylinder with fresh explosive mixture.
+
+Theoretically the two-stroke and the four-stroke cycle engines possess exactly the same thermal
+efficiency, but actually this is modified by a series of practical conditions which to some
+extent tend to neutralise the very strong case in favour of the two-stroke cycle engine. The
+specific capacity of the engine operating on the two-stroke principle is theoretically twice
+that of one operating on the four-stroke cycle, and consequently, for equal power, the former
+should require only about half the cylinder volume of the latter; and, owing to the greater
+superficial area of the smaller cylinder, relatively, the latter should be far more easily
+cooled than the larger four-stroke cycle cylinder; thus it should be possible to get higher
+compression pressures, which in turn should result in great economy of working. Also the obtaining
+of a working impulse in the cylinder for each revolution of the crankshaft should give a great
+advantage in regularity of rotation--which it undoubtedly does--and the elimination of the
+operating gear for the valves, inlet and exhaust, should give greater simplicity of design.
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10672.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Rob Roy — Volume 02" lang="en" />
+  <feature name="md5Hash" value="a3a4e49569f9e7ade0121143a96220a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="3048" source_reference="source-document02408.txt" source_language="en" source_offset="5812" source_length="3538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15245" this_length="1973" source_reference="source-document02408.txt" source_language="en" source_offset="279" source_length="3443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18874" this_length="1533" source_reference="source-document02408.txt" source_language="en" source_offset="4051" source_length="1560" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22755" this_length="462" source_reference="source-document02408.txt" source_language="en" source_offset="10877" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26467" this_length="1800" source_reference="source-document01078.txt" source_language="en" source_offset="18880" source_length="1975" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29303" this_length="236" source_reference="source-document05486.txt" source_language="en" source_offset="15530" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30345" this_length="499" source_reference="source-document05486.txt" source_language="en" source_offset="1069" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31715" this_length="522" source_reference="source-document05486.txt" source_language="en" source_offset="7022" source_length="523" />
+</document>
+

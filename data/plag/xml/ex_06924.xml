@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06924.txt">
+  <feature name="about" authors="Teachers of the School Street Universalist Sunday School, Boston" title="Our Gift" lang="en" />
+  <feature name="md5Hash" value="c235660c4c08e6d1d128677d1a9ad6fb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129" this_length="2171" source_reference="source-document05149.txt" source_language="en" source_offset="0" source_length="2192" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3130" this_length="18092" source_reference="source-document01425.txt" source_language="en" source_offset="101024" source_length="21769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24453" this_length="262" source_reference="source-document01425.txt" source_language="en" source_offset="462336" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24842" this_length="3970" source_reference="source-document01425.txt" source_language="en" source_offset="254691" source_length="3884" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29419" this_length="261" source_reference="source-document01425.txt" source_language="en" source_offset="149709" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29681" this_length="237" source_reference="source-document05149.txt" source_language="en" source_offset="2971" source_length="237" />
+</document>
+

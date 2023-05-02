@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03719.txt">
+  <feature name="about" authors="Twain, Mark" title="The Stolen White Elephant" lang="en" />
+  <feature name="md5Hash" value="b7198530c852066dc6e8827eda4d3121" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="780" this_length="213" source_reference="source-document05979.txt" source_language="es" source_offset="54458" source_length="232" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7734" this_length="204" source_reference="source-document01241.txt" source_language="es" source_offset="12581" source_length="227" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14721" this_length="241" source_reference="source-document05979.txt" source_language="es" source_offset="271942" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19727" this_length="226" source_reference="source-document05979.txt" source_language="es" source_offset="356519" source_length="234" />
+</document>
+

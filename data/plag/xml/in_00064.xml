@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00064.txt">
+  <feature name="about" authors="Worst, John Henry" title="The Stewardship of the Soil Baccalaureate Address" lang="en" />
+  <feature name="md5Hash" value="5cfa645ed74fd03970a2e160dc3d6e6f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11641" this_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26077" this_length="768" />
+</document>
+

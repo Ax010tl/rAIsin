@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02668.txt">
+  <feature name="about" authors="Taylor, Bayard" title="The Story of Kennett" lang="en" />
+  <feature name="md5Hash" value="3c914c65ae20ad85a10b8855022d961e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270" this_length="1595" source_reference="source-document01260.txt" source_language="en" source_offset="679011" source_length="1700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2408" this_length="15568" source_reference="source-document01260.txt" source_language="en" source_offset="535250" source_length="17052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20965" this_length="4729" source_reference="source-document01260.txt" source_language="en" source_offset="605654" source_length="4989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26382" this_length="2484" source_reference="source-document01260.txt" source_language="en" source_offset="692052" source_length="2550" />
+</document>
+

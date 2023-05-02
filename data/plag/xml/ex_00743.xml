@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00743.txt">
+  <feature name="about" authors="Tocqueville, Alexis de" title="Correspondence &amp; Conversations of Alexis de Tocqueville with Nassau William Senior from 1834 to 1859, Volume 2" lang="en" />
+  <feature name="md5Hash" value="e1a9788e06b70722560b83157324d393" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2255" this_length="16176" source_reference="source-document05548.txt" source_language="en" source_offset="1209501" source_length="16140" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19383" this_length="753" source_reference="source-document05548.txt" source_language="en" source_offset="449607" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20137" this_length="1750" source_reference="source-document05548.txt" source_language="en" source_offset="751429" source_length="1745" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22480" this_length="3762" source_reference="source-document05548.txt" source_language="en" source_offset="129748" source_length="3753" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26973" this_length="3170" source_reference="source-document05548.txt" source_language="en" source_offset="1002849" source_length="3166" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30144" this_length="250" source_reference="source-document05548.txt" source_language="en" source_offset="550507" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30560" this_length="227" source_reference="source-document05548.txt" source_language="en" source_offset="292308" source_length="228" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02783.txt">
+  <feature name="about" authors="Davis, Richard Harding" title="A Wasted Day" lang="en" />
+  <feature name="md5Hash" value="5f3402923d5d0e3411c296533080fa58" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2632" this_length="2913" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12723" this_length="1820" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17727" this_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19096" this_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22111" this_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25029" this_length="1580" />
+</document>
+

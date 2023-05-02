@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09186.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Village Uncle (From &quot;Twice Told Tales&quot;)" lang="en" />
+  <feature name="md5Hash" value="f5bbd4e9814dd1dcceffa1cf307dd0e0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188" this_length="1951" source_reference="source-document10213.txt" source_language="en" source_offset="170924" source_length="1913" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2354" this_length="4928" source_reference="source-document10213.txt" source_language="en" source_offset="203311" source_length="4984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8063" this_length="554" source_reference="source-document10213.txt" source_language="en" source_offset="168435" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8618" this_length="1853" source_reference="source-document10213.txt" source_language="en" source_offset="211776" source_length="1723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10961" this_length="1799" source_reference="source-document10213.txt" source_language="en" source_offset="25996" source_length="1735" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13037" this_length="782" source_reference="source-document10213.txt" source_language="en" source_offset="259688" source_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13944" this_length="1461" source_reference="source-document10213.txt" source_language="en" source_offset="14256" source_length="1457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15642" this_length="1926" source_reference="source-document10213.txt" source_language="en" source_offset="229733" source_length="2232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17945" this_length="2912" source_reference="source-document10213.txt" source_language="en" source_offset="41514" source_length="2870" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21388" this_length="2884" source_reference="source-document10213.txt" source_language="en" source_offset="96236" source_length="3274" />
+</document>
+

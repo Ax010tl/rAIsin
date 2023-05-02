@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04012.txt">
+  <feature name="about" authors="Trollope, Anthony" title="La Mere Bauche" lang="en" />
+  <feature name="md5Hash" value="37f8619c75327edd317018ecb4021f03" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8652" this_length="3207" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16785" this_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24125" this_length="1467" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28314" this_length="670" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29843" this_length="247" />
+</document>
+
