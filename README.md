@@ -20,6 +20,10 @@ This process is done for both literal and PoS n-grams.
 
 ## Word Vectors
 Word vectors are a numerical representation of a word's meaning. To get a vector for a document, we average the vectors of all the words in the document. We then compare the vectors of the documents to each other using cosine similarity. The lower the cosine similarity, the more differences identified within the text.
+See also:
+1. https://nlp.stanford.edu/pubs/glove.pdf
+2. https://github.com/RaRe-Technologies/gensim-data
+3. https://medium.com/@akankshagupta371/understanding-text-summarization-using-k-means-clustering-6487d5d37255
 
 In order to make comparisons easier and more efficient, vectors generated for each document and its sentences are stored in a `raisin_vectors.json` file. To generate this file, place all the target documents in a directory. Then call
 ```
