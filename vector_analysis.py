@@ -9,33 +9,44 @@ import os
 import sys
 import json
 
-model = api.load("glove-wiki-gigaword-100")# train a model from the corpus
+# Use the pre-trained model for word2vec
+model = api.load("glove-wiki-gigaword-100")
 
+"""
+Get the vector of a text blob
+The vector for each lemmatized word is calculated and then averaged
+"""
 def vector_from_text(text_blob):
+    # Store the vector of n dimensions
     vectors = np.zeros(100)
     for word in text_blob.words:
         try:
             # Lemmatize the word
             w = Word(word).lemma
-            # Check if the word is not a stop word
-            if w in STOPWORDS:
-                continue
-            # If word not in model
-            if w not in model:
+            # Check if stopword or not in model
+            if w in STOPWORDS or w not in model:
                 continue
             # Add the vector
             vectors += model.get_vector(w)
-            print(w)
         except:
             pass
     # Return the average vector
     return vectors / len(text_blob.words)
 
-
+"""
+The cosine similarity between two vectors measures the similarity between 
+two non-zero vectors defined in an inner product space.
+It is obtained by dividing the dot product of the two vectors by the product
+"""
 def vector_similarity_cosine(vec1, vec2):
     return np.dot(vec1, vec2)/(norm(vec1)*norm(vec2))
 
+"""
+Analyze a document and return the vector of the document and the vectors of
+each sentence
+"""
 def vector_analyze(document_blob):
+    # Store the result
     result = {
         "vector": None, 
         "sentences": []
@@ -56,20 +67,22 @@ def vector_analyze(document_blob):
     # Return the result
     return result
 
+"""
+Analyze a directory of documents and store the result as a json file
+"""
 def vector_train_directory(directory_path):
-    # Store
+    # Store all the documents
     documents = []
-    # Get all files in the directory
-    files = os.listdir(directory_path)
-    # Iterate over the files
-    for file_name in files:
+    # Iterate over all the files in a directory
+    for file_name in os.listdir(directory_path):
         # Ignore non-text files
         if not file_name.endswith(".txt"):
             continue
-        # Get the file path
+        # Get the complete file path
         file_path = os.path.join(directory_path, file_name)
         # Read the file
         with open(file_path, "r") as f:
+            # Get the document blob
             document = f.read()
             blob = TextBlob(document)
             # Analyze the document
@@ -83,7 +96,11 @@ def vector_train_directory(directory_path):
     # Return the documents
     return documents
 
-
+"""
+This is the main function that is called when the script is run
+It reads the directory path from the command line arguments and calls the
+vector_train_directory function to store the results in a json file
+"""
 def main():
     try:
         # Read file name from command line arguments

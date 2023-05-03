@@ -6,15 +6,20 @@ Plagiarism detection using n-grams and word2vec
 python3 main.py name_of_file raisin_vectors_file
 ```
 
-# N-Grams
-N-grams are a contiguous sequence of n items from a given sample of text. We are using n-grams to detect variations of style within a given text. We analyze literal n-gram frequencies and PoS n-gram frequencies.
-The returned result shows the average n-gram frequency of the text. The lower the frequency, the more differences identified within the text.
+# Processing
+Before training, processing is done to obtain variables that are then fed into the model. This involve metrics for both intrinsic and extrinsic analysis.
 
-See also: https://ceur-ws.org/Vol-502/paper8.pdf
+## N-Grams
+N-grams are a contiguous sequence of n items from a given sample of the text. They can be used to detect variations of style within a given text. We analyze literal n-gram frequencies and PoS n-gram frequencies.
+Using the formula from [this paper](https://ceur-ws.org/Vol-502/paper8.pdf), we obtain the average n-gram frequency of the text. The lower the frequency, the more differences identified within the text.
+$$
+nd_1(A, B) = \frac{ \sum_{g\in P(A)} \left( \frac{2(f_A(g) -f_B(g))}{f_A(g) + f_B(g)} \right)^2 }{ 4|P(A)| }
+$$
 
-# Word Vectors
-Word vectors are a numerical representation of a word's meaning. We are using word vectors to detect variations of meaning within a given text. We use existing GloVe word vectors to analyze the text and return the average cosine similarity between words in the text. The lower the cosine similarity, the more differences identified within the text.
+This process is done for both literal and PoS n-grams.
 
+## Word Vectors
+Word vectors are a numerical representation of a word's meaning. To get a vector for a document, we average the vectors of all the words in the document. We then compare the vectors of the documents to each other using cosine similarity. The lower the cosine similarity, the more differences identified within the text.
 See also:
 1. https://nlp.stanford.edu/pubs/glove.pdf
 2. https://github.com/RaRe-Technologies/gensim-data
@@ -24,6 +29,10 @@ In order to make comparisons easier and more efficient, vectors generated for ea
 ```
 python3 vector_analysis.py name_of_directory
 ```
+
+### Results
+Resullts are stored in csv files with the columns:
+
 
 <details><summary>Dataset</summary>
 
