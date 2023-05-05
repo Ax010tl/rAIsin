@@ -2,37 +2,88 @@
 Plagiarism detection using n-grams and word2vec
 
 # Usage
+
+## Analyzing existing data
+To analyze existing data and save the results as a `raisin_vectors.csv` and `raisin_stylometry.csv` file, place all the target documents in a directory. Then call
 ```
-python3 main.py name_of_file raisin_vectors_file
+python3 analyze_directory.py name_of_directory
+```
+These files will be used when comparing new documents to the existing data.
+
+## Comparing a file
+To compare a file with the results in `raisin_vectors.csv` and `raisin_stylometry.csv`, call
+```
+python3 compare_file.py name_of_file path_to_raisin_vectors path_to_raisin_stylometry
 ```
 
-# Processing
-Before training, processing is done to obtain variables that are then fed into the model. This involve metrics for both intrinsic and extrinsic analysis.
+## Comparing a directory
+To compare a directory with the results in `raisin_vectors.csv` and `raisin_stylometry.csv`, call
+```
+python3 compare_directory.py name_of_directory path_to_raisin_vectors path_to_raisin_stylometry
+```
 
-## N-Grams
+This is used to compare a directory of files to the existing data. The results are stored in a `raisin_results.csv` file. These file is used to train the model.
+
+## Training the model
+This program receives two `raisin_results.csv` files, one with the results of the clean texts and one with the results of the plagiarized texts. It then trains a model using these results.
+```
+python3 train_model.py path_to_clean_raisin_results path_to_plag_raisin_results
+```
+
+The model is saved as `raisin_model.h5`.
+
+## Making predictions
+Finally, the model can be used to predict if a text is plagiarized or not. To do this, call
+```
+python3 predict.py path_to_file path_to_model path_to_raisin_vectors path_to_raisin_stylometry
+```
+
+# Analysis
+Data is analyzed from each document into quantitative variables. These can be divided into two categories: intrinsic and extrinsic.
+
+## Intrinsic
+Intrinsic variables are those that are obtained from the text itself. Stylometry is a branch of linguistics that studies the characteristics of a text. Variations in these characteristics can be used to identify sections of a text that are not written by the same author. When analyzing a directory, results are saved in the `raisin_stylometry.csv` file. The following variables are used for intrinsic analysis:
+
+### N-Grams
 N-grams are a contiguous sequence of n items from a given sample of the text. They can be used to detect variations of style within a given text. We analyze literal n-gram frequencies and PoS n-gram frequencies.
 Using the formula from [this paper](https://ceur-ws.org/Vol-502/paper8.pdf), we obtain the average n-gram frequency of the text. The lower the frequency, the more differences identified within the text.
 $$
 nd_1(A, B) = \frac{ \sum_{g\in P(A)} \left( \frac{2(f_A(g) -f_B(g))}{f_A(g) + f_B(g)} \right)^2 }{ 4|P(A)| }
 $$
 
-This process is done for both literal and PoS n-grams.
+### Sentence length
+Sentence length is also a stylistic feature that can be used to identify differences in a text. Both the _average_ and _normalized standard deviation_ of the sentence length are used. The higher the standard deviation, the more differences identified within the text.
 
-## Word Vectors
-Word vectors are a numerical representation of a word's meaning. To get a vector for a document, we average the vectors of all the words in the document. We then compare the vectors of the documents to each other using cosine similarity. The lower the cosine similarity, the more differences identified within the text.
+### Word length
+Word length is also a stylistic feature that can be used to identify differences in a text. Both the _average_ and _normalized standard deviation_ of the word length are used. The higher the standard deviation, the more differences identified within the text.
+
+### Syllables per word
+Syllables per word is also a stylistic feature that can be used to identify differences in a text. (*) Both the _average_ and _normalized standard deviation_ of the syllables per word are used. The higher the standard deviation, the more differences identified within the text.
+> (*) This feature might not be as relevant as the others, considering it is not strictly a stylistic feature, but rather a feature of the language itself. Especially in scientific texts.
+
+### Flesh-Kincaid Reading Ease Score
+The [Flesch-Kincaid Reading Ease Score](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) is a measure of how easy it is to read a text. The higher the score, the easier it is to read. The lower the score, the more difficult it is to read. This is a stylistic feature that can be used to identify differences in a text.
+
+This feature is evaluated at the sentence level, and both the _average_ and _normalized standard deviation_ are used. The higher the standard deviation, the more differences identified within the text.
+
+### Gunning Fog Index
+The [Gunning Fog Index](https://en.wikipedia.org/wiki/Gunning_fog_index) is another measure of how easy it is to read a text. It is also a stylistic feature that can be used to identify differences in a text. 
+
+This feature is evaluated at the sentence level, and both the _average_ and _normalized standard deviation_ are used. The higher the standard deviation, the more differences identified within the text.
+
+
+## Extrinsic
+Extrinsic variables are those that are obtained by comparing the text to other texts. When analyzing a directory, the results are stored in a `raisin_vectors.csv` file. The following variables are used for extrinsic analysis:
+
+### Vector similarity
+Word vectors are a numerical representation of a word's meaning. Sentences can be represented as the average of the word vectors of the words in the sentence. The vector for each sentence when analyzing a directory is saved in the `raisin_vectors.csv` file.
+
+When performing comparisons, each sentence in the analyzed file is compared to each sentence in the `raisin_vectors.csv` file. The highest values per sentence are used. Then, both the maximum and the average of these values are used.
+
 See also:
 1. https://nlp.stanford.edu/pubs/glove.pdf
 2. https://github.com/RaRe-Technologies/gensim-data
 3. https://medium.com/@akankshagupta371/understanding-text-summarization-using-k-means-clustering-6487d5d37255
-
-In order to make comparisons easier and more efficient, vectors generated for each document and its sentences are stored in a `raisin_vectors.json` file. To generate this file, place all the target documents in a directory. Then call
-```
-python3 vector_analysis.py name_of_directory
-```
-
-### Results
-Resullts are stored in csv files with the columns:
-
 
 <details><summary>Dataset</summary>
 
