@@ -80,6 +80,10 @@ Word vectors are a numerical representation of a word's meaning. Sentences can b
 
 When performing comparisons, each sentence in the analyzed file is compared to each sentence in the `raisin_vectors.csv` file. The highest values per sentence are used. Then, both the maximum and the average of these values are used.
 
+See also:
+1. https://nlp.stanford.edu/pubs/glove.pdf
+2. https://github.com/RaRe-Technologies/gensim-data
+3. https://medium.com/@akankshagupta371/understanding-text-summarization-using-k-means-clustering-6487d5d37255
 
 <details><summary>Dataset</summary>
 
