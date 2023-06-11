@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import sys
 from compare_file import compare_file
+import argparse
 
 def analyze_directory(directory, raisin_vectors_df, raisin_stylometry_df):
     # Store results
@@ -24,22 +25,19 @@ def analyze_directory(directory, raisin_vectors_df, raisin_stylometry_df):
     # Return results
     return results
 
-def main():
-    print("HIIIII")
-    # Get directory path, raisin vectors and stylometry data from command line arguments
-    if len(sys.argv) > 3:
-        directory = sys.argv[1]
-        raisin_vectors_path = sys.argv[2]
-        raisin_stylometry_path = sys.argv[3]
-    else:
-        raise Exception("Please provide directory path, raisin vectors path and raisin stylometry path as command line arguments")
-    # Read raisin vectors and stylometry data
-    raisin_vectors_df = pd.read_csv(raisin_vectors_path)
-    raisin_stylometry_df = pd.read_csv(raisin_stylometry_path)
+if __name__ == "__main__":
+    # Get the arguments
+    parser = argparse.ArgumentParser(description="Analyze a directory of text files. Produces a csv file with the results of the analysis")
+    parser.add_argument("directory", help="Directory path")
+    parser.add_argument("raisin_vectors_path", help="Path to the csv file containing the raisin sentence vectors")
+    parser.add_argument("raisin_stylometry_path", help="Path to the csv file containing the raisin stylometry data")
+    parser.add_argument("raisin_word_frequency_path", help="Path to the csv file containing the raisin word frequency data")
+    args = parser.parse_args()
+    # Read csv files
+    raisin_vectors_df = pd.read_csv(args.raisin_vectors_path)
+    raisin_stylometry_df = pd.read_csv(args.raisin_stylometry_path)
+    raisin_word_frequency_df = pd.read_csv(args.raisin_word_frequency_path)
     # Analyze directory
-    analyze_directory(directory, raisin_vectors_df, raisin_stylometry_df)
+    analyze_directory(args.directory, raisin_vectors_df, raisin_stylometry_df, raisin_word_frequency_df)
     # Print success message
     print("Success")
-
-if __name__ == "__main__":
-    main()
