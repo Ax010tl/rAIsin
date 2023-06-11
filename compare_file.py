@@ -21,7 +21,7 @@ def compare_row_sentence(raisin_vectors_df, sentence_vector, sentence_vector_sim
     # Append to sentence vector similarities
     sentence_vector_similarities.append(cosine_similarity_max)
 
-def compare_file(file_path, raisin_vectors_df, raisin_stylometry_df):
+def compare_file(file_path, raisin_vectors_df, raisin_stylometry_df, raisin_):
     # Read file
     with open(file_path, "r") as f:
         text = f.read()
