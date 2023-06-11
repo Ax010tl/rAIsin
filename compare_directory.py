@@ -4,7 +4,7 @@ import sys
 from compare_file import compare_file
 import argparse
 
-def analyze_directory(directory, raisin_vectors_df, raisin_stylometry_df):
+def analyze_directory(directory, raisin_vectors_df, raisin_stylometry_df, raisin_word_frequency_df):
     # Store results
     results = []
     # Iterate over all files
@@ -15,7 +15,7 @@ def analyze_directory(directory, raisin_vectors_df, raisin_stylometry_df):
         # Get file path
         file_path = os.path.join(directory, file_name)
         # Analyze file
-        result = compare_file(file_path, raisin_vectors_df, raisin_stylometry_df)
+        result = compare_file(file_path, raisin_vectors_df, raisin_stylometry_df, raisin_word_frequency_df)
         # Store result
         results.append(result)
         print(f"\x1b[2m{i} - File {file_name} processed\x1b[0m")
