@@ -4,11 +4,13 @@ Plagiarism detection using n-grams and word2vec
 # Usage
 
 ## Analyzing existing data
-To analyze existing data and save the results as a `raisin_vectors.csv` and `raisin_stylometry.csv` file, place all the target documents in a directory. Then call
+To analyze existing data and save the results as a `raisin_vectors.csv`, `raisin_stylometry.csv` and `raisin_word_frequency.csv` files, place all the target documents in a directory. Then call
 ```
-python3 analyze_directory.py name_of_directory
+python3 analyze_directory.py name_of_directory [action]
 ```
-These files will be used when comparing new documents to the existing data.
+Where action can be `glove_vectors`, `stylometry`, `word_frequency` or `all`. If no action is specified, `all` is used.
+
+The resulting files will be used when comparing new documents to the existing data.
 
 ## Comparing a file
 To compare a file with the results in `raisin_vectors.csv` and `raisin_stylometry.csv`, call

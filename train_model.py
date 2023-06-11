@@ -43,13 +43,13 @@ model.add(Dense(32, activation='sigmoid'))
 model.add(Dense(1, activation='sigmoid'))
 
 # Compile model
-model.compile(loss='binary_crossentropy', optimizer=Adam(lr=0.0035), metrics=['accuracy'])
+model.compile(loss='binary_crossentropy', optimizer=Adam(lr=0.0003), metrics=['accuracy'])
 
 def train_raisin_model(data):
     # Split data into training and testing sets
     X_train, X_test, y_train, y_test = train_test_split(data[columns], data['result'], test_size=0.2)
     # Train model
-    model.fit(X_train, y_train, epochs=5_000, batch_size=32, validation_data=(X_test, y_test))
+    model.fit(X_train, y_train, epochs=8_000, batch_size=32, validation_data=(X_test, y_test))
     # Evaluate model
     accuracy = model.evaluate(X_test, y_test)[1]
     print("Accuracy: {}".format(accuracy))
